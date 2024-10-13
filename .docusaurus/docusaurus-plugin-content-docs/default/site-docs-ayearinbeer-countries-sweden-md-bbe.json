@@ -1,0 +1,24 @@
+{
+  "unversionedId": "ayearinbeer/Countries/sweden",
+  "id": "ayearinbeer/Countries/sweden",
+  "title": "Sweden",
+  "description": "Welcome to the Bryggeri Expressen",
+  "source": "@site/docs/ayearinbeer/Countries/sweden.md",
+  "sourceDirName": "ayearinbeer/Countries",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/ayearinbeer/Countries/sweden.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "hide_title": true,
+    "title": "Sweden"
+  },
+  "sidebar": "beSidebar",
+  "previous": {
+    "title": "England - January",
+    "permalink": "/ayearinbeer/Countries/England/January"
+  }
+}

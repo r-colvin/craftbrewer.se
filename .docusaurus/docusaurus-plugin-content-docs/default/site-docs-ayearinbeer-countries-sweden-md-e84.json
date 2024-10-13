@@ -1,0 +1,24 @@
+{
+  "unversionedId": "ayearinbeer/countries/sweden",
+  "id": "ayearinbeer/countries/sweden",
+  "title": "Sweden",
+  "description": "Welcome to the Bryggeri Expressen",
+  "source": "@site/docs/ayearinbeer/countries/sweden.md",
+  "sourceDirName": "ayearinbeer/countries",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/ayearinbeer/countries/sweden.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "hide_title": true,
+    "title": "Sweden"
+  },
+  "sidebar": "beSidebar",
+  "previous": {
+    "title": "England",
+    "permalink": "/"
+  }
+}

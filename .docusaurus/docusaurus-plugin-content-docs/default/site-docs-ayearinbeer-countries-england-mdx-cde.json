@@ -1,0 +1,24 @@
+{
+  "unversionedId": "ayearinbeer/Countries/england",
+  "id": "ayearinbeer/Countries/england",
+  "title": "england",
+  "description": "January",
+  "source": "@site/docs/ayearinbeer/Countries/england.mdx",
+  "sourceDirName": "ayearinbeer/Countries",
+  "slug": "/ayearinbeer/Countries/england",
+  "permalink": "/ayearinbeer/Countries/england",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/ayearinbeer/Countries/england.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "beSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Sweden",
+    "permalink": "/"
+  }
+}

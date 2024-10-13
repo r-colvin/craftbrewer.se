@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Homebrewing/Equipment/equipment-intro",
+  "id": "Homebrewing/Equipment/equipment-intro",
+  "title": "Equipment",
+  "description": "Under Development!",
+  "source": "@site/docs/Homebrewing/Equipment/equipment-intro.md",
+  "sourceDirName": "Homebrewing/Equipment",
+  "slug": "/Homebrewing/Equipment/equipment-intro",
+  "permalink": "/Homebrewing/Equipment/equipment-intro",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/Homebrewing/Equipment/equipment-intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": false,
+    "title": "Equipment"
+  },
+  "sidebar": "beSidebar",
+  "previous": {
+    "title": "Homebrewing",
+    "permalink": "/category/homebrewing"
+  },
+  "next": {
+    "title": "A Year in Beer",
+    "permalink": "/category/a-year-in-beer"
+  }
+}

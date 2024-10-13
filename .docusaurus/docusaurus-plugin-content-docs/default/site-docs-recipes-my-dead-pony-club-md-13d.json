@@ -1,0 +1,24 @@
+{
+  "unversionedId": "recipes/my_dead_pony_club",
+  "id": "recipes/my_dead_pony_club",
+  "title": "My Little Dead Pony Club",
+  "description": "My Little Dead Pony Club - 4.2%",
+  "source": "@site/docs/recipes/my_dead_pony_club.md",
+  "sourceDirName": "recipes",
+  "slug": "/recipes/my_dead_pony_club",
+  "permalink": "/recipes/my_dead_pony_club",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/recipes/my_dead_pony_club.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_table_of_contents": true,
+    "hide_title": true,
+    "title": "My Little Dead Pony Club"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/"
+  }
+}

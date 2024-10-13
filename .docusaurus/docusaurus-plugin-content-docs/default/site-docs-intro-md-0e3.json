@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to the Bryggeri Expressen",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "hide_title": true,
+    "title": "Introduction"
+  },
+  "sidebar": "beSidebar",
+  "next": {
+    "title": "Homebrewing",
+    "permalink": "/category/homebrewing"
+  }
+}

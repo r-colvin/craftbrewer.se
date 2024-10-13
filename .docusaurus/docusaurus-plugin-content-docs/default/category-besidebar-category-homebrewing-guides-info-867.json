@@ -1,0 +1,16 @@
+{
+  "title": "Homebrewing Guides & Info",
+  "description": "What I've Learnd and Know About Homebrewing...",
+  "slug": "/category/homebrewing",
+  "permalink": "/category/homebrewing",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "Equipment",
+      "permalink": "/Homebrewing/Equipment/equipment-intro"
+    }
+  }
+}

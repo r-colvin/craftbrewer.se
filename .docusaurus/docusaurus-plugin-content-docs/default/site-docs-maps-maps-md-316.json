@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Maps/maps",
+  "id": "Maps/maps",
+  "title": "maps",
+  "description": "Where to find good beer",
+  "source": "@site/docs/Maps/maps.md",
+  "sourceDirName": "Maps",
+  "slug": "/Maps/",
+  "permalink": "/Maps/",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/Maps/maps.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "beSidebar",
+  "previous": {
+    "title": "Maps",
+    "permalink": "/category/maps"
+  },
+  "next": {
+    "title": "Reference Library",
+    "permalink": "/category/reference-library"
+  }
+}

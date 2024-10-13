@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ayearinbeer/Countries/Sweden/January",
+  "id": "ayearinbeer/Countries/Sweden/January",
+  "title": "Sweden - January",
+  "description": "Spontaneous",
+  "source": "@site/docs/ayearinbeer/Countries/Sweden/January.md",
+  "sourceDirName": "ayearinbeer/Countries/Sweden",
+  "slug": "/ayearinbeer/Countries/Sweden/January",
+  "permalink": "/ayearinbeer/Countries/Sweden/January",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/ayearinbeer/Countries/Sweden/January.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Sweden - January",
+    "title": "Sweden - January"
+  },
+  "sidebar": "beSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/"
+  }
+}

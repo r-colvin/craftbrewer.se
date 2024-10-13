@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ayearinbeer/Countries/England/January",
+  "id": "ayearinbeer/Countries/England/January",
+  "title": "England - January",
+  "description": "Geuze",
+  "source": "@site/docs/ayearinbeer/Countries/England/January.md",
+  "sourceDirName": "ayearinbeer/Countries/England",
+  "slug": "/ayearinbeer/Countries/England/January",
+  "permalink": "/ayearinbeer/Countries/England/January",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/ayearinbeer/Countries/England/January.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "England - January",
+    "title": "England - January"
+  },
+  "sidebar": "beSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Sweden",
+    "permalink": "/"
+  }
+}

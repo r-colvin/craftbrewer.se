@@ -1,0 +1,27 @@
+{
+  "unversionedId": "ayearinbeer/Countries/England/england",
+  "id": "ayearinbeer/Countries/England/england",
+  "title": "England - January",
+  "description": "",
+  "source": "@site/docs/ayearinbeer/Countries/England/england.md",
+  "sourceDirName": "ayearinbeer/Countries/England",
+  "slug": "/ayearinbeer/Countries/England/",
+  "permalink": "/ayearinbeer/Countries/England/",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/ayearinbeer/Countries/England/england.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "England - January",
+    "title": "England - January"
+  },
+  "sidebar": "beSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Sweden",
+    "permalink": "/"
+  }
+}

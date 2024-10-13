@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ayearinbeer/countries/england",
+  "id": "ayearinbeer/countries/england",
+  "title": "England",
+  "description": "Welcome to the Bryggeri Expressen",
+  "source": "@site/docs/ayearinbeer/countries/england.md",
+  "sourceDirName": "ayearinbeer/countries",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "editUrl": "https://github.com/r-colvin/bryggeriexpressen.se/docs/ayearinbeer/countries/england.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "slug": "/",
+    "hide_title": true,
+    "title": "England"
+  },
+  "sidebar": "beSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Sweden",
+    "permalink": "/"
+  }
+}
