@@ -60,7 +60,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/r-colvin/bryggeriexpressen.ser',
+            href: 'https://github.com/r-colvin/bryggeriexpressen.se',
             label: 'GitHub',
             position: 'right',
           },
