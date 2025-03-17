@@ -8,12 +8,12 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bryggeri Expressen',
+  title: 'CraftBrewer',
   tagline: '... all aboard the brewery express',
   favicon: 'https://web.brewfather.app/svg/beer.svg',
 
   // Set the production url of your site here
-  url: 'https://bryggeriexpressen.se',
+  url: 'https://craftbrewer.se',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -40,7 +40,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/r-colvin/bryggeriexpressen.se',
+            'https://github.com/r-colvin/craftbrewer.se',
         },
         blog: false,
         theme: {
@@ -55,14 +55,14 @@ const config = {
     ({
       // Replace with your project's social card
       navbar: {
-        title: 'Bryggeri Expressen',
+        title: 'CraftBrewer',
         logo: {
-          alt: 'Bryggeri Expressen-Logo',
+          alt: 'CraftBrewer-Logo',
           src: 'https://web.brewfather.app/svg/beer.svg',
         },
         items: [
           {
-            href: 'https://github.com/r-colvin/bryggeriexpressen.se',
+            href: 'https://github.com/r-colvin/craftbrewer.se',
             label: 'GitHub',
             position: 'right',
           },
