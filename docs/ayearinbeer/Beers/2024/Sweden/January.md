@@ -1,6 +1,7 @@
 ---
 sidebar_label: January
 title: January
+unlisted: true
 ---
 ### Spontaneous
 - Cascade Brewing - *Noyaux*

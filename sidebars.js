@@ -16,7 +16,7 @@ const sidebars = {
   // By default, Docusaurus generates a sidebar from the docs folder structure
   beSidebar: [
     'intro',
-    {
+    /*{
       type: 'category',
       label: 'Homebrewing',
       link: {
@@ -111,7 +111,7 @@ const sidebars = {
           dirName: 'Reference Library',
         },
       ],
-    },
+    },*/
   ],
 
   // But you can create a sidebar manually
