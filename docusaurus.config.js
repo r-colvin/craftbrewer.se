@@ -58,7 +58,8 @@ const config = {
         title: 'CraftBrewer',
         logo: {
           alt: 'CraftBrewer-Logo',
-          src: 'https://web.brewfather.app/svg/beer.svg',
+          /*src: 'https://web.brewfather.app/svg/beer.svg',*/
+          src: 'https://github.com/user-attachments/assets/f8a7efd1-2721-49a4-af63-6b8c65eaf705',
         },
         items: [
           {
