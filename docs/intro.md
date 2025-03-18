@@ -13,3 +13,5 @@ title: Introduction
 craftbrewer.se is the home for all my homebrewing adventures.
 
 You are probably asking *do we really need yet another homebrewing resource? hasn't it all be covered in countless books, web pages and YouTube videos already?* ... probably!
+
+making a change to see if i can squash commits in a branch before merging
