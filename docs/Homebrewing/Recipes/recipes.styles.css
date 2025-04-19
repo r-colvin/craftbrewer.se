@@ -1,0 +1,84 @@
+.bf-recipe-viewer {
+  /*border: 1px solid white;*/
+}
+
+.bf-recipe-viewer .container {
+  margin: 0;
+  padding: 0;
+}
+
+.bf-recipe-viewer .row {
+  margin: 0;
+  padding: 0;
+}
+
+.bf-recipe-viewer [class^='col'] {
+  /*border: 1px solid blue;*/
+  padding: 0;
+}
+
+.bf-recipe-viewer .title-name {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-weight: bold;
+  font-size: large;
+}
+
+.bf-recipe-viewer .text-key {
+  padding-left: 1rem;
+  font-weight: bold;
+}
+
+.bf-recipe-viewer .equipment-title {
+  background-color:rgb(77, 77, 75);
+  margin-left: 4%;
+  width: 96%;
+}
+
+.bf-recipe-viewer .overview-title {
+  background-color:rgb(77, 77, 75);
+  margin-left: 4%;
+  width: 96%;
+}
+
+.fermentables-summary {
+  width: 100%;
+  text-align: right;
+}
+
+.hops-summary {
+  width: 100%;
+  text-align: right;
+}
+
+.align-right {
+  width: 100%;
+  text-align: right;
+}
+
+.brew-image {
+  width: 90%;
+  /*margin-left: 5%;*/
+  height: 95%;
+  margin-top: 5%;
+  border-radius: 4px;
+  background-image: url('https://web.brewfather.app/svg/md-pint.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color:rgb(207,105,0);
+}
+
+
+.bf-recipe-viewer .ferm-hops {
+  padding-top: 1rem;
+}
+
+.bf-recipe-viewer .fermentables-title {
+  background-color:rgb(77, 77, 75);
+  width: 96%;
+}
+
+.bf-recipe-viewer .hops-title {
+  background-color:rgb(77, 77, 75);
+  width: 100%;
+}
