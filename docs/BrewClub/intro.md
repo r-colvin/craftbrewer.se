@@ -50,7 +50,7 @@ Fresh Wort Kits come in a variety of styles, so together we will decide what to 
 
 Given how simple they are, BrewClub #1 and BrewClub #2 are interchangeable and repeatable. If you stopped here, you would still have the ability and equipment to make some great beers and ciders, just the way you like them. 
 
-3. **BrewClub #3** is where we make a giant leap forward! We're now going to do a "mini mash" or "partial mash" using Dry Malt Extract. Instead of buying a ready made wort kit, this will be the first chance to make your own. We will take some Dry Malt Extract, some specialty grains and hops. We will do a partial mash, a boil with hop additions and wort cooling. In this you will learn a lot of the foundations of brewing, whilst still taking small steps in complexity! But don't worry, many an award winning beer has been brewed this way. In fact James from Verdant who are world renowned for their hazy New England style beers started with this is exact method. Extract and Partial Mash brews give you a lot more flexibility and ability to fine tune the process, but in terms of complexity is no harder than making a cup of tea. In this brew you will need a few new pieces of equipment, like a pot, sieve etc - but you likely own these already. If you only have a small pot, you don't need to buy a new one, instead you will learn how to do partial boils instead! 
+3. **BrewClub #3** is where we make a giant leap forward! We're now going to do a "mini mash" or "partial mash" using Dry Malt Extract. Instead of buying a ready made wort kit, this will be the first chance to make your own. We will take some Dry Malt Extract, some specialty grains and hops. We will do a partial mash, a boil with hop additions and wort cooling. In this you will learn a lot of the foundations of brewing, whilst still taking small steps in complexity! But don't worry, many an award winning beer has been brewed this way. In fact James from Verdant who are world renowned for their hazy New England style beers started with this is exact method (https://youtu.be/tTVffJ58m8M?t=309). Extract and Partial Mash brews give you a lot more flexibility and ability to fine tune the process, but in terms of complexity is no harder than making a cup of tea. In this brew you will need a few new pieces of equipment, like a pot, sieve etc - but you likely own these already. If you only have a small pot, you don't need to buy a new one, instead you will learn how to do partial boils instead! 
 
 4. **BrewClub #4** is the final step (for now!) where we go the whole way and do an all-grain brew! no short cuts, no pre-prepared wort, nothing! Everything will be done by your own hands, and if you have come this far, this will be a walk in the park, but the results will blow your mind! And guess what? no extra equiment required again! You have made it this far, with all the brews you made, with just a bucket, airlock, keg and picnic tap!
 
@@ -95,3 +95,9 @@ Equipment → buy more kegs to keep the fermenter going ; cheap scaling
 Split this page out to multiple; it's far too long
 read and re-word; far too much repetition
 look into the flow of information - is all this needed now? is it better to introduce information little-by-little?
+
+
+Notes: 
+- P-Daily
+    - 2024-12-25
+    - 2025-04-20
