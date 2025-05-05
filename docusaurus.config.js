@@ -41,6 +41,9 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/r-colvin/craftbrewer.se',
+          remarkPlugins: [
+            [ require('@renatonagliati/remark-auto-glossary').default, { yamlFile: 'glossary.yaml' } ],
+          ],
         },
         blog: false,
         theme: {
