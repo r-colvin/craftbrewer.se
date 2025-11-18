@@ -1,0 +1,115 @@
+Total Beers,=SUM(F5:F115),Total Unique Items,=COUNTA(A5:A115),,,,,,
+Total Unique Filtered Items,=SUBTOTAL(103; A5:A115),Random Row #,=RANDBETWEEN(5;(D1+4)),,,,,,
+Random Beer,=IF( AND(SUBTOTAL(103;INDIRECT("A" & D2))=1; EXACT(INDIRECT("G" & D2);"FALSE")); INDIRECT("A" & D2) & " - " & INDIRECT("B" & D2) & " (Row " & D2 & ")"; "Beer (" & INDIRECT("A" & D2) & " - " & INDIRECT("B" & D2) & " (Row " & D2 & ")" & ") Marked as Excluded - Recalculate" ),,,,,Recalculate,TRUE,,
+Brewery,Beer,Style,ABV,Added Date,Qty.,Exclude,Votes,Style Guide,Notes
+Allagash Brewing Company,"Once Upon An Orchard: Cherries, Plums, And Raspberries",Wild Ale - American,7.2,2025-04-11 15:18:34,1,FALSE,,,
+Allagash Brewing Company,Allagash White,Wheat Beer - Witbier / Blanche,5.2,2025-04-17 13:27:10,3,FALSE,,,
+Amundsen Brewery,Dessert In A Can - Neapolitan Ice Cream,Stout - Imperial / Double Pastry,10.5,2024-10-19 9:26:15,1,FALSE,,,
+Amundsen Brewery,Barrel Aged Sticky Little Fingers,Stout - Imperial / Double Pastry,13,2024-12-05 18:28:14,1,FALSE,,,
+Ängöl,Bärs,Kellerbier / Zwickelbier,5.9,2025-02-19 15:58:01,1,FALSE,,,
+Anspach & Hobday,London Black,Porter - English,4.4,2025-04-11 15:20:16,1,FALSE,,,
+Augustiner-Bräu München,Lagerbier Hell,Lager - Helles,5.2,2025-05-17 12:42:44,1,TRUE,,BJCP: 4A. Munich Helles,Beer expert blind tests classic Munich Helles (12:15)
+Basqueland Brewing,Boyicao,Stout - Imperial / Double Pastry,12.5,2024-09-08 13:05:11,1,FALSE,,,
+Bayerische Staatsbrauerei Weihenstephan,Weihenstephaner Helles,Lager - Helles,4.8,2025-05-17 12:43:09,1,TRUE,,,Beer expert blind tests classic Munich Helles (BONUS)
+Bayerische Staatsbrauerei Weihenstephan,Weihenstephaner Hefeweissbier,Wheat Beer - Hefeweizen,5.4,2025-05-17 12:43:44,1,FALSE,,,
+Bayreuther Bierbrauerei,Bayreuther Hell,Lager - Helles,4.9,2025-05-17 12:44:37,1,FALSE,,,Beer expert blind tests classic Munich Helles (BONUS)
+Beerium,Bambelino,Lager - Smoked,5.5,2024-10-19 8:52:59,1,FALSE,,,
+Berliner-Kindl-Schultheiss-Brauerei,Berliner Kindl Jubiläums Pilsener,Pilsner - German,5.1,2025-05-17 12:44:27,1,TRUE,,,Beer expert blind tests classic Munich Helles (BONUS)
+Bières de Chimay,Chimay 150 (Green),Belgian Strong Golden Ale,10,2025-04-08 18:12:06,1,FALSE,,,
+Birrificio Italiano,Tipopils,Pilsner - Italian,5.2,2025-04-08 17:37:37,1,FALSE,,,
+Bottenvikens,Oberoende glödkolsmäskad Lager,Lager - Smoked,5.2,2024-10-19 8:52:45,1,FALSE,,,
+Brasserie Dupont,Saison Dupont Dry Hop,Farmhouse Ale - Saison,6.5,2025-05-07 15:57:20,2,FALSE,,,
+Brauerei Knoblach Schammelsdorf,Schammelsdorfer Rauchsüdla,Rauchbier,5.1,2025-04-08 17:38:50,1,FALSE,,,
+Brekeriet,Tau,Sour - Other,7.7,2024-12-20 20:04:30,1,FALSE,,,
+Brekeriet,Blomster,Wild Ale - Other,5.8,2024-12-21 12:58:20,1,FALSE,,,
+Brekeriet,Theta,Wild Ale - Other,5.6,2025-04-17 13:27:26,1,FALSE,,,
+Brekeriet,Sølaris,Grape Ale - Other,8,2025-05-07 16:02:02,2,TRUE,,,"750mL bottle; saving one to age, and both to share"
+Brekeriet,Adieu,Wild Ale - Other,8,2025-05-07 16:02:23,2,TRUE,,,Saving Long Term
+Brekeriet,Outah This World,IPA - Sour,7.5,2025-05-19 19:42:35,3,FALSE,,,Plan to save a couple; one to drink now so not excluded (yet!)
+Brewski,Brewski 2014 - 10 Years of Brewski,Sour - Fruited Berliner Weisse,6,2024-09-08 13:06:29,1,FALSE,,,
+Broughton Ales ,Old Jock Champion Double Ale,Scottish Export Ale,5.6,2025-04-30 12:57:41,1,FALSE,,,
+Brouwerij 't Verzet,Oud Bruin,Sour - Flanders Oud Bruin,6,2025-02-19 16:09:55,1,FALSE,,,
+Brouwerij 3 Fonteinen,3 Fonteinen Oude Kriek Intens Rood (season 20|21) Blend No. 78,Lambic - Kriek,6.8,2024-05-18 12:47:08,1,FALSE,,,
+Brouwerij 3 Fonteinen,Oude Geuze,Lambic - Gueuze,6,2024-09-08 14:08:33,2,FALSE,,,
+Brouwerij De Halve Maan,Straffe Hendrik Heritage (2020),Belgian Quadrupel,11,2025-04-11 15:22:02,1,TRUE,,,750mL saved to share
+Brouwerij der Trappisten van Westmalle,Westmalle Trappist Tripel,Belgian Tripel,9.5,2025-04-08 17:53:02,1,FALSE,,,
+Brouwerij St.Bernardus,Abt 12,Belgian Quadrupel,10,2024-12-06 17:42:51,1,FALSE,,,
+Brouwerij St.Bernardus,Abt 12 (2024),Belgian Quadrupel,10,2025-04-08 17:49:57,1,TRUE,,,Full Metal Bernard: 1.5 Liter bottle; saved to share
+Brouwerij St.Bernardus,Wit,Wheat Beer - Witbier / Blanche,5.5,2025-04-08 18:10:56,2,FALSE,,,
+Brouwerij St.Bernardus,Kombine 2025,Lager - Helles,6,2025-05-07 15:56:47,1,FALSE,,,
+Brygghus 19,BABW - Barrel Aged Barleywine,Barleywine - English,14.2,2024-10-19 8:43:09,1,FALSE,,,
+Brygghus 19,Smugglarhamnens Pilsner,Pilsner - Czech / Bohemian,5,2024-10-19 9:11:09,1,FALSE,,,
+Brygghus 19,Hallon Lakrits,Sour - Smoothie / Pastry,6.8,2024-12-05 18:22:51,1,FALSE,,,
+Brygghus 19,Koalafication,IPA - New England / Hazy,7,2025-02-21 12:56:50,2,FALSE,,,
+Brygghus 19,Easter Bunny IPA,IPA - New England / Hazy,6.8,2025-04-07 18:04:07,1,FALSE,,,
+Brygghus 19,Påskebrygd,Bock - Single / Traditional,6.2,2025-04-07 18:04:20,2,FALSE,,,
+Brygghus 19,International Haze 4x Mango,IPA - New England / Hazy,7,2025-04-07 18:05:14,1,FALSE,,,
+Brygghus 19,Påskseltzer,Hard Seltzer,4.5,2025-04-07 18:05:26,2,FALSE,,,
+Brygghus 19,Oberoende Märzen,Märzen,6.2,2025-04-08 18:11:37,3,FALSE,,,
+Brygghus 19,India Pale Ale - Elefant Öl,IPA - American,6.6,2025-05-07 15:51:18,2,FALSE,,,
+Brygghus 19,Hoppy Harbor DIPA,IPA - Imperial / Double,8,2025-05-07 15:51:53,1,FALSE,,,
+Brygghus 19,Queen of Hearts IPA,IPA - New England / Hazy,7.5,2025-05-07 15:52:11,2,FALSE,,,
+Brygghuset Finn,Summer Sour,Sour - Other,4.2,2025-05-10 12:18:51,1,FALSE,,,
+Buxton Brewery,Nuts And Crosses,Stout - Milk / Sweet,4.5,2024-10-19 12:39:26,2,FALSE,,,
+Carlsberg Group,Carlsberg 1883,Lager - Amber / Red,4.6,2025-05-16 18:34:43,24,FALSE,,,Summer BBQ Beer; Planned Carlsberg side-by-side
+DESTIHL Brewery,Deadhead IPA Series: Double Red,Red Ale - Imperial / Double,9.4,2025-04-17 13:25:57,1,FALSE,,,
+Drake’s Brewing Company,Death of the Sun,Stout - Imperial / Double,12.9,2024-10-19 8:42:41,2,FALSE,,,
+Eagle Brewery,Bombardier,Bitter - Best,5.2,2025-04-08 17:52:29,1,FALSE,,,
+Fuller's Griffin Brewery,Vintage Ale (2023),Old / Stock Ale,8.5,2024-02-11 13:25:08,1,TRUE,,,Saving
+Fuller's Griffin Brewery,Vintage Ale (2024),Old / Stock Ale,8.4,2024-11-15 11:37:53,4,FALSE,,,One for now; 3 to save
+Fuller's Griffin Brewery,ESB,Bitter - Extra Special / Strong (ESB),5.5,2025-04-17 11:59:55,2,FALSE,,,
+Guinness,Guinness Draught,Stout - Irish Dry,4.2,2024-10-19 8:48:13,1,FALSE,,,
+Guinness,West Indies Porter,Porter - Other,6,2025-05-19 19:40:41,1,FALSE,,,
+Hacker-Pschorr,Münchner Hell,Lager - Helles,5,2025-05-17 12:42:28,1,TRUE,,BJCP: 4A. Munich Helles,Beer expert blind tests classic Munich Helles (MENTIONED - BUT NOT COVERED)
+Herzoglich Bayerisches Brauhaus Tegernsee,Tegernseer Hell,Lager - Helles,4.8,2025-05-17 12:43:28,2,TRUE,,,Beer expert blind tests classic Munich Helles (9:40)
+Hop Notch Brewing,C4,IPA - Imperial / Double,8,2025-04-17 13:26:34,1,FALSE,,,
+Hop Notch Brewing,Pink Paradise Rosé Sour - Peach & Raspberry,Sour - Other,4.5,2025-04-17 13:29:46,1,FALSE,,,
+Hop Notch Brewing,Golden Horizon West Coast Lager,Lager - IPL (India Pale Lager),5.2,2025-05-07 16:05:01,1,FALSE,,,
+Hop Notch Brewing,Nordic Unity APA,Pale Ale - American,5.6,2025-05-07 16:05:35,1,FALSE,,,
+Hyllie Bryggeri,Instormande Ida,IPA - Session,4.7,2025-05-07 16:06:30,1,FALSE,,,
+Klosterbrauerei Andechs,Andechser Weissbier Hell,Wheat Beer - Hefeweizen,5.5,2025-05-07 15:56:08,3,FALSE,,,
+Kvarnagårdens Bryggeri,Utvandraren Pale Ale,Pale Ale - American,5.6,2025-04-08 18:11:56,1,FALSE,,,
+Lagunitas Brewing Company,IPA,IPA - American,6.2,2025-04-17 12:00:45,1,FALSE,,,
+Närke Kulturbryggeri,Oberoende Röklager,Lager - Smoked,6,2024-10-19 9:10:12,1,FALSE,,,
+Närke Kulturbryggeri,Särimner,Porter - Smoked,8,2025-04-08 9:24:30,1,FALSE,,,
+Närke Kulturbryggeri,Kaggen! Stormaktsporter (2023),Stout - Imperial / Double,11.4,2025-04-08 17:52:47,1,FALSE,,,
+Nepo Brewing,Meet Our Fiends | From Sweden: Akia (Baltic Bridge),Stout - Imperial / Double,10,2024-10-19 8:51:08,3,FALSE,,,
+Nerdbrewing,Downtime BA Campfire Toasted Marshmallow Imperial Stout,Stout - Imperial / Double,11.3,2024-10-19 8:43:29,1,FALSE,,,
+North,Full Fathom 5,Porter - Coffee,5.9,2024-09-27 14:27:41,1,FALSE,,,
+Nyköping Brewing Company,Oberoende Rököl,Smoked Beer,5.2,2024-10-19 8:46:27,3,FALSE,,,
+O/O Brewing ,Narangi DDH,IPA - New England / Hazy,6.8,2025-04-17 12:00:26,1,FALSE,,,
+Omnipollo,Tårt-Kaggen!,Porter - Imperial / Double,13,2024-09-25 17:34:16,2,FALSE,,,
+Omnipollo,Double Barrel Aged Anagram Blueberry Cheesecake Stout,Stout - Imperial / Double Pastry,14,2024-09-27 14:25:37,2,FALSE,,,
+Omnipollo,Barrel Aged Banana Cookie Kooks,Stout - Imperial / Double Pastry,15.4,2024-12-06 17:34:28,1,FALSE,1,,
+Omnipollo,Stockholm Juice! Vol. 2,Pale Ale - American,5.6,2025-02-21 12:57:17,1,FALSE,,,
+Omnipollo,A Decade of Pastry - Noa Anniversary,Stout - Imperial / Double Pastry,14.2,2025-04-08 18:28:30,1,FALSE,,,
+Omnipollo,All the Vanilla,Stout - Imperial / Double,14.7,2025-04-11 15:20:04,1,FALSE,,,
+Omnipollo,God’s Raspberry Ice Cream Sour,Sour - Fruited,6,2025-05-07 16:06:04,1,FALSE,,,
+Paulaner Brauerei,Paulaner Hefe-Weißbier / Hefe-Weizen / Weissbier,Wheat Beer - Hefeweizen,5.5,2025-05-17 12:42:56,1,FALSE,,,
+Paulaner Brauerei,Paulaner Münchner Hell / Münchner Lager / Original Munich Lager,Lager - Helles,4.9,2025-05-17 12:45:38,1,TRUE,,BJCP: 4A. Munich Helles,Beer expert blind tests classic Munich Helles (7:40)
+PINTA Barrel Brewing,Bloom (2024),Wild Ale - Other,5.5,2025-04-17 13:30:09,1,FALSE,,,
+Plzeňský Prazdroj,Pilsner Urquell,Pilsner - Czech / Bohemian,4.4,2025-04-17 12:01:42,56,FALSE,,,48x 500mL; remainder are 330mL; BBQ/Shed beer
+Poppels Bryggeri,Hoppy,Non-Alcoholic - Pale Ale,0.3,2025-05-10 12:19:08,4,TRUE,,,AF
+Prophecy Brewing,Emencity,Sour - Fruited,6.5,2024-12-05 18:24:33,1,FALSE,,,
+Remmarlöv Gårdsbryggeri,Sommarlager,Pilsner - German,4.7,2025-05-07 16:08:25,1,FALSE,,,
+Sälens Fjällbryggeri,Snöstorm,Stout - Imperial / Double,10.7,2024-10-19 8:52:01,1,FALSE,,,
+"Schlenkerla (""Heller-Bräu"" Trum)",Aecht Schlenkerla Eiche – Doppelbock,Rauchbier,8,2024-12-06 17:35:23,1,FALSE,,,
+"Schlenkerla (""Heller-Bräu"" Trum)",Aecht Schlenkerla Rauchbier – Urbock,Rauchbier,6.5,2024-12-06 17:52:29,1,FALSE,,,
+"Schlenkerla (""Heller-Bräu"" Trum)",Aecht Schlenkerla Fastenbier – Lentbeer,Rauchbier,5.9,2025-03-22 10:45:13,2,FALSE,,,
+Schneider's Landbrauerei,Helles Landbier / Bayrisch Hell,Lager - Helles,4.9,2025-05-17 12:45:15,1,TRUE,,,Beer expert blind tests classic Munich Helles (13:40)
+Shapes & Objects Beer Co,Bobo Double Chocolate Vanilla Imperial Stout,Stout - Imperial / Double,12.5,2025-04-08 18:11:16,1,FALSE,,,
+Sierra Nevada Brewing Co.,Bigfoot,Barleywine - American,9.6,2024-05-18 12:45:04,3,FALSE,,,1 for now; 2 to save
+Sierra Nevada Brewing Co.,Narwhal Imperial Stout (2024),Stout - Imperial / Double,10.2,2024-12-05 18:27:20,1,FALSE,,,
+Sosab - Sour Ale Brewery,XII Flemish Red Ale,Sour - Flanders Red Ale,5.2,2025-03-22 10:45:25,2,FALSE,,,
+Spaten-Franziskaner-Löwenbräu-Gruppe,Löwenbräu Original,Lager - Helles,5.2,2025-02-19 16:10:31,1,TRUE,,BJCP: 4A. Munich Helles,Beer expert blind tests classic Munich Helles (10:50)
+Spaten-Franziskaner-Löwenbräu-Gruppe,Spaten München / Münchner Hell / Premium Lager,Lager - Helles,5.2,2025-05-17 12:45:51,1,TRUE,,BJCP: 4A. Munich Helles,Beer expert blind tests classic Munich Helles (6:45)
+Stewart Brewing,St Giles,Scottish Ale,5,2025-04-30 12:57:54,1,FALSE,,,
+Stigbergets Bryggeri,Barrel Aged Trouble Sleep,Stout - Imperial / Double,12.5,2024-12-06 17:38:51,1,FALSE,,,
+Stigbergets Bryggeri,Always Porter,Porter - English,5,2025-02-19 16:08:21,1,FALSE,,,
+Stigbergets Bryggeri,BUFFY,IPA - Imperial / Double New England / Hazy,8.3,2025-05-10 12:17:59,1,FALSE,,,
+Stockholm Brewing Co.,Italo Pils,Pilsner - Italian,5.2,2025-05-07 15:52:01,2,FALSE,,,
+The Kernel Brewery,A London Porter,Porter - English,5,2025-02-15 14:36:22,1,FALSE,,,
+This Is How,How To Skip Dessert Bourbon Barrel Aged (2022),Stout - Imperial / Double,12,2025-05-07 16:09:27,1,FALSE,,,
+Warsteiner,Premium Pilsener / German Pilsener,Pilsner - German,4.8,2025-05-17 12:44:55,2,TRUE,,,Beer expert blind tests classic Munich Helles (BONUS)
+,Hofbräu,,,,,TRUE,,BJCP: 4A. Munich Helles,Beer expert blind tests classic Munich Helles (4:33)
+Ayinger,Lagerbier Hell,,,,,FALSE,,,To buy / wishlist
