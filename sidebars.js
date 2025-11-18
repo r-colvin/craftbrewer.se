@@ -134,19 +134,6 @@ const sidebars = {
       ],
     },*/
   ],
-
-  // But you can create a sidebar manually
-  /*
-  mySidebar: [
-    'intro',
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-   */
 };
 
 module.exports = sidebars;
