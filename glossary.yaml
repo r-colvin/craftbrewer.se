@@ -1,0 +1,12 @@
+wort:
+  term: Wort
+  def: "The output of mashing grains, before boiling and hopping"
+
+IPA:
+  term: IPA
+  def: "India Pale Ale"
+  link: <a href="https://www.google.com">Craftbrewer Style Guide - IPA</a>
+
+mashing:
+  term: Mashing
+  def: "Soaking grains in water, at a fixed temperature, for a fixed time."
