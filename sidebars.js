@@ -18,7 +18,7 @@ const sidebars = {
     'intro',
     //'youtube_demo',
     //'glossary',
-    {
+    /*{
       type: 'category',
       label: 'The Meaning of Beer',
       link: {
@@ -36,8 +36,8 @@ const sidebars = {
           dirName: 'MeaningOfBeer',
         },
       ],
-    },
-    /*{
+    },*/
+    {
       type: 'category',
       label: 'Homebrewing',
       link: {
@@ -56,7 +56,7 @@ const sidebars = {
         },
       ],
     },
-    {
+    /*{
       type: 'category',
       label: 'A Year in Beer',
       link: {
@@ -74,9 +74,8 @@ const sidebars = {
           dirName: 'ayearinbeer/Beers',
         },
       ],
-    },
-
-    {
+    },*/
+    /*{
       type: 'category',
       label: 'Style Guide',
       link: {
@@ -94,8 +93,8 @@ const sidebars = {
           dirName: 'Style Guide',
         },
       ],
-    },
-    {
+    },*/
+    /*{
       type: 'category',
       label: 'Maps',
       link: {
@@ -113,7 +112,7 @@ const sidebars = {
           dirName: 'Maps',
         },
       ],
-    },
+    },*/
     {
       type: 'category',
       label: 'Reference Library',
@@ -132,7 +131,7 @@ const sidebars = {
           dirName: 'Reference Library',
         },
       ],
-    },*/
+    },
   ],
 };
 
