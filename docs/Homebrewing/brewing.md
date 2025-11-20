@@ -20,3 +20,60 @@
 
 - 15MBK
     - NP: 2025-10.18
+
+- *extract partial boil disadvantages*
+- https://www.reddit.com/r/Homebrewing/comments/1ndayo/is_there_a_downside_to_a_partial_boil_noob/
+- *extract partial boil hop utilization*
+- https://kegland.com.au/cdn/shop/files/KB23041_-_Pacific_Ale_-_15MBK_Recipe_Sheet.pdf?v=4458948159992292142
+- https://byo.com/mr-wizard/explaining-hop-utilization/
+- *15mbk kegland hop utilization dms*
+
+- *pinter packs bucket fermenter*
+- https://www.amazon.se/-/en/Pinter-All-one-lightweight-ingredient/dp/B0C5S4FVQJ
+
+- hembrygeriet has a couple small batch recipes
+
+- https://darkrockbrewing.co.uk/product/dark-rock-small-batch-tribute-to-verdant-lightbulb-all-grain-beer-kit/
+- https://darkrockbrewing.co.uk/product/a-tribute-to-verdant-lightbulb-part-grain-kit/
+- https://darkrockbrewing.co.uk/small-batch-brewing-kits/
+- https://darkrockbrewing.co.uk/dark-rock-session-series/
+- https://darkrockbrewing.co.uk/dark-rock-part-grain-kits/
+
+- *extract brewing dms*
+- *homebrew short boil dms*
+
+- https://byo.com/articles/cask-ales-homebrewing/
+- *homebrew boil length dms hop utilization gravity*
+- *small batch extract hop utilization*
+- *"small batch" "extract" "imperial" "stout"*
+- *"small batch" "extract" "abt 12"*
+-> BrewFather library
+
+- https://www.olbryggning.se/enolandia/110893/georges-cider-j%c3%a4sningskit-extraktset-med-utrustning-5-liter
+- https://www.olbryggning.se/enolandia/109294/georges-beer-ipa-extraktset-med-utrustning-5-liter
+- https://www.olbryggning.se/enolandia/109293/georges-beer-pilsner-extraktset-med-utrustning-5-liter
+- https://www.olbryggning.se/enolandia/109292/georges-beer-lager-extraktset-med-utrustning-5-liter
+- https://braumarkt.com/George-s-Beer-Lager-Beerkit
+    - https://www.enolandia.it/en/georges-kit-5-lt/
+
+- https://www.olbryggning.se/kegland/106470/kylspiral-5-meter-rostfritt-st%C3%A5l
+- https://www.olbryggning.se/annet/107505/slangkoppling-till-kran-1-2-g%c3%a4ngor-plast-gardena-typ-hane
+- https://www.hembryggeriet.se/kylspiral-rostfritt-5-meter-gardena?gad_source=1&gad_campaignid=17538193846&gclid=CjwKCAjw04HIBhB8EiwA8jGNbd2JSO2hP5eVIhdCbXIGUQ2B9fhQ4yjQvSofJcXNJESlxaZyVWgPIhoCX2oQAvD_BwE
+- https://mr-malt.se/en/equipment/connectors/threaded/faucet-adapter
+- https://www.netonnet.se/art/hem-fritid/tradgard/bevattningtradgard/gardena-adapter-for-inomhuskran/1033099.16036/?utm_source=google&utm_medium=cpc&utm_campaign=p-se-netonnet-shopping-hem-fritid&gad_source=1&gad_campaignid=22259343320&gclid=CjwKCAjw04HIBhB8EiwA8jGNbd6RIrsSJYdq953s_yixQDBfsbnFKEZVUhyax0woMPEvmwjxKf--XxoCdG4QAvD_BwE
+
+- https://kegland.com.au/products/100ml-polypropylene-measuring-cylinder-1ml-graduations?variant=43494355960064
+
+- https://github.com/BrewnodeDave/mm2bf/blob/develop/invoice-18759.pdf
+
+- https://mr-malt.se/recept/extrakt/georges-beer-startkit-pils-5-l (349 on black friday)
+
+- https://www.olbryggning.se/andre-tilsetninger/111376/beer-lab-off-flavor-kit-felsmaksl%c3%a5da -> brew Club at biobaren
+
+
+- John Palmer doing 2.5 gallon (9.5L) batches - https://www.amazon.se/John-Palmer/dp/1852493941/ref=mp_s_a_1_1?crid=33DWGY0Y5FC2F&dib=eyJ2IjoiMSJ9.BpOo2F89jI9Elv2P_2yGRa7uL6j5qs9dcBEakOmWgV57R-wM9dFQD4vywYicq6kAHErkNXwjDUJwU2MBAQU0oZ-NbNKgNFe8oiTt4eX4iRg_tzed9_teiweSOyNIMNQVzDFg_h0qcMRMFcGmpC-NGA.TjcdJHwu06l91esmWovFUJWHJ8FULwIgeOqY52Knsec&dib_tag=se&keywords=How+to+Brew+Beer+in+Your+Kitchen&qid=1763203986&sprefix=how+to+brew+beer+in+your+kitchen%2Caps%2C91&sr=8-1 
+
+- https://www.fnirsi.com/products/jbm-10-jbm-20?_pos=1&_psq=ref&_ss=e&_v=1.0
+
+- neipa whirlpool only no dry hop
+    - https://brulosophy.com/2022/09/12/exbeeriment-hop-stand-vs-dry-hop-in-an-american-ipa/

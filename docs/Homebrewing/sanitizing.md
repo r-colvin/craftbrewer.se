@@ -1,0 +1,68 @@
+- *polypropylene compatibility labsa*
+- *"isopropyl alcohol" "sanitizer" "homebrew"*
+- *dbsa vs ddbsa*
+- https://www.themaltmiller.co.uk/wp-content/uploads/2020/10/STELLARSAN-SANTINIZER-MSDS.pdf
+- *isopropanol no rinse sanitizer safe*
+- *labsa dsbs compatible materials*
+- *is labsa ddbsa surfactant compatible with silicone*
+- *what plastics are labsa dbsa not compatible with*
+- *27176-87-0*
+- https://fivestarchemicals.com/mwdownloads/download/link/id/455/
+- *85536-14-7*
+- *why does starsan disintegrate spray bottle silicone dip tube*
+- https://www.olbryggning.se/chemisphere/107573/chemsan-100-ml-skummande-surt-desinfektionsmedel
+- https://www.olbrygging.no/media/multicase/documents/chemisphere%20uk/chemsan.pdf
+- https://chemisphereuk.com/wp-content/uploads/simple-file-list/Craft-And-Home-Brewer-Range/Chemsan/ChemSan-HS-Data-Sheet.pdf
+- *ld50*
+- *ld50 ethanol isopropanol*
+- *ld50 caffeine*
+- https://www.olbryggning.se/annet/109557/chemipro-san-5-liter-skummande-surt-desinfektionsmedel
+- https://www.olbryggning.se/five-star/100151/saniclean-946-ml-l%c3%a5gskummade-slutlig-sk%c3%b6ljprodukt
+- https://www.olbryggning.se/five-star/100169/star-san-946-ml-32-oz
+- https://www.olbryggning.se/chemisphere/107573/chemsan-100-ml-skummande-surt-desinfektionsmedel
+- https://maltmagnus.se/se/sv/utrustning/rengoring/desinfektion/chemipro-san-250-ml/?srsltid=AfmBOopU9BavRyfkrY2DGmJz1tTnY0fdyeAAKbrXkUAF-T6oszezD_EAr_g
+- https://maltmagnus.se/documents/Chemipro%20San-S%C3%A4kerhetsdatablad-v1.0.pdf
+- https://mr-malt.se/shop/11011/files/Star%20San%20Sweden%20Swedish%20Annex%20II%20CLP%20U0721%20%281%29.pdf
+- *starsan ppm*
+- https://chemisphereuk.com/customer-service/#mobile-widget
+- *glyphosate ben and jerry's*
+- *isopropyl limit food safe*
+- *cas 63-67-0 food*
+- *food grade isopropyl alcohol cas*
+- *starsan 236ml*
+- *cas 85536-14-7 food*
+- *cas 85536-14-7 silicone compatible*
+- https://www.olbrygging.no/media/multicase/documents/chemisphere%20uk/chemsan.pdf
+- *cas 25155-30-0 plastic compatibility*
+- *ld50 chart*
+- *cas 58-08-2 msds*
+- *ethanol wipes*
+- https://www.reddit.com/r/Kombucha/comments/n8im1n/how_important_is_sanitising/
+- *bottling kombucha in pet cleaning*
+- *is raw kombucha shelf stable*
+- *CAS 67-63-0 fda limits*
+- *"chemisphere" "chemsan" "reach*
+
+- https://kegland.eu/products/stellarsan-sanitizer-phosphoric-sanitiser-500ml-16oz
+    - page not found 
+- https://kegland.eu/search?q=ethylkill&options%5Bprefix%5D=last
+    - ethylkill not in EU yet
+
+- non ionic surfants in the home - https://www.rusta.com/sv-se/sok?q=Refin
+- https://www.rusta.com/globalassets/productimages/msds_en_834015570103.pdf?ref=B766206F6F
+- "dish soap" "Dodecylbenzenesulfonic acid"
+- https://homebrewtalk.com/threads/star-san-question.703333/
+- https://hdsupplysolutions.com/wcsstore/ExtendedSitesCatalogAssetStore/product/fm/additional/31/318355_MSDS-PDF.pdf -> DBSA
+- https://echa.europa.eu/da/substance-information/-/substanceinfo/100.043.885
+
+- https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOorPHsoZZnBIsDXSpN0fJ845pS2TVCq46IAPXnTXMIfdmmi9KY3B
+
+- *what is the acid in sour beer*
+- *sour beer lactic acid concentration*
+- *6g/l concentration percentage*
+- *rubber lactic acid compatibility*
+- *ph vs concentration dilute acid*
+- *coca cola phosphoric acid*
+- *phosphoric acid dilution ph*
+- *molar concentration of phosphoric acid*
+- *starsan phosphoric acid concentration vs coca cola*

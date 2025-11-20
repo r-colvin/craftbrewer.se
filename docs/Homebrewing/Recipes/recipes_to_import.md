@@ -24,3 +24,29 @@
 
 
 - https://www.olbryggning.se/ravaror/receptkit/fwk
+
+- https://www.koksbryggeriet.se/sv/artiklar/diy-kombucha-kit-2.html
+    - https://www.koksbryggeriet.se/sv/info/kombucha-utan-startvatska.html
+
+- https://www.olbryggning.se/ab-roberts/104650/julmust-koncentrat-originalet-fr%c3%a5n-ab-roberts-i-%c3%b6rebro
+
+- https://kegland.com.au/cdn/shop/files/KB22993_-_Hazy_Pale_Ale_-_15MBK_Recipe_Sheet.pdf?v=2847710776358760273
+    - https://www.olbryggning.se/kegland/108726/torkat-havreextrakt-1-kg-dried-hydrolysed-oat-extract?gad_source=1&gad_campaignid=17335680141&gclid=Cj0KCQjw9czHBhCyARIsAFZlN8TiP2ZP2wpjoR3ycVDh6PurtyIpLMmDN0kEDi5o2O2LCHCB3XYisfcaAl8gEALw_wcB
+- https://kegland.com.au/cdn/shop/files/KB23065_-_XPA_-_15MBK_Recipe_Sheet.pdf?v=6285339637425979331
+- https://www.reddit.com/r/Homebrewing/comments/1nrclcp/beer_enhancer_alternative/
+- https://www.koksbryggeriet.se/sv/artiklar/stigbergets-west-coast-55-65-receptsats-10-liter.html
+
+- https://kegland.eu/search?q=15mbk&options%5Bprefix%5D=last 15MBK not in EU
+- some ready to keg stuff though! https://kegland.eu/search?options%5Bprefix%5D=last&page=1&q=ready+to+keg
+    - https://kegland.eu/products/impressence-ginger-beer-flavour-shot-50ml-1?_pos=1&_sid=961d7cbcc&_ss=r
+    - https://kegland.eu/products/impressence-tonic-flavour-shot-50ml?_pos=4&_sid=961d7cbcc&_ss=r
+    - https://kegland.eu/products/impressence-lemon-pub-squash-flavour-shot-50ml?_pos=10&_sid=961d7cbcc&_ss=r
+
+- https://kegland.com.au/products/15mbk-imperial-ipa-empire?_pos=1&_psq=15mbk+im&_ss=e&_v=1.0
+- https://kegland.com.au/products/15mbk-irish-stout-corky?_pos=2&_psq=15mbk+stout&_ss=e&_v=1.0
+
+- *bounty bar imperial stout*
+- *"extract" "coconut" "imperial stout" "dme"*
+- https://www.hembryggeriet.se/coconut-stout-65-receptkit-10l-938?srsltid=AfmBOopn93euqau6kZhqmdbwF77pHtakn4CatAw4Mwu34bhILrkPUEC3TJU
+
+- KegKing 10L *kegking take it easy*

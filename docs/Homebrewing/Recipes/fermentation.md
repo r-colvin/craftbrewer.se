@@ -22,3 +22,25 @@ small batch lager? good for low temperature fermenation obvioulsy...
 - 2.5 gallons to liters
 
 - "bucket" "fermenter" "dry hop" "purge"
+
+- https://www.olbrygging.no/media/dokumenter/fermzilla_hydro_test.pdf
+- https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-all-rounder-30l-and-60l-user-guide/hydro-test-guide
+
+- https://www.olbryggning.se/kegland/102439/fermzilla-flat-bottom-30l-startpaket-startpaket-f%c3%b6r-flaskning
+    - is the picture accurate?
+
+- https://kegland.eu/products/rubber-grommet?_pos=8&_sid=b4c868b0c&_ss=r
+    - material?
+- https://kegland.eu/products/3-piece-airlock-for-fermenters?_pos=3&_sid=b4c868b0c&_ss=r
+    - available in EU
+
+- https://kegland.com.au/products/rapt-digital-regulator-spunding-valve?srsltid=AfmBOorwYJ2zlcTlBiY0_ULPZasC3pyGTMr-8q_hd_TjrZKnl17QyKad
+- *rapt pill ble api*
+
+- *top fermented beer throughout*
+
+- coopers disposable fermenters bags
+
+- kombucha kit istructions sanitize
+- https://kegland.com.au/products/wlp600-kombucha-scoby?_pos=1&_psq=kombucha&_ss=e&_v=1.0
+- https://blog.whitelabs.com/making-homebrew-kombucha-with-white-labs-scoby
