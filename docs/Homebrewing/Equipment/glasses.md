@@ -1,0 +1,8 @@
+- https://barshopen.com/olglas/tyskland/hofbrau-olsejdel-50-cl/?gad_source=1&gad_campaignid=17181936718&gclid=CjwKCAjwlaTGBhANEiwAoRgXBa6PNyKajK6cpq4rmXAnJ5zN28T8FIQnN1bqCN6xUF7TegAGNbtAAhoC_hwQAvD_BwE
+- https://barshopen.com/olglas/tjeckien/pilsner-urquell-olsejdel-50-cl/
+- https://barshopen.com/olglas/tyskland/hofbrau-olsejdel-100-cl/
+- https://barshopen.com/olglas/tyskland/paulaner-weissbier-olglas-50-cl/
+- https://barshopen.com/olglas/tjeckien/budvar-olsejdel-50-cl/
+- https://barshopen.com/olglas/olsejdlar/britannia-olsejdel-pint/
+- https://barshopen.com/plastglas/olsejdel-i-plast-100-cl/
+- https://barshopen.com/plastglas/olsejdel-i-plast-50-cl/
