@@ -126,3 +126,6 @@ this was for getting beer from lind I think, who had perlick taps, so needed to 
 - https://www.clasohlson.com/se/Kolsyrepatron-p%C3%A5fyllning---inbyte-SodaStream,-130-liter/p/44-3685-1?utm_source=google&utm_medium=cpc&utm_campaign=SE_CO_AO_Home%26Garden_SEM_Google_Shopping_Generic_CM-Low&utm_id=21300059957&gad_source=1&gad_campaignid=21300059957&gclid=CjwKCAiAlfvIBhA6EiwAcErpyeJtqaMVHs_2mr-iZ1jYaKNAn-duH_z5ugQ69IngVoiAmAQs3uE2GxoCbo4QAvD_BwE
 - *hur myckey kosta brandab co2 påfyllning*
 -> cost comparison 
+
+- https://www.aliexpress.us/item/3256809530077942.html?isdl=y&aff_fsk=_DdG0l5v&src=Globerada&aff_platform=aff_feeds&_randl_currency=SEK&aff_short_key=_DdG0l5v&pdp_npi=4%40dis%21SEK%2121.08%2121.08%21%21%21%21%21%40%2112000049936613530%21afff%21%21%21&dp=globerada_css-69029fc768a1e&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US
+(screenshots / photos 2025-11-20)
