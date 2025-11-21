@@ -128,4 +128,7 @@ this was for getting beer from lind I think, who had perlick taps, so needed to 
 -> cost comparison 
 
 - https://www.aliexpress.us/item/3256809530077942.html?isdl=y&aff_fsk=_DdG0l5v&src=Globerada&aff_platform=aff_feeds&_randl_currency=SEK&aff_short_key=_DdG0l5v&pdp_npi=4%40dis%21SEK%2121.08%2121.08%21%21%21%21%21%40%2112000049936613530%21afff%21%21%21&dp=globerada_css-69029fc768a1e&gatewayAdapt=glo2usa4itemAdapt&_randl_shipto=US
-(screenshots / photos 2025-11-20)
+<img width="456" height="829" alt="image" src="https://github.com/user-attachments/assets/f21ae52b-0cfb-420d-bc33-a073ed8f4502" />
+<img width="444" height="495" alt="image" src="https://github.com/user-attachments/assets/34e624a6-7434-4219-986f-00c1c8c95993" />
+<img width="460" height="655" alt="image" src="https://github.com/user-attachments/assets/da3f7004-59b7-4fbf-8b8f-cf9585b2e4bf" />
+<img width="461" height="706" alt="image" src="https://github.com/user-attachments/assets/1a4ffb7f-8d58-4566-884d-a8d1adc7fbbd" />
