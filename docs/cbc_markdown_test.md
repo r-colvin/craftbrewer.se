@@ -1,0 +1,30 @@
+- Why Craftbrewer?
+  - Why yet another brew page; limits of craftbrewer
+  - Small Batch Brewing - Why
+  - Textbook!
+  - how to get involved -> open source, raise issues, questions, corrections (if you are an expert!)
+- Random and Misc
+  - a blog maybe? for the stuff that is just me writing stuff up when I find weird and intersting things that don't fit anywhere else
+- Equipment & High Level Guides
+  - Overview of Required Equipment
+  - Sanitizers
+  - Materials and Material Compatibility
+  - Hot Side (Mashing, Boiling, pH, Refactormeters, Hydrometers)
+  - Fermenting (Fermenters, Taps, Grommets and Bungs, Airlock, Temperature Control)
+    - Dry Hopping
+    - Cold Crashing
+    - Packaging (Carbonating, Bottling, Kegging)
+    - Serving 
+  - Cleaning
+  - Specific (general) Guides -> this might get multiple versions, or integrated into receipes... no idea
+    - My Stove Top Partial Mash
+    - Using BrewFather (for me) -> tips and tricks
+- BrewClub
+  - All About BrewClub (What, Why, How)
+  - Brew 1 : FWK / Extract Kit
+  - Brew 2 : Cider
+  - Brew 3 : Partial Mash
+  - Brew 4 : All Grain
+- Styles, Recipes, Batches (documenation and stats on brews)
+  - BrewFather Integration (at least viewer and version control)
+- Resources and References Library
