@@ -13,3 +13,6 @@ AI Answer: LABSA is compatible with common plastic materials like High-Density P
     https://kegland.com.au/products/pack-of-100-x-beer-bottle-caps-for-bottling-crown-seal-screw-cap?_pos=1&_psq=crown+caps&_ss=e&_v=1.0 (steal)
     kronkapsyler 26 mm "stål"
     crown cap oxygen absorber sanitizer
+
+
+- saturday 15 november 
