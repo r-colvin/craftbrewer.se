@@ -451,7 +451,7 @@ Let's calculate this **step by step**, carefully, using precise reasoning and st
 - Phosphoric acid mass = volume × concentration  
 
 $$
-m_\text{H_3PO_4} = 1\,\text{mL} \times 0.093\,\text{g}/100\,\text{mL} 
+m_{\text{H}_3\text{PO}_4} = 1\,\text{mL} \times 0.093\,\text{g}/100\,\text{mL} 
 = 0.00093\,\text{g} 
 = 0.93\,\text{mg}
 $$
@@ -471,7 +471,7 @@ $$
 - Mass of phosphoric acid per unit area:  
 
 $$
-0.93\,\text{mg/cm^2}
+0.93\,\mathrm{mg/cm^2}
 $$
 
 - This is extremely small — **less than 1 mg over 1 cm²**, a very thin residue.
@@ -547,7 +547,7 @@ Perfect! Let’s carefully calculate **cumulative phosphoric acid deposition** f
 As calculated previously:
 
 $$
-m_\text{H_3PO_4 per 1 mL} = 1\,\text{mL} \times 0.093\,\text{g/100 mL} = 0.00093\,\text{g} = 0.93\,\text{mg}
+m_{\text{H}_3\text{PO}_4\text{ per 1 mL}} = 1\,\text{mL} \times 0.093\,\mathrm{g/100 mL} = 0.00093\,\text{g} = 0.93\,\text{mg}
 $$
 
 ---
@@ -557,7 +557,7 @@ $$
 - **Daily application for 1 year:** 365 uses
 
 $$
-m_\text{cumulative} = 0.93\,\text{mg} \times 365 \approx 339.45\,\text{mg} \approx 0.34\,\text{g}
+m_{\text{cumulative}} = 0.93\,\text{mg} \times 365 \approx 339.45\,\text{mg} \approx 0.34\,\text{g}
 $$
 
 ✅ So after a year, roughly **0.34 g of phosphoric acid per cm²** would accumulate **if the residue is not wiped off**.
@@ -565,7 +565,7 @@ $$
 - **If spread over larger areas** (say 100 cm²):
 
 $$
-0.34\,\text{g/cm^2} \div 100 \approx 3.4\,\text{mg/cm^2}
+0.34\,\mathrm{g/cm^2} \div 100 \approx 3.4\,\mathrm{mg/cm^2}
 $$
 
 Still a very small residue per unit area.
@@ -707,7 +707,7 @@ Perfect! Let’s update the **cumulative phosphoric acid residue table** for **d
 **Cumulative phosphoric acid mass:**
 
 $$
-0.93\,\text{mg/day} \times 365\,\text{days} \approx 339.45\,\text{mg} \approx 0.34\,\text{g/cm^2}
+0.93\,\mathrm{mg/day} \times 365\,\text{days} \approx 339.45\,\text{mg} \approx 0.34\,\mathrm{g/cm^2}
 $$
 
 ---
@@ -6866,13 +6866,13 @@ I’ll focus on **materials compatibility**, **intended use**, and **strengths/w
 
 ## 🧴 1) **Birchmeier McProper Plus P / 360° – Professional Hand Sprayer**
 
-<img src="https://static01.galaxus.com/productimages/5/2/1/9/2/2/2/8/2/1/4/6/0/1/5/7/9/4/8/9056ae80-47c9-4f25-85dd-357630e2ad21_cropped.jpg_sea.jpeg" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://static01.galaxus.com/productimages/5/2/1/9/2/2/2/8/2/1/4/6/0/1/5/7/9/4/8/9056ae80-47c9-4f25-85dd-357630e2ad21_cropped.jpg_sea.jpeg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://www.birchmeier.us/web/global/produkte/mcproper-plus-p/11984001-McProper-Plus-P_LR.jpg" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://www.birchmeier.us/web/global/produkte/mcproper-plus-p/11984001-McProper-Plus-P_LR.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://www.birchmeier.us/web/global/produkte/super-mcproper-plus/11916301-Super-McProper-Plus.jpg" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://www.birchmeier.us/web/global/produkte/super-mcproper-plus/11916301-Super-McProper-Plus.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://www.birchmeier.us/web/global/produkte/mcproper-plus-e/11985001-McProper-Plus-E_LR.jpg" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://www.birchmeier.us/web/global/produkte/mcproper-plus-e/11985001-McProper-Plus-E_LR.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
 **Key facts**
 - Professional 0.5 L hand sprayer with adjustable/closable nozzle suitable for acidic products (dilute acids, disinfectants). ([birchmeier.com](https://www.birchmeier.com/en/content/produkte/mcproper-plus-p/index.php?utm_source=chatgpt.com))
@@ -6897,13 +6897,13 @@ Birchmeier explicitly lists **acidic products and disinfectants** in its compati
 
 ## 🧴 2) **Birchmeier Foxy Plus 360 Direction Spray Bottle**
 
-<img src="https://m.media-amazon.com/images/I/517U20eFX2L._AC_UF894%2C1000_QL80_.jpg" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://m.media-amazon.com/images/I/517U20eFX2L._AC_UF894%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://www.birchmeier.us/web/global/produkte/foxy-plus/10937507FoxyPlus.jpg" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://www.birchmeier.us/web/global/produkte/foxy-plus/10937507FoxyPlus.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://m.media-amazon.com/images/I/51LkJ%2BTLcWL.jpg" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://m.media-amazon.com/images/I/51LkJ%2BTLcWL.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://www.consolidatedplastics.com/cdn/shop/products/0d7510d7b6364d98b13b9868b1389718.thumbnail.0000000000_1800x1800.jpg?v=1675797931" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://www.consolidatedplastics.com/cdn/shop/products/0d7510d7b6364d98b13b9868b1389718.thumbnail.0000000000_1800x1800.jpg?v=1675797931" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
 This is a **classic professional trigger sprayer** from Birchmeier. It’s similar to McProper Plus P but not always marketed with explicit chemical-resistance labeling.
 
@@ -6922,13 +6922,13 @@ McProper Plus P has **clear published claims for acid compatibility**; Foxy Plus
 
 ## 🧴 3) **KegLand Power Sprayer 1 L**
 
-<img src="https://kegland.eu/cdn/shop/files/KL40860-1LPowerSprayer_USBType-C_-03-White.jpg?v=1730731078&amp;width=1445" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } } />
+<img src="https://kegland.eu/cdn/shop/files/KL40860-1LPowerSprayer_USBType-C_-03-White.jpg?v=1730731078&width=1445" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://morebeer.com/cdn/shop/files/61611.png?v=1760501479" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://morebeer.com/cdn/shop/files/61611.png?v=1760501479" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://morebeer.com/cdn/shop/files/61612.png?v=1760501479" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://morebeer.com/cdn/shop/files/61612.png?v=1760501479" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://www.homebrewfinds.com/wp-content/uploads/2025/01/keglandpowersprayerwms.png" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://www.homebrewfinds.com/wp-content/uploads/2025/01/keglandpowersprayerwms.png" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
 **Best for:** spraying larger areas or repeatedly wetting fittings.
 
@@ -6949,13 +6949,13 @@ In practice, dilute acid sanitizers are **not highly aggressive** — the proble
 
 ## 🧴 4) **Basic 0.5 L Sprayflaska / Generic Bottle**
 
-<img src="https://m.media-amazon.com/images/I/61g56TI6pPL.jpg" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://m.media-amazon.com/images/I/61g56TI6pPL.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://morebeer.com/cdn/shop/files/34910.png?v=1760660594" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://morebeer.com/cdn/shop/files/34910.png?v=1760660594" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://m.media-amazon.com/images/I/71AdIP0aeJL.jpg" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://m.media-amazon.com/images/I/71AdIP0aeJL.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
-<img src="https://cdn11.bigcommerce.com/s-neo29sbo9q/images/stencil/1280x1280/products/6280/22558/3493B24-WB__05710.1537454246.jpg?c=2" alt="Image" width={ 200 } style={ { maxWidth: "100%", height: "auto" } }  width="200" />
+<img src="https://cdn11.bigcommerce.com/s-neo29sbo9q/images/stencil/1280x1280/products/6280/22558/3493B24-WB__05710.1537454246.jpg?c=2" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
 
 **Pros**
 - Very low cost  
