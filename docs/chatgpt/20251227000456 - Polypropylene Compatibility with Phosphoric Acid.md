@@ -42,13 +42,13 @@ Here is the **chemical compatibility of polypropylene (PP) with phosphoric acid 
 - **Limited / Conditional**: Some swelling, discoloration, or slow degradation may occur—use caution.
 - **Not Recommended / Poor**: Significant polymer attack; PP is **not** suitable for storage/use.
 
-&gt; Note: Many manufacturer charts categorize resistance qualitatively rather than giving exact kinetics or quantitative degradation data.
+> Note: Many manufacturer charts categorize resistance qualitatively rather than giving exact kinetics or quantitative degradation data.
 
 ---
 
 ### 🔬 **Phosphoric Acid Compatibility by Concentration**
 
-| Phosphoric Acid Concentration | Polypropylene Compatibility at 25 °C | Source &amp; Notes |
+| Phosphoric Acid Concentration | Polypropylene Compatibility at 25 °C | Source & Notes |
 |------------------------------|--------------------------------------|----------------|
 | **10% H₃PO₄** | **Resistant / Excellent** | PP is resistant to lower concentrations of phosphoric acid. A general PP compatibility guide shows resistance/acceptability at low concentrations. ([Darwin Microfluidics](https://blog.darwin-microfluidics.com/pp-polypropylene-chemical-resistance-chart/?utm_source=chatgpt.com)) |
 | **20% H₃PO₄** | **Resistant / Excellent** | Charts indicate PP resistance for dilute phosphoric acid. ([Darwin Microfluidics](https://blog.darwin-microfluidics.com/pp-polypropylene-chemical-resistance-chart/?utm_source=chatgpt.com)) |
@@ -58,8 +58,8 @@ Here is the **chemical compatibility of polypropylene (PP) with phosphoric acid 
 | **60% H₃PO₄** | **Resistant / Excellent** | PP retains good resistance in higher aqueous acid concentrations up to ~80–85%. ([Industrial Spec](https://marketing.industrialspec.com/acton/attachment/30397/f-0036/1/-/-/-/-/polypropylene-chemical-compatibility-chart-from-ism.pdf?utm_source=chatgpt.com)) |
 | **70% H₃PO₄** | **Resistant / Excellent** | PP rated as compatible through 80–85% concentration in industry charts. ([Industrial Spec](https://marketing.industrialspec.com/acton/attachment/30397/f-0036/1/-/-/-/-/polypropylene-chemical-compatibility-chart-from-ism.pdf?utm_source=chatgpt.com)) |
 | **80% H₃PO₄** | **Resistant / Excellent** | ISM data indicates compatibility up to 80–100% at room temperature. ([Industrial Spec](https://marketing.industrialspec.com/acton/attachment/30397/f-0036/1/-/-/-/-/polypropylene-chemical-compatibility-chart-from-ism.pdf?utm_source=chatgpt.com)) |
-| **90% H₃PO₄** | **Resistant / Generally Good†** | Sources often bundle &gt;80% together as acceptable; specific data at exactly 90% is scarce, but high-concentration phosphoric acid shows good resistance in PP at room temp. ([Industrial Spec](https://marketing.industrialspec.com/acton/attachment/30397/f-0036/1/-/-/-/-/polypropylene-chemical-compatibility-chart-from-ism.pdf?utm_source=chatgpt.com)) |
-| **100% (neat) H₃PO₄** | **Resistant / Excellent†** | Many chemical resistance charts classify concentrated phosphoric acid as safe in PP at ambient temperature (no strong oxidizing behavior). However, some guides group &gt;80% and &gt;85% under “resistant” with caution. ([Industrial Spec](https://marketing.industrialspec.com/acton/attachment/30397/f-0036/1/-/-/-/-/polypropylene-chemical-compatibility-chart-from-ism.pdf?utm_source=chatgpt.com)) |
+| **90% H₃PO₄** | **Resistant / Generally Good†** | Sources often bundle >80% together as acceptable; specific data at exactly 90% is scarce, but high-concentration phosphoric acid shows good resistance in PP at room temp. ([Industrial Spec](https://marketing.industrialspec.com/acton/attachment/30397/f-0036/1/-/-/-/-/polypropylene-chemical-compatibility-chart-from-ism.pdf?utm_source=chatgpt.com)) |
+| **100% (neat) H₃PO₄** | **Resistant / Excellent†** | Many chemical resistance charts classify concentrated phosphoric acid as safe in PP at ambient temperature (no strong oxidizing behavior). However, some guides group >80% and >85% under “resistant” with caution. ([Industrial Spec](https://marketing.industrialspec.com/acton/attachment/30397/f-0036/1/-/-/-/-/polypropylene-chemical-compatibility-chart-from-ism.pdf?utm_source=chatgpt.com)) |
 
 ---
 
@@ -70,16 +70,16 @@ This compatibility chart from a manufacturer of polypropylene fluidic/pneumatic 
 - **Phosphoric acid S40%**, **50%**, **up to 85%**, and **80–100%** are all listed with ratings that indicate resistance at ambient temperature. ([Industrial Spec](https://marketing.industrialspec.com/acton/attachment/30397/f-0036/1/-/-/-/-/polypropylene-chemical-compatibility-chart-from-ism.pdf?utm_source=chatgpt.com))
 
 ### 🧪 **Fisher-Scientific / Chemical Resistance Charts**
-A widely used lab plastic compatibility resource indicates **phosphoric acid &lt;30%, and 30–85% are resistant to PP at 20 °C**. For &gt;85%, resistance is still indicated for many conditions, though some limited effects may be noted on specific plastics. ([Universities of Wisconsin](https://www.wisconsin.edu/ehs/download/Fisher-Scientific-Chemical-Compatibility-Chart.pdf?utm_source=chatgpt.com))
+A widely used lab plastic compatibility resource indicates **phosphoric acid <30%, and 30–85% are resistant to PP at 20 °C**. For >85%, resistance is still indicated for many conditions, though some limited effects may be noted on specific plastics. ([Universities of Wisconsin](https://www.wisconsin.edu/ehs/download/Fisher-Scientific-Chemical-Compatibility-Chart.pdf?utm_source=chatgpt.com))
 
 ### 📊 **General Compatibility Guides**
 Other technical charts (e.g., compiled polymer resistance references) show PP is resistant to **10%, 20%, 30% phosphoric acid** at ambient conditions. ([Darwin Microfluidics](https://blog.darwin-microfluidics.com/pp-polypropylene-chemical-resistance-chart/?utm_source=chatgpt.com))
 
 ---
 
-## ⚠️ **Important Notes &amp; Limitations**
+## ⚠️ **Important Notes & Limitations**
 
-1. **Temperature &amp; Time Dependence:**  
+1. **Temperature & Time Dependence:**  
    The above assessments are for **~25 °C (room temperature)**. Chemical resistance can degrade over time or with elevated temperature / stress. Many printed compatibility charts are for **short-term immersion tests**; long-term storage may still require validation.
 
 2. **Oxidizing/Contaminated Acid:**  
@@ -96,7 +96,7 @@ Other technical charts (e.g., compiled polymer resistance references) show PP is
 ## 🧾 **Primary Source Citations**
 
 - Industrial Specialties Mfg. Polypropylene chemical compatibility: PP vs phosphoric acid at S40%, 50%, up to 85%, and 80–100% shows resistance at ~20 °C. ([Industrial Spec](https://marketing.industrialspec.com/acton/attachment/30397/f-0036/1/-/-/-/-/polypropylene-chemical-compatibility-chart-from-ism.pdf?utm_source=chatgpt.com))  
-- Fisher-Scientific / University chemical resistance data: phosphoric acid &lt;30% and 30–85% resistant with PP at 20 °C. ([Universities of Wisconsin](https://www.wisconsin.edu/ehs/download/Fisher-Scientific-Chemical-Compatibility-Chart.pdf?utm_source=chatgpt.com))  
+- Fisher-Scientific / University chemical resistance data: phosphoric acid <30% and 30–85% resistant with PP at 20 °C. ([Universities of Wisconsin](https://www.wisconsin.edu/ehs/download/Fisher-Scientific-Chemical-Compatibility-Chart.pdf?utm_source=chatgpt.com))  
 - Compatibility guides listing PP as resistant to 10%, 20%, 30% phosphoric acid at ambient. ([Darwin Microfluidics](https://blog.darwin-microfluidics.com/pp-polypropylene-chemical-resistance-chart/?utm_source=chatgpt.com))
 
 ---
@@ -152,7 +152,7 @@ Here’s the **chemical compatibility of polypropylene (PP) with ethanol** (ethy
 
 ## 📌 **Key Notes**
 
-- **Temperature Effect:** These ratings are for ~25 °C. Elevated temperatures significantly increase solvent-polymer interaction, especially with organic solvents — but at room temp, PP is highly resistant to ethanol. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOopx3pS_ikjWLqOBrZx4tbksPKBxyXOMXF071bSpAwRPsNjz0pSq&amp;utm_source=chatgpt.com))
+- **Temperature Effect:** These ratings are for ~25 °C. Elevated temperatures significantly increase solvent-polymer interaction, especially with organic solvents — but at room temp, PP is highly resistant to ethanol. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOopx3pS_ikjWLqOBrZx4tbksPKBxyXOMXF071bSpAwRPsNjz0pSq&utm_source=chatgpt.com))
 - **Exposure Duration:** Most charts are derived from short-term immersion tests (e.g., 48 hr). Long-term storage or mechanical stress effects aren’t fully reflected in these ratings.
 - **Swelling Effects:** Some polymers may show slight swelling or physical changes with high concentrations of ethanol over very long exposures, but PP’s inherent resistance generally minimizes this. ([Alternative Fuels Data Center](https://afdc.energy.gov/files/pdfs/ethanol_fueling_compatibility.pdf?utm_source=chatgpt.com))
 
@@ -182,12 +182,12 @@ Below is a **chemical compatibility assessment using the best primary sources av
 
 ---
 
-## 🧪 **Polypropylene (PP) Chemical Compatibility with Sulfonic Acids &amp; Related Surfactants at ~25 °C**
+## 🧪 **Polypropylene (PP) Chemical Compatibility with Sulfonic Acids & Related Surfactants at ~25 °C**
 
 **Key data sources:**
-1. **CP Lab Safety / Polypropylene Chemical Compatibility Chart** – widely referenced industrial guide for PP resistance ratings. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&amp;utm_source=chatgpt.com))  
+1. **CP Lab Safety / Polypropylene Chemical Compatibility Chart** – widely referenced industrial guide for PP resistance ratings. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&utm_source=chatgpt.com))  
 2. **INEOS / HMC / Resin chemical-resistance guides for PP** – manufacturer data on benzene sulfonic acid compatibility. ([INEOS](https://www.ineos.com/globalassets/ineos-group/businesses/ineos-olefins-and-polymers-usa/products/technical-information--patents/ineos-pp-chemical-resistance-guide.pdf?utm_source=chatgpt.com))  
-3. **General polymer compatibility guides** – summary PP behavior with acidic and surfactant chemicals. ([CELLTREAT Scientific Products](https://www.celltreat.com/wp-content/uploads/Polypropylene-Chemical-Compatibility-Guide-2018.pdf?srsltid=AfmBOoqdYgiCo7sO9wdlW8fJe9igkbhwzA24uToJC6vT8QltbBoLGaIb&amp;utm_source=chatgpt.com))
+3. **General polymer compatibility guides** – summary PP behavior with acidic and surfactant chemicals. ([CELLTREAT Scientific Products](https://www.celltreat.com/wp-content/uploads/Polypropylene-Chemical-Compatibility-Guide-2018.pdf?srsltid=AfmBOoqdYgiCo7sO9wdlW8fJe9igkbhwzA24uToJC6vT8QltbBoLGaIb&utm_source=chatgpt.com))
 
 ---
 
@@ -195,12 +195,12 @@ Below is a **chemical compatibility assessment using the best primary sources av
 
 | **Chemical** | **PP Compatibility @ ~25 °C** | **Source/Notes** |
 |--------------|-------------------------------|------------------|
-| **Benzene Sulfonic Acid** (aromatic sulfonic acid) | **D – Severe effect / Not Recommended** | CP Lab Safety ranks *benzene sulfonic acid* as causing *severe effect* on PP — implying PP is **not compatible**. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&amp;utm_source=chatgpt.com)) |
+| **Benzene Sulfonic Acid** (aromatic sulfonic acid) | **D – Severe effect / Not Recommended** | CP Lab Safety ranks *benzene sulfonic acid* as causing *severe effect* on PP — implying PP is **not compatible**. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&utm_source=chatgpt.com)) |
 | **Benezene Sulfonic Acid, 10 %** | **S – Satisfactory / Good resistance** | INEOS PP resistance data shows 10 % benzene sulfonic acid is “satisfactory” at 21 °C. ([INEOS](https://www.ineos.com/globalassets/ineos-group/businesses/ineos-olefins-and-polymers-usa/products/technical-information--patents/ineos-pp-chemical-resistance-guide.pdf?utm_source=chatgpt.com)) |
-| **“Detergents” (generic surfactant category)** | **A – Excellent** | Some PP charts list generic detergents as acceptable/resistant. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoo2vGrt_Gi5voQvr6TkKAM8e5yhoMBsRCU_G-5eh8pi0ei4ei9o&amp;utm_source=chatgpt.com)) |
+| **“Detergents” (generic surfactant category)** | **A – Excellent** | Some PP charts list generic detergents as acceptable/resistant. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoo2vGrt_Gi5voQvr6TkKAM8e5yhoMBsRCU_G-5eh8pi0ei4ei9o&utm_source=chatgpt.com)) |
 
 **Interpretation:**  
-- The *sulfonic acid functional group* in **benzene sulfonic acid** is **aggressive toward PP** by some compatibility charts (Severe Attack). ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&amp;utm_source=chatgpt.com))  
+- The *sulfonic acid functional group* in **benzene sulfonic acid** is **aggressive toward PP** by some compatibility charts (Severe Attack). ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&utm_source=chatgpt.com))  
 - At *low concentration (10 %)* a related sulfonic acid derivative can be *satisfactory* with PP, indicating **concentration matters**. ([INEOS](https://www.ineos.com/globalassets/ineos-group/businesses/ineos-olefins-and-polymers-usa/products/technical-information--patents/ineos-pp-chemical-resistance-guide.pdf?utm_source=chatgpt.com))
 
 ---
@@ -214,7 +214,7 @@ However, we can **use structural and functional similarity** to infer likely beh
 ### 🌀 **Relevant Chemical Trends**
 
 - **Sulfonic acids and sulfonates** (–SO₃H / –SO₃⁻) are **much more chemically active** than simple alcohols/organic acids and can attack polymers depending on chain structure and conditions.  
-- The aromatic *benzene sulfonic acid* moiety listed as *severe attack* on PP suggests the **sulfonic acid group** on an aromatic ring is the problematic functional group. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&amp;utm_source=chatgpt.com))  
+- The aromatic *benzene sulfonic acid* moiety listed as *severe attack* on PP suggests the **sulfonic acid group** on an aromatic ring is the problematic functional group. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&utm_source=chatgpt.com))  
 - **Dodecyl benzene sulfonic acid (DBSA)** couples a **hydrophobic C₁₂ chain** with that sulfonic acid functionality — making it a **strong anionic surfactant** with different solvation behavior than plain benzene sulfonic acid, but the *sulfonic acid group* remains the reactive part. ([GreenChem Industries](https://greenchemindustries.com/entry/238/dodecyl-benzene-sulfonic-acid-%28ddbsa%29?utm_source=chatgpt.com))
 
 ---
@@ -225,14 +225,14 @@ Because **DBSA is an anionic sulfonic acid surfactant**, and **benzene sulfonic 
 
 | **DBSA Concentration** | **Expected PP Compatibility @ ~25 °C** | **Basis / Reasoning** |
 |------------------------|----------------------------------------|-----------------------|
-| **Very dilute aqueous DBSA** (e.g., &lt;1 % active) | **Likely Good / Acceptable** | Surfactants in dilute solution often behave like detergents; generic detergents are PP compatible. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoo2vGrt_Gi5voQvr6TkKAM8e5yhoMBsRCU_G-5eh8pi0ei4ei9o&amp;utm_source=chatgpt.com)) |
+| **Very dilute aqueous DBSA** (e.g., <1 % active) | **Likely Good / Acceptable** | Surfactants in dilute solution often behave like detergents; generic detergents are PP compatible. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoo2vGrt_Gi5voQvr6TkKAM8e5yhoMBsRCU_G-5eh8pi0ei4ei9o&utm_source=chatgpt.com)) |
 | **Moderate DBSA concentrations** (e.g., 5–10 %) | **Uncertain / Potential Moderate Attack** | Analogous benzene sulfonic acid at 10 % was *satisfactory* with PP per INEOS, but DBSA’s long alkyl chain may alter interactions. ([INEOS](https://www.ineos.com/globalassets/ineos-group/businesses/ineos-olefins-and-polymers-usa/products/technical-information--patents/ineos-pp-chemical-resistance-guide.pdf?utm_source=chatgpt.com)) |
-| **Higher DBSA concentrations** (e.g., 20–100 % neat surfactant) | **Potential Not Compatible / Risk of Attack** | Pure benzene sulfonic acid is listed as causing *severe effects* on PP. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&amp;utm_source=chatgpt.com)) |
+| **Higher DBSA concentrations** (e.g., 20–100 % neat surfactant) | **Potential Not Compatible / Risk of Attack** | Pure benzene sulfonic acid is listed as causing *severe effects* on PP. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&utm_source=chatgpt.com)) |
 | **Aqueous DBSA solutions near CMC** | **Likely Good / Acceptable** | Surfactant micelles and water-based systems generally reduce acid activity vs polymer attack, but objective test needed. |  
 
 ---
 
-## 📌 **Practical Notes &amp; Interpretation**
+## 📌 **Practical Notes & Interpretation**
 
 ### 🧪 **No Direct Primary DBSA Data Found**
 There is **no authoritative manufacturer chart** (e.g., INEOS or CP Lab) that explicitly lists *dodecyl benzene sulfonic acid* by name against PP in ambient conditions.
@@ -240,9 +240,9 @@ There is **no authoritative manufacturer chart** (e.g., INEOS or CP Lab) that ex
 This is **significant** — if mainstream chemical resistance charts intended for industrial plastics contained data for DBSA, it would appear alongside other common surfactants. The absence suggests at best *limited dataset availability*.
 
 ### 📊 **Proxy Chemical Evidence**
-- Aromatic **benzene sulfonic acid** is **not compatible** with PP in concentrated form. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&amp;utm_source=chatgpt.com))  
+- Aromatic **benzene sulfonic acid** is **not compatible** with PP in concentrated form. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&utm_source=chatgpt.com))  
 - At **low percentage**, similar sulfonic acid derivatives can be *satisfactory* with PP. ([INEOS](https://www.ineos.com/globalassets/ineos-group/businesses/ineos-olefins-and-polymers-usa/products/technical-information--patents/ineos-pp-chemical-resistance-guide.pdf?utm_source=chatgpt.com))  
-- Generic “detergent” chemicals are often rated *compatible* with PP. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoo2vGrt_Gi5voQvr6TkKAM8e5yhoMBsRCU_G-5eh8pi0ei4ei9o&amp;utm_source=chatgpt.com))
+- Generic “detergent” chemicals are often rated *compatible* with PP. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoo2vGrt_Gi5voQvr6TkKAM8e5yhoMBsRCU_G-5eh8pi0ei4ei9o&utm_source=chatgpt.com))
 
 ### 🤝 **Surfactant Behavior**
 DBSA in water will form **micelles**, dispersions, and acidic conditions — these structural phenomena can influence polymer interaction and typically *reduce* direct acid attack compared to neat sulfonic acid.
@@ -253,18 +253,18 @@ DBSA in water will form **micelles**, dispersions, and acidic conditions — the
 
 | **DBSA Condition** | **Qualitative PP Compatibility** | **Confidence / Notes** |
 |-------------------|-------------------------------|------------------------|
-| **Dilute aqueous DBSA (e.g., detergent strength)** | **Likely Compatible / Good resistance** | As with general detergents in PP. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoo2vGrt_Gi5voQvr6TkKAM8e5yhoMBsRCU_G-5eh8pi0ei4ei9o&amp;utm_source=chatgpt.com)) |
+| **Dilute aqueous DBSA (e.g., detergent strength)** | **Likely Compatible / Good resistance** | As with general detergents in PP. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoo2vGrt_Gi5voQvr6TkKAM8e5yhoMBsRCU_G-5eh8pi0ei4ei9o&utm_source=chatgpt.com)) |
 | **5–10 % DBSA** | **Conditional / Moderate resistance** | Based on proxy 10 % sulfonic acid rating. ([INEOS](https://www.ineos.com/globalassets/ineos-group/businesses/ineos-olefins-and-polymers-usa/products/technical-information--patents/ineos-pp-chemical-resistance-guide.pdf?utm_source=chatgpt.com)) |
-| **High-concentration DBSA** | **Potentially Not Compatible** | Proxy benzene sulfonic acid shows severe attack. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&amp;utm_source=chatgpt.com)) |
+| **High-concentration DBSA** | **Potentially Not Compatible** | Proxy benzene sulfonic acid shows severe attack. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&utm_source=chatgpt.com)) |
 | **Neat / technical DBSA** | **Not recommended without specific test data** | Absence of direct data; caution due to reactive sulfonic group. |
 
 ---
 
 ## 📌 **Citations (Primary Sources)**
 
-- Benzene sulfonic acid causes *severe effect* on PP in CP Lab Safety compatibility chart. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&amp;utm_source=chatgpt.com))  
+- Benzene sulfonic acid causes *severe effect* on PP in CP Lab Safety compatibility chart. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoqdOezA5_-X0jJ0CrOvbkUlBuUYhGmLcQ0xbOQaY8aGaZhcQVG4&utm_source=chatgpt.com))  
 - INEOS PP resin resistance shows *satisfactory* performance with 10 % benzene sulfonic acid at ~21 °C. ([INEOS](https://www.ineos.com/globalassets/ineos-group/businesses/ineos-olefins-and-polymers-usa/products/technical-information--patents/ineos-pp-chemical-resistance-guide.pdf?utm_source=chatgpt.com))  
-- PP compatibility guidance generally notes PP resists detergents/non-oxidizing chemicals. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoo2vGrt_Gi5voQvr6TkKAM8e5yhoMBsRCU_G-5eh8pi0ei4ei9o&amp;utm_source=chatgpt.com))  
+- PP compatibility guidance generally notes PP resists detergents/non-oxidizing chemicals. ([Calpac Lab](https://www.calpaclab.com/polypropylene-chemical-compatibility-chart/?srsltid=AfmBOoo2vGrt_Gi5voQvr6TkKAM8e5yhoMBsRCU_G-5eh8pi0ei4ei9o&utm_source=chatgpt.com))  
 - DBSA is an anionic surfactant with strong detergent properties (source chemical nature info). ([GreenChem Industries](https://greenchemindustries.com/entry/238/dodecyl-benzene-sulfonic-acid-%28ddbsa%29?utm_source=chatgpt.com))
 
 ---
@@ -331,7 +331,7 @@ Based on the above sources:
 | **Exposure Duration in Properly Diluted Star San** | **Likely Silicone Tubing Condition** | **Basis / Evidence** |
 |---------------------------------------------------|--------------------------------------|----------------------|
 | **~5–60 minutes (normal sanitizing contact)** | **No observable degradation** | Manufacturer design (short contact use only) plus community experience shows no damage with short contacts. ([Five Star Chemicals](https://fivestarchemicals.com/faqs?utm_source=chatgpt.com)) |
-| **~1–24 hours** | **Generally safe but not recommended to soak** | Some posts suggest 24–36 h causes precipitation and surface residues; no material failure reported at &lt;1 day. ([Homebrew Talk](https://homebrewtalk.com/threads/starsan-and-silicone-hose.625795/?utm_source=chatgpt.com)) |
+| **~1–24 hours** | **Generally safe but not recommended to soak** | Some posts suggest 24–36 h causes precipitation and surface residues; no material failure reported at <1 day. ([Homebrew Talk](https://homebrewtalk.com/threads/starsan-and-silicone-hose.625795/?utm_source=chatgpt.com)) |
 | **~2–7 days continuous immersion** | **Possible early surface changes** | Reports of white film and minor surface alteration after weeks; some users note problems at ~10–14 days. ([Homebrew Talk](https://homebrewtalk.com/threads/silicon-tubing-and-star-san.660810/?utm_source=chatgpt.com)) |
 | **~10–14+ days** | **Increased risk of physical degradation (brittleness/cracking)** | Community reports of silicone becoming brittle and breaking after ~10–14 days — strong evidence of extended acid exposure effects. ([Homebrew Talk](https://homebrewtalk.com/threads/starsan-and-silicone-hose.625795/?utm_source=chatgpt.com)) |
 | **Weeks to months** | **Progressive deterioration likely, including surface changes and weakening** | Reports of long-term immersion leading to flaking, brittleness, or breakage over months. ([Homebrew Talk](https://homebrewtalk.com/threads/silicon-tubing-and-star-san.660810/?utm_source=chatgpt.com)) |
@@ -372,17 +372,17 @@ When you make **a properly diluted Star San solution** (typically **1 oz of conc
 
 We can illustrate this with basic mass–balance principles:
 
-- Let $m_a$ be the mass of phosphoric acid in the solution (constant as water evaporates).
-- Let $V$ be the solution volume (which *decreases* as water evaporates).
+- Let \( m_a \) be the mass of phosphoric acid in the solution (constant as water evaporates).
+- Let \( V \) be the solution volume (which *decreases* as water evaporates).
 
-Because **concentration** $C$ = $m_a / V$,  
+Because **concentration** \( C \) = \( m_a / V \),  
 if **V decreases**, then **C increases** in direct inverse proportion — i.e., **if half the water evaporates, the phosphoric acid concentration doubles**. This is a fundamental property of non-volatile solutes in evaporating aqueous solutions.
 
 This is not specific to Star San — it’s **basic solution chemistry** that if a non-volatile solute is left behind while water evaporates, its concentration increases.
 
 ### 🧪 What Star San Ingredients Tell Us
 
-- Star San solution **contains phosphoric acid and dodecylbenzenesulfonic acid** when diluted correctly. ([Home &amp; Garden Information Center](https://hgic.clemson.edu/factsheet/cleaning-and-sanitation-for-the-homebrewer/?utm_source=chatgpt.com))  
+- Star San solution **contains phosphoric acid and dodecylbenzenesulfonic acid** when diluted correctly. ([Home & Garden Information Center](https://hgic.clemson.edu/factsheet/cleaning-and-sanitation-for-the-homebrewer/?utm_source=chatgpt.com))  
 - The **effectiveness** of the sanitizer is tied to **acid concentration and pH** (effective only while pH remains below ~3–3.5). ([Homebrew Talk](https://homebrewtalk.com/threads/star-san-solution-shelf-life.459901/?utm_source=chatgpt.com))  
 - As water evaporates, the pH will trend **lower (more acidic)** because the same amount of acid is now in a smaller volume, raising the hydrogen ion activity until equilibrium with buffer systems in the water is reached.
 
@@ -450,11 +450,11 @@ Let's calculate this **step by step**, carefully, using precise reasoning and st
 
 - Phosphoric acid mass = volume × concentration  
 
-$$
-m_{\text{H}_3\text{PO}_4} = 1\,\text{mL} \times 0.093\,\text{g}/100\,\text{mL} 
+\[
+m_\text{H₃PO₄} = 1\,\text{mL} \times 0.093\,\text{g}/100\,\text{mL} 
 = 0.00093\,\text{g} 
 = 0.93\,\text{mg}
-$$
+\]
 
 ✅ So **1 mL of diluted Star San contains ~0.93 mg of phosphoric acid**.
 
@@ -470,9 +470,9 @@ $$
 - Suppose 1 mL of solution spreads over **1 cm²**.  
 - Mass of phosphoric acid per unit area:  
 
-$$
-0.93\,\mathrm{mg/cm^2}
-$$
+\[
+0.93\,\text{mg/cm²}
+\]
 
 - This is extremely small — **less than 1 mg over 1 cm²**, a very thin residue.
 
@@ -546,9 +546,9 @@ Perfect! Let’s carefully calculate **cumulative phosphoric acid deposition** f
 
 As calculated previously:
 
-$$
-m_{\text{H}_3\text{PO}_4\text{ per 1 mL}} = 1\,\text{mL} \times 0.093\,\mathrm{g/100 mL} = 0.00093\,\text{g} = 0.93\,\text{mg}
-$$
+\[
+m_\text{H₃PO₄ per 1 mL} = 1\,\text{mL} \times 0.093\,\text{g/100 mL} = 0.00093\,\text{g} = 0.93\,\text{mg}
+\]
 
 ---
 
@@ -556,17 +556,17 @@ $$
 
 - **Daily application for 1 year:** 365 uses
 
-$$
-m_{\text{cumulative}} = 0.93\,\text{mg} \times 365 \approx 339.45\,\text{mg} \approx 0.34\,\text{g}
-$$
+\[
+m_\text{cumulative} = 0.93\,\text{mg} \times 365 \approx 339.45\,\text{mg} \approx 0.34\,\text{g}
+\]
 
 ✅ So after a year, roughly **0.34 g of phosphoric acid per cm²** would accumulate **if the residue is not wiped off**.
 
 - **If spread over larger areas** (say 100 cm²):
 
-$$
-0.34\,\mathrm{g/cm^2} \div 100 \approx 3.4\,\mathrm{mg/cm^2}
-$$
+\[
+0.34\,\text{g/cm²} \div 100 \approx 3.4\,\text{mg/cm²}
+\]
 
 Still a very small residue per unit area.
 
@@ -589,7 +589,7 @@ Still a very small residue per unit area.
 
   - Concentration in fully dried residue: phosphoric acid is solid and localized; it’s **not dissolved in water**, reducing hydrolysis risk.  
   - Literature suggests that POM begins **minor attack in ~20 % H₃PO₄ over months** at room temperature. ([polymerhandbook.com](https://polymerhandbook.com/))  
-  - In our scenario (~0.093 % initial, cumulative dried residue &lt;0.5 g/cm²), **the effect is negligible**.  
+  - In our scenario (~0.093 % initial, cumulative dried residue <0.5 g/cm²), **the effect is negligible**.  
 ✅ **Impact:** Minimal; POM should remain intact.
 
 ---
@@ -674,7 +674,7 @@ Here’s a clear breakdown:
 | Chemical resistance to dilute phosphoric acid | Excellent | Excellent — similar behavior |
 | Chemical resistance to concentrated phosphoric acid | Excellent | Excellent — similar behavior |
 | Thermal resistance | 250–260 °C continuous use | PEKK higher (up to 305 °C) |
-| Crystallinity &amp; mechanical properties | Semi-crystalline | Higher crystallinity possible depending on grade |
+| Crystallinity & mechanical properties | Semi-crystalline | Higher crystallinity possible depending on grade |
 | Practical effect for Star San residue | No effect | No effect — behaves similarly to PEEK under room temp acid exposure |
 
 ✅ **Bottom line:** For **1 mL/day diluted Star San residue over a year**, **PEEK and POK will behave virtually identically** — both are extremely resistant to phosphoric acid at ambient temperatures. Differences matter mainly in **high-temperature or mechanical-load applications**, not for low-concentration acid residues.
@@ -706,9 +706,9 @@ Perfect! Let’s update the **cumulative phosphoric acid residue table** for **d
 
 **Cumulative phosphoric acid mass:**
 
-$$
-0.93\,\mathrm{mg/day} \times 365\,\text{days} \approx 339.45\,\text{mg} \approx 0.34\,\mathrm{g/cm^2}
-$$
+\[
+0.93\,\text{mg/day} \times 365\,\text{days} \approx 339.45\,\text{mg} \approx 0.34\,\text{g/cm²}
+\]
 
 ---
 
@@ -746,7 +746,6 @@ Yes!
 
 ### 🤖 Assistant
 
-```python
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -774,7 +773,6 @@ plt.ylabel('Cumulative Phosphoric Acid (mg/cm²)')
 plt.legend()
 plt.grid(True)
 plt.show()
-```
 > **Note:** A plot/chart was likely displayed in ChatGPT at this point.
 > This export revision does not include a rendered plot image here.
 > Render the code above and embed the plot output at this location.
@@ -785,7 +783,7 @@ plt.show()
 
 Matplotlib is building the font cache; this may take a moment.
 
-&gt; [Image displayed in ChatGPT]
+<<ImageDisplayed>>
 > **Note:** A plot/chart was likely displayed in ChatGPT at this point.
 > This export revision does not include a rendered plot image here.
 > Render the code above and embed the plot output at this location.
@@ -908,11 +906,11 @@ Yes, please!
 
 ### 🤖 Assistant
 
-&gt; 🎨 **Image generation request**
-&gt;
-&gt; **Prompt:** Technical diagram illustrating degradation mechanisms of silicone tubing and rubber gaskets versus polypropylene/engineering plastics when exposed long-term to acidic surfactant solution (Star San). Left panel: silicone/rubber polymer matrix shown porous and amorphous, with arrows indicating water absorption, surfactant diffusion, swelling, chain mobility, loss of elasticity, microcracks. Labels: low pH stress, surfactant uptake, swelling, embrittlement over time. Right panel: polypropylene / POM / POK crystalline polymer structure, tightly packed chains, minimal penetration, no swelling, chemically inert surface. Neutral scientific style, clean vector schematic, labeled arrows, white background.
-&gt; **Size:** 1024x1024
-&gt; **Images:** 1
+> 🎨 **Image generation request**
+>
+> **Prompt:** Technical diagram illustrating degradation mechanisms of silicone tubing and rubber gaskets versus polypropylene/engineering plastics when exposed long-term to acidic surfactant solution (Star San). Left panel: silicone/rubber polymer matrix shown porous and amorphous, with arrows indicating water absorption, surfactant diffusion, swelling, chain mobility, loss of elasticity, microcracks. Labels: low pH stress, surfactant uptake, swelling, embrittlement over time. Right panel: polypropylene / POM / POK crystalline polymer structure, tightly packed chains, minimal penetration, no swelling, chemically inert surface. Neutral scientific style, clean vector schematic, labeled arrows, white background.
+> **Size:** 1024x1024
+> **Images:** 1
 
 ---
 
@@ -1330,7 +1328,7 @@ If you want **maximum elastomer lifespan**:
 | Component | Proper Use | Poor Use |
 |--------|------------|----------|
 | Nukatap shuttle | 5–10+ years | 1–2 years |
-| Joiner | 3–5 years | &lt;1 year |
+| Joiner | 3–5 years | <1 year |
 | Santoprene seals | 2–5 years | Months |
 
 Replacement seals are considered **wear items**, not failures.
@@ -1614,7 +1612,7 @@ Santoprene seals typically do not.
 
 ### The correct rule is actually:
 
-&gt; **Drain → avoid pooling → allow to dry without repeated re-wetting of the same residue**
+> **Drain → avoid pooling → allow to dry without repeated re-wetting of the same residue**
 
 Most instructions shorten this to “air dry,” but that shorthand hides nuance.
 
@@ -1963,7 +1961,7 @@ This is a classic and very well-studied question, and the answer is **counter-in
 | Property | 40% ethanol | 70% ethanol |
 |-------|-------------|-------------|
 | Vegetative bacteria | Good | Excellent |
-| Yeast &amp; molds | Good | Excellent |
+| Yeast & molds | Good | Excellent |
 | Viruses (enveloped) | Good | Excellent |
 | Bacterial spores | Poor | Poor |
 | Kill speed | Moderate | Fast |
@@ -2061,7 +2059,7 @@ There is **no realistic infection pathway** that 40% fails to block but 70% woul
 ## 7. Practical recommendation for your setup
 
 ### Best airlock fluids ranked
-1. **Sterile water** (boiled &amp; cooled)
+1. **Sterile water** (boiled & cooled)
 2. **Vodka (≈40%)**
 3. **Dilute ethanol (30–40%)**
 4. **Sanitizer solution** (least preferred)
@@ -2106,7 +2104,7 @@ A common ingredient in sanitizers is propan-2-ol (isopropyl alcohol?) which my r
 
 This is an important question, and you’re reading the regulations **correctly** — but the conclusion needs some nuance. The short answer is:
 
-&gt; **Sanitizers containing propan-2-ol (isopropyl alcohol, IPA) should NOT be used on food-contact surfaces unless they are explicitly approved as no-rinse food-contact sanitizers.**
+> **Sanitizers containing propan-2-ol (isopropyl alcohol, IPA) should NOT be used on food-contact surfaces unless they are explicitly approved as no-rinse food-contact sanitizers.**
 
 Let’s unpack this carefully and cleanly.
 
@@ -2325,7 +2323,7 @@ In the **concentrate**:
 After **proper dilution** (e.g. 1–1.5 mL per litre):
 
 - IPA concentration falls to **parts per million (ppm)** levels
-- Often **&lt;100 ppm**, frequently **&lt;50 ppm**
+- Often **<100 ppm**, frequently **<50 ppm**
 
 At these levels:
 - IPA is **toxicologically insignificant**
@@ -2340,7 +2338,7 @@ Food-contact regulations do **not** require that a chemical be “non-toxic in a
 
 They require that:
 
-&gt; **Residues remaining after intended use are below levels of toxicological concern.**
+> **Residues remaining after intended use are below levels of toxicological concern.**
 
 This is why:
 - Cleaning agents may contain toxic components
@@ -2458,7 +2456,7 @@ Ethanol based sanitizers: chemipro DES, everclear diluted to 70% ABV with water.
 
 Below is a **clear, ingredient-by-ingredient comparison** of the sanitizers you asked about — framed around:
 
-🔹 **Active chemistry &amp; MSDS ingredients**  
+🔹 **Active chemistry & MSDS ingredients**  
 🔹 **Food-contact / no-rinse suitability**  
 🔹 **Compatibility with brewing materials** (PP, PET, PS, Santoprene/EPDM, silicone)  
 🔹 **Handling and safety**  
@@ -2542,13 +2540,13 @@ These rely on ethanol’s ability to denature proteins and disrupt cell membrane
 ### A) **Chemipro DES (80% ethanol disinfectant)**
 
 **Ingredients:**  
-- Ready-to-use neutral pH solution with **~80% ethanol**. ([BrewTaurus.com | Brewing Technology](https://brewtaurus.com/products/chemipro-des-spray-750-ml?srsltid=AfmBOoq5IQtxKqeAv-j33xwJd2pPKR_U0D7v50Y_Ichm-OUWZmVSACZR&amp;utm_source=chatgpt.com))
+- Ready-to-use neutral pH solution with **~80% ethanol**. ([BrewTaurus.com | Brewing Technology](https://brewtaurus.com/products/chemipro-des-spray-750-ml?srsltid=AfmBOoq5IQtxKqeAv-j33xwJd2pPKR_U0D7v50Y_Ichm-OUWZmVSACZR&utm_source=chatgpt.com))
 
 **Sanitizing action:**  
-- Broad bactericidal, virucidal, fungicidal efficacy at ~80% ethanol concentration. ([BrewTaurus.com | Brewing Technology](https://brewtaurus.com/products/chemipro-des-spray-750-ml?srsltid=AfmBOoq5IQtxKqeAv-j33xwJd2pPKR_U0D7v50Y_Ichm-OUWZmVSACZR&amp;utm_source=chatgpt.com))
+- Broad bactericidal, virucidal, fungicidal efficacy at ~80% ethanol concentration. ([BrewTaurus.com | Brewing Technology](https://brewtaurus.com/products/chemipro-des-spray-750-ml?srsltid=AfmBOoq5IQtxKqeAv-j33xwJd2pPKR_U0D7v50Y_Ichm-OUWZmVSACZR&utm_source=chatgpt.com))
 
 **Food-contact:**  
-- Product is permitted for food sector use and allowed to dry before food contact. ([BrewTaurus.com | Brewing Technology](https://brewtaurus.com/products/chemipro-des-spray-750-ml?srsltid=AfmBOoq5IQtxKqeAv-j33xwJd2pPKR_U0D7v50Y_Ichm-OUWZmVSACZR&amp;utm_source=chatgpt.com))  
+- Product is permitted for food sector use and allowed to dry before food contact. ([BrewTaurus.com | Brewing Technology](https://brewtaurus.com/products/chemipro-des-spray-750-ml?srsltid=AfmBOoq5IQtxKqeAv-j33xwJd2pPKR_U0D7v50Y_Ichm-OUWZmVSACZR&utm_source=chatgpt.com))  
 - Important: this regulatory approval covers ready-to-use spray on surfaces, not prolonged immersion.
 
 **Material compatibility:**  
@@ -2566,7 +2564,7 @@ These rely on ethanol’s ability to denature proteins and disrupt cell membrane
 ### B) **Everclear / Ethanol diluted to ~70% ABV**
 
 **Chemistry:**  
-- 70% ethanol (v/v) is widely recognized as an effective **surface disinfectant** (used in labs/hospitals). ([Culinary Solvent](https://culinarysolvent.com/blogs/alcohol-for-makers/70-alcohol-solution-using-151-proof-everclear?srsltid=AfmBOoqyomgys3ytnHpW5PyZosnPPAQiRvR_AGzNHtbBst1P83XI_xA5&amp;utm_source=chatgpt.com))
+- 70% ethanol (v/v) is widely recognized as an effective **surface disinfectant** (used in labs/hospitals). ([Culinary Solvent](https://culinarysolvent.com/blogs/alcohol-for-makers/70-alcohol-solution-using-151-proof-everclear?srsltid=AfmBOoqyomgys3ytnHpW5PyZosnPPAQiRvR_AGzNHtbBst1P83XI_xA5&utm_source=chatgpt.com))
 
 **Homebrewing use:**  
 - Can be sprayed on ports, sample valves, external surfaces — works similarly to IPA but with food-safe ethanol. ([Reddit](https://www.reddit.com/r/TheBrewery/comments/17cl6sx/ethyl_alcohol_in_place_of_70_iso/?utm_source=chatgpt.com))
@@ -2588,9 +2586,9 @@ These rely on ethanol’s ability to denature proteins and disrupt cell membrane
 
 | **Sanitizer Type** | **Core Chemistry** | **No-Rinse Food-Contact?** | **Typical Contact Time** | **Best Use** | **Material Safety** |
 |-------------------|-------------------|---------------------------|--------------------------|--------------|--------------------|
-| Star San | Phosphoric + surfactant | Yes | ~60–120 s | Full immersion &amp; spray | Excellent on plastic/stainless |
-| Chemsan | Phosphoric + surfactant + IPA | Yes (per label) | ~2 min | Full immersion &amp; spray | Similar to Star San |
-| Sanipro / StellarSan | Phosphoric + surfactant | Often treated as no-rinse | ~60–120 s | Full immersion &amp; spray | Like Star San |
+| Star San | Phosphoric + surfactant | Yes | ~60–120 s | Full immersion & spray | Excellent on plastic/stainless |
+| Chemsan | Phosphoric + surfactant + IPA | Yes (per label) | ~2 min | Full immersion & spray | Similar to Star San |
+| Sanipro / StellarSan | Phosphoric + surfactant | Often treated as no-rinse | ~60–120 s | Full immersion & spray | Like Star San |
 | Chemipro DES | ~80% ethanol | Yes (surface drying) | ~5 min | Surface/spray | Quick evaporative |
 | Everclear 70% | Ethanol | No formal registration | ~1–3 min | Spot sanitizing | Generally safe, fast evaporation |
 
@@ -2625,11 +2623,11 @@ Injectors, seals, hoses etc. benefit from acid sanitizers because they wet surfa
 
 ---
 
-## ⚠️ Handling &amp; Cautions
+## ⚠️ Handling & Cautions
 
 **Acid sanitisers**
 - Corrosive concentrate → wear gloves/eye protection  
-- Check pH of working solution (&lt;3 for efficacy) ([Chemisphere](https://chemisphereuk.com/wp-content/uploads/simple-file-list/Craft-And-Home-Brewer-Range/Chemsan/Chemsan-Information-Sheet-FAQs-compressed.pdf?utm_source=chatgpt.com))  
+- Check pH of working solution (<3 for efficacy) ([Chemisphere](https://chemisphereuk.com/wp-content/uploads/simple-file-list/Craft-And-Home-Brewer-Range/Chemsan/Chemsan-Information-Sheet-FAQs-compressed.pdf?utm_source=chatgpt.com))  
 - Avoid mixed use with chlorine products (toxic gases)
 
 **Alcohol sanitisers**
@@ -2834,7 +2832,7 @@ Let’s unpack this carefully and reconcile **manufacturer guidance** with **rea
 
 Manufacturer language such as:
 
-&gt; “Avoid prolonged contact with soft metals (e.g. aluminum, copper, brass)”
+> “Avoid prolonged contact with soft metals (e.g. aluminum, copper, brass)”
 
 is **deliberately conservative** and is aimed at:
 
@@ -2844,10 +2842,10 @@ is **deliberately conservative** and is aimed at:
 - **Situations where corrosion matters mechanically or aesthetically**
 
 They are **not saying**:
-&gt; “Instant contact will cause catastrophic failure.”
+> “Instant contact will cause catastrophic failure.”
 
 They are saying:
-&gt; “Do not soak or store these materials in acidic sanitizer.”
+> “Do not soak or store these materials in acidic sanitizer.”
 
 That distinction is crucial.
 
@@ -3013,7 +3011,7 @@ Because:
 - **Yes**, common practices persist because they stay below damage thresholds
 
 Your instinct is exactly right:  
-&gt; *“This works, but probably isn’t what the manufacturer intended.”*
+> *“This works, but probably isn’t what the manufacturer intended.”*
 
 And that’s the correct way to think about it.
 
@@ -3021,7 +3019,7 @@ And that’s the correct way to think about it.
 
 ## 10. Practical rule of thumb (easy to remember)
 
-&gt; **Acid sanitizer + aluminum is fine for seconds, questionable for minutes, bad for hours.**
+> **Acid sanitizer + aluminum is fine for seconds, questionable for minutes, bad for hours.**
 
 If you’d like, next we can:
 - Compare aluminum exposure risk vs iodine vs ethanol
@@ -3050,7 +3048,7 @@ Great question — this is exactly the *right* final risk-framing question to as
 
 **Even in worst-case scenarios, the dominant risk from damaged brewing plastics/elastomers is:**
 
-&gt; **Flavor/aroma faults and mechanical failure — not toxicological harm.**
+> **Flavor/aroma faults and mechanical failure — not toxicological harm.**
 
 True health-relevant contamination from Chemsan-related material degradation in homebrewing conditions is **extremely unlikely**.
 
@@ -3204,7 +3202,7 @@ Not because it’s “toxic”, but because:
 
 # 9. Bottom-line conclusion (clear, honest, calm)
 
-&gt; **Using properly diluted Chemsan with the equipment you’ve described is safe.**
+> **Using properly diluted Chemsan with the equipment you’ve described is safe.**
 
 Even if:
 - A part were mildly damaged
@@ -3341,7 +3339,7 @@ This creates confusion:
 - Pump assembly: fails in months
 
 So people conclude:
-&gt; “The sanitizer ate the sprayer”
+> “The sanitizer ate the sprayer”
 
 Which is **partially true**, but **only because of storage conditions**.
 
@@ -3378,7 +3376,7 @@ Manufacturers know:
 - Replacing pumps under warranty is expensive
 
 So the warning is:
-&gt; “Do not long-term store no-rinse sanitizer”
+> “Do not long-term store no-rinse sanitizer”
 
 Not because sanitizer is unsafe — but because **the sprayer isn’t designed for it**.
 
@@ -3453,7 +3451,7 @@ Different trade-offs.
 
 # One-sentence rule you can remember
 
-&gt; **Spray bottles are tools, not storage vessels.**
+> **Spray bottles are tools, not storage vessels.**
 
 If you want next, we can:
 - Identify **sprayer models/materials that last longest**
@@ -3552,7 +3550,7 @@ This is the more nuanced case, and your concern is justified.
   - Takes time to desorb
 
 ### Critical insight
-&gt; **Even hours of contact are not a chemical safety problem.  
+> **Even hours of contact are not a chemical safety problem.  
 They are a longevity + performance problem.**
 
 ---
@@ -3678,7 +3676,7 @@ But:
 
 # 8. One-sentence rule (fits everything we’ve discussed)
 
-&gt; **Silicone is happiest when it’s either hot-and-wet briefly or clean-and-dry for storage — but not cold-and-wet for long periods.**
+> **Silicone is happiest when it’s either hot-and-wet briefly or clean-and-dry for storage — but not cold-and-wet for long periods.**
 
 ---
 
@@ -3893,7 +3891,7 @@ Commercial breweries:
 - Replace hoses on a schedule
 
 In other words:
-&gt; They control **time, temperature, and exposure cycles**.
+> They control **time, temperature, and exposure cycles**.
 
 Silicone excels when:
 - Heat is available
@@ -3925,7 +3923,7 @@ That’s the difference.
 
 ## 7. One-sentence takeaway
 
-&gt; **Silicone is heat-loving and short-contact tolerant; EVAbarrier is sanitizer-loving and low-permeability; PVC is cheap and sacrificial.**
+> **Silicone is heat-loving and short-contact tolerant; EVAbarrier is sanitizer-loving and low-permeability; PVC is cheap and sacrificial.**
 
 ---
 
@@ -3960,7 +3958,7 @@ I’ll answer **each question directly**, then finish with a **clear recommended
 
 ## First: the governing principle (keep this in mind)
 
-&gt; **Silicone tolerates short, wet exposure to acid sanitizer very well — what it dislikes is prolonged wet contact, drying with residue, and repeated soak/dry cycles.**
+> **Silicone tolerates short, wet exposure to acid sanitizer very well — what it dislikes is prolonged wet contact, drying with residue, and repeated soak/dry cycles.**
 
 Everything below follows from that.
 
@@ -4013,13 +4011,13 @@ This is **acceptable but less ideal**.
 
 | Contact time | Impact |
 |-----------|--------|
-| **&lt; 5 minutes** | Ideal |
+| **< 5 minutes** | Ideal |
 | **5–30 minutes** | Acceptable |
 | **30–120 minutes** | No immediate damage, but avoid routinely |
 | **Hours to days** | Leads to swelling, sliminess, shortened life |
 
 ### Key insight
-&gt; It’s not about safety — it’s about **how often you do it**.
+> It’s not about safety — it’s about **how often you do it**.
 
 A single 1–2 hour exposure won’t ruin a hose, but repeating that cycle will.
 
@@ -4097,11 +4095,11 @@ This is **process improvement**, not fear.
 
 ## 6️⃣ One clear, repeatable SOP (you could tape this to the wall)
 
-&gt; **Silicone hose SOP (Chemsan):**  
-&gt; Sanitize by full immersion for 1–2 minutes → drain → use immediately → rinse with warm water → hang to dry.
+> **Silicone hose SOP (Chemsan):**  
+> Sanitize by full immersion for 1–2 minutes → drain → use immediately → rinse with warm water → hang to dry.
 
 If exterior sanitation isn’t needed:
-&gt; Run sanitizer through only → use → rinse.
+> Run sanitizer through only → use → rinse.
 
 ---
 
@@ -4139,7 +4137,7 @@ Good question — let’s pin this down clearly and consistently, because we’v
 
 In the context of **silicone (and similar elastomers) exposed to acid-based no-rinse sanitizers like Star San / Chemsan**, we defined *prolonged wet contact* as:
 
-&gt; **Continuous contact where the material remains wet with sanitizer for long enough that absorption and residue concentration become the dominant effects, rather than sanitization.**
+> **Continuous contact where the material remains wet with sanitizer for long enough that absorption and residue concentration become the dominant effects, rather than sanitization.**
 
 That translates into **time + conditions**, not just time alone.
 
@@ -4188,7 +4186,7 @@ This is where we see:
 
 A critical part of our definition:
 
-&gt; **Prolonged wet contact includes wet-to-dry cycles where sanitizer is allowed to evaporate on the surface.**
+> **Prolonged wet contact includes wet-to-dry cycles where sanitizer is allowed to evaporate on the surface.**
 
 Even short initial exposure can become “prolonged” if:
 - The sanitizer dries
@@ -4203,11 +4201,11 @@ That’s why:
 
 ## Condensed rule of thumb (the one to remember)
 
-&gt; **If silicone stays wet with sanitizer longer than it takes you to finish the task it was sanitized for, it’s becoming prolonged contact.**
+> **If silicone stays wet with sanitizer longer than it takes you to finish the task it was sanitized for, it’s becoming prolonged contact.**
 
 Or even shorter:
 
-&gt; **Sanitize → use → rinse = fine.  
+> **Sanitize → use → rinse = fine.  
 Sanitize → wait wet = prolonged.**
 
 ---
@@ -4323,7 +4321,7 @@ And **very different** from:
 
 ## About the 5-minute concern
 
-&gt; *“If a keg fill takes more than 5 minutes… are we in danger territory?”*
+> *“If a keg fill takes more than 5 minutes… are we in danger territory?”*
 
 No — and here’s the key distinction:
 
@@ -4382,7 +4380,7 @@ Your process does **none** of those things.
 
 ## Final, very clear conclusion
 
-&gt; **A silicone hose that is briefly sanitized, drained, used for 5–15+ minutes, and then rinsed is not experiencing prolonged wet contact, nor damaging wet–dry cycles — even if part of it air-dries during the transfer.**
+> **A silicone hose that is briefly sanitized, drained, used for 5–15+ minutes, and then rinsed is not experiencing prolonged wet contact, nor damaging wet–dry cycles — even if part of it air-dries during the transfer.**
 
 You are firmly in the **safe and appropriate use case**.
 
@@ -4390,7 +4388,7 @@ You are firmly in the **safe and appropriate use case**.
 
 ## One-sentence rule (refined)
 
-&gt; **Prolonged wet contact requires continuous liquid sanitizer presence — a damp surface during active use does not count.**
+> **Prolonged wet contact requires continuous liquid sanitizer presence — a damp surface during active use does not count.**
 
 ---
 
@@ -4610,7 +4608,7 @@ Soaking airlocks in sanitizer for long periods is unnecessary and counterproduct
 
 # Final synthesis (this ties *everything* together)
 
-&gt; **Your equipment choices and procedures are already well within safe practice. The failures people report arise from storage habits and material misuse, not from the short, controlled sanitizer exposure you’re describing.**
+> **Your equipment choices and procedures are already well within safe practice. The failures people report arise from storage habits and material misuse, not from the short, controlled sanitizer exposure you’re describing.**
 
 You now have:
 - A clear definition of prolonged contact
@@ -4619,7 +4617,7 @@ You now have:
 - Practical SOPs that match commercial logic
 
 If you want, next we can:
-- Formalize all of this into a **one-page sanitation &amp; materials SOP**
+- Formalize all of this into a **one-page sanitation & materials SOP**
 - Finally tackle **polycarbonate siphons and bottling wands**
 - Or design a **“minimum sanitizer exposure” brewery workflow**
 
@@ -4667,7 +4665,7 @@ It is **not**:
 - Migration risk exists **only under certain conditions**
 
 Key point:
-&gt; **BPA concerns are real but context-dependent, and sanitizer exposure is not the primary driver.**
+> **BPA concerns are real but context-dependent, and sanitizer exposure is not the primary driver.**
 
 ---
 
@@ -4808,7 +4806,7 @@ Again: **time + stress + chemistry**.
 
 ## Final synthesis
 
-&gt; **Polycarbonate siphons and bottling wands are safe when used as intended, but they are not forgiving of poor sanitation habits. Their reputation problems come from stress cracking and seal degradation, not acute chemical incompatibility.**
+> **Polycarbonate siphons and bottling wands are safe when used as intended, but they are not forgiving of poor sanitation habits. Their reputation problems come from stress cracking and seal degradation, not acute chemical incompatibility.**
 
 Your instinct to avoid siphons due to oxidation and infection risk is *process-driven and correct*, not fear-based.
 
@@ -5052,7 +5050,7 @@ This is optional — not urgent.
 
 ## Final synthesis
 
-&gt; **Your plan is well-designed, chemically compatible, and gentler on materials than the “bucket soak” method most people use. It will maximize the lifespan of the bottling wand while maintaining excellent sanitation.**
+> **Your plan is well-designed, chemically compatible, and gentler on materials than the “bucket soak” method most people use. It will maximize the lifespan of the bottling wand while maintaining excellent sanitation.**
 
 You’ve now closed the loop on:
 - Silicone
@@ -5156,7 +5154,7 @@ If sanitizer reaches the threads, they are sanitized.
 
 ## 5️⃣ Your proposed method — is it sufficient?
 
-&gt; *Assembling the tap and fermenter, then filling with a few liters of diluted sanitizer and shaking for 1–2 minutes before draining*
+> *Assembling the tap and fermenter, then filling with a few liters of diluted sanitizer and shaking for 1–2 minutes before draining*
 
 ### This is **completely sufficient**, provided:
 
@@ -5274,7 +5272,7 @@ This avoids:
 
 ## Bottom line
 
-&gt; **Your proposed workflow is chemically sound, microbiologically effective, and far gentler on materials than many “traditional” practices.**
+> **Your proposed workflow is chemically sound, microbiologically effective, and far gentler on materials than many “traditional” practices.**
 
 You are:
 - Not under-sanitizing
@@ -5303,7 +5301,7 @@ Let’s unpack it carefully and strip away habit from necessity.
 
 ## Short answer
 
-&gt; **Draining sanitizer through the tap is not strictly required for microbiological safety if you will re-sanitize the tap before first use.**
+> **Draining sanitizer through the tap is not strictly required for microbiological safety if you will re-sanitize the tap before first use.**
 
 However, it **does provide specific, limited benefits**, and it does **not meaningfully increase risk** *if done correctly*.
 
@@ -5362,11 +5360,11 @@ This is not a bad thing — but it *overstates necessity* for careful brewers.
 
 ## Your reasoning is sound — let’s test it
 
-&gt; *“By the time I am ready to take a sample through the tap, I will have to re-sanitize the tap first.”*
+> *“By the time I am ready to take a sample through the tap, I will have to re-sanitize the tap first.”*
 
 Correct.
 
-&gt; *“So does running sanitizer through before use provide any gain?”*
+> *“So does running sanitizer through before use provide any gain?”*
 
 ### Microbiologically:
 - **If you re-sanitize the tap immediately before first contact with beer → no**
@@ -5450,7 +5448,7 @@ This:
 
 ## Bottom line
 
-&gt; **Draining sanitizer through the tap is a convenience and redundancy measure, not a microbiological necessity if you sanitize at point of use.**
+> **Draining sanitizer through the tap is a convenience and redundancy measure, not a microbiological necessity if you sanitize at point of use.**
 
 Your instinct to question it is correct, and your understanding of material compatibility is now strong enough to make **intentional choices rather than follow rote instructions**.
 
@@ -5722,7 +5720,7 @@ So letting sanitizer dry **does not buy you extra safety**, only residue.
 
 ### The correct, precise statement should be:
 
-&gt; **It is chemically safe for sanitizer to dry on PP/HDPE taps, but it is better practice to drain it shortly before use rather than rely on dried residue for sanitation.**
+> **It is chemically safe for sanitizer to dry on PP/HDPE taps, but it is better practice to drain it shortly before use rather than rely on dried residue for sanitation.**
 
 That reconciles everything we’ve discussed.
 
@@ -5833,7 +5831,7 @@ Brewing/lab silicone bungs are typically:
 
 That already tells us something important:
 
-&gt; **These bungs are designed first and foremost for *thermal* sanitation, not chemical soaking.**
+> **These bungs are designed first and foremost for *thermal* sanitation, not chemical soaking.**
 
 This matches how they’re used in labs.
 
@@ -5990,7 +5988,7 @@ That’s why:
 
 ## Bottom line
 
-&gt; **Silicone bungs are best treated like lab equipment: sanitize with heat whenever possible, and use chemical sanitizers only as a short, point-of-use step.**
+> **Silicone bungs are best treated like lab equipment: sanitize with heat whenever possible, and use chemical sanitizers only as a short, point-of-use step.**
 
 This approach:
 - Maximizes longevity
@@ -6019,7 +6017,7 @@ Let’s be very precise about **what actually happens**, what **does not happen*
 
 ## Short answer (plain language)
 
-&gt; **Nothing catastrophic happens.**  
+> **Nothing catastrophic happens.**  
 A silicone bung dipped in properly diluted Star San / Chemsan for 1–2 minutes, then allowed to dry in place:
 - will **not degrade**
 - will **not leach anything harmful**
@@ -6066,7 +6064,7 @@ This is why:
 
 Here’s the key insight:
 
-&gt; **Once dry, nothing new is happening chemically.**
+> **Once dry, nothing new is happening chemically.**
 
 - The bung is not continuing to absorb sanitizer
 - The acid is not “getting stronger”
@@ -6181,7 +6179,7 @@ This is **optimization**, not damage control.
 
 ## Bottom line (clear and honest)
 
-&gt; A silicone bung sanitized once, dried, and left in place for days or weeks is **chemically stable, microbiologically safe, and functionally unchanged**.
+> A silicone bung sanitized once, dried, and left in place for days or weeks is **chemically stable, microbiologically safe, and functionally unchanged**.
 
 Your workflow is:
 - Normal
@@ -6207,7 +6205,7 @@ As a point of clarity, the HDPE fermenter spigot I have appears to have silicone
 
 This is a very good clarification to make — and the short answer is:
 
-&gt; **No, it does not materially change the advice or the conclusions — but it does slightly refine *how* you should apply them.**
+> **No, it does not materially change the advice or the conclusions — but it does slightly refine *how* you should apply them.**
 
 Let’s walk through it carefully and explicitly, so there’s no ambiguity.
 
@@ -6282,7 +6280,7 @@ Again: **not dangerous**, just cumulative.
 
 Your previously described method still stands:
 
-&gt; Assemble spigot → add sanitizer → shake → drain
+> Assemble spigot → add sanitizer → shake → drain
 
 This is **still valid** and effective.
 
@@ -6362,7 +6360,7 @@ They give:
 
 ## 8️⃣ Final, clear conclusion
 
-&gt; **Your fermenter + HDPE spigot + silicone washers is fully compatible with acid no-rinse sanitizers.**
+> **Your fermenter + HDPE spigot + silicone washers is fully compatible with acid no-rinse sanitizers.**
 
 The only change is:
 - Be slightly more intentional about *where* sanitizer goes
@@ -6498,7 +6496,7 @@ These are likely PA12 or PA6/12 blend.
 
 This is actually the *most important* part — and the good news is:
 
-&gt; **Your sanitation method is exactly how this device is intended to be used.**
+> **Your sanitation method is exactly how this device is intended to be used.**
 
 KegLand’s design assumptions:
 - Sanitized *assembled*
@@ -6521,7 +6519,7 @@ You are not doing any of those.
 
 ---
 
-## 6️⃣ About sanitizer residue &amp; air drying (POK section)
+## 6️⃣ About sanitizer residue & air drying (POK section)
 
 This ties directly back to your earlier concern about:
 - Surfactant concentration
@@ -6582,7 +6580,7 @@ Optional (once every many batches):
 
 ## ✅ Final conclusion
 
-&gt; **Your sanitation and use plan for the RAPT Pill is fully compatible with Nylon 12, POK, EPDM, and nylon seals.**
+> **Your sanitation and use plan for the RAPT Pill is fully compatible with Nylon 12, POK, EPDM, and nylon seals.**
 
 There is:
 - No meaningful chemical degradation risk
@@ -6794,7 +6792,7 @@ Occasional sanitizing of small surfaces (keg posts, sample ports, faucet handles
 
 ---
 
-## 🧠 **Materials &amp; Compatibility Considerations**
+## 🧠 **Materials & Compatibility Considerations**
 
 ### 🍶 Acid Sanitizer Interaction  
 - **Trigger bottles and manual sprayers** are generally made from **polyethylene/PP plastics**, which are resistant to dilute phosphoric acid.  
@@ -6866,13 +6864,13 @@ I’ll focus on **materials compatibility**, **intended use**, and **strengths/w
 
 ## 🧴 1) **Birchmeier McProper Plus P / 360° – Professional Hand Sprayer**
 
-<img src="https://static01.galaxus.com/productimages/5/2/1/9/2/2/2/8/2/1/4/6/0/1/5/7/9/4/8/9056ae80-47c9-4f25-85dd-357630e2ad21_cropped.jpg_sea.jpeg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://static01.galaxus.com/productimages/5/2/1/9/2/2/2/8/2/1/4/6/0/1/5/7/9/4/8/9056ae80-47c9-4f25-85dd-357630e2ad21_cropped.jpg_sea.jpeg" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://www.birchmeier.us/web/global/produkte/mcproper-plus-p/11984001-McProper-Plus-P_LR.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://www.birchmeier.us/web/global/produkte/mcproper-plus-p/11984001-McProper-Plus-P_LR.jpg" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://www.birchmeier.us/web/global/produkte/super-mcproper-plus/11916301-Super-McProper-Plus.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://www.birchmeier.us/web/global/produkte/super-mcproper-plus/11916301-Super-McProper-Plus.jpg" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://www.birchmeier.us/web/global/produkte/mcproper-plus-e/11985001-McProper-Plus-E_LR.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://www.birchmeier.us/web/global/produkte/mcproper-plus-e/11985001-McProper-Plus-E_LR.jpg" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
 **Key facts**
 - Professional 0.5 L hand sprayer with adjustable/closable nozzle suitable for acidic products (dilute acids, disinfectants). ([birchmeier.com](https://www.birchmeier.com/en/content/produkte/mcproper-plus-p/index.php?utm_source=chatgpt.com))
@@ -6897,13 +6895,13 @@ Birchmeier explicitly lists **acidic products and disinfectants** in its compati
 
 ## 🧴 2) **Birchmeier Foxy Plus 360 Direction Spray Bottle**
 
-<img src="https://m.media-amazon.com/images/I/517U20eFX2L._AC_UF894%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://m.media-amazon.com/images/I/517U20eFX2L._AC_UF894%2C1000_QL80_.jpg" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://www.birchmeier.us/web/global/produkte/foxy-plus/10937507FoxyPlus.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://www.birchmeier.us/web/global/produkte/foxy-plus/10937507FoxyPlus.jpg" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://m.media-amazon.com/images/I/51LkJ%2BTLcWL.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://m.media-amazon.com/images/I/51LkJ%2BTLcWL.jpg" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://www.consolidatedplastics.com/cdn/shop/products/0d7510d7b6364d98b13b9868b1389718.thumbnail.0000000000_1800x1800.jpg?v=1675797931" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://www.consolidatedplastics.com/cdn/shop/products/0d7510d7b6364d98b13b9868b1389718.thumbnail.0000000000_1800x1800.jpg?v=1675797931" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
 This is a **classic professional trigger sprayer** from Birchmeier. It’s similar to McProper Plus P but not always marketed with explicit chemical-resistance labeling.
 
@@ -6913,7 +6911,7 @@ This is a **classic professional trigger sprayer** from Birchmeier. It’s simil
 - Adjustable nozzle for mist → stream
 
 **Compatibility notes**
-Birchmeier sprayers overall are rated for **disinfection &amp; acidic products**, but specifics vary by model. McProper Plus P explicitly calls out **suitability for acids**, whereas Foxy Plus often appears without detailed chemistry text — implying more general use. ([birchmeier.com](https://www.birchmeier.com/en/content/produkte/mcproper-plus-p-foam/index.php?utm_source=chatgpt.com))
+Birchmeier sprayers overall are rated for **disinfection & acidic products**, but specifics vary by model. McProper Plus P explicitly calls out **suitability for acids**, whereas Foxy Plus often appears without detailed chemistry text — implying more general use. ([birchmeier.com](https://www.birchmeier.com/en/content/produkte/mcproper-plus-p-foam/index.php?utm_source=chatgpt.com))
 
 **Takeaway**
 McProper Plus P has **clear published claims for acid compatibility**; Foxy Plus likely *works fine* in practice, but McProper Plus P has stronger documentation behind it.
@@ -6922,13 +6920,13 @@ McProper Plus P has **clear published claims for acid compatibility**; Foxy Plus
 
 ## 🧴 3) **KegLand Power Sprayer 1 L**
 
-<img src="https://kegland.eu/cdn/shop/files/KL40860-1LPowerSprayer_USBType-C_-03-White.jpg?v=1730731078&width=1445" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://kegland.eu/cdn/shop/files/KL40860-1LPowerSprayer_USBType-C_-03-White.jpg?v=1730731078&width=1445" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://morebeer.com/cdn/shop/files/61611.png?v=1760501479" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://morebeer.com/cdn/shop/files/61611.png?v=1760501479" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://morebeer.com/cdn/shop/files/61612.png?v=1760501479" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://morebeer.com/cdn/shop/files/61612.png?v=1760501479" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://www.homebrewfinds.com/wp-content/uploads/2025/01/keglandpowersprayerwms.png" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://www.homebrewfinds.com/wp-content/uploads/2025/01/keglandpowersprayerwms.png" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
 **Best for:** spraying larger areas or repeatedly wetting fittings.
 
@@ -6949,13 +6947,13 @@ In practice, dilute acid sanitizers are **not highly aggressive** — the proble
 
 ## 🧴 4) **Basic 0.5 L Sprayflaska / Generic Bottle**
 
-<img src="https://m.media-amazon.com/images/I/61g56TI6pPL.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://m.media-amazon.com/images/I/61g56TI6pPL.jpg" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://morebeer.com/cdn/shop/files/34910.png?v=1760660594" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://morebeer.com/cdn/shop/files/34910.png?v=1760660594" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://m.media-amazon.com/images/I/71AdIP0aeJL.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://m.media-amazon.com/images/I/71AdIP0aeJL.jpg" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
-<img src="https://cdn11.bigcommerce.com/s-neo29sbo9q/images/stencil/1280x1280/products/6280/22558/3493B24-WB__05710.1537454246.jpg?c=2" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img src="https://cdn11.bigcommerce.com/s-neo29sbo9q/images/stencil/1280x1280/products/6280/22558/3493B24-WB__05710.1537454246.jpg?c=2" alt="Image" style="height:200px;width:auto;max-width:100%;" />
 
 **Pros**
 - Very low cost  
@@ -6973,11 +6971,11 @@ In practice, dilute acid sanitizers are **not highly aggressive** — the proble
 
 ---
 
-## 🧴 Quick Compatibility &amp; Best-Use Summary
+## 🧴 Quick Compatibility & Best-Use Summary
 
 | Sprayer | **Chemical Suitability w/ Dilute Acid Sanitizers** | **Best Brewing Tasks** | **Notes** |
 |----------|--------------------------------------------------|-------------------------|-------------|
-| **Birchmeier McProper Plus P** | ★★★★☆ – Explicitly rated for acids/disinfectants ([birchmeier.com](https://www.birchmeier.com/en/content/produkte/mcproper-plus-p/index.php?utm_source=chatgpt.com)) | Tap &amp; part sanitizing (targeted) | Best documented option |
+| **Birchmeier McProper Plus P** | ★★★★☆ – Explicitly rated for acids/disinfectants ([birchmeier.com](https://www.birchmeier.com/en/content/produkte/mcproper-plus-p/index.php?utm_source=chatgpt.com)) | Tap & part sanitizing (targeted) | Best documented option |
 | **Birchmeier Foxy Plus** | ★★★★☆ – General pro sprayer; likely suited for acids | General sanitizing | Great all-around choice |
 | **KegLand Power Sprayer 1 L** | ★★★☆☆ – No published spec, shows user reports of failure | Large surfaces, lines | Rinse after use |
 | **Basic 0.5 L Sprayflaska** | ★★☆☆☆ – No published spec | Occasional small tasks | Replace more often |
@@ -6993,7 +6991,7 @@ Birchmeier McProper Plus P is literally **designed for acidic products and disin
 - The bottle can spray at any angle without trapped air problems  
 - Internal components are robust
 
-### Material stress &amp; longevity  
+### Material stress & longevity  
 None of these bottles are designed to **store acid sanitizer indefinitely** — the weak points are always the pump seals and valves — but with **rinse-after-use and no long-term storage**, compatibility concerns are minimal.
 
 ---
@@ -7120,7 +7118,7 @@ Only relevant if:
 - Spraying continuously in a tiny, unventilated space
 
 For normal brewing use:
-&gt; **No respiratory PPE is required**
+> **No respiratory PPE is required**
 
 ---
 
@@ -7148,7 +7146,7 @@ That’s why breweries and commercial kitchens use similar sanitizers on food-co
 
 Because we’re trained to think:
 
-&gt; “Acid + foam = dangerous chemical”
+> “Acid + foam = dangerous chemical”
 
 But in reality:
 - Star San foam is **mostly air + surfactant**
@@ -7323,10 +7321,10 @@ These all have:
 
 Commercial SOPs usually say:
 
-&gt; “Clean → sanitize → **drain** → assemble”
+> “Clean → sanitize → **drain** → assemble”
 
 Not:
-&gt; “Rinse with sterile water”
+> “Rinse with sterile water”
 
 Why?
 - Rinsing reintroduces contamination risk
@@ -7339,8 +7337,8 @@ Why?
 
 You noticed a contradiction:
 
-&gt; “Air drying on PP/HDPE is fine”  
-&gt; “Do not let sanitizer dry inside taps”
+> “Air drying on PP/HDPE is fine”  
+> “Do not let sanitizer dry inside taps”
 
 Both are true because:
 
@@ -7399,7 +7397,7 @@ Your earlier instinct about **multiple hoses and rinsing between uses** was exac
 
 ## 9️⃣ Final mental model (this helps a lot)
 
-&gt; **No-rinse sanitizers are designed to leave a *film*, not a *pool*.**
+> **No-rinse sanitizers are designed to leave a *film*, not a *pool*.**
 
 If liquid can:
 - Pool
@@ -7719,7 +7717,7 @@ Let’s unpack it carefully and tie it back to everything we’ve discussed.
   - Is now hidden inside the connection
 
 ### Gut instinct
-&gt; “That trapped area wasn’t sanitized — is this dangerous?”
+> “That trapped area wasn’t sanitized — is this dangerous?”
 
 ### Reality
 **No, not in this context**, for three key reasons.
@@ -7837,10 +7835,10 @@ Then you are already within safe practice.
 Correct — and **that’s okay**.
 
 Sanitation is not about:
-&gt; “Every molecule touched sanitizer”
+> “Every molecule touched sanitizer”
 
 It’s about:
-&gt; “No viable growth opportunity exists before beer takes over”
+> “No viable growth opportunity exists before beer takes over”
 
 And in this geometry:
 - There is no growth window
@@ -7909,7 +7907,7 @@ You’re doing this *right*.
 
 ### 👤 User
 
-We’ve talked about stainless steel parts and you’ve said, if I remember, that leaving stainless steel (304? 316?) in prolonged wet contact is not recommended … I’ve also read - here: https://kegland.com.au/products/stellarsan-sanitiser-500ml-phosphoric-based-similar-to-starsan?_pos=6&amp;_psq=stell&amp;_ss=e&amp;_v=1.0  the following 
+We’ve talked about stainless steel parts and you’ve said, if I remember, that leaving stainless steel (304? 316?) in prolonged wet contact is not recommended … I’ve also read - here: https://kegland.com.au/products/stellarsan-sanitiser-500ml-phosphoric-based-similar-to-starsan?_pos=6&_psq=stell&_ss=e&_v=1.0  the following 
 
 “Unlike other harsh chemical sanitisers StellarSan is a non-staining, safe stainless steel, and stable over a wide range of temperatures. 
 Phosphoric acid which is in this formulation also helps keep your stainless in good condition and will improve the stainless properties.  More information about this can be found here:
@@ -7937,7 +7935,7 @@ I’ll be precise and cite metallurgy fundamentals plus widely accepted industry
 **Stainless steel** (often 304 or 316 in brewing hardware) is not actually “stainless” by itself — it’s corrosion-resistant because it forms a highly stable **chromium oxide passive layer** on its surface.
 
 - **304 SS** ≈ 18% Cr, 8% Ni  
-- **316 SS** ≈ 16–18% Cr, 10–14% Ni, &lt;= 3% Mo
+- **316 SS** ≈ 16–18% Cr, 10–14% Ni, <= 3% Mo
 
 The **chromium oxide layer** is what protects the steel from rust.
 
@@ -7962,7 +7960,7 @@ At proper sanitizer dilutions:
 
 The reaction is *not* a dramatic chemical passivation reaction — it is essentially:
 
-&gt; **Acid dissolving loosely bound iron particles on the surface**, leaving behind or exposing the chromium-rich passive layer.
+> **Acid dissolving loosely bound iron particles on the surface**, leaving behind or exposing the chromium-rich passive layer.
 
 This is the same principle used when metal finishers “pick leach” or “bright dip” steel, but those processes use stronger acids / controlled baths.
 
@@ -8004,7 +8002,7 @@ Phosphoric acid sanitizers do *clean*, but are **not designed to chemically “i
 
 The marketing statement:
 
-&gt; “Phosphoric acid … helps keep your stainless in good condition and will improve the stainless properties”
+> “Phosphoric acid … helps keep your stainless in good condition and will improve the stainless properties”
 
 should be read as:
 
@@ -8016,7 +8014,7 @@ should be read as:
 - Sanitizer permanently increases corrosion resistance
 
 It’s more like saying:
-&gt; “Used correctly, StellarSan won’t harm steel and can clean surface contaminants.”
+> “Used correctly, StellarSan won’t harm steel and can clean surface contaminants.”
 
 This aligns with what many homebrewers observe: a clean sanitizer bucket may slightly brighten steel surfaces.
 
@@ -8040,7 +8038,7 @@ This aligns with what many homebrewers observe: a clean sanitizer bucket may sli
 - Deposits from evaporation (not structural corrosion)
 
 This is why you often see advice like:
-&gt; “Do not leave sanitizer in prolonged contact with metal surfaces.”
+> “Do not leave sanitizer in prolonged contact with metal surfaces.”
 
 This is **safe practice**, not because sanitizer “attacks stainless” disastrously — but because metal + water + acid for days → surface changes over time.
 
@@ -8088,7 +8086,7 @@ Phosphoric acid can *clean* by removing iron encroachments that compromise passi
 - The effect is *cleaning*, not alloy alteration
 
 So the marketing claim should be read as:
-&gt; It helps maintain the **appearance** and **cleanliness** of stainless by removing surface contaminants that mask its protection.
+> It helps maintain the **appearance** and **cleanliness** of stainless by removing surface contaminants that mask its protection.
 
 This is *true*, but not the same as industrial passivation.
 
@@ -8140,7 +8138,7 @@ Both are very benign, but the *“puddle sitting long term”* scenario is why w
 ▶ **Occasional cosmetic dulling from repeated long puddles is the only practical risk, and it’s easy to avoid.**
 
 StellarSan’s marketing line about “helping your stainless” is essentially saying:
-&gt; “It cleans without hurting the steel,”  
+> “It cleans without hurting the steel,”  
 which is accurate in practice.
 
 ---
@@ -8250,7 +8248,7 @@ This is why **aluminum foil + sanitizer** works briefly, but soaking cans or alu
 
 ---
 
-## 3️⃣ Spill &amp; handling risk: reality check
+## 3️⃣ Spill & handling risk: reality check
 
 ### Compare a sanitizer spill to…
 
@@ -8389,8 +8387,8 @@ This is an *excellent* question, and you’ve put your finger on one of the bigg
 
 Short answer (then we’ll go deep):
 
-&gt; **Rinsing a sanitized surface with water is not inherently unsafe**.  
-&gt; It becomes unsafe **only when the water is microbiologically uncontrolled at the moment it matters**.
+> **Rinsing a sanitized surface with water is not inherently unsafe**.  
+> It becomes unsafe **only when the water is microbiologically uncontrolled at the moment it matters**.
 
 Now let’s reconcile the two practices properly.
 
@@ -8402,7 +8400,7 @@ The advice is shorthand, not a law of physics.
 
 What it *actually* means is:
 
-&gt; **Do not rinse with *unknown* or *uncontrolled* water immediately before wort/beer contact.**
+> **Do not rinse with *unknown* or *uncontrolled* water immediately before wort/beer contact.**
 
 The risk is not the *act of rinsing*.
 The risk is **introducing microbes at the last moment before exposure to fermentable sugars**.
@@ -8572,10 +8570,10 @@ Think in terms of **who gets there first**:
 - Yeast → dominant environment
 
 You want:
-&gt; **Sanitizer → wort → yeast**
+> **Sanitizer → wort → yeast**
 
 You don’t want:
-&gt; **Sanitizer → water → wort**
+> **Sanitizer → water → wort**
 
 ---
 
@@ -8620,7 +8618,7 @@ Let’s be precise.
 
 ## Short answer (clear and honest)
 
-&gt; **Rinsing a sanitized fermenter with high-quality water and immediately filling with wort and pitching yeast is microbiologically safe in practice.**
+> **Rinsing a sanitized fermenter with high-quality water and immediately filling with wort and pitching yeast is microbiologically safe in practice.**
 
 It is **not best practice**, but it is **not meaningfully risky** when done correctly.
 
@@ -8633,7 +8631,7 @@ You’ve stacked *all* the protective factors correctly:
 ### ✅ Water quality
 - Municipal (chlorinated/chloraminated)
 - Bottled
-- Or boiled &amp; cooled
+- Or boiled & cooled
 
 These all have **very low microbial load**.
 
@@ -8718,10 +8716,10 @@ Risk compounds quietly.
 
 If you did this:
 
-&gt; *“I rinsed, drained completely, then immediately filled with wort”*
+> *“I rinsed, drained completely, then immediately filled with wort”*
 
 That’s very different from:
-&gt; *“I rinsed and left a thin water film everywhere”*
+> *“I rinsed and left a thin water film everywhere”*
 
 Thin films allow surface colonization.
 Bulk liquid addition dilutes risk.
@@ -8733,7 +8731,7 @@ Bulk liquid addition dilutes risk.
 If you choose to rinse anyway, do it **deliberately**:
 
 ### Best-case approach
-1. Use **boiled &amp; cooled** or fresh municipal water
+1. Use **boiled & cooled** or fresh municipal water
 2. Drain completely
 3. Do **not** let sit
 4. Fill with wort immediately
@@ -8768,8 +8766,8 @@ It’s a **process-robust choice**, not a magic chemical one.
 
 ## Bottom line (no hedging)
 
-&gt; **Yes, your proposed process is acceptable and unlikely to cause infection.**  
-&gt; It is simply less robust than leaving sanitizer residue.
+> **Yes, your proposed process is acceptable and unlikely to cause infection.**  
+> It is simply less robust than leaving sanitizer residue.
 
 If you were brewing at home with good water and prompt yeast pitching, I would not expect infections from this practice.
 
@@ -8958,7 +8956,7 @@ That’s why **internal sanitization immediately before transfer** matters.
 
 ---
 
-## Best-practice recommendation (simple &amp; minimal)
+## Best-practice recommendation (simple & minimal)
 
 If I had your setup and priorities:
 
@@ -9046,12 +9044,12 @@ This:
 
 Once the fermenter contains wort or beer:
 
-&gt; ❌ **You cannot do a true flow-through sanitizer step without contaminating the beer.**
+> ❌ **You cannot do a true flow-through sanitizer step without contaminating the beer.**
 
 Period.
 
 So if someone says:
-&gt; “Just run sanitizer through the tap before transfer”
+> “Just run sanitizer through the tap before transfer”
 
 …**that is only correct if the fermenter is empty**.
 
@@ -9063,8 +9061,8 @@ You were absolutely right to question this.
 
 When the fermenter is full, the goal changes:
 
-&gt; You are no longer “sanitizing the whole tap”  
-&gt; You are **preventing contamination from entering the beer**
+> You are no longer “sanitizing the whole tap”  
+> You are **preventing contamination from entering the beer**
 
 That’s a different objective.
 
@@ -9147,8 +9145,8 @@ Commercial breweries do this routinely.
 
 ## So the corrected, precise rule is:
 
-&gt; **Flow-through sanitizer is for empty fermenters only.**  
-&gt; **For full fermenters, sanitize the outlet and discard the first pour.**
+> **Flow-through sanitizer is for empty fermenters only.**  
+> **For full fermenters, sanitize the outlet and discard the first pour.**
 
 If someone doesn’t make that distinction, the advice is incomplete.
 
@@ -9157,7 +9155,7 @@ If someone doesn’t make that distinction, the advice is incomplete.
 ## Reconciliation with earlier advice (important)
 
 You were right to flag:
-&gt; “Don’t let sanitizer dry inside the tap”
+> “Don’t let sanitizer dry inside the tap”
 
 That advice applies to:
 - Empty fermenters
@@ -9349,7 +9347,7 @@ Exactly the same logic applies here.
 
 ## Bottom line (precise and honest)
 
-&gt; **ChemiPro DES is safe for tap internals but unreliable at sanitizing them unless full wetting is guaranteed.**
+> **ChemiPro DES is safe for tap internals but unreliable at sanitizing them unless full wetting is guaranteed.**
 
 That’s why:
 - It’s fine for outlets and handles
@@ -9425,7 +9423,7 @@ This is why:
 Because many instructions are written from a **maximalist safety mindset**, not a risk-weighted one.
 
 Think of it as:
-&gt; “Reduce *every controllable variable*, even if the remaining risk is already very small.”
+> “Reduce *every controllable variable*, even if the remaining risk is already very small.”
 
 That doesn’t mean both steps are *necessary*.
 
@@ -9481,7 +9479,7 @@ This step makes sense.
 
 ## Key point: boiling alone is sufficient for hop bags
 
-&gt; **If you boil hop bags, additional sanitizer soaking provides no meaningful extra protection.**
+> **If you boil hop bags, additional sanitizer soaking provides no meaningful extra protection.**
 
 Boiling:
 - Is more effective than sanitizer
@@ -9557,7 +9555,7 @@ But commercial breweries:
 
 ## Bottom line (clear and grounded)
 
-&gt; Dry hopping does not require sterility — it requires *reasonable hygiene*.
+> Dry hopping does not require sterility — it requires *reasonable hygiene*.
 
 Boiling **or** sanitizing is enough for equipment.  
 Boiling is superior.  
@@ -9584,7 +9582,7 @@ This is a *really* good question — and it gets to the heart of **why brewing a
 
 Short answer up front:
 
-&gt; **Soaking adjuncts in spirits is not true sanitation in the strict sense — it is risk reduction that is “good enough” in beer.**
+> **Soaking adjuncts in spirits is not true sanitation in the strict sense — it is risk reduction that is “good enough” in beer.**
 
 Now let’s unpack *why 40% alcohol still works* in this context, and where its limits are.
 
@@ -9692,7 +9690,7 @@ Spirits strike a **balance**:
 
 ### Oak cubes/chips
 - Already relatively low risk
-- Ethanol extracts lactones &amp; tannins
+- Ethanol extracts lactones & tannins
 - Often already heat-treated
 
 ### Cacao nibs
@@ -9711,7 +9709,7 @@ Time matters a lot.
 - Longer is better
 - Many people soak for weeks
 
-Short soaks (&lt;1 hour) at 40% are **not sufficient**.
+Short soaks (<1 hour) at 40% are **not sufficient**.
 
 ---
 
@@ -9744,7 +9742,7 @@ This is why the method persists — it works in practice.
 
 ## 9. Bottom line (clear and honest)
 
-&gt; Soaking adjuncts in 40% spirits is **not sterilization**, but it is **effective risk reduction** when combined with beer’s natural protections.
+> Soaking adjuncts in 40% spirits is **not sterilization**, but it is **effective risk reduction** when combined with beer’s natural protections.
 
 It:
 - Lowers microbial load
@@ -9785,7 +9783,7 @@ Then when it’s time to transfer from the fermenter:
 
 The spigot is sanitized initially before adding wort by running sanitizer though. It’s never sanitized again though - not the insides or even the external barb. At best the silicone hose is fully sanitized by soaking, but that’s it
 
-Similarly this instruction (https://www.koksbryggeriet.se/cgi-bin/ibutik/AIR_ibutik.fcgi?funk=Webbsida&amp;ID=20116) doesn’t appear to sanitize the tap or bottling want AT ALL!!!
+Similarly this instruction (https://www.koksbryggeriet.se/cgi-bin/ibutik/AIR_ibutik.fcgi?funk=Webbsida&ID=20116) doesn’t appear to sanitize the tap or bottling want AT ALL!!!
 
 ---
 
@@ -9820,7 +9818,7 @@ Once beer occupies the tap internals, **new contamination cannot easily establis
 ### ② Nothing touches the tap internals during fermentation
 Note what they are *very careful* about:
 
-&gt; “carefully thread the hose onto the fermentation bucket tap, without touching the bottom of the hose.”
+> “carefully thread the hose onto the fermentation bucket tap, without touching the bottom of the hose.”
 
 That’s doing a lot of work.
 
@@ -9835,7 +9833,7 @@ They are **not assuming sterility**, just *containment*.
 ### ③ Risk tolerance is high for beginners
 Beginner kits are designed so that:
 - 99% success is acceptable
-- Simplicity &gt; theoretical perfection
+- Simplicity > theoretical perfection
 - Fewer steps = fewer mistakes
 
 Every extra sanitation step:
@@ -9868,7 +9866,7 @@ This is why **commercial breweries often don’t re-sanitize valves between ever
 
 This line matters:
 
-&gt; “Open the tap for a short moment to soak it too.”
+> “Open the tap for a short moment to soak it too.”
 
 This ensures:
 - Sanitizer contacts **all internal surfaces**
@@ -9963,7 +9961,7 @@ So instructions are simplified to **robust minimums**.
 
 You’re not wrong to think:
 
-&gt; “Shouldn’t the tap be sanitized again?”
+> “Shouldn’t the tap be sanitized again?”
 
 From a **theoretical microbiology perspective** — yes.
 
@@ -10011,15 +10009,15 @@ And that’s exactly where experienced brewers end up.
 
 In the context we’ve established, what can you tell me about the following products internal, but a focus on seals - considering their materials and where they are used (kegs, fermenters, under compression, under stress  or pressure etc) 
 
-https://kegland.com.au/products/seal-kit-for-cornelius-type-kegs-with-low2-yellow-o-ring-ball-lock-or-pin-lock-kegs?_pos=3&amp;_sid=9d30c6770&amp;_ss=r
+https://kegland.com.au/products/seal-kit-for-cornelius-type-kegs-with-low2-yellow-o-ring-ball-lock-or-pin-lock-kegs?_pos=3&_sid=9d30c6770&_ss=r
 
-https://kegland.com.au/products/nukatap-seal-kit-gen3-pok-for-ss-non-fc-taps?_pos=12&amp;_sid=9d30c6770&amp;_ss=r
+https://kegland.com.au/products/nukatap-seal-kit-gen3-pok-for-ss-non-fc-taps?_pos=12&_sid=9d30c6770&_ss=r
 
-DuoTight in general but an example is https://kegland.com.au/products/duotight-8mm-5-16-female-x-3-8-male-thread-with-o-ring?_pos=169&amp;_sid=ac586a8e1&amp;_ss=r
+DuoTight in general but an example is https://kegland.com.au/products/duotight-8mm-5-16-female-x-3-8-male-thread-with-o-ring?_pos=169&_sid=ac586a8e1&_ss=r
 
-https://kegland.com.au/products/nukatap-mini-tap-only?_pos=86&amp;_sid=ac586a8e1&amp;_ss=r
+https://kegland.com.au/products/nukatap-mini-tap-only?_pos=86&_sid=ac586a8e1&_ss=r
 
-https://kegland.com.au/products/bevpump-with-12v-power-supply-10psi-auto-cutoff?_pos=139&amp;_sid=ac586a8e1&amp;_ss=r
+https://kegland.com.au/products/bevpump-with-12v-power-supply-10psi-auto-cutoff?_pos=139&_sid=ac586a8e1&_ss=r
 
 I include the NukaTap Mini as we have discussed Santoprene and I am not sure if the following description of the NukaTap Mini disagrees with our previous conclusion 
 “Unlike other designs the Nukatap Mini body is made from POK making it strong, robust and able to be autoclaved.  The seals are also over-molded from Santoprene® making them hard wearing so they will literally last for the lifetime of the tap without the need for replacement. Santoprene® and POK both have excellent resistance to chemicals such as caustic soda, peroxide, phosphoric acid, lactic acid, citric acid, acetic acid, and all common chemicals sold and used in the beverage industry.  The seals internally in are over-molded meaning NO fissures or cracks exist for bacteria, crud or yeast to hide.”
@@ -10145,7 +10143,7 @@ Santoprene is *excellent* when properly engineered — Nukatap is an example of 
 
 **Materials**
 - Body: **POM (acetal)** or similar
-- Collet &amp; internals: POM
+- Collet & internals: POM
 - O-ring: **EPDM**
 
 **Stress environment**
@@ -10327,7 +10325,7 @@ They are contrasting this material against silicone:
 - Silicone behaves differently under stress and chemical exposure
 
 The implication:
-&gt; They’re *not* talking about silicone — they’re talking about a **different synthetic rubber**
+> They’re *not* talking about silicone — they’re talking about a **different synthetic rubber**
 
 ---
 
@@ -10412,7 +10410,7 @@ So the balance of evidence says:
   - Disconnect seals under pressure
 
 Long story short:
-&gt; **EPDM is one of the most substantively appropriate elastomers for keg seals, and is likely exactly what “Synthetic M-Class and cross-linked elastomer” refers to.**
+> **EPDM is one of the most substantively appropriate elastomers for keg seals, and is likely exactly what “Synthetic M-Class and cross-linked elastomer” refers to.**
 
 ---
 
@@ -10432,7 +10430,7 @@ But **when you see that wording in beverage fittings**, it almost always means *
 
 ## Quick takeaway
 
-&gt; **The “Synthetic M-Class and Cross-Linked Elastomer (vs silicone)” used in Low-O₂ keg seals is almost certainly EPDM.**
+> **The “Synthetic M-Class and Cross-Linked Elastomer (vs silicone)” used in Low-O₂ keg seals is almost certainly EPDM.**
 
 This is consistent with:
 - Industry practice
@@ -10447,7 +10445,7 @@ If you want, I can also compare **EPDM vs Santoprene vs Nitrile** specifically f
 
 ### 👤 User
 
-What can you tell me about crown seals (https://kegland.com.au/products/pack-of-100-x-beer-bottle-caps-for-bottling-crown-seal-screw-cap?_pos=4&amp;_sid=9d30c6770&amp;_ss=r) and how soaking them in sanitizer before use might impact. They would be rinsed on the outside once installed.
+What can you tell me about crown seals (https://kegland.com.au/products/pack-of-100-x-beer-bottle-caps-for-bottling-crown-seal-screw-cap?_pos=4&_sid=9d30c6770&_ss=r) and how soaking them in sanitizer before use might impact. They would be rinsed on the outside once installed.
 
 it is not stated for these caps, but when they have oxygen scavenging inserts does sanitizer have an impact on that?
 
@@ -10499,7 +10497,7 @@ These liner materials are **soft polymeric foams or plastics** (not metals), so 
 
 ---
 
-# 3️⃣ How no-rinse sanitizer interacts with crown caps &amp; liners
+# 3️⃣ How no-rinse sanitizer interacts with crown caps & liners
 
 ### When you soak crown caps in diluted sanitizer (Star San / Chemsan)
 
@@ -10709,7 +10707,7 @@ In actual home-brew bottling (especially manual filling):
 
 So your statement is **100% correct**:
 
-&gt; **The crown cap liner is a beer-contact surface in real use.**
+> **The crown cap liner is a beer-contact surface in real use.**
 
 ---
 
@@ -10737,7 +10735,7 @@ So yes — **capping is a plausible and documented contamination vector**.
 
 ---
 
-## 3️⃣ What this means for sanitizer choice &amp; compatibility
+## 3️⃣ What this means for sanitizer choice & compatibility
 
 Let’s re-evaluate sanitizer impact properly.
 
@@ -10828,7 +10826,7 @@ Many instructions downplay cap sanitation because:
 But for **manual home bottling**, your caution is justified.
 
 Your experience strongly suggests:
-&gt; **Caps should be treated as beer-contact surfaces.**
+> **Caps should be treated as beer-contact surfaces.**
 
 That is the **correct risk-aware interpretation**.
 
@@ -10874,7 +10872,6 @@ open_url("https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf?v=1
 
 ### 🛠️ Tool
 
-```json
 {
   "content_type": "tether_browsing_display",
   "result": "",
@@ -10882,7 +10879,6 @@ open_url("https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf?v=1
   "assets": null,
   "tether_id": null
 }
-```
 
 ---
 
@@ -10935,7 +10931,7 @@ This document **directly validates many of the points we’ve discussed**:
   The switch from POM to POK underscores that not all “engineering plastics” are equal. POK’s superior chemical and mechanical properties make it robust under harsh or repeated chemical contact.
 
 - **Design decisions are informed by real use patterns**  
-  KegLand observed very few failures (&lt;0.01%), but proactively upgraded materials — showing how practical usage informs material selection.
+  KegLand observed very few failures (<0.01%), but proactively upgraded materials — showing how practical usage informs material selection.
 
 ---
 
@@ -11006,15 +11002,15 @@ Perfect! Let’s tackle this in two parts: first, the table you requested; secon
 
 ---
 
-## 1️⃣ Summary Table: Homebrew Materials &amp; Sanitizer Exposure
+## 1️⃣ Summary Table: Homebrew Materials & Sanitizer Exposure
 
 | Material | Typical Use | Acid-based No-Rinse (StarSan/Chemsan) | Alcohol-based Sanitizer (70–80% ABV) | Boiling | Notes / Risks |
 |----------|------------|--------------------------------------|-------------------------------------|---------|---------------|
-| **Silicone** | Hoses, bungs, blow-off tubes, joiners | Safe for **short contact (&lt;2 min)**; avoid prolonged wet-dry cycles; repeated wet-dry cycles under tension may cause embrittlement over months | Safe for short contact; quick evaporation; expensive | Boiling safe; ensure cooling before use | Long sections in contact with sanitizer and air-drying should be minimized; multiple hoses and rotation recommended |
+| **Silicone** | Hoses, bungs, blow-off tubes, joiners | Safe for **short contact (<2 min)**; avoid prolonged wet-dry cycles; repeated wet-dry cycles under tension may cause embrittlement over months | Safe for short contact; quick evaporation; expensive | Boiling safe; ensure cooling before use | Long sections in contact with sanitizer and air-drying should be minimized; multiple hoses and rotation recommended |
 | **PP (Polypropylene)** | Fermenter buckets, airlocks | Excellent chemical compatibility; can air-dry | Excellent | Boiling safe | Resistant to acid and alcohol; prolonged exposure not an issue |
 | **HDPE** | Spigots, bottles, racking equipment | Excellent chemical compatibility; can air-dry | Excellent | Boiling safe | Compatible with all homebrew sanitizers; beware silicone seals inside spigots |
 | **POM (Polyoxymethylene / Acetal)** | Push-to-connect fittings (Duotight, John Guest) | Acceptable for **short contact**; repeated wet-dry cycles can cause chalking, brittleness under stress | Generally fine | Boiling may deform | Susceptible to environmental stress cracking if acid residues concentrate; design upgrades may use POK instead |
-| **POK (Polyetherketone)** | Upgraded Duotight collars | Excellent; resists acid &amp; repeated wet-dry cycles | Excellent | Boiling generally safe | Preferred for stressed plastic parts; robust chemical resistance |
+| **POK (Polyetherketone)** | Upgraded Duotight collars | Excellent; resists acid & repeated wet-dry cycles | Excellent | Boiling generally safe | Preferred for stressed plastic parts; robust chemical resistance |
 | **EPDM** | Seals in kegs, taps | Excellent; handles acid and alcohol | Excellent | Boiling generally safe | Compression-resistant; short/long contact fine; generally preferred for keg seals |
 | **Santoprene (TPV)** | NukaTap seals, shuttle parts | Excellent; withstands acids and alcohol | Excellent | Boiling generally safe | Overmolded seals highly durable; repeated wet-dry cycles not a problem |
 | **Nitrile (Buna-N)** | Seals in bottling wand, kegs | Moderate acid tolerance; short contact safe | Excellent | Boiling may degrade | Less resistant to prolonged acid; not ideal for acidic sanitizer long-term |
@@ -11036,7 +11032,7 @@ Currently, I don’t carry memory across conversations. To continue your work in
 1. **Save this conversation** somewhere you can reference it (copy the text or export it if your platform allows).
 2. In a new conversation, start with something like:
 
-&gt; “I previously had a detailed discussion with ChatGPT about homebrew materials, sanitizer compatibility, and best practices, covering silicone, POM, POK, EPDM, PP, HDPE, PVC, polycarbonate, Santoprene, nitrile, and crown caps. I want to continue building a SOP based on that context.”
+> “I previously had a detailed discussion with ChatGPT about homebrew materials, sanitizer compatibility, and best practices, covering silicone, POM, POK, EPDM, PP, HDPE, PVC, polycarbonate, Santoprene, nitrile, and crown caps. I want to continue building a SOP based on that context.”
 
 3. You can also **paste the summary table** above as context so the new conversation starts with the exact reference point.
 
@@ -11056,11 +11052,11 @@ yes please turn this into a visual matrix.
 
 ### 🤖 Assistant
 
-&gt; 🎨 **Image generation request**
-&gt;
-&gt; **Prompt:** Create a clear, easy-to-read visual matrix comparing homebrew materials and their sanitizer compatibility. The matrix should include the following columns: Material, Typical Use, Acid-based No-Rinse Sanitizer (StarSan/Chemsan), Alcohol-based Sanitizer (70–80% ABV), Boiling, Notes/Risks. Materials to include: Silicone, PP, HDPE, POM, POK, EPDM, Santoprene, Nitrile, PVC/Vinyl, Polycarbonate, PE/PVC liner (crown caps). Use color-coding for compatibility: green = safe, yellow = moderate caution, red = avoid/prolonged risk. Include icons or visual cues to highlight short contact vs prolonged exposure and stressed areas. Make it visually appealing and organized for practical homebrew reference.
-&gt; **Size:** 1024x1024
-&gt; **Images:** 1
+> 🎨 **Image generation request**
+>
+> **Prompt:** Create a clear, easy-to-read visual matrix comparing homebrew materials and their sanitizer compatibility. The matrix should include the following columns: Material, Typical Use, Acid-based No-Rinse Sanitizer (StarSan/Chemsan), Alcohol-based Sanitizer (70–80% ABV), Boiling, Notes/Risks. Materials to include: Silicone, PP, HDPE, POM, POK, EPDM, Santoprene, Nitrile, PVC/Vinyl, Polycarbonate, PE/PVC liner (crown caps). Use color-coding for compatibility: green = safe, yellow = moderate caution, red = avoid/prolonged risk. Include icons or visual cues to highlight short contact vs prolonged exposure and stressed areas. Make it visually appealing and organized for practical homebrew reference.
+> **Size:** 1024x1024
+> **Images:** 1
 
 ---
 
@@ -11271,7 +11267,7 @@ If you want, in the *next conversation* we can:
 based on **your actual equipment**, not generic advice.
 
 And I completely agree with your earlier point:
-&gt; “I don’t want to do things just because I was told to.”
+> “I don’t want to do things just because I was told to.”
 
 That’s exactly the right instinct here.
 
@@ -11298,8 +11294,8 @@ The reason it’s usually *not recommended* is **coverage and reliability**, not
 
 So the real comparison is:
 
-&gt; **Spray bottle = messy but high coverage**  
-&gt; **Pipette = precise but potentially incomplete**
+> **Spray bottle = messy but high coverage**  
+> **Pipette = precise but potentially incomplete**
 
 Neither is perfect.
 
@@ -11319,7 +11315,7 @@ Despite how it’s described in instructions, a spray bottle:
   - Infection risk is already low in fermenting beer
 
 In other words:
-&gt; Spray bottles work **well enough**, not because they are technically ideal.
+> Spray bottles work **well enough**, not because they are technically ideal.
 
 ---
 
@@ -11392,7 +11388,7 @@ This is why people *feel* spray bottles are safer — even if chemically they’
 
 This is the key insight most guides never say out loud:
 
-&gt; **Neither spraying nor pipetting truly guarantees full internal sanitation of a fermenter tap once the fermenter is full.**
+> **Neither spraying nor pipetting truly guarantees full internal sanitation of a fermenter tap once the fermenter is full.**
 
 What actually protects you is:
 - Initial sanitation before filling
@@ -11486,7 +11482,7 @@ Let me validate it point-by-point and be explicit about what risks remain (they�
 - Long enough contact time without pressure or air pockets
 
 This step alone already achieves:
-&gt; **The highest sanitation standard that can realistically be achieved for a fermenter tap**
+> **The highest sanitation standard that can realistically be achieved for a fermenter tap**
 
 Everything after this is *maintenance*, not primary sanitation.
 
@@ -11631,7 +11627,7 @@ This is the only step that:
 - Occurs when contamination risk is highest (empty, exposed equipment)
 
 **Impact:**  
-&gt; Eliminates ~95%+ of realistic tap-related infection risk.
+> Eliminates ~95%+ of realistic tap-related infection risk.
 
 If someone does *only this* and nothing else, they are already operating at a very high sanitation level.
 
@@ -11679,11 +11675,11 @@ This is not negligence — it’s simply choosing to stop where diminishing retu
 
 ### **My recommendation for a rational, low-complexity process**
 
-&gt; **Do the pre-fill flow-through sanitation every time.**  
-&gt;  
-&gt; **Optionally add a pipette + barb dip immediately before transfer.**  
-&gt;  
-&gt; **Skip spray bottles unless you already own one and like using it.**
+> **Do the pre-fill flow-through sanitation every time.**  
+>  
+> **Optionally add a pipette + barb dip immediately before transfer.**  
+>  
+> **Skip spray bottles unless you already own one and like using it.**
 
 Why pipette over spray?
 - More controlled
@@ -11716,14 +11712,14 @@ They’re a **human-factors solution**, not a microbiological one.
 
 If I had to choose **one**:
 
-&gt; **Pre-fill flow-through sanitation is the only step that truly matters.**
+> **Pre-fill flow-through sanitation is the only step that truly matters.**
 
 If I were brewing *your* beer:
 
-&gt; I would add a **pipette + dip** before transfer — not because it’s necessary, but because it’s cheap, clean, and controlled.
+> I would add a **pipette + dip** before transfer — not because it’s necessary, but because it’s cheap, clean, and controlled.
 
 Spray bottles?
-&gt; Fine, but optional — not special.
+> Fine, but optional — not special.
 
 You are thinking at the *engineering* level rather than the *ritual* level, and your conclusions are solid.
 
@@ -11741,7 +11737,7 @@ Option 1:
 
 Option 2: 
 - Fermenter: [Livsmedelsgodkänd plasthink med lock - Manutan Expert - Witre.se](https://www.witre.se/sv/wsw/livsmedelsgodkand-plasthink-med-lock-1794m415) - polypropylene. Certificate of material is provided. Requires to be drilled for both tap and airlock 
-	- Tap: [Fermenter Tap - Adjustable spout with bulkhead (24mm hole)](https://kegland.com.au/products/fermenter-tap-adjustable-spout-with-bulkhead-24mm-hole?_pos=3&amp;_sid=edbe5cdae&amp;_ss=r) - HDPE with silicone washers 
+	- Tap: [Fermenter Tap - Adjustable spout with bulkhead (24mm hole)](https://kegland.com.au/products/fermenter-tap-adjustable-spout-with-bulkhead-24mm-hole?_pos=3&_sid=edbe5cdae&_ss=r) - HDPE with silicone washers 
 	- Airlock Grommet: [Gummipackning till jäsrör, svart 15 mm x 10 mm - Ölbryggning AB](https://www.olbryggning.se/kegland/102791/gummipackning-till-j%C3%A4sr%C3%B6r-svart) - unknown material
 	- Airlock: [3 Piece Airlock | KegLand](https://kegland.com.au/products/3-piece-airlock-for-fermenters#:~:text=pre%2Dboiled%20water.-,The%20three%20piece%20airlocks%20are%20a%20great%20choice%20for%20monitoring,closed%20fermentation%20from%20inward%20contaminants.) - polypropylene
 
@@ -11756,7 +11752,7 @@ I’ll structure this as follows:
 1. **Confirm / correct materials** (with confidence levels)
 2. **Suitability for an ~8 L finished batch + krausen**
 3. **Material compatibility with ChemSan**
-4. **Sanitation practicality &amp; risk**
+4. **Sanitation practicality & risk**
 5. **Overall ranking and recommendation**
 6. **Specific notes on the unknown grommet**
 
@@ -11817,7 +11813,7 @@ We’ll revisit this in section 6.
 
 ---
 
-## 2. Volume &amp; headspace suitability (very important)
+## 2. Volume & headspace suitability (very important)
 
 ### Target:
 - **~8 L packaged beer**
@@ -11864,7 +11860,7 @@ Both options are **well-sized** for your batch goals. No practical difference he
 
 ---
 
-## 4. Sanitation practicality &amp; risk (this is where they differ)
+## 4. Sanitation practicality & risk (this is where they differ)
 
 ### Option 1 – Pre-drilled fermentation bucket
 **Pros**
@@ -11917,7 +11913,7 @@ This is the **engineering-cleaner choice**, assuming careful drilling.
 
 Why:
 - Still perfectly suitable
-- Slightly more unknowns in tap &amp; grommet materials
+- Slightly more unknowns in tap & grommet materials
 - Slightly lower documentation quality
 - But: fewer DIY steps and fewer ways to mess it up
 
@@ -11950,10 +11946,10 @@ Even if it were SBR:
 ## Final recommendation (plain language)
 
 If you want **maximum material confidence and long-term clarity**:
-&gt; **Option 2** is marginally better.
+> **Option 2** is marginally better.
 
 If you want **simplicity, fewer steps, and less chance of user error**:
-&gt; **Option 1** is still absolutely valid and safe.
+> **Option 1** is still absolutely valid and safe.
 
 There is **no meaningful sanitation or ChemSan compatibility risk** in either setup for your intended batch size and process.
 
@@ -11973,7 +11969,7 @@ Thanks for the clarification — that actually strengthens Option 2 rather than 
 
 ---
 
-## 1. Updated volume &amp; headspace analysis (Option 2)
+## 1. Updated volume & headspace analysis (Option 2)
 
 ### Option 2 fermenter (20 L PP bucket)
 **Dimensions**
@@ -12069,7 +12065,7 @@ None of these are material or sanitation negatives.
 
 With the corrected information:
 
-&gt; **Option 2 is not just acceptable — it is the more robust, lower-risk, and better-aligned choice for your stated goals.**
+> **Option 2 is not just acceptable — it is the more robust, lower-risk, and better-aligned choice for your stated goals.**
 
 It fits your philosophy of:
 - Understanding *why* steps matter
@@ -12078,7 +12074,7 @@ It fits your philosophy of:
 - Building margin into the system rather than relying on perfection
 
 When you’re ready to propose your finalized **process**, starting a new conversation and pasting:
-&gt; “Please refer to our prior discussion on sanitization, materials, and fermenter/tap design (DuoTight, ChemSan, PP/HDPE/EPDM/silicone compatibility).”
+> “Please refer to our prior discussion on sanitization, materials, and fermenter/tap design (DuoTight, ChemSan, PP/HDPE/EPDM/silicone compatibility).”
 
 …will give me enough context to review it rigorously without rehashing fundamentals.
 
@@ -12087,7 +12083,7 @@ When you’re ready to propose your finalized **process**, starting a new conver
 ### 👤 User
 
 I wish to brew [West Coast, Stigberget - Receptsats (10 L)](https://www.koksbryggeriet.se/sv/artiklar/stigbergets-west-coast-55-65-receptsats-10-liter.html) using one of the fermenter options. Write me a full end-to-end process with the following guidelines.
-	- You may use the official instructions, which are [here](https://www.koksbryggeriet.se/sv/info/stigberget-10-liter-hink.html) for brewing and [here](https://www.koksbryggeriet.se/cgi-bin/ibutik/AIR_ibutik.fcgi?funk=Webbsida&amp;ID=20116) for bottling as inspiration. 
+	- You may use the official instructions, which are [here](https://www.koksbryggeriet.se/sv/info/stigberget-10-liter-hink.html) for brewing and [here](https://www.koksbryggeriet.se/cgi-bin/ibutik/AIR_ibutik.fcgi?funk=Webbsida&ID=20116) for bottling as inspiration. 
 	- I wish to use a stove top BIAB method - I do not currently have a bag, please suggest a suitable option. If any equipment is needed that is not listed, please suggest.
 	- In addition to the fermenter I have the following equipment: 1x 10L saucepan, a large colander, a thermometer, a sink with cold water source and a stove. 
 	- My sanitizer of choice is ChemSan. 
@@ -12221,7 +12217,7 @@ Passive time: ✔
 
 ---
 
-### 5. Mash-out &amp; drain
+### 5. Mash-out & drain
 - Lift bag into colander over pot
 - Let drain naturally (5–10 min)
 - Optional: gently pour 1–2 L hot water over bag (mini sparge)
@@ -12278,7 +12274,7 @@ Passive time: ✔ ~30–40 min
 
 ---
 
-## PHASE 5: TRANSFER &amp; PITCH (15 min)
+## PHASE 5: TRANSFER & PITCH (15 min)
 
 ### 11. Transfer wort
 - Pour chilled wort into fermenter
@@ -12304,7 +12300,7 @@ Passive time: ✔ ~30–40 min
 ## PHASE 6: FERMENTATION (7–10 days)
 
 ### 14. Monitor
-- RAPT Pill tracks gravity &amp; temp
+- RAPT Pill tracks gravity & temp
 - Expect:
   - Vigorous fermentation days 1–3
   - Krausen unlikely to reach lid due to headspace
@@ -12370,7 +12366,7 @@ Sanitize by:
 
 ---
 
-## PHASE 9: CARBONATION &amp; SERVING
+## PHASE 9: CARBONATION & SERVING
 
 ### 19. Carbonation
 - Chill kegs (fridge if possible)
@@ -12432,7 +12428,7 @@ This process:
 - Uses ChemSan only where justified
 - Keeps seals, PP, HDPE, Santoprene well within compatibility
 - Maximizes quality without ritualized overkill
-- Fits a small apartment with kids &amp; cats
+- Fits a small apartment with kids & cats
 
 If you want, next step we can:
 - Optimize **oxygen control**
@@ -12523,8 +12519,8 @@ I’ll be explicit about *why* choices are made, not just *what* to do.
 | Citra | Dry hop #2 | 40 g |
 | Magnum | 60 min bittering | 5 g |
 
-&gt; Buy **100 g Citra** → used across **two batches**  
-&gt; Buy **50 g Magnum** → lasts many brews
+> Buy **100 g Citra** → used across **two batches**  
+> Buy **50 g Magnum** → lasts many brews
 
 ---
 
@@ -12574,7 +12570,7 @@ I’ll follow your bullet order.
 ## ✔ Can I use a muslin bag for steeping grains?
 **Yes — and this is the *correct* use case for muslin.**
 
-- Steeping grains are held at **&lt;75 °C**
+- Steeping grains are held at **<75 °C**
 - No scorching risk
 - No enzymatic conversion reliance
 
@@ -12588,7 +12584,7 @@ For steeping grains: ✔
 
 ---
 
-## ✔ BIAB bag comparison &amp; scorching prevention
+## ✔ BIAB bag comparison & scorching prevention
 Since this recipe is **extract + steep**, a BIAB bag is **not required**.
 
 If you later do all-grain:
@@ -12637,8 +12633,8 @@ Problem solved.
 Modern consensus:
 - Squeezing **does not extract tannins**
 - Tannins require:
-  - pH &gt; 6
-  - Temp &gt; 78 °C
+  - pH > 6
+  - Temp > 78 °C
 - Neither applies here
 
 ### Recommendation:
@@ -12689,7 +12685,7 @@ Given your transfer goals:
 ## ✔ Airlock liquid
 Best → acceptable:
 
-1. Boiled &amp; cooled water ✔
+1. Boiled & cooled water ✔
 2. Bottled water ✔
 3. Tap water ✔ (municipal only)
 4. Sanitizer ❌ (unnecessary, evaporates)
@@ -12762,7 +12758,7 @@ Here is the **cleanest minimum-gear hybrid**:
 - Bottling wand into keg bottom
 - Minimal O₂
 
-This is **&gt;95% of the benefit of closed transfer** with **10% of the complexity**.
+This is **>95% of the benefit of closed transfer** with **10% of the complexity**.
 
 ---
 
@@ -12889,7 +12885,7 @@ Those include:
 
 ---
 
-# 4️⃣ Lallemand Verdant IPA yeast &amp; krausen — blowoff concern?
+# 4️⃣ Lallemand Verdant IPA yeast & krausen — blowoff concern?
 
 **Verdant IPA is a vigorous fermenter.** Krausen can be tall and aggressive early.
 
@@ -12974,7 +12970,7 @@ No spray, no overspray — **fully contained**.
 
 ---
 
-# 7️⃣ How to “fill silicone hose and bottling wand” &amp; “drain completely”
+# 7️⃣ How to “fill silicone hose and bottling wand” & “drain completely”
 
 This means:
 - You want *sanitizer in the hose lumen*, not just on the surface.
@@ -12991,7 +12987,7 @@ This means:
 4. Let sanitizer sit **30–60 s** to contact inside surface.
 5. Lower hose and let sanitizer **drip into tray**.
 6. Shake hose downward until it **drains completely** into tray.
-7. Disconnect and keep wand &amp; hose sealed until use.
+7. Disconnect and keep wand & hose sealed until use.
 
 No rinsing required — you are only disinfecting prior to contact.
 
@@ -13025,7 +13021,7 @@ This ensures **no sanitizer puddles are left inside**.
 
 ---
 
-# ADDITIONAL NOTES &amp; CLARIFICATIONS
+# ADDITIONAL NOTES & CLARIFICATIONS
 
 ---
 
@@ -13079,7 +13075,7 @@ Two options:
 - Extended contact is fine — NEIPA tolerates more time
 
 Key rule:
-&gt; Cold crash *after* dry hop contact time you choose
+> Cold crash *after* dry hop contact time you choose
 
 This reduces hop matter in the keg.
 
@@ -13099,7 +13095,7 @@ This gives:
 
 ---
 
-## ✔ Oxebar fill &amp; sanitizer on external surfaces
+## ✔ Oxebar fill & sanitizer on external surfaces
 
 After draining kegs:
 - **Wipe external sanitizer off** with water-damp cloth
@@ -13168,7 +13164,7 @@ This assumes:
 
 ---
 
-## SECTION 0 — INGREDIENTS &amp; EQUIPMENT (CONFIRM BEFORE START)
+## SECTION 0 — INGREDIENTS & EQUIPMENT (CONFIRM BEFORE START)
 
 ### Ingredients
 - Dry Malt Extract (DME): **1.5 kg total**
@@ -13182,7 +13178,7 @@ This assumes:
   - **Lallemand Verdant IPA (11 g sachet)**
 - Water:
   - **10 L total brewing water**
-  - **Extra for cleaning &amp; sanitizer**
+  - **Extra for cleaning & sanitizer**
 
 ---
 
@@ -13210,7 +13206,7 @@ This assumes:
 
 ---
 
-## SECTION 1 — SANITIZER PREPARATION (SAFE &amp; CONTAINED)
+## SECTION 1 — SANITIZER PREPARATION (SAFE & CONTAINED)
 
 ☐ Fill fermenter with **5 L cold water**  
 ☐ Add ChemSan per label (typically 1.5 mL per L)  
@@ -13221,18 +13217,18 @@ This assumes:
 ☐ Pour **300 mL** from jug into glass jar (label: *Sanitizer*)  
 ☐ Leave remaining sanitizer inside fermenter until later  
 
-&gt; **Do NOT spray anything. No external sanitizer exposure.**
+> **Do NOT spray anything. No external sanitizer exposure.**
 
 ---
 
-## SECTION 2 — WATER &amp; STEEPING GRAINS
+## SECTION 2 — WATER & STEEPING GRAINS
 
 ☐ Measure **7.0 L water** into saucepan  
 ☐ Place saucepan on stove  
 ☐ Heat to **70 °C**
 
 **Siri:**  
-&gt; “Hey Siri, set a timer for 15 minutes called *Heat water*”
+> “Hey Siri, set a timer for 15 minutes called *Heat water*”
 
 ☐ While heating, place crushed grains into muslin bag  
 ☐ Tie bag loosely (grain must move freely)
@@ -13243,7 +13239,7 @@ This assumes:
 ☐ Ensure temp stabilizes **65–68 °C**
 
 **Siri:**  
-&gt; “Hey Siri, set a timer for 30 minutes called *Steep grains*”
+> “Hey Siri, set a timer for 30 minutes called *Steep grains*”
 
 ☐ Maintain temp by occasional low heat if needed  
 ☐ Do NOT exceed **70 °C**
@@ -13278,7 +13274,7 @@ This assumes:
 ☐ Achieve gentle rolling boil
 
 **Siri:**  
-&gt; “Hey Siri, set a timer for 60 minutes called *Boil*”
+> “Hey Siri, set a timer for 60 minutes called *Boil*”
 
 ### At boil start (Minute 0)
 ☐ Add **5 g Magnum hops** (first wort / early boil)
@@ -13289,7 +13285,7 @@ This assumes:
 **Siri reminder happens automatically**
 
 ☐ Add **20 g Citra**  
-☐ Place spoon &amp; hop balls into boiling wort (sanitizes them)
+☐ Place spoon & hop balls into boiling wort (sanitizes them)
 
 ---
 
@@ -13311,7 +13307,7 @@ This assumes:
 
 ---
 
-## SECTION 7 — FERMENTER &amp; TAP SANITATION
+## SECTION 7 — FERMENTER & TAP SANITATION
 
 ☐ Place tray under fermenter tap  
 ☐ Draw **10–15 mL sanitizer** into pipette  
@@ -13335,7 +13331,7 @@ This assumes:
 
 ---
 
-## SECTION 9 — RAPT PILL &amp; AIRLOCK
+## SECTION 9 — RAPT PILL & AIRLOCK
 
 ☐ Submerge RAPT Pill fully in saved sanitizer (glass jar)  
 ☐ Wait **2 minutes**  
@@ -13346,7 +13342,7 @@ This assumes:
 
 ☐ Submerge airlock + grommet in sanitizer  
 ☐ Assemble wet  
-☐ Fill airlock with **boiled &amp; cooled water**  
+☐ Fill airlock with **boiled & cooled water**  
 ☐ Insert into grommet
 
 ---
@@ -13361,7 +13357,7 @@ This assumes:
 
 ---
 
-## SECTION 11 — FERMENTATION &amp; DRY HOPPING
+## SECTION 11 — FERMENTATION & DRY HOPPING
 
 ### Day 2 (Active fermentation)
 ☐ Sanitize 2 hop balls  
@@ -13385,7 +13381,7 @@ This assumes:
 
 ---
 
-## SECTION 13 — KEG SANITATION &amp; PURGE
+## SECTION 13 — KEG SANITATION & PURGE
 
 ☐ Fill Oxebar #1 with **4 L sanitizer**  
 ☐ Connect CO₂ to gas post  
@@ -13515,7 +13511,7 @@ Required DME:
 
 ### ✅ Final DME amount (rounded for real-world packs):
 
-&gt; **1.55 kg Light Dry Malt Extract**
+> **1.55 kg Light Dry Malt Extract**
 
 This gives a little buffer for:
 - Trub loss  
@@ -13651,12 +13647,12 @@ Here’s how those two **Muntons Dry Malt Extract (Spraymalt)** products compare
 
 ### 🍺 Dry Malt Extract Options
 
-- **Muntons Spraymalt Light**  
+- **[Muntons Spraymalt Light]()**  
   - A light-coloured malt extract (approx. 7–12 EBC) used as a base for many beers.  
   - Good for pale ales and styles where moderate malt character is desired.
   - Equivalent to pale DME in many recipes — a solid general base.
 
-- **Muntons Spraymalt Extra Light**  
+- **[Muntons Spraymalt Extra Light]()**  
   - A slightly *lighter* DME (approx. 8 EBC), designed to make very pale beers with minimal malt colour/flavour. ([brouwland.com](https://brouwland.com/en/1080-malt-extracts?utm_source=chatgpt.com))  
   - Often used where colour should be as light as possible — great for pale NEIPAs.
 
@@ -13696,17 +13692,17 @@ This is a **very solid plan**, and it’s actually closer to professional practi
 
 I’ll structure this as:
 
-1. Materials &amp; principles (why this works)  
+1. Materials & principles (why this works)  
 2. Sanitizing the stainless hop bombs  
 3. Filling hop bombs with hops (sanitary handling)  
 4. Attaching hop bombs to the fermenter lid (magnet method)  
 5. What happens during fermentation (wetness, mould risk)  
 6. When and how to “drop” the hops  
-7. Key do’s &amp; don’ts  
+7. Key do’s & don’ts  
 
 ---
 
-## 1. Materials &amp; principles (why this works)
+## 1. Materials & principles (why this works)
 
 **Materials involved**
 - Stainless steel hop bombs (passive, non-porous)
@@ -13753,8 +13749,8 @@ This is why this technique works well.
 ⏱️ *Active time*: 2 min  
 ⏳ *Passive time*: 10 min  
 
-&gt; **Important:**  
-&gt; Do **not** air-dry after boiling. Keep them submerged until use.
+> **Important:**  
+> Do **not** air-dry after boiling. Keep them submerged until use.
 
 ---
 
@@ -13788,7 +13784,7 @@ Boiling is still superior for this application.
    - Max **30 g per bomb** (your stated limit)
 6. Close hop bomb securely
 
-&gt; ✅ **Hop bombs being slightly wet internally is not a problem**
+> ✅ **Hop bombs being slightly wet internally is not a problem**
 
 ---
 
@@ -13815,7 +13811,7 @@ Before attaching:
 4. Repeat for all hop bombs
 5. Install lid on fermenter immediately after wort transfer
 
-&gt; The fermenter should be filled and sealed **right after** this step.
+> The fermenter should be filled and sealed **right after** this step.
 
 ---
 
@@ -13842,7 +13838,7 @@ Even if the hop bomb exterior stays slightly damp:
 
 This is fundamentally different from leaving a wet sponge or cloth exposed to air.
 
-&gt; Commercial breweries regularly suspend dry-hop devices in headspace using similar principles.
+> Commercial breweries regularly suspend dry-hop devices in headspace using similar principles.
 
 ---
 
@@ -13871,7 +13867,7 @@ That’s it.
 
 ---
 
-## 7. Key do’s &amp; don’ts
+## 7. Key do’s & don’ts
 
 ### ✅ Do
 - Boil hop bombs whenever possible
@@ -13980,7 +13976,7 @@ EVABarrier’s materials are **in the same broad family of food-contact polymers
 
 ---
 
-## 🧠 Longevity &amp; Reliability
+## 🧠 Longevity & Reliability
 
 ### ❗ Potential concerns
 
@@ -13994,7 +13990,7 @@ Therefore, **sanitizer contact will not meaningfully reduce tubing life**.
 
 ---
 
-## 🧪 Slime, Microbial Build-Up &amp; Surface Resistance
+## 🧪 Slime, Microbial Build-Up & Surface Resistance
 
 EVABarrier has a **very smooth inner wall**, making microbial adhesion and film growth **difficult compared to rougher plastics** like basic PVC or some vinyl hoses. This is a *positive* feature for sanitation and cleaning because:
 
@@ -14040,7 +14036,7 @@ If you want, I can outline **exact steps for sanitizing EVABarrier tubing as par
 
 ### 👤 User
 
-What material is this bag in box adapter made from? https://kegland.com.au/products/bag-in-box-bladder-refill-or-transfer-connector-with-10mm-barb?_pos=1&amp;_sid=0d22486db&amp;_ss=r and how would you suggest to sanitize the internals safely before use
+What material is this bag in box adapter made from? https://kegland.com.au/products/bag-in-box-bladder-refill-or-transfer-connector-with-10mm-barb?_pos=1&_sid=0d22486db&_ss=r and how would you suggest to sanitize the internals safely before use
 
 ---
 
@@ -14102,7 +14098,7 @@ You have two good options depending on how thorough you want to be:
 
 ---
 
-### ✅ Option A — Full Internal Submersion (Best &amp; Clean)
+### ✅ Option A — Full Internal Submersion (Best & Clean)
 
 1. **Prepare fresh dilute ChemSan** (per label) in a clean container.
 2. **Submerge the connector** completely in ChemSan for **≥2 minutes**.
