@@ -183,15 +183,15 @@ Below are **two high-level comparison tables** (acid-based no-rinse vs ethanol-b
 
 | Product | Primary actives (from SDS) | Typical “other” ingredients called out | What this usually implies (materials + product) | SDS quality / confidence |
 |---|---|---|---|---|
-| **Chemsan** | **Phosphoric acid 20–40%**, **sodium dodecylbenzenesulphonate 5–25%**, **isopropanol 1–20%** ([chemisphereuk.com](https://chemisphereuk.com/wp-content/uploads/simple-file-list/Craft-And-Home-Brewer-Range/Chemsan/ChemSan-HS-Data-Sheet.pdf)) | Water and other non-hazard components not itemized | Acid + anionic surfactant = strong wetting/foam, good coverage. Acid concentrates can attack **soft metals** (Al, some plated metals) if misused; on stainless it’s typically fine at use-dilution. Potential product impact is mainly **residual surfactant/acid** if grossly overdosed or not drained. | **High** (SDS has explicit ranges + CAS). |
-| **Sanipro Rinse** | **Phosphoric acid (85% solution) 40–50%**, **alkylbenzenesulfonic acid (C10–13) 5–15%**, **isopropanol 1–< 10%** ([cdn.abicart.com](https://cdn.abicart.com/shop/11011/files/SDB_SANIPRO_Behrens%20Group_ENG.pdf)) | Water and other non-hazard components not itemized | Similar to Star San/Chemsan family: acidic + anionic surfactant, foaming. Same cautions: **overconcentration/long contact** increases corrosion risk for soft metals and may stress some plastics/elastomers over time; “no-rinse” assumption depends on correct dilution + drain. | **High** (clear composition ranges). |
-| **Star San (HB)** | **Phosphoric acid 45–55%**, **alkylbenzenesulfonic acid (C10–13) 10–20%**, **1,2-propanediol 5–15%** ([kraftshop.hu](https://kraftshop.hu/shop_ordered/28715/pic/STAR_SAN_safety.pdf)) | 1,2-propanediol (propylene glycol) explicitly listed (often viscosity/handling) | Same mechanism: low pH + surfactant foam. At correct dilution, generally compatible with stainless; risk rises for **soft metals** and for **elastomers/plastics** depending on polymer + stress + exposure time. Residual foam is mostly diluted acid/surfactant—product impact primarily from **misuse** (too strong, pooling, not drained). | **High** (EU-style SDS with % ranges). |
-| **StellarSan** | **Phosphoric acid (96%) 40–60%**, **dodecylbenzene sulfonic acid 10–30%**, **IMS/ethanol (96%) 5–20%** ([d1agzcljgbz1xi.cloudfront.net](https://d1agzcljgbz1xi.cloudfront.net/pdf/StellarSan%20MSDS.pdf)) | “IMS” indicates denatured ethanol system (depends on jurisdiction) | Same class as above; includes a meaningful ethanol fraction in the concentrate. Practical implications similar: good wetting; manage **concentration + time** to avoid corrosion on sensitive metals and long soaks on susceptible polymers. | **High–Medium** (older “MSDS” format but gives % ranges). |
-| **Chemipro San** | **Phosphoric acid solution ≥50–< 80%**, plus multiple surfactant/hydrotrope components: **dodecylbenzene sulfonic acid ≥1–< 10%**, **sodium cumenesulfonate ≥1–< 10%**, **decyl glucoside ≥1–< 10%** ([Litebrygg.no](https://www.litebrygg.no/users/litebrygg_mystore_no/images/MSDS_Material_Safety_Data_Sheet.pdf?srsltid=AfmBOoq1m3jkhZ1z6Z7ApOEc4dFH7wsbbAEXOsoTzPq9-HBHgu3q6-Ta)) | Nonionic surfactant (decyl glucoside) + hydrotrope (sodium cumenesulfonate) alongside the anionic | Compared with “classic” Star San style, this looks like a **multi-surfactant system**, which can change foaming/wetting and potentially residue behavior (still “no-rinse” at correct dilution, but surfactant mix matters if overdosed). Acid-driven corrosion cautions remain. | **High** (SDS lists components + ranges + CAS/REACH). |
+| **Chemsan** | **Phosphoric acid 20–40%**, **sodium dodecylbenzenesulphonate 5–25%**, **isopropanol 1–20%** ([Chemsan SDS](#sds-chemsan)) | Water and other non-hazard components not itemized | Acid + anionic surfactant = strong wetting/foam, good coverage. Acid concentrates can attack **soft metals** (Al, some plated metals) if misused; on stainless it’s typically fine at use-dilution. Potential product impact is mainly **residual surfactant/acid** if grossly overdosed or not drained. | **High** (SDS has explicit ranges + CAS). |
+| **Sanipro Rinse** | **Phosphoric acid (85% solution) 40–50%**, **alkylbenzenesulfonic acid (C10–13) 5–15%**, **isopropanol 1–< 10%** ([Sanipro Rinse SDS](#sds-sanipro)) | Water and other non-hazard components not itemized | Similar to Star San/Chemsan family: acidic + anionic surfactant, foaming. Same cautions: **overconcentration/long contact** increases corrosion risk for soft metals and may stress some plastics/elastomers over time; “no-rinse” assumption depends on correct dilution + drain. | **High** (clear composition ranges). |
+| **Star San (HB)** | **Phosphoric acid 45–55%**, **alkylbenzenesulfonic acid (C10–13) 10–20%**, **1,2-propanediol 5–15%** ([Star San SDS](#sds-star-san)) | 1,2-propanediol (propylene glycol) explicitly listed (often viscosity/handling) | Same mechanism: low pH + surfactant foam. At correct dilution, generally compatible with stainless; risk rises for **soft metals** and for **elastomers/plastics** depending on polymer + stress + exposure time. Residual foam is mostly diluted acid/surfactant—product impact primarily from **misuse** (too strong, pooling, not drained). | **High** (EU-style SDS with % ranges). |
+| **StellarSan** | **Phosphoric acid (96%) 40–60%**, **dodecylbenzene sulfonic acid 10–30%**, **IMS/ethanol (96%) 5–20%** ([StellarSan SDS](#sds-stellarsan)) | “IMS” indicates denatured ethanol system (depends on jurisdiction) | Same class as above; includes a meaningful ethanol fraction in the concentrate. Practical implications similar: good wetting; manage **concentration + time** to avoid corrosion on sensitive metals and long soaks on susceptible polymers. | **High–Medium** (older “MSDS” format but gives % ranges). |
+| **Chemipro San** | **Phosphoric acid solution ≥50–< 80%**, plus multiple surfactant/hydrotrope components: **dodecylbenzene sulfonic acid ≥1–< 10%**, **sodium cumenesulfonate ≥1–< 10%**, **decyl glucoside ≥1–< 10%** ([Chemipro San SDS](#sds-chemipro-san)) | Nonionic surfactant (decyl glucoside) + hydrotrope (sodium cumenesulfonate) alongside the anionic | Compared with “classic” Star San style, this looks like a **multi-surfactant system**, which can change foaming/wetting and potentially residue behavior (still “no-rinse” at correct dilution, but surfactant mix matters if overdosed). Acid-driven corrosion cautions remain. | **High** (SDS lists components + ranges + CAS/REACH). |
 
 **What’s notably different across the acid group (based strictly on SDS):**
-- They’re all broadly the same **functional class**: **phosphoric acid + sulfonate surfactant(s)** (foaming, wetting). ([chemisphereuk.com](https://chemisphereuk.com/wp-content/uploads/simple-file-list/Craft-And-Home-Brewer-Range/Chemsan/ChemSan-HS-Data-Sheet.pdf))  
-- Differences are mainly **percent ranges** and **the surfactant package** (e.g., Star San has propanediol; Chemipro San adds sodium cumenesulfonate + decyl glucoside). ([kraftshop.hu](https://kraftshop.hu/shop_ordered/28715/pic/STAR_SAN_safety.pdf))  
+- They’re all broadly the same **functional class**: **phosphoric acid + sulfonate surfactant(s)** (foaming, wetting). ([chemisphereuk.com]([Chemsan SDS](#sds-chemsan))
+- Differences are mainly **percent ranges** and **the surfactant package** (e.g., Star San has propanediol; Chemipro San adds sodium cumenesulfonate + decyl glucoside). ([Star San SDS](#sds-star-san))  
 
 **Confidence note:** This table is **high confidence** on composition because it’s taken from SDS documents (regulatory primary sources). Where SDS ranges are wide, we can’t treat them as exact formulations—only bounded.
 
@@ -202,7 +202,7 @@ Below are **two high-level comparison tables** (acid-based no-rinse vs ethanol-b
 | Product | Ethanol content (from SDS / primary source) | Other ingredients disclosed | What this usually implies (materials + product) | SDS quality / confidence |
 |---|---|---|---|---|
 | **KegLand “Super Kill Ethyl / Ethyl Kill” (70% ethanol spray, KL05371)** | **Ethanol 70%** listed as hazardous component ([Shopify](https://cdn.shopify.com/s/files/1/0002/9006/2342/files/KL05371_-_Ethanol_70_-_Safety_Data_Sheet.pdf?v=1722388829)) | SDS describes “mixture… with nonhazardous additions” but does **not** name them ([Shopify](https://cdn.shopify.com/s/files/1/0002/9006/2342/files/KL05371_-_Ethanol_70_-_Safety_Data_Sheet.pdf?v=1722388829)) | 70% ethanol is a standard disinfection concentration (good protein denaturation + water activity). Evaporates quickly; typically benign to stainless. **Polymer compatibility depends** (some plastics stress-crack with alcohol; some elastomers swell/harden). Product impact risk is generally low if it fully evaporates—*but* the “nonhazardous additions” are unknown from SDS, so residue risk can’t be fully dismissed without more detail. | **High** for ethanol %, **medium** for residue assumptions (unknown nonhazard additives). |
-| **Chemipro DES (ready-to-use spray)** | **Ethanol 80%** ([maltmagnus.se](https://maltmagnus.se/documents/11-ChemiproDES-S%C3%A4kerhetsdatablad-v2.0.pdf)) | SDS only lists ethanol as ingredient at 80% ([maltmagnus.se](https://maltmagnus.se/documents/11-ChemiproDES-S%C3%A4kerhetsdatablad-v2.0.pdf)) | Higher ethanol fraction = faster evaporation and strong rapid kill on many vegetative microbes; can be harsher on certain plastics/rubbers than acid sanitizers depending on polymer. If formulation is basically ethanol+water, nonvolatile residue is minimal; SDS doesn’t list other components, suggesting few/none above disclosure thresholds. | **High** (fresh SDS dated 2026-02-16). ([maltmagnus.se](https://maltmagnus.se/documents/11-ChemiproDES-S%C3%A4kerhetsdatablad-v2.0.pdf)) |
+| **Chemipro DES (ready-to-use spray)** | **Ethanol 80%** ([Chemipro DES SDS](#sds-chemipro-des)) | SDS only lists ethanol as ingredient at 80% ([Chemipro DES SDS](#sds-chemipro-des)) | Higher ethanol fraction = faster evaporation and strong rapid kill on many vegetative microbes; can be harsher on certain plastics/rubbers than acid sanitizers depending on polymer. If formulation is basically ethanol+water, nonvolatile residue is minimal; SDS doesn’t list other components, suggesting few/none above disclosure thresholds. | **High** (fresh SDS dated 2026-02-16). ([Chemipro DES SDS](#sds-chemipro-des) |
 | **Everclear neutral spirit diluted to 70% ABV** | Everclear marketed at **95% Alc./Vol (190 proof)** (product branding/official site). ([Everclear](https://diywitheverclear.com/liqueur-recipes/?utm_source=chatgpt.com)) | Food/beverage product so SDS format usually not provided; composition effectively ethanol + water (trace congeners not controlled like lab ethanol) | As a *sanitizer*, once diluted to ~70% ABV, it behaves like an ethanol sanitizer. Biggest difference vs purpose-made sanitizer is **unknown trace impurities** (still usually tiny) and **regulatory/handling** differences. Product impact: if it evaporates fully, residue is typically negligible. **However, this is partly inference** because beverage labeling doesn’t disclose trace components like an SDS would. | **Medium** (high confidence on ABV claim from official site; lower confidence on trace composition because no SDS-style disclosure). |
 
 **Confidence note:** For the ethanol group, I’m highly confident on **ethanol %** for the two products with SDS. For Everclear, ethanol % is strong (official marketing), but “only ethanol+water” is a **reasonable inference** rather than SDS-backed.
@@ -210,7 +210,7 @@ Below are **two high-level comparison tables** (acid-based no-rinse vs ethanol-b
 ---
 
 ### A couple of “flags” that matter later (not conclusions, just what the tables suggest)
-- **Acid no-rinse products**: residues are mainly **dilute phosphates + surfactants**; real-world problems usually show up when people **mix too strong**, **soak too long**, or **trap solution in crevices** (then you can get corrosion or sensory carryover). Composition supports that this is chemically plausible. ([kraftshop.hu](https://kraftshop.hu/shop_ordered/28715/pic/STAR_SAN_safety.pdf))  
+- **Acid no-rinse products**: residues are mainly **dilute phosphates + surfactants**; real-world problems usually show up when people **mix too strong**, **soak too long**, or **trap solution in crevices** (then you can get corrosion or sensory carryover). Composition supports that this is chemically plausible. ([Star San SDS](#sds-star-san))  
 - **Ethanol sprays**: residue risk depends heavily on whether the product is truly just ethanol+water. The KegLand SDS explicitly notes **nonhazardous additions** without naming them, which is a data gap we may want to close if residue/material interactions become central. ([Shopify](https://cdn.shopify.com/s/files/1/0002/9006/2342/files/KL05371_-_Ethanol_70_-_Safety_Data_Sheet.pdf?v=1722388829))  
 
 If you want to “close the loop” on the data gaps **without moving on yet**, the most useful next step (still on this same point) would be: **collect the most current manufacturer SDS for each brand/region you actually buy**, because formulations sometimes differ by market (e.g., denatured alcohol systems, surfactant packages). ([^c2] [^c3] [^c4] [^c5] [^c6] [^c7] [^c8] [^c9])
@@ -268,8 +268,8 @@ I’m treating “most current” as **latest revision date/version I can actual
 
 1) **Chemipro DES**
 - **Availability (Sweden):** sold by Swedish retailers (example: MaltMagnus page). ([maltmagnus.se](https://maltmagnus.se/se/sv/utrustning/rengoring/desinfektion/chemipro-des-spray-750-ml/?srsltid=AfmBOopeMyeeJ9iqwlJxw7yngkwauyk_nGs3xPTIE1KMRfSUnLHjV6gR&utm_source=chatgpt.com))  
-- **Most current SDS found (Swedish):** *Revisionsdatum 2026-02-16, Versionsnummer 2.0* (MaltMagnus AB SDS). ([maltmagnus.se](https://maltmagnus.se/documents/11-ChemiproDES-S%C3%A4kerhetsdatablad-v2.0.pdf))  
-- **Composition disclosed in SDS:** ethanol **80%**. ([maltmagnus.se](https://maltmagnus.se/documents/11-ChemiproDES-S%C3%A4kerhetsdatablad-v2.0.pdf))  
+- **Most current SDS found (Swedish):** *Revisionsdatum 2026-02-16, Versionsnummer 2.0* (MaltMagnus AB SDS). ([Chemipro DES SDS](#sds-chemipro-des))  
+- **Composition disclosed in SDS:** ethanol **80%**. ([Chemipro DES SDS](#sds-chemipro-des))  
 
 2) **KegLand “Ethyl Kill / Super Kill Ethyl”**
 - **Availability (Sweden/EU):** I did **not** find an EU/Sweden storefront listing for the spray itself in the sources I pulled; I only found KegLand EU pages *referencing* it (e.g., airlock guidance). ([Kegland EU](https://kegland.eu/products/s-airlock-for-fermenters?srsltid=AfmBOopuuYugFi-5PDiEms8uxrV2nKq50YTo-qJ0dqia-AFAkZcM5K24&utm_source=chatgpt.com))  
@@ -312,8 +312,8 @@ This ranking assumes “typical homebrew use”: spray bottle / soak of small pa
 
 ### 5) **Chemipro DES (80% ethanol)**
 **Where it fits:** I like it as a **spot sanitizer** (e.g., quick external surface wipe, small tools) but not my #1 “default brewery sanitizer” for everything.  
-**Pros:** composition is extremely clear (80% ethanol only) and SDS is **very current (2026-02-16)**. ([maltmagnus.se](https://maltmagnus.se/documents/11-ChemiproDES-S%C3%A4kerhetsdatablad-v2.0.pdf))  
-**Cons (safety):** highly flammable (H225) and ethanol can be more aggressive to certain plastics under stress than many people assume (we’ll ground that later with polymer compatibility sources). ([maltmagnus.se](https://maltmagnus.se/documents/11-ChemiproDES-S%C3%A4kerhetsdatablad-v2.0.pdf))  
+**Pros:** composition is extremely clear (80% ethanol only) and SDS is **very current (2026-02-16)**. ([Chemipro DES SDS](#sds-chemipro-des))  
+**Cons (safety):** highly flammable (H225) and ethanol can be more aggressive to certain plastics under stress than many people assume (we’ll ground that later with polymer compatibility sources). ([Chemipro DES SDS](#sds-chemipro-des))  
 
 ### 6) **StellarSan**
 **Why lower:** not because it’s inherently “bad” (it’s the same functional class), but because:
@@ -2558,7 +2558,7 @@ For NR/SBR/NBR, the dominant drivers are:
 - Star San Swedish SDS indicates **phosphoric acid 50%** and **dodecylbenzenesulfonic acid 15%** in the concentrate. ([maltmagnus.se](https://maltmagnus.se/documents/Star%20San-S%C3%A4kerhetsdatablad-v5.0.pdf?srsltid=AfmBOorj7ravXI54NI7twRBajV8_Thn1qacoA_uILgoE0UUFK3_YFgki&utm_source=chatgpt.com))  
 - Chemipro San lists phosphoric acid solution **≥50–< 80%**, plus surfactants/hydrotropes in the **1–< 10%** range each. ([maltmagnus.se](https://maltmagnus.se/documents/Chemipro%20San-S%C3%A4kerhetsdatablad-v1.0.pdf?srsltid=AfmBOoreG8fqha6BirJpsmSEDutbXKJBCwgONv-Xk4MW7OwwtURMxh74&utm_source=chatgpt.com))  
 - Chemsan lists phosphoric acid **20–40%** and sodium dodecylbenzenesulphonate **5–25%** (plus IPA). ([chemisphereuk.com](https://chemisphereuk.com/wp-content/uploads/simple-file-list/Craft-And-Home-Brewer-Range/Chemsan/ChemSan-HS-Data-Sheet-Swedish.pdf?utm_source=chatgpt.com))  
-- Sanipro Rinse lists phosphoric acid (85%) **40–50%** plus alkylbenzenesulfonic acid **5–15%** (plus IPA). ([cdn.abicart.com](https://cdn.abicart.com/shop/11011/files/SDB_SANIPRO_Behrens%20Group_ENG.pdf?utm_source=chatgpt.com))  
+- Sanipro Rinse lists phosphoric acid (85%) **40–50%** plus alkylbenzenesulfonic acid **5–15%** (plus IPA). ([Sanipro Rinse SDS](#sds-sanipro))  
 
 Those ranges tell you that **acid load at a fixed mL/L dose can vary** between products.
 
@@ -31996,6 +31996,108 @@ If you want, I can also:
 Just say the word.
 
 ---
+
+## SDS References
+
+### Star San SDS {#sds-star-san}
+
+Primary (Sweden – MaltMagnus):  
+https://maltmagnus.se/documents/Star%20San-S%C3%A4kerhetsdatablad-v6.0.pdf
+
+Secondary (Manufacturer – Five Star Chemicals):  
+https://fivestarchemicals.com/mwdownloads/download/link/id/455
+
+<!--
+Primary Source: MaltMagnus (retailer-hosted SDS; Swedish market)
+Secondary Source: Five Star Chemicals (manufacturer-hosted SDS)
+Manufacturer: Five Star Chemicals
+Document type: Safety Data Sheet (SDS)
+Revision: unable to verify from HTML context
+Issue date: unable to verify from HTML context
+Accessed: 2026-03-03
+-->
+
+### Sanipro Rinse SDS {#sds-sanipro}
+
+Primary (Manufacturer – Sanipro / Behrens Group):  
+https://sanipro.se/SDS_SANIPRO_ENG.pdf
+
+Secondary (Retailer – Hembryggeriet):  
+https://www.hembryggeriet.se/api/v1/product-documents?id=1686&hash=cf43cf68a80e13bc01a9afa5ce0a675d
+
+<!--
+Primary Source: Sanipro / Behrens Group (manufacturer-hosted SDS)
+Secondary Source: Hembryggeriet (retailer-hosted SDS)
+Manufacturer: Behrens Group
+Document type: Safety Data Sheet (SDS)
+Revision: unable to verify from HTML context
+Issue date: unable to verify from HTML context
+Accessed: 2026-03-03
+-->
+
+### StellarSan SDS {#sds-stellarsan}
+
+Primary (Manufacturer – KegLand EU):  
+https://kegland.eu/cdn/shop/files/KegLand_StellarSan_MSDS_3903b72c-9ec5-4212-9ccd-e9b3bb02b5df.pdf
+
+<!--
+Source: KegLand EU (manufacturer-hosted SDS)
+Manufacturer: KegLand
+Document type: Safety Data Sheet (SDS)
+Revision: unable to verify from HTML context
+Issue date: unable to verify from HTML context
+Accessed: 2026-03-03
+-->
+
+### Chemsan SDS {#sds-chemsan}
+
+Primary (Retailer – Ölbryggning):  
+https://www.olbryggning.se/media/multicase/documents/chemisphere%20uk/2026/chemsan%20h%26s%20data%20sheet%20english.pdf
+
+Secondary (Manufacturer – Chemisphere UK Ltd):  
+https://chemisphereuk.com/wp-content/uploads/simple-file-list/Craft-And-Home-Brewer-Range/Chemsan/ChemSan-HS-Data-Sheet.pdf
+
+<!--
+Primary Source: Ölbryggning (retailer-hosted SDS; newer revision)
+Secondary Source: Chemisphere UK Ltd (manufacturer-hosted SDS)
+Manufacturer: Chemisphere UK Ltd
+Document type: Safety Data Sheet (SDS)
+Revision: unable to verify from HTML context
+Issue date: unable to verify from HTML context
+Accessed: 2026-03-03
+-->
+
+### Chemipro San SDS {#sds-chemipro-san}
+
+Primary (Sweden – MaltMagnus):  
+https://maltmagnus.se/documents/13-ChemiproSan-S%C3%A4kerhetsdatablad-v2.0.pdf
+
+Secondary (Manufacturer – Brouwland)  
+*to be inserted when official SDS is available*
+
+<!--
+Primary Source: MaltMagnus (retailer-hosted SDS)
+Secondary Source: Brouwland (manufacturer-hosted SDS – insert when available)
+Manufacturer: Brouwland
+Document type: Safety Data Sheet (SDS)
+Revision: unable to verify from HTML context
+Issue date: unable to verify from HTML context
+Accessed: 2026-03-03
+-->
+
+### Chemipro DES SDS {#sds-chemipro-des}
+
+Primary (Sweden – MaltMagnus):  
+https://maltmagnus.se/documents/11-ChemiproDES-S%C3%A4kerhetsdatablad-v2.0.pdf
+
+<!--
+Source: MaltMagnus AB (retailer-hosted SDS)
+Manufacturer: Brouwland
+Document type: Safety Data Sheet (SDS)
+Revision: Version 2.0
+Issue date: 2026-02-16
+Accessed: 2026-03-03
+-->
 
 ## Citations
 
