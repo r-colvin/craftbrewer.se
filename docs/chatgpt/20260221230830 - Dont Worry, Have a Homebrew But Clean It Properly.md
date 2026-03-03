@@ -94,55 +94,55 @@ Please read this carefully and provide an accurate summary for me. I have read i
 
 ### 🤖 Assistant
 
-Here’s an accurate, page-faithful summary of **“duotight Design Revision 1.10” (KegLand, last updated 28/09/2020)**. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))
+Here’s an accurate, page-faithful summary of **“duotight Design Revision 1.10” (KegLand, last updated 28/09/2020)**. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))
 
 ## What the document is
 A manufacturer notice describing:
 1) a small number of observed failures in duotight push-in fittings,  
 2) a suspected mechanism involving **chemical attack + stress**, and  
-3) a **material/design change** intended to mitigate the problem. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))
+3) a **material/design change** intended to mitigate the problem. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))
 
 ## Core claims made by KegLand
 
 ### 1) Product context and reported failure rate
-- duotight push-in fittings are presented as popular and designed for reliable, reusable, leak-proof seals. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- Since release in **2018**, KegLand states **“very few failures”** have been recorded, **below 0.01%**. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))
+- duotight push-in fittings are presented as popular and designed for reliable, reusable, leak-proof seals. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- Since release in **2018**, KegLand states **“very few failures”** have been recorded, **below 0.01%**. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))
 
 ### 2) Original material choice
-- The fittings (at least the relevant parts) were made using **polyoxymethylene (POM)**, also called **acetal**. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- They note this material is commonly used in brewing and in similar push-to-connect systems (they mention John Guest), and they selected it partly because competitors used the same resin grade. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))
+- The fittings (at least the relevant parts) were made using **polyoxymethylene (POM)**, also called **acetal**. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- They note this material is commonly used in brewing and in similar push-to-connect systems (they mention John Guest), and they selected it partly because competitors used the same resin grade. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))
 
 ### 3) Observed issue: “mild chemical attack” and visible degradation
-- They report that in some instances **POM** duotight (and POM John Guest) fittings could experience **mild chemical attack** when **washed repeatedly with harsh chemicals** used in brewing. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
+- They report that in some instances **POM** duotight (and POM John Guest) fittings could experience **mild chemical attack** when **washed repeatedly with harsh chemicals** used in brewing. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
 - Reported symptoms:
   - Surface becomes **“chalky”** (they later describe this as **surface etching**).
-  - In more severe instances, the fitting becomes **more brittle** and **cracks**. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))
+  - In more severe instances, the fitting becomes **more brittle** and **cracks**. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))
 
 ### 4) Chemicals/process conditions they implicate
-- They say such attack **could be caused by bleach (sodium hypochlorite)** or other sanitizers “used in the like StellarSan.” ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- Importantly, they add nuance: **StellarSan at normal use concentration generally was not an issue** and passed their initial chemical testing. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- However, after noticing some damage, they performed a different chemical-resistance test: **continually spraying StellarSan on a fitting and letting it dry**, repeatedly. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- Their stated mechanism: repeated wetting/drying allows **water to evaporate** and **residual chemicals to build up**, increasing concentration. Specifically for StellarSan, they identify the acidic components as **phosphoric acid and “LABS acid”**, which could concentrate beyond recommended levels for POM. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- They state that eventually this could create a surface defect on all or part of a fitting. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))
+- They say such attack **could be caused by bleach (sodium hypochlorite)** or other sanitizers “used in the like StellarSan.” ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- Importantly, they add nuance: **StellarSan at normal use concentration generally was not an issue** and passed their initial chemical testing. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- However, after noticing some damage, they performed a different chemical-resistance test: **continually spraying StellarSan on a fitting and letting it dry**, repeatedly. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- Their stated mechanism: repeated wetting/drying allows **water to evaporate** and **residual chemicals to build up**, increasing concentration. Specifically for StellarSan, they identify the acidic components as **phosphoric acid and “LABS acid”**, which could concentrate beyond recommended levels for POM. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- They state that eventually this could create a surface defect on all or part of a fitting. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))
 
 ### 5) Environmental Stress Cracking (ESC) framing
-- They describe that some components under higher stress could undergo **environmental stress cracking**. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- They specifically say this was observed in the **assembly collar** of duotight fittings which is **permanently in a state of elastic deformation** after being clipped into position. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- They show a photo of cracked collars and state ESC was only noticed on a **very small number** of fittings sold. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- They also note the **outer ring** that pushes over the fitting is under **tension/stress**, and therefore that part was more susceptible to chemical attack. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))
+- They describe that some components under higher stress could undergo **environmental stress cracking**. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- They specifically say this was observed in the **assembly collar** of duotight fittings which is **permanently in a state of elastic deformation** after being clipped into position. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- They show a photo of cracked collars and state ESC was only noticed on a **very small number** of fittings sold. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- They also note the **outer ring** that pushes over the fitting is under **tension/stress**, and therefore that part was more susceptible to chemical attack. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))
 
 ## The “Solution” they implemented
-- KegLand states they revised the fittings by **replacing the collar made from POM** with a different plastic: **POK (polyketone)**. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- They describe POK as stronger (better impact resistance, tensile strength, toughness) and **more chemically resistant**. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- They claim testing showed **no signs of damage** even with “very strong” acids/bases and chemicals including: **bleach, phosphoric acid, acetic acid, lactic acid, LABS acid**, and various other cleaning solutions. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- They also changed injection-molding tooling so parts made from different polymers are **easily distinguishable**; in their photo the **new POK** part is on the **left** and the older **POM** on the **right**. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))
+- KegLand states they revised the fittings by **replacing the collar made from POM** with a different plastic: **POK (polyketone)**. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- They describe POK as stronger (better impact resistance, tensile strength, toughness) and **more chemically resistant**. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- They claim testing showed **no signs of damage** even with “very strong” acids/bases and chemicals including: **bleach, phosphoric acid, acetic acid, lactic acid, LABS acid**, and various other cleaning solutions. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- They also changed injection-molding tooling so parts made from different polymers are **easily distinguishable**; in their photo the **new POK** part is on the **left** and the older **POM** on the **right**. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))
 
 ## What the document does *not* provide (important limits)
-- It does **not** provide raw test protocols, concentrations, temperatures, exposure times, pass/fail criteria, or quantitative results—so we can’t independently validate the testing claims from this PDF alone. (This is just a limitation of the document; not an argument against it.) ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))
+- It does **not** provide raw test protocols, concentrations, temperatures, exposure times, pass/fail criteria, or quantitative results—so we can’t independently validate the testing claims from this PDF alone. (This is just a limitation of the document; not an argument against it.) ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))
 
 ## Confidence assessment (about the summary, and about the doc’s claims)
-- **Confidence in the summary:** **High** (it’s a direct restatement of what’s on the pages). ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))  
-- **Confidence in the underlying claims (failure rate, exact mechanism, breadth of “no damage”):** **Medium** because the document is a manufacturer statement without published test detail, but it is also describing a plausible, known materials failure mode (chemical exposure + stress → ESC) and they specify a concrete design/material change. ([themaltmiller.co.uk](https://www.themaltmiller.co.uk/wp-content/uploads/2024/01/duotight-Design-Revision.pdf))
+- **Confidence in the summary:** **High** (it’s a direct restatement of what’s on the pages). ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))  
+- **Confidence in the underlying claims (failure rate, exact mechanism, breadth of “no damage”):** **Medium** because the document is a manufacturer statement without published test detail, but it is also describing a plausible, known materials failure mode (chemical exposure + stress → ESC) and they specify a concrete design/material change. ([KegLand DuoTight Design Revision](#kegland-duotight-design-rev))
 
 If you want to “conclude” this point: confirm that the above matches your understanding. If it does, the next logical point (only when you’re ready) is to separate **what is asserted** here from **what is established in polymer/materials literature** about POM, POK, acids, surfactants, hypochlorite, and environmental stress cracking—using primary sources. ([^c1])
 
@@ -201,9 +201,9 @@ Below are **two high-level comparison tables** (acid-based no-rinse vs ethanol-b
 
 | Product | Ethanol content (from SDS / primary source) | Other ingredients disclosed | What this usually implies (materials + product) | SDS quality / confidence |
 |---|---|---|---|---|
-| **KegLand “Super Kill Ethyl / Ethyl Kill” (70% ethanol spray, KL05371)** | **Ethanol 70%** listed as hazardous component ([Shopify](https://cdn.shopify.com/s/files/1/0002/9006/2342/files/KL05371_-_Ethanol_70_-_Safety_Data_Sheet.pdf?v=1722388829)) | SDS describes “mixture… with nonhazardous additions” but does **not** name them ([Shopify](https://cdn.shopify.com/s/files/1/0002/9006/2342/files/KL05371_-_Ethanol_70_-_Safety_Data_Sheet.pdf?v=1722388829)) | 70% ethanol is a standard disinfection concentration (good protein denaturation + water activity). Evaporates quickly; typically benign to stainless. **Polymer compatibility depends** (some plastics stress-crack with alcohol; some elastomers swell/harden). Product impact risk is generally low if it fully evaporates—*but* the “nonhazardous additions” are unknown from SDS, so residue risk can’t be fully dismissed without more detail. | **High** for ethanol %, **medium** for residue assumptions (unknown nonhazard additives). |
+| **KegLand “Super Kill Ethyl / Ethyl Kill” (70% ethanol spray, KL05371)** | **Ethanol 70%** listed as hazardous component ([EthylKill SDS](#sds-ethylkill)) | SDS describes “mixture… with nonhazardous additions” but does **not** name them ([EthylKill SDS](#sds-ethylkill))| 70% ethanol is a standard disinfection concentration (good protein denaturation + water activity). Evaporates quickly; typically benign to stainless. **Polymer compatibility depends** (some plastics stress-crack with alcohol; some elastomers swell/harden). Product impact risk is generally low if it fully evaporates—*but* the “nonhazardous additions” are unknown from SDS, so residue risk can’t be fully dismissed without more detail. | **High** for ethanol %, **medium** for residue assumptions (unknown nonhazard additives). |
 | **Chemipro DES (ready-to-use spray)** | **Ethanol 80%** ([Chemipro DES SDS](#sds-chemipro-des)) | SDS only lists ethanol as ingredient at 80% ([Chemipro DES SDS](#sds-chemipro-des)) | Higher ethanol fraction = faster evaporation and strong rapid kill on many vegetative microbes; can be harsher on certain plastics/rubbers than acid sanitizers depending on polymer. If formulation is basically ethanol+water, nonvolatile residue is minimal; SDS doesn’t list other components, suggesting few/none above disclosure thresholds. | **High** (fresh SDS dated 2026-02-16). ([Chemipro DES SDS](#sds-chemipro-des) |
-| **Everclear neutral spirit diluted to 70% ABV** | Everclear marketed at **95% Alc./Vol (190 proof)** (product branding/official site). ([Everclear](https://diywitheverclear.com/liqueur-recipes/?utm_source=chatgpt.com)) | Food/beverage product so SDS format usually not provided; composition effectively ethanol + water (trace congeners not controlled like lab ethanol) | As a *sanitizer*, once diluted to ~70% ABV, it behaves like an ethanol sanitizer. Biggest difference vs purpose-made sanitizer is **unknown trace impurities** (still usually tiny) and **regulatory/handling** differences. Product impact: if it evaporates fully, residue is typically negligible. **However, this is partly inference** because beverage labeling doesn’t disclose trace components like an SDS would. | **Medium** (high confidence on ABV claim from official site; lower confidence on trace composition because no SDS-style disclosure). |
+| **Everclear neutral spirit diluted to 70% ABV** | Everclear marketed at **95% Alc./Vol (190 proof)** (product branding/official site). ([Everclear / Ethanol 190 proof SDS](#sds-everclear)) | Food/beverage product so SDS format usually not provided; composition effectively ethanol + water (trace congeners not controlled like lab ethanol) | As a *sanitizer*, once diluted to ~70% ABV, it behaves like an ethanol sanitizer. Biggest difference vs purpose-made sanitizer is **unknown trace impurities** (still usually tiny) and **regulatory/handling** differences. Product impact: if it evaporates fully, residue is typically negligible. **However, this is partly inference** because beverage labeling doesn’t disclose trace components like an SDS would. | **Medium** (high confidence on ABV claim from official site; lower confidence on trace composition because no SDS-style disclosure). |
 
 **Confidence note:** For the ethanol group, I’m highly confident on **ethanol %** for the two products with SDS. For Everclear, ethanol % is strong (official marketing), but “only ethanol+water” is a **reasonable inference** rather than SDS-backed.
 
@@ -211,7 +211,7 @@ Below are **two high-level comparison tables** (acid-based no-rinse vs ethanol-b
 
 ### A couple of “flags” that matter later (not conclusions, just what the tables suggest)
 - **Acid no-rinse products**: residues are mainly **dilute phosphates + surfactants**; real-world problems usually show up when people **mix too strong**, **soak too long**, or **trap solution in crevices** (then you can get corrosion or sensory carryover). Composition supports that this is chemically plausible. ([Star San SDS](#sds-star-san))  
-- **Ethanol sprays**: residue risk depends heavily on whether the product is truly just ethanol+water. The KegLand SDS explicitly notes **nonhazardous additions** without naming them, which is a data gap we may want to close if residue/material interactions become central. ([Shopify](https://cdn.shopify.com/s/files/1/0002/9006/2342/files/KL05371_-_Ethanol_70_-_Safety_Data_Sheet.pdf?v=1722388829))  
+- **Ethanol sprays**: residue risk depends heavily on whether the product is truly just ethanol+water. The KegLand SDS explicitly notes **nonhazardous additions** without naming them, which is a data gap we may want to close if residue/material interactions become central. ([EthylKill SDS](#sds-ethylkill))  
 
 If you want to “close the loop” on the data gaps **without moving on yet**, the most useful next step (still on this same point) would be: **collect the most current manufacturer SDS for each brand/region you actually buy**, because formulations sometimes differ by market (e.g., denatured alcohol systems, surfactant packages). ([^c2] [^c3] [^c4] [^c5] [^c6] [^c7] [^c8] [^c9])
 
@@ -31997,6 +31997,21 @@ Just say the word.
 
 ---
 
+## References
+
+Primary (Manufacturer – KegLand; PDF):  
+[duotight_design_revision.pdf (PDF)](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf?v=15476991843817478161)
+
+Secondary (Manufacturer documentation page):  
+[KegLand Docs – Duotight Generation 2 Design Revision](https://docs.kegland.com.au/products/fittings/duotight-generation-2-design-revision)
+
+<!--
+Primary Source: KegLand (manufacturer-hosted PDF)
+Secondary Source: KegLand Docs (manufacturer documentation page)
+Document type: Product design revision / technical note
+Accessed: 2026-03-03
+-->
+
 ## SDS References
 
 ### Star San SDS {#sds-star-san}
@@ -32016,6 +32031,13 @@ Revision: unable to verify from HTML context
 Issue date: unable to verify from HTML context
 Accessed: 2026-03-03
 -->
+
+ALTERNATIVE
+Primary (Sweden – MaltMagnus):  
+[Star San – Säkerhetsdatablad v6.0 (PDF)](https://maltmagnus.se/documents/Star%20San-S%C3%A4kerhetsdatablad-v6.0.pdf)
+
+Secondary (Manufacturer – Five Star Chemicals):  
+[Star San SDS (PDF)](https://fivestarchemicals.com/mwdownloads/download/link/id/455)
 
 ### Sanipro Rinse SDS {#sds-sanipro}
 
@@ -32097,6 +32119,44 @@ Document type: Safety Data Sheet (SDS)
 Revision: Version 2.0
 Issue date: 2026-02-16
 Accessed: 2026-03-03
+-->
+
+### EthylKill / Super Kill Ethyl (Ethanol 70%) SDS {#sds-ethylkill}
+
+Primary (Manufacturer – KegLand; PDF hosted on Shopify CDN):  
+[KL05371 – Ethanol 70 – Safety Data Sheet (PDF)](https://cdn.shopify.com/s/files/1/0002/9006/2342/files/KL05371_-_Ethanol_70_-_Safety_Data_Sheet.pdf?v=1722388829)
+
+Secondary (Product page reference):  
+[BeerCo product page (links to SDS)](https://beerco.com.au/products/super-kill-ethyl-sanitiser-spray-1-litre)
+
+<!--
+Primary Source: KegLand Distribution PTY LTD (manufacturer; PDF delivered via Shopify CDN)
+Secondary Source: BeerCo (retailer product page linking to the same SDS)
+Manufacturer: KegLand Distribution PTY LTD
+Document type: Safety Data Sheet (SDS)
+Revision: Revised 28th April 2021
+Issue date: unable to verify in this pass
+Accessed: 2026-03-03
+-->
+
+### Everclear (190 proof grain alcohol) – Ethanol 190 proof SDS {#sds-everclear}
+
+Primary (Generic ethanol SDS – reputable manufacturer/supplier):  
+[Ethanol 190 Proof SDS – Greenfield Global (PDF)](https://greenfield.com/wp-content/uploads/2018/11/Ethyl-Alcohol-190-Proof-SDS_US-English.pdf)
+
+Secondary (Brand info; no SDS link found on brand page):  
+[Luxco brand page – Everclear](https://www.luxco.com/brand/everclear-2/)
+
+<!--
+Primary Source: Greenfield Global (ethanol supplier; SDS for Ethyl Alcohol 190 Proof)
+Secondary Source: Luxco (brand page; no SDS published there at time of writing)
+Manufacturer (ethanol): Greenfield Global
+Document type: Safety Data Sheet (SDS)
+Revision: unable to verify in this pass
+Issue date: 2018-08-21 (per PDF header)
+Accessed: 2026-03-03
+
+Note: This SDS is for ethanol 190 proof generally, not a Luxco/Everclear-specific SDS.
 -->
 
 ## Citations
