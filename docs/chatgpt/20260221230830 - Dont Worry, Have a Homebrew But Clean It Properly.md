@@ -24651,11 +24651,11 @@ This distinction is explicit in food safety standards and brewing literature but
 
 ## Why sanitizing a dirty surface fails
 
-<img src="https://www.researchgate.net/publication/339411675/figure/fig1/AS%3A861013796728837%401582293094221/Biofilm-formation-on-glass-or-plastic-surfaces-A-Fluorescence-microscope-images-of.png" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.researchgate.net/publication/35218143/figure/fig1/AS%3A668992830197771%401536511728937/Sequential-biofilm-formation-in-the-brewery-environment-according-to-the-theory-of-Back.png" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.canr.msu.edu/agrifood_safety/uploads/images/CleaningSanitizing.png" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/CleainingSanitizing.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 Microorganisms in brewing rarely exist as free-floating cells. Instead, they attach to surfaces and form **biofilms** — structured communities embedded in protective matrices of polysaccharides and proteins.
 
@@ -24994,11 +24994,11 @@ This mechanism is central to repeated wet–dry failures.
 
 ## Failure mechanism 4: wet–dry cycling (cumulative damage)
 
-<img src="https://www.researchgate.net/publication/347924817/figure/fig2/AS%3A1003021005778944%401616150251302/Schematic-drawing-of-the-procedure-of-a-wet-dry-cyclic-corrosion-test.png" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.schuettemetals.com/Portals/0/LiveBlog/2025/02-Feb%2025/crevice-corrosion-hidden-threat.jpg?ver=xHdmluimrJEs6ym_zxF2vg%3D%3D" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://8116958.fs1.hubspotusercontent-na1.net/hubfs/8116958/Imported_Blog_Media/Hi-Res-image-of-leak-1-2.png" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/duotight_wetdry.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ### What it is
 Wet–dry cycling occurs when a surface is repeatedly:
