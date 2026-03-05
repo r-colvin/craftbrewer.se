@@ -4732,7 +4732,10 @@ I have attached PDFs of two kits that make use of the 5Lt bucket and the 2 piece
 - if PS is clearly not a great choice and compatibility is a problem, why is there no better information on compatibility?
 
 - 📎 **Attachment:** [Instructions - George's beer.pdf](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/Instructions%20-%20George%26amp%3B%23_39%3Bs%20beer.pdf)
+FIXME
+<!--
 - 📎 **Attachment:** [Nybörjarkit för 5 l öl - instruktioner EN engelska.pdf](assets/Nybo%CC%88rjarkit%20fo%CC%88r%205%20l%20o%CC%88l%20-%20instruktioner%20EN%20engelska.pdf)
+-->
 
 ---
 
