@@ -1,15 +1,9 @@
 ---
-conversation_id: "699a3aec-f5d0-838a-8c76-7f6381c8ce23"
-title: "Don’t Worry, Have a Homebrew — But Clean It Properly"
-created_at: 2026-02-21T23:08:30.590154Z
-updated_at: 2026-02-26T22:22:16.205410Z
+title: "Don’t Worry, Have a Homebrew — But Clean It Properly!"
 hide_table_of_contents: true
-source: chatgpt-data-export
 ---
 
-# Don’t Worry, Have a Homebrew — But Clean It Properly
-*Created:* 2026-02-21T23:08:30.590154Z  
-*Last updated:* 2026-02-26T22:22:16.205410Z  
+# Don’t Worry, Have a Homebrew — But Clean It Properly!
 
 ## Conversation History
 | Type | Timestamp (UTC) |
@@ -2219,16 +2213,19 @@ Ok we won’t be putting concentrate in PP so let’s skip that!
 
 I’ve done some more reading regarding the airlock grommets is it considered fair to assume this airlock grommet is one of NR, SBR or NBR?
 
-	• it’s rubber
-	• brown or dark orange
-	• low cost and mass produced
-	• looking at the rough edges not much care appears to be taken in the manufacturing process leading me to think the color is the natural color of the materials
-	• it is sold, in the EU, for brewing purposes meaning it la probably food safe
+- it’s rubber
+- brown or dark orange
+- low cost and mass produced
+- looking at the rough edges not much care appears to be taken in the manufacturing process leading me to think the color is the natural color of the materials
+- it is sold, in the EU, for brewing purposes meaning it la probably food safe
 
 Example in Sweden: https://mr-malt.se/en/equipment/fermenting/accessories/rubber-collar-for-airlock
 
-![93C03F4F-657B-4C46-892C-3A54A915380E.jpeg](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file__________3d_72_aad3dc__116b11d6b.jpeg)
-![image](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file__________3d_72_aad3dc__116b11d6b.jpeg)
+<img
+  src={require('./images/file__________3d_72_aad3dc__116b11d6b.jpeg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ---
 
@@ -2243,11 +2240,21 @@ I will **not** yet move into sanitizer compatibility or recommendations.
 
 ## The object under discussion (for clarity)
 
-<img src="https://i.ebayimg.com/images/g/8dkAAOSwHmhe2ECH/s-l400.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.pressurecooker-outlet.com/Fermentation-Airlock/pics/Airlock-Grommet.png" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://cdn.abicart.com/shop/11011/art11/h7179/2287179-origpic-7cb83e.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/gummipackning_till_jasror__svart_15_mm_x_gummipackning_jaasror.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/gummipackning-till-jasror.jpeg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/7764-fermenter-15l-with-lid.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 Characteristics you listed (summarised accurately):
 
@@ -2679,8 +2686,11 @@ We spoke about a second airlock grommet earlier - see attached picture (https://
 
 What are your thoughts?
 
-![0DE2C217-6915-409E-9DF7-19C00C0CCF2D.jpeg](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________45a_724381cc736fb8f16e76.jpeg)
-![image](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________45a_724381cc736fb8f16e76.jpeg)
+<img
+  src={require('./images/file_________45a_724381cc736fb8f16e76.jpeg').default}
+  alt="Generic Black Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ---
 
@@ -2695,11 +2705,23 @@ No forward-looking sanitizer conclusions yet.
 
 ## What we know (facts)
 
-<img src="https://m.media-amazon.com/images/I/61aZVNjKnaL._AC_UF1000%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/generic_black_airlock_grommet_1.jpg').default}
+  alt="Generic Black Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://morebeer.com/cdn/shop/files/17898.jpg?v=1760408109" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/generic_black_airlock_grommet_2.jpg').default}
+  alt="Generic Black Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://m.media-amazon.com/images/I/51mXMb5C1dL._AC_UF894%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/generic_black_airlock_grommet_3.png').default}
+  alt="Generic Black Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 From the AliExpress listing you linked:
 
@@ -3007,10 +3029,16 @@ I’ll stop here and hold this for when you bring everything together at the sys
 
 Last step before we bring it together I have found these images of the washers that are provided with the HDPE tap - you can see through to the white plastic tap behind. It’s is compliant, but not overly soft.
 
-![1D653C2F-596E-42F0-9E29-5CD2C12535C3.jpeg](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file__________a3872_ab19b95d72a6_65aa.jpeg)
-![06A5F3AC-6681-4EC2-A861-2CCF3CF2270A.jpeg](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________15a_72_aa932b6e599ca2d9b.jpeg)
-![image](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file__________a3872_ab19b95d72a6_65aa.jpeg)
-![image](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________15a_72_aa932b6e599ca2d9b.jpeg)
+<img
+  src={require('./images/file__________a3872_ab19b95d72a6_65aa.jpeg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/file_________15a_72_aa932b6e599ca2d9b.jpeg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ---
 
@@ -4704,7 +4732,7 @@ I have attached PDFs of two kits that make use of the 5Lt bucket and the 2 piece
 - if PS is clearly not a great choice and compatibility is a problem, why is there no better information on compatibility?
 
 - 📎 **Attachment:** [Instructions - George's beer.pdf](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/Instructions%20-%20George%26amp%3B%23_39%3Bs%20beer.pdf)
-- 📎 **Attachment:** [Nybörjarkit för 5 l öl - instruktioner EN engelska.pdf]() FIXME 20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/Nybo%CC%88rjarkit%20fo%CC%88r%205%20l%20o%CC%88l%20-%20instruktioner%20EN%20engelska.pdf
+- 📎 **Attachment:** [Nybörjarkit för 5 l öl - instruktioner EN engelska.pdf](assets/Nybo%CC%88rjarkit%20fo%CC%88r%205%20l%20o%CC%88l%20-%20instruktioner%20EN%20engelska.pdf)
 
 ---
 
@@ -4714,12 +4742,27 @@ I only have a KegLand S-Type airlock to hand - and it’s clear. I have attached
 
 My experience with S Type airlocks are they are clear. I have included two pictures (images 2 & 3) of such generic s type Airlocks showing how clear they are
 
+<img
+  src={require('./images/file_________9fa471f7bd3fb1516f78b39_.jpeg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/file_________1de471f59da37f3239dbe1_a.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/file_________1a9_71f789bee5bc97eada8f.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+
+<!--
 ![BA980A1B-FD3B-4E18-9B9C-34308CBBD71D.jpeg](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________9fa471f7bd3fb1516f78b39_.jpeg)
 ![0480A59A-68EF-43CB-8BB0-50750AD6C269.png](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________1de471f59da37f3239dbe1_a.png)
 ![8FCA81E2-48CD-4880-95C6-5E4EDC55F673.png](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________1a9_71f789bee5bc97eada8f.png)
-![image](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________9fa471f7bd3fb1516f78b39_.jpeg)
-![image](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________1de471f59da37f3239dbe1_a.png)
-![image](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________1a9_71f789bee5bc97eada8f.png)
+-->
 
 ---
 
@@ -5263,10 +5306,16 @@ Image 2: is from KegLand.eu
 
 I will note that perhaps the image ölbryggning are using may be an old image and/or is a generic image as I see differences between it and the KegLand piece. Notably a tapered bottom of the stem vs KegLands flat stem; also the ölbryggning image shows square cutouts at the bottom of the chamber - likely on the central cover piece where as the KegLand version doesn’t seem to have these.
 
-![057A41FA-0A0A-4B55-89AC-7AB916621602.png](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________75f471fd944745b224f81961.png)
-![A1E026BD-F5E8-4368-BADE-F68A318FB19C.png](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________ae3471fda26ebbfffeb_858c.png)
-![image](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________75f471fd944745b224f81961.png)
-![image](20260221230830%20-%20Dont%20Worry%2C%20Have%20a%20Homebrew%20But%20Clean%20It%20Properly_assets/file_________ae3471fda26ebbfffeb_858c.png)
+<img
+  src={require('./images/file_________75f471fd944745b224f81961.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL01595-Airlock-3Piece-PP.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ---
 
@@ -22744,13 +22793,23 @@ Below are some **illustrative images you can embed in your guides**. These will 
 ### **1. Carbonation & Line Cleaning Cap (Duotight-compatible)**
 A useful accessory when cleaning or carbonating directly from a PET bottle into a keg.
 
-<img src="https://kegland.eu/cdn/shop/files/carbonation-and-line-cleaning-cap-stainless-steel-duotight-compatible-kegland-1_25cc7ea6-db38-46b8-855d-82c6411c3d2b.jpg?v=1719842968" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL10788-BallLockCarbonationandLineCleaningCapx6.35mmduotight-G2-02.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://kegland.eu/cdn/shop/files/KL10788-BallLockCarbonationandLineCleaningCapx6.35mmduotight-G2-01.jpg?v=1719842442" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL10788-Yellow-BallLockCarbonationandLineCleaningCapx6.35mmduotight-G2-02.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://brewkegtap.co.uk/cdn/shop/products/kl20435_-_carbonation_line_cleaning_cap_stainless_steel_-_duotight_compatible1.jpg?v=1663262680" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://cdn11.bigcommerce.com/s-j116y4ybsb/images/stencil/original/products/1327/5087/carbonation-cap-ss-duotight2__00299.1626126769.386.513__35875.1631758667.jpg?c=1" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL20435-carbonation-and-line-cleaning-cap-stainless-steel-duotight-compatible-kegland-1_25cc7ea6-db38-46b8-855d-82c6411c3d2b.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 *Used to push sanitizer or beer through lines via a PET bottle, simplifying cleaning without pumps.* ([Kegland EU](https://kegland.eu/products/duotight-stainless-carbonation-line-cleaning-cap-fermzilla-cap?srsltid=AfmBOorWWgbwF0t9LmmMdgj_5_QTuBbbHLdYiSzOeuH0KV_7UoCj9f1t&utm_source=chatgpt.com))
 
@@ -22758,11 +22817,11 @@ A useful accessory when cleaning or carbonating directly from a PET bottle into 
 
 ### **2. Star San No-Rinse Sanitizer (Acid based)**
 
-<img src="https://www.northernbrewer.com/cdn/shop/products/star-san_3_x700.jpg?v=1756920446" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://craftabrew.com/cdn/shop/files/star-san-sanitizer-five-star-8oz.webp?v=1753731838&width=480" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.northernbrewer.com/cdn/shop/products/star-san_3_grande.jpg?v=1756920446" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/star-san.jpg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 Star San is a widely used no-rinse sanitizer containing phosphoric acid and anionic surfactants formulated for brewing equipment. ([maltmagnus.se](https://maltmagnus.se/dk/en/equipment/cleaners-sanitizers/disinfectant/star-san-378-l/?srsltid=AfmBOooCIFeb2ZLx68Dnp9fok5HiwXzg3qRm-c0NzexfJr5nj1M1M1yP&utm_source=chatgpt.com))
 
@@ -22770,13 +22829,29 @@ Star San is a widely used no-rinse sanitizer containing phosphoric acid and anio
 
 ### **3. Homebrewing Airlocks**
 
-<img src="https://m.media-amazon.com/images/I/61XQQenNfCL.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL01595-Airlock-3Piece-PP.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://images.openai.com/static-rsc-3/8tlZJnOenju8HFsxI9-mXJuWr5TfocUEfk2mAG7XKhLnbCmjgj8MGqgm_8pfHW4RwvSNkp1C4BRSpVnGJMflIvO5V7rX4uxuqML-ab0RjJg?purpose=fullsize&v=1" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL01601-airlock-s-shape-kegland.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://m.media-amazon.com/images/I/71p8rxDZxIL._AC_UF894%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/enolandia-compact-airlock.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://m.media-amazon.com/images/I/81dj1gBImPL._AC_UF894%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/fermenter-with-airlock-and-tap.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 Airlocks let CO₂ escape during fermentation while blocking contaminants. A variety of shapes (3-piece, S-type, compact) exist. ([maltmagnus.se](https://maltmagnus.se/ax/en/equipment/fermentation/fermentation-accessories/fermentation-accessories-c440/airlock/?srsltid=AfmBOoow07IOE5AOyk1EIlgr_M9ck7Sl8EPP_oSoIiM_XtKwsPTvrRFr&utm_source=chatgpt.com))
 
@@ -23069,11 +23144,24 @@ It is **not** captured by short-term soak tests alone.
 
 ## Polypropylene (PP)
 
-<img src="https://www.the-home-brew-shop.co.uk/cdn/shop/files/brewing-fermentation-bucket-brewferm-30-l-graduate.jpg?v=1748616347" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/PP_fermenter.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://morebeer.com/cdn/shop/files/46000.png?v=1760650547&width=645" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/witre_pp_bucket.avif').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://hips.hearstapps.com/hmg-prod/images/recycling-symbols-cheat-sheet-copy-1582142071.png?crop=1.00xw%3A0.502xh%3B0%2C0.220xh&resize=1200%3A%2A" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/Plastic_Recycling_Code_05_PP.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%", backgroundColor: "white" } }
+/>
+
 
 ### Where PP is used
 - Bucket fermenters  
@@ -23117,11 +23205,23 @@ Failures in PP equipment are almost always due to **mechanical abuse** (scratchi
 
 ## High-Density Polyethylene (HDPE)
 
-<img src="https://hydroland.com.au/cdn/shop/files/KL10672_-_Black_Fermenter_Tap_HDPE_3-4_Thread_-_01.jpg?v=1757287989&width=2048" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KB32497-20l-cube-for-hot-cube-wort-storage.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://cdn11.bigcommerce.com/s-neo29sbo9q/images/stencil/1280x1280/products/5642/22065/3210B32-WB__16129.1537454121.jpg?c=2" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL10672-Black_Fermenter_Tap_HDPE_3-4_Thread.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://images.openai.com/static-rsc-3/1ni4Dl-nngqe7dm8l3rt8CUX3YACzTp1DIyiTHgxMQO2KFcTutNc1wh2wIAnISnTLVwskysn056wNq2DQ6ElP_nwePVqEBuUpFpQd8OyKVU?purpose=fullsize&v=1" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/Plastic_Recycling_Code_02_PE-HD.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%", backgroundColor: "white" } }
+/>
 
 ### Where HDPE is used
 - Fermenter taps  
@@ -23161,11 +23261,29 @@ HDPE can safely tolerate exposures that would damage other plastics. This makes 
 
 ## Polyethylene Terephthalate (PET)
 
-<img src="https://kegland.eu/cdn/shop/files/KL47272-30LFermZillaAllRounderMega-GripPressureFermenterKit-01.jpg?v=1763022555&width=3840" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL19866-24-x-500ml-pet-amber-brown-bottles-with-screw-caps-kegland-1_518247db-478a-4ca6-b36e-9c4b8ecc1aa9.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://www.akciza.net/6535-home_default/1-liter-braune-kunststoff-pet-bierflasche-o28mm.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL47272-30LFermZillaAllRounderMega-GripPressureFermenterKit-01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://maltmagnus.se/image/4929/47898-Oxebar-20-L-PET-keg.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL36054-Oxebar20LAmberPETKeg_PressureFermenterTank-01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+
+<img
+  src={require('./images/Plastic_Recycling_Code_01_PET.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%", backgroundColor: "white" } }
+/>
 
 ### Where PET is used
 - Pressure fermenters (e.g. FermZilla)  
@@ -23208,11 +23326,21 @@ Failures occur when PET is treated like stainless steel.
 
 ## Polyketone (POK)
 
-<img src="https://kegland.com.au/cdn/shop/files/KL20756_-_duotight_8mm_5-16_x_Ball_Lock_Disconnect_-_Grey_Red_Gas_-_01.jpg?v=1761026069&width=2048" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.awsplastic.com/6073-thickbox_default/polyketone-barb-fitting-14-bspt-o-8-mm.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://kegland.eu/cdn/shop/files/KL10788-BallLockCarbonationandLineCleaningCapx6.35mmduotight-G2-01.jpg?v=1719842442" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL20756_-_duotight_8mm_5-16_x_Ball_Lock_Disconnect_-_Grey_Red_Gas_-_01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL20169-pco38-hydra-tapping-head-lid-only.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL02370_-_duotight_8mm_Push_in_Joiner_-_00.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ### Where POK is used
 - DuoTight fittings  
@@ -23247,11 +23375,26 @@ POK resolves known compatibility issues with no-rinse sanitizers and is currentl
 
 ## Elastomers (seals, gaskets, hoses)
 
-<img src="https://www.theoringstore.com/store/images/k180x12brew.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://m.media-amazon.com/images/I/41WXR61EnZL._AC_UF1000%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://m.media-amazon.com/images/I/51MzsA1tUnL._AC_UF894%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL39833-1.5InchTCBeadedSeal-EPDM-01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL03063-low2-hatchlid-o-ring.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL38003-5PackofLow2Sealsfor20LOxebarKegs.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL13895-replacement-silicone-dip-tube-hose-for-mini-keg-tapping-head-54cm-kegland.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ### EPDM / Low-2
 Used for O-rings and seals.
@@ -23292,11 +23435,21 @@ Used for:
 
 ## Polycarbonate (PC): a cautionary material
 
-<img src="https://ashevillebrewers.com/cdn/shop/products/auptsiphon.png?v=1439684489" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.terrauniversal.com/media/catalog/product/cache/0f8a2da7960c522be0651d9f16728c92/g/l/gloveboxes-airlock-sdpvc-150323-IMG_9740-a4-aa.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://ae01.alicdn.com/kf/Hce62e7d489b84d91af7c6ceb619dc72aN/Kegland-BrewZilla-35L-65L-Polycarbonate-Sight-Glass-Kit-hombrew.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/Fermtech_PolyCarbonate_Auto-Siphon.avif').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL17114-brewzilla-35l-and65l-polycarbonate-sight-glass-kit-390mm-kegland.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL27472-1.5InchTCSpundingValveReplacementPolycarbonateCup-01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ### Where PC is found
 - Auto-siphons  
@@ -24126,11 +24279,21 @@ Crucially, **toxicological risk is almost never the first failure mode**. Equipm
 
 ## Polypropylene (PP)
 
-<img src="https://www.inserv.lv/storage/products/gallery/large/f4/f4376d76-316d-40d0-b969-99a219f4e23a.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://morebeer.com/cdn/shop/files/46000.png?v=1760650547&width=645" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://ismwaste.co.uk/images/help/plastic5-pp.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/PP_fermenter.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL01595-Airlock-3Piece-PP.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/Plastic_Recycling_Code_05_PP.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%", backgroundColor: "white"} }
+/>
 
 ### Where PP is used
 - Bucket fermenters  
@@ -24166,11 +24329,23 @@ Failures in PP equipment are almost always due to mechanical abuse (scratching, 
 
 ## High-Density Polyethylene (HDPE)
 
-<img src="https://hydroland.com.au/cdn/shop/files/KL10672_-_Black_Fermenter_Tap_HDPE_3-4_Thread_-_01.jpg?v=1757287989&width=2048" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KB32497-20l-cube-for-hot-cube-wort-storage.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://cdn11.bigcommerce.com/s-neo29sbo9q/images/stencil/1280x1280/products/5642/22065/3210B32-WB__16129.1537454121.jpg?c=2" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL10672-Black_Fermenter_Tap_HDPE_3-4_Thread.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://images.openai.com/static-rsc-3/1ni4Dl-nngqe7dm8l3rt8CUX3YACzTp1DIyiTHgxMQO2KFcTutNc1wh2wIAnISnTLVwskysn056wNq2DQ6ElP_nwePVqEBuUpFpQd8OyKVU?purpose=fullsize&v=1" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/Plastic_Recycling_Code_02_PE-HD.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%", backgroundColor: "white" } }
+/>
 
 ### Where HDPE is used
 - Fermenter taps  
@@ -24195,11 +24370,29 @@ HDPE is ideal for components exposed to sanitizer sprays or concentrates.
 
 ## Polyethylene Terephthalate (PET)
 
-<img src="https://kegland.eu/cdn/shop/files/KL47272-30LFermZillaAllRounderMega-GripPressureFermenterKit-01.jpg?v=1763022555&width=3840" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL19866-24-x-500ml-pet-amber-brown-bottles-with-screw-caps-kegland-1_518247db-478a-4ca6-b36e-9c4b8ecc1aa9.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://m.media-amazon.com/images/I/61sXicqrOoL._AC_UF1000%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL47272-30LFermZillaAllRounderMega-GripPressureFermenterKit-01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
-<img src="https://www.angelhomebrew.co.uk/2302-large_default/20l-amber-pet-keg-pressure-fermenter-tank-oxebar.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL36054-Oxebar20LAmberPETKeg_PressureFermenterTank-01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+
+<img
+  src={require('./images/Plastic_Recycling_Code_01_PET.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%", backgroundColor: "white" } }
+/>
 
 ### Where PET is used
 - Pressure fermenters (e.g., FermZilla)  
@@ -24229,11 +24422,21 @@ Failures arise when PET is treated like stainless steel.
 
 ## Polyketone (POK)
 
-<img src="https://kegland.eu/cdn/shop/files/duotight-8mm-516-x-ball-lock-disconnect-grey-red-gas-kegland-1_3f0865b7-2555-42c5-865b-2975f40c2b5e.jpg?v=1719842901" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.ontariobeerkegs.com/assets/images/pco81-tappinghead-2.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://kegland.eu/cdn/shop/files/KL10788-BallLockCarbonationandLineCleaningCapx6.35mmduotight-G2-01.jpg?v=1719842442" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL20756_-_duotight_8mm_5-16_x_Ball_Lock_Disconnect_-_Grey_Red_Gas_-_01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL20169-pco38-hydra-tapping-head-lid-only.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL02370_-_duotight_8mm_Push_in_Joiner_-_00.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 POK plastics were adopted in brewing after documented failures of acetal (POM) fittings exposed to sanitizer residue and wet–dry cycling.
 
@@ -24252,11 +24455,21 @@ POK resolves the known sanitizer compatibility issues of earlier POM designs (Ke
 
 ## Glass
 
-<img src="https://m.media-amazon.com/images/I/61-k9ytLB9L._AC_UF894%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.northernbrewer.com/cdn/shop/products/7004-glass-carboy-5-gallon-box_1024x1024.jpg?v=1756920430" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://static.wixstatic.com/media/67653e_9d69147e9cb542e083aec413f0677e1d~mv2.jpg/v1/fill/w_1000%2Ch_563%2Cal_c%2Cq_85%2Cusm_0.66_1.00_0.01/67653e_9d69147e9cb542e083aec413f0677e1d~mv2.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL12881-23l-glass-carboy-fermenter-kegland.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL20497-24-x-500ml-glass-swing-top-amber-bottles-with-pp-cap-and-silicone-seal-cap-kegland.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL03957-borosilicate-erlenmeyer-conical-flask-250ml-kegland.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ### Where glass is used
 - Beer bottles  
@@ -24292,11 +24505,11 @@ These failures are sudden and catastrophic rather than gradual.
 
 ## Crown caps (composite materials)
 
-<img src="https://images.openai.com/static-rsc-3/244qweGx4t6Q5Af7eJodMHMAW-7E77D7ybCBC1DiK2KLnCOgSpGCS6kjnHtNQFA2YeCqARHzaizEJ5aJBtzVtsToWee3RBxWZ52jbGffdk8?purpose=fullsize&v=1" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://brouwland.com/21067-large_default/crown-corks-26-mm-oxygen-scavenging-silver-100-pcs.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://images.openai.com/static-rsc-3/wUXAkiw07ewsmVgFVeYBZNPOGl9XUXd5mlZWGFID5T6Z2TLo0-_qJ6nUTPlmkGAvRGJC3aJ6-WAU2W1DkwE9umgrSKv9GejHuIGrix8wx_U?purpose=fullsize&v=1" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL09058-CrownSealBottleCaps100-02.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ### Construction
 Modern crown caps are composite systems:
@@ -24683,11 +24896,26 @@ KegLand DuoTight Design Revision – https://kegland.com.au
 
 ## Failure mechanism 2: environmental stress cracking (ESC)
 
-<img src="https://assets.prestogroup.com/intranet/uploads/letter_head/Perform%20ESCR%20Testing.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.forgeway.com/hs-fs/hubfs/Imported_Blog_Media/Stress-cracking-image-2.png?height=330&name=Stress-cracking-image-2.png&width=640" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://terrylove.com/forums/index.php?attachments%2Fpvc_crack-jpg.84947%2F=" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/duotight_esc_failure.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/duotight_sanitizer_failure_1.jpeg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/duotight_sanitizer_failure_2.jpeg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/duotight_sanitizer_failure_3.jpeg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ### What it is
 ESC occurs when a material under mechanical stress is exposed to a chemical that lowers its resistance to cracking.
@@ -24968,13 +25196,26 @@ Elastomer compatibility is therefore **not binary**. It depends on:
 
 ## Common elastomers in brewing equipment
 
-<img src="https://m.media-amazon.com/images/I/71oD%2BFDl-sL._AC_UF894%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://maltmagnus.se/image/1193/45130.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://m.media-amazon.com/images/I/51MzsA1tUnL._AC_UF894%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://images.inyopools.com/cloud/images/27-400-1153-XL.jpg?anchor=middlecenter&autorotate=true&format=jpg&height=650&mode=pad&scale=both&width=650" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL39833-1.5InchTCBeadedSeal-EPDM-01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL38003-5PackofLow2Sealsfor20LOxebarKegs.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL13895-replacement-silicone-dip-tube-hose-for-mini-keg-tapping-head-54cm-kegland.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL46985-PCO38Gen2BlackElbowCapInsert-DipTubetoCarbonationCapJoiner-02.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ### Silicone rubber (VMQ)
 
@@ -25233,13 +25474,31 @@ This section clarifies what these sanitizers **are**, what they **do**, and — 
 
 ## What products are we talking about?
 
-<img src="https://morebeer.com/cdn/shop/files/64596.png?v=1760408027" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://brewkegtap.co.uk/cdn/shop/products/image_d86328e5-7631-4019-beb3-a19368decfba.jpg?v=1645032408" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://m.media-amazon.com/images/I/41TTv66355L.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://thehomebrewery.eu/upload/product_images/2773_1.webp" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/star-san.jpg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL05357-StellarSan.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/sanipro_rinse.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/chemsan.jpeg').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/chemipro_san.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 Throughout this document, *acid no-rinse sanitizer* refers collectively to products with the following characteristics:
 
@@ -26201,11 +26460,16 @@ Rather than treating these as competing philosophies, we will evaluate them as *
 
 ## Fermenter classes covered in this document
 
-<img src="https://www.melkkobrew.fi/images/products/6701335_orig.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://kegland.eu/cdn/shop/files/KL47272-30LFermZillaAllRounderMega-GripPressureFermenterKit-01.jpg?v=1763022555&width=3840" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://m.media-amazon.com/images/I/71x7Mn3efvL._AC_UF894%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/PP_fermenter.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL47272-30LFermZillaAllRounderMega-GripPressureFermenterKit-01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ### 1. Polypropylene (PP) bucket fermenters
 Typically consisting of:
@@ -26479,11 +26743,21 @@ This section explains what airlocks actually do, what risks they meaningfully pr
 
 ## Airlock types covered
 
-<img src="https://maltmagnus.se/image/1774/Tredelat1.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://www.midwestsupplies.com/cdn/shop/products/airlock-s-bubble-type_mod_600x.jpg?v=1756925913" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://thehomebrewery.eu/upload/product_images/9985-air-lock-compact-mini-30l.webp" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL01595-Airlock-3Piece-PP.png').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL01601-airlock-s-shape-kegland.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/enolandia-compact-airlock.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 This document considers three common airlock designs:
 
@@ -27683,13 +27957,26 @@ Below is **Section C.5**, written to be fully consistent with the contact-based 
 # SECTION C.5  
 # Serving Systems: Beer Lines, Faucets, Disconnects, and Long-Term Sanitation
 
-<img src="https://kegland.eu/cdn/shop/files/KL06248-EVABarrier6.3mmx9.5mmx12m-01.jpg?v=1719843557" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://m.media-amazon.com/images/I/61L2sVrQnnL._AC_UF1000%2C1000_QL80_.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://maltmagnus.se/image/3893/Nukatap-1.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
-
-<img src="https://maltmagnus.se/image/3900/Nukatap-flodesreglerare-3.jpg" alt="Image" style={ { height: 200, width: "auto", maxWidth: "100%" } } />
+<img
+  src={require('./images/KL15509-NUKATAP-SS-KegLand.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KB24337NukaTapMiniFCDisconnectKit-5.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL06231-EVABarrier5mmx8mmx12m-01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
+<img
+  src={require('./images/KL37310-duo-BroncoEVABarrierPicnicPartyTapKit-01.webp').default}
+  alt="Generic Brown Rubber Airlock Grommet"
+  style={ { height: 200, width: "auto", maxWidth: "100%" } }
+/>
 
 ---
 
@@ -31998,6 +32285,8 @@ Just say the word.
 ---
 
 ## References
+
+### KegLand DuoTight Design Revision {#kegland-duotight-design-rev}
 
 Primary (Manufacturer – KegLand; PDF):  
 [duotight_design_revision.pdf (PDF)](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf?v=15476991843817478161)
