@@ -24652,7 +24652,7 @@ This distinction is explicit in food safety standards and brewing literature but
 ## Why sanitizing a dirty surface fails
 
 <img
-  src={require('./images/CleainingSanitizing.png').default}
+  src={require('./images/CleaningSanitizing.png').default}
   alt="Generic Brown Rubber Airlock Grommet"
   style={ { height: 200, width: "auto", maxWidth: "100%" } }
 />
