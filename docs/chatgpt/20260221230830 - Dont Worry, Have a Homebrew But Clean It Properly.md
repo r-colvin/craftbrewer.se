@@ -1,6 +1,6 @@
 ---
 title: "Don’t Worry, Have a Homebrew — But Clean It Properly!"
-hide_table_of_contents: true
+slug: /brewing_material_compatibility
 ---
 
 # Don’t Worry, Have a Homebrew — But Clean It Properly!
@@ -148,7 +148,8 @@ Excellent! Sounds like we are on the same page!
 
 This then sets a stage and introduces a number of materials (POM, POK) and also sanitizing chemical StellarSan. 
 
-When we discuss no-rinse sanitizers we have a few options:  - Chemsan
+When we discuss no-rinse sanitizers we have a few options:  
+- Chemsan
 - Sanipro Rinse
 - Star San
 - Stellar San
