@@ -1,0 +1,15 @@
+{
+  "position": 6,
+  "label": "B2. Alcohol-Based Sanitizers: Ethanol, Isopropanol, and When They Make Sense",
+  "key": "B2",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Tutorial overview"
+  },
+  "customProps": {
+    "description": "This description can be used in the swizzled DocCard"
+  }
+}

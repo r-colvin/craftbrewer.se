@@ -1,0 +1,15 @@
+{
+  "position": 7,
+  "label": "B3. Choosing the Right Sanitizer in Practice: Decision-Making, Trade-offs, and Real Margins of Error",
+  "key": "B3",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Tutorial overview"
+  },
+  "customProps": {
+    "description": "This description can be used in the swizzled DocCard"
+  }
+}

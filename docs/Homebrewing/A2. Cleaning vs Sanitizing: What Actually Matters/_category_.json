@@ -1,0 +1,15 @@
+{
+  "position": 2,
+  "label": "A2. Cleaning vs Sanitizing: What Actually Matters",
+  "key": "A2",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Tutorial overview"
+  },
+  "customProps": {
+    "description": "This description can be used in the swizzled DocCard"
+  }
+}

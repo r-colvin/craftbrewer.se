@@ -1,0 +1,15 @@
+{
+  "position": 1,
+  "label": "A1. Materials & Chemical Compatibility in Homebrewing",
+  "key": "A1",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Tutorial overview"
+  },
+  "customProps": {
+    "description": "This description can be used in the swizzled DocCard"
+  }
+}

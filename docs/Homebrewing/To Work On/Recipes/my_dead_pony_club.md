@@ -4,7 +4,7 @@ hide_title: true
 title: My Little Dead Pony Club
 ---
 
-import '/docs/Homebrewing/Recipes/recipes.styles.css';
+import './recipes.styles.css';
 
 <div class="bf-recipe-viewer">
   <div class="container">

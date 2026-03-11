@@ -24337,13 +24337,11 @@ Failures in PP equipment are almost always due to mechanical abuse (scratching, 
   alt="Generic Brown Rubber Airlock Grommet"
   style={ { height: 200, width: "auto", maxWidth: "100%" } }
 />
-
 <img
   src={require('./images/KL10672-Black_Fermenter_Tap_HDPE_3-4_Thread.webp').default}
   alt="Generic Brown Rubber Airlock Grommet"
   style={ { height: 200, width: "auto", maxWidth: "100%" } }
 />
-
 <img
   src={require('./images/Plastic_Recycling_Code_02_PE-HD.png').default}
   alt="Generic Brown Rubber Airlock Grommet"
@@ -24378,19 +24376,16 @@ HDPE is ideal for components exposed to sanitizer sprays or concentrates.
   alt="Generic Brown Rubber Airlock Grommet"
   style={ { height: 200, width: "auto", maxWidth: "100%" } }
 />
-
 <img
   src={require('./images/KL47272-30LFermZillaAllRounderMega-GripPressureFermenterKit-01.webp').default}
   alt="Generic Brown Rubber Airlock Grommet"
   style={ { height: 200, width: "auto", maxWidth: "100%" } }
 />
-
 <img
   src={require('./images/KL36054-Oxebar20LAmberPETKeg_PressureFermenterTank-01.webp').default}
   alt="Generic Brown Rubber Airlock Grommet"
   style={ { height: 200, width: "auto", maxWidth: "100%" } }
 />
-
 <img
   src={require('./images/Plastic_Recycling_Code_01_PET.png').default}
   alt="Generic Brown Rubber Airlock Grommet"

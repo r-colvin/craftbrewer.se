@@ -1,0 +1,15 @@
+{
+  "position": 3,
+  "label": "A3. How Materials Fail in Brewing",
+  "key": "A3",
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Tutorial overview"
+  },
+  "customProps": {
+    "description": "This description can be used in the swizzled DocCard"
+  }
+}
