@@ -6,6 +6,9 @@ const lightCodeTheme = require('prism-react-renderer').themes.github;
 //const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
+const remarkMath = require('remark-math').default;
+const rehypeKatex = require('rehype-katex').default;
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CraftBrewer',
@@ -18,8 +21,13 @@ const config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
+
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -43,7 +51,9 @@ const config = {
             'https://github.com/r-colvin/craftbrewer.se',
           remarkPlugins: [
             [ require('@renatonagliati/remark-auto-glossary').default, { yamlFile: 'glossary.yaml' } ],
+            remarkMath,
           ],
+          rehypePlugins: [rehypeKatex],
         },
         blog: false,
         theme: {
@@ -52,6 +62,15 @@ const config = {
       }),
     ],
   ],
+
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      type: 'text/css',
+      integrity: 'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+      crossorigin: 'anonymous',
+    },
+],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
