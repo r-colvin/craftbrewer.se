@@ -1,6 +1,0 @@
-[[headers]]
-  for = "/*"
-  [headers.values]
-    User-Agent = "*"
-    X-Frame-Options = "ALLOWALL"
-    X-Robots-Tag = "all"
