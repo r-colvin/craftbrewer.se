@@ -18,11 +18,13 @@
     "@docusaurus/core": "^3.7.0",
     "@docusaurus/preset-classic": "^3.7.0",
     "@mdx-js/react": "^3.0.0",
+    "@renatonagliati/remark-auto-glossary": "https://github.com/renatonagliati/remark-auto-glossary.git",
     "clsx": "^1.2.1",
     "prism-react-renderer": "^2.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "@renatonagliati/remark-auto-glossary": "https://github.com/renatonagliati/remark-auto-glossary.git"
+    "rehype-katex": "7",
+    "remark-math": "6"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.7.0"
