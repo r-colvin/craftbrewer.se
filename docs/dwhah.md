@@ -5,6 +5,7 @@ created_at: 2026-02-21T23:08:30.590154Z
 updated_at: 2026-03-25T20:08:42.261225Z
 hide_table_of_contents: true
 source: chatgpt-data-export
+id: dwhah
 ---
 
 # Don’t Worry, Have a Homebrew — But Clean It Properly

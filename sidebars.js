@@ -17,6 +17,7 @@ const sidebars = {
   beSidebar: [
     'intro',
     //'youtube_demo',
+    'dwhah',
     //'glossary',
     {
       type: 'category',
