@@ -1,0 +1,11 @@
+{
+  "position": 2,
+  "label": "Homebrewing Guide",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "The Homebrewing Guide",
+    "description": "A data-driven, science-backed reference for homebrewers. Covers materials, chemicals, equipment, and processes — agreeing with conventional wisdom where it holds, and busting myths where it doesn't."
+  }
+}
