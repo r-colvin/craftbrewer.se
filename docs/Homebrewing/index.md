@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 title: Welcome to the Homebrewing Guide
 slug: /homebrewing
 ---
@@ -32,8 +32,28 @@ Each section cross-references the others. Equipment guides link back to the mate
 
 This guide is written for the developing homebrew hobbyist — someone past their first brew who wants to understand what they are doing and why. It assumes you can handle nuance and uncertainty. It does not talk down to you.
 
-If you are completely new to homebrewing, the [BrewClub guide](/brewclub) is a better starting point. BrewClub is a guided journey from your first brew through progressively more advanced techniques. This guide is the reference library that sits behind it.
+If you are completely new to homebrewing, the BrewClub guide is a better starting point. BrewClub is a guided journey from your first brew through progressively more advanced techniques. This guide is the reference library that sits behind it.
 
 :::tip Already in BrewClub?
 If you arrived here from a BrewClub page looking for more detail, you're in the right place. Each BrewClub page links to the relevant sections here when it says "want to understand why?"
+:::
+
+---
+
+## About this guide
+
+### AI assistance
+
+This documentation was written with the assistance of [Claude AI](https://claude.ai). Claude was used as a research assistant — helping to fill gaps, stress-test reasoning, and structure conclusions — and builds on several years of personal research and brewing experience. All content has been reviewed by humans and should continue to be reviewed by humans. AI makes mistakes; so do humans; the goal is to catch both.
+
+### Open source
+
+This is an open source document. You can contribute on [GitHub](https://github.com/r-colvin/craftbrewer.se) — by writing new documentation, correcting existing content, or simply raising an issue if something looks wrong.
+
+The one non-negotiable guideline: **everything must be backed by a reputable source**. Gut instinct alone does not qualify. Personal experience that supports or contradicts what is written here is genuinely welcome — describe it, and if it can be corroborated, it will strengthen the guide.
+
+This guide exists to challenge received wisdom and confirm or bust the myths that circulate in homebrewing communities. All contributions that meet the evidence standard are welcome.
+
+:::note A note on confidence
+Where the evidence is strong, this guide says so. Where it is uncertain, inferred, or pending manufacturer confirmation, that is stated explicitly. Absence of documentation is not evidence of safety — and this guide will not pretend otherwise.
 :::
