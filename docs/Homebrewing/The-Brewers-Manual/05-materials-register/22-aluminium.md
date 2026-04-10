@@ -37,4 +37,4 @@ Ethanol does not attack aluminium. PBW at homebrewing concentrations and tempera
 
 ---
 
-[^1]: Calculation basis: Al₂O₃ dissolution rate in 0.01 M phosphoric acid at ambient temperature, ~0.1–0.5 nm/minute; 30–60 second contact on 10 cm² surface releases approximately 1 µg Al into 1 L solution (1 ppb). WHO guideline: [*Guidelines for Drinking-water Quality*, 4th edition (2017)](https://www.who.int/publications/i/item/9789241549950), aluminium guideline value 0.2 mg/L (200 µg/L) — safety margin approximately 200× for this scenario.
+[^1]: WHO, *Guidelines for Drinking-water Quality*, 4th edition (2017) — [who.int](https://www.who.int/publications/i/item/9789241549950) · aluminium guideline value 0.2 mg/L (200 µg/L). Calculation: Al₂O₃ dissolution ~0.1–0.5 nm/min in 0.01 M phosphoric acid; 30–60 sec contact on 10 cm² releases ~1 µg Al into 1 L — safety margin ~200×

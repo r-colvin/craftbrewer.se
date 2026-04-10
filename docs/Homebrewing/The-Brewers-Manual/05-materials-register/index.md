@@ -1,10 +1,10 @@
 ---
-sidebar_position: 5
-title: Materials register
+sidebar_position: 6
+title: Materials
 slug: /homebrewing/brewers-manual/materials-register
 ---
 
-# Materials register
+# Materials
 
 Homebrewing equipment is made from a surprisingly wide range of materials. A single fermenter setup may contain five or six distinct plastics, two or three elastomers, and one or more metals — each with its own chemical resistance profile, its own food contact regulatory history, and its own failure mode under the chemicals applied to it.
 

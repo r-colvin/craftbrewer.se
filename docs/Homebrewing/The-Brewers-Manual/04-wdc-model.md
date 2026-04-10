@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 title: The wet-dry cycle model
 ---
 
@@ -205,7 +205,7 @@ The wet-dry cycle model is a tool for thinking, not just a set of numbers. Its c
 
 5. **The no-rinse rule applies to food-contact surfaces only.** External structural surfaces — fitting bodies, collar mechanisms, compression joints — can and should be rinsed with water after sanitisation contact time. Applying the no-rinse habit to external surfaces created the DuoTight failure. Understanding why the rule exists allows you to apply it correctly.
 
-The next section applies this model to specific materials in the [materials register](./05-materials-register/index.md). Each material rating there traces back to the numbers and zones established here. For how the model applies to specific equipment, see the [Equipment](./Equipment/) guides.
+The next section applies this model to specific materials in the [materials register](./05-materials-register/index.md). Each material rating there traces back to the numbers and zones established here. For how the model applies to specific equipment, see the [Equipment guides](./Equipment/index.md).
 
 ---
 

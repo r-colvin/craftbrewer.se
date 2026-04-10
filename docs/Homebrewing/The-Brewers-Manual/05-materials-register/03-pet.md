@@ -39,6 +39,6 @@ No concern.
 
 ---
 
-[^1]: [EU Regulation 10/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923) on plastic materials and articles intended to contact food, Annex I — PET monomer listing with specific migration limits: terephthalic acid SML 7.5 mg/kg; ethylene glycol SML 30 mg/kg.
+[^1]: *EU Regulation 10/2011* on plastic materials and articles intended to contact food, Annex I — [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923) · PET monomer SMLs: terephthalic acid 7.5 mg/kg; ethylene glycol 30 mg/kg.
 
-[^2]: KegLand customer service, position confirmed in product documentation: StellarSan can be stored in the FermZilla All Rounder indefinitely. Source: KegLand product support correspondence, cited in research — accessed April 2026.
+[^2]: KegLand customer service, position confirmed in product documentation: StellarSan can be stored in the FermZilla All Rounder indefinitely (accessed April 2026)

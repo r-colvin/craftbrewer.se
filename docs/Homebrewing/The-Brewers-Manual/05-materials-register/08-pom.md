@@ -43,6 +43,6 @@ For the replacement material, see [POK](./07-pok.md). For the toxicology context
 
 ---
 
-[^1]: [EU Regulation 10/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923), Annex I — formaldehyde specific migration limit: 15 mg/kg. IARC Monographs Volume 100F (2012): formaldehyde classified as Group 1 (carcinogenic to humans). Available at: [iarc.who.int](https://www.iarc.who.int/wp-content/uploads/2018/07/mono100F-29.pdf) — accessed April 2026.
+[^1]: *EU Regulation 10/2011*, Annex I — [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923) · formaldehyde SML 15 mg/kg. IARC Monographs Vol. 100F (2012): formaldehyde classified Group 1 (carcinogenic to humans) — [iarc.who.int](https://www.iarc.who.int/wp-content/uploads/2018/07/mono100F-29.pdf) (accessed April 2026)
 
-[^2]: KegLand, *DuoTight Design Revision* (product document). Available at: [kegland.com.au](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf) — accessed April 2026. Archived copy: [`/static/references/duotight_design_revision.pdf`](/references/duotight_design_revision.pdf).
+[^2]: KegLand, *DuoTight Design Revision* (product document) — [kegland.com.au](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf) (accessed April 2026) · [`duotight_design_revision.pdf`](/references/duotight_design_revision.pdf)

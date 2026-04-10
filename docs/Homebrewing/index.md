@@ -1,42 +1,20 @@
 ---
 sidebar_position: 0
-title: Welcome to the Homebrewing Guide
+title: Overview
 slug: /homebrewing
 ---
 
-# The homebrewing guide
+# Homebrewing
 
-This guide is a data-driven reference for homebrewers at all levels. It starts from first principles — materials science, chemical compatibility, toxicology — and works outward to practical equipment and process recommendations.
+This section of CraftBrewer.se covers everything about homebrewing — from the science of why equipment and chemicals behave the way they do, through guided brew-day walkthroughs, to a growing recipe collection.
 
-The goal is not to tell you what to do. It is to explain *why*, so you can make informed decisions for your own situation.
+There are three parts:
 
-## What this guide does
+**[The Brewer's Manual](./The-Brewers-Manual/01-introduction.md)** is a data-driven reference covering materials science, chemical compatibility, equipment analysis, and processes. It works from primary sources — safety data sheets, EU food contact regulations, peer-reviewed chemistry — and either confirms or challenges conventional homebrewing wisdom with evidence. The core thesis: *here is why you probably don't need to worry, and here is the specific scenario where you might.*
 
-Most homebrewing advice is passed down through forums and YouTube comments as received wisdom. Some of it is correct. Some of it is wrong. Some of it is right in one context and wrong in another. This guide works from primary sources — manufacturer safety data sheets, EU food contact regulations, peer-reviewed chemistry — and either confirms or challenges the conventional wisdom with evidence.
+**[BrewClub](./BrewClub/index.md)** is a guided programme for new brewers. It takes you from your first brew through progressively more advanced techniques in a linear, step-by-step format. Each stage links into The Brewer's Manual when you want to understand the science behind the recommendation.
 
-The core thesis: **here is why you probably don't need to worry, and here is the specific scenario where you might.**
-
-## How it is organised
-
-The guide is divided into five sections:
-
-- **Foundations** — materials science, the wet-dry cycle model, toxicology, and why documentation matters
-- **Chemicals** — sanitisers and cleaners: what they are, how they work, and how to use them correctly
-- **Equipment** — specific guides for fermenters, packaging vessels, serving systems, and monitoring equipment
-- **Processes** — brewing, fermentation, packaging, and serving as complete workflows
-- **References** — primary sources, further reading, and citation index
-
-Each section cross-references the others. Equipment guides link back to the materials register. Process guides link to the relevant equipment and chemical sections. Claims are cited where possible.
-
-## Who this guide is for
-
-This guide is written for the developing homebrew hobbyist — someone past their first brew who wants to understand what they are doing and why. It assumes you can handle nuance and uncertainty. It does not talk down to you.
-
-If you are completely new to homebrewing, the BrewClub guide is a better starting point. BrewClub is a guided journey from your first brew through progressively more advanced techniques. This guide is the reference library that sits behind it.
-
-:::tip Already in BrewClub?
-If you arrived here from a BrewClub page looking for more detail, you're in the right place. Each BrewClub page links to the relevant sections here when it says "want to understand why?"
-:::
+**[Recipes](./Recipes/index.md)** is a shared collection covering fresh wort kit splits, extract and partial mash brews, and all-grain recipes — all designed around the BrewClub equipment list and scalable to larger setups.
 
 ---
 

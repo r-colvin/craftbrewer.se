@@ -47,4 +47,4 @@ No concern for either cure system.
 
 ---
 
-[^1]: Epoca, *Spray Bottle Chemical Compatibility Chart* (product reference document). Viton-PA (polyamine-cured) rated Not Recommended for phosphoric acid. Viton-PP (peroxide-cured) rated Recommended. Available at Epoca product documentation — accessed April 2026.
+[^1]: Epoca, *Spray Bottle Chemical Compatibility Chart* (product reference document) — Viton-PA rated Not Recommended for phosphoric acid; Viton-PP rated Recommended (accessed April 2026)

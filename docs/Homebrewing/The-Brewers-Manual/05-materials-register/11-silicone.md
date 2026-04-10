@@ -51,4 +51,4 @@ Silicone is suitable for sour beer contact — the Si-O backbone is more acid-st
 
 ---
 
-[^1]: ISM Industrial, *Chemical Compatibility Chart — Elastomers*. Rates silicone as B (minor effect) for benzenesulfonic acid equivalents at working concentrations. Available at: [ismicro.com](https://www.ismicro.com) — accessed April 2026.
+[^1]: ISM Industrial, *Chemical Compatibility Chart — Elastomers* — [ismicro.com](https://www.ismicro.com) (accessed April 2026) · silicone rated B (minor effect) for benzenesulfonic acid equivalents

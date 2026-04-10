@@ -50,6 +50,16 @@ This guide focuses on cleaning and sanitisation chemistry and its interaction wi
 
 What *How to Brew* does not cover in any depth is the materials science of the equipment that fermentation takes place in. That is the gap this guide is written to fill.
 
+## Disclaimer
+
+This guide is a personal research project, written and published in good faith using publicly available sources. It is not professional advice — not legal, medical, safety, or engineering advice of any kind.
+
+The chemical compatibility ratings, toxicology assessments, and practical recommendations in this guide represent the author's best understanding of the available evidence at the time of writing. They may be incomplete, may contain errors, and may not apply to every product, formulation, or situation. Manufacturer specifications, regulatory standards, and product compositions change over time — always verify against current primary sources before making decisions.
+
+If you follow anything written here and something goes wrong, that is your responsibility, not mine. Homebrewing involves chemicals, pressure vessels, and consumable products. Understand what you are doing before you do it.
+
+Where this guide says something is safe, it means: the evidence reviewed supports that conclusion under the described conditions. It does not mean: guaranteed safe in all circumstances for all people with all equipment.
+
 ---
 
-[^1]: KegLand, *DuoTight Design Revision* (product document). Available at: [kegland.com.au](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf) — accessed April 2026. Archived copy: [`/static/references/duotight_design_revision.pdf`](/references/duotight_design_revision.pdf).
+[^1]: KegLand, *DuoTight Design Revision* (product document) — [kegland.com.au](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf) (accessed April 2026) · [`duotight_design_revision.pdf`](/references/duotight_design_revision.pdf)

@@ -51,4 +51,4 @@ Silicone (platinum-cured) has a slightly better DDBSA resistance profile than EP
 
 ---
 
-[^1]: Rubber Group, *Chemical Compatibility Chart for Elastomers* (29-page reference document). Benzenesulfonic acid entry: EPDM rated U (unsatisfactory). Used as primary reference for elastomer DDBSA ratings throughout this register.
+[^1]: Rubber Group, *Chemical Compatibility Chart for Elastomers* (29-page reference document) — benzenesulfonic acid entry: EPDM rated U (unsatisfactory)

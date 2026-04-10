@@ -31,4 +31,4 @@ No concern across all three environments.
 
 ---
 
-[^1]: KegLand, *DuoTight Design Revision* (product document). Available at: [kegland.com.au](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf) — accessed April 2026. Archived copy: [`/static/references/duotight_design_revision.pdf`](/references/duotight_design_revision.pdf).
+[^1]: KegLand, *DuoTight Design Revision* (product document) — [kegland.com.au](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf) (accessed April 2026) · [`duotight_design_revision.pdf`](/references/duotight_design_revision.pdf)
