@@ -1,0 +1,11 @@
+{
+  "position": 3,
+  "label": "Fermentation",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Fermentation",
+    "description": "What happens after brew day — fermentation, monitoring, and dry hopping."
+  }
+}

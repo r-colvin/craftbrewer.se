@@ -1,0 +1,11 @@
+{
+  "position": 1,
+  "label": "Fresh wort kits",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Fresh wort kit recipes",
+    "description": "Yeast choices, dry hop additions, and split variations for FWK brews."
+  }
+}

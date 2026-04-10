@@ -1,0 +1,11 @@
+{
+  "position": 4,
+  "label": "Sanitising",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Sanitising",
+    "description": "Choosing and using sanitisers — ethanol-based and acid-based no-rinse options."
+  }
+}

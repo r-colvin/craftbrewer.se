@@ -1,0 +1,11 @@
+{
+  "position": 6,
+  "label": "Serving",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Serving",
+    "description": "Pouring and presenting your beer — picnic taps, serving systems, and cask dispense."
+  }
+}

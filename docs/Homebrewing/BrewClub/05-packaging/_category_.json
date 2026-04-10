@@ -1,0 +1,11 @@
+{
+  "position": 5,
+  "label": "Packaging",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Packaging",
+    "description": "Getting beer out of the fermenter and into something drinkable — mini kegs, bottles, and beyond."
+  }
+}

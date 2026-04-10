@@ -1,0 +1,11 @@
+{
+  "position": 2,
+  "label": "Extract and partial mash",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Extract and partial mash recipes",
+    "description": "Recipes using malt extract with optional specialty grain steeping."
+  }
+}

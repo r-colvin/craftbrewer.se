@@ -1,0 +1,11 @@
+{
+  "position": 7,
+  "label": "Upgrades",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Upgrades",
+    "description": "Where to go next — scaling up fermentation, kegging, pressure brewing, and beyond."
+  }
+}

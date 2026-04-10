@@ -1,0 +1,11 @@
+{
+  "position": 1,
+  "label": "The Brewer's Manual",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "The Brewer's Manual",
+    "description": "A data-driven, science-backed reference for homebrewers. Covers materials, chemicals, equipment, and processes — agreeing with conventional wisdom where it holds, and busting myths where it doesn't."
+  }
+}

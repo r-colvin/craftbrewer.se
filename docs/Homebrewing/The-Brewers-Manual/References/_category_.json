@@ -1,0 +1,11 @@
+{
+  "position": 6,
+  "label": "References",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "References",
+    "description": "Primary sources, citation index, and further reading."
+  }
+}

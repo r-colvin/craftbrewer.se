@@ -1,0 +1,11 @@
+{
+  "position": 3,
+  "label": "Recipes",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Recipes",
+    "description": "Fresh wort kit splits, extract brews, and all-grain recipes — all designed around the BrewClub equipment list and scalable to larger setups."
+  }
+}

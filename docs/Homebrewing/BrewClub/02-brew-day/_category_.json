@@ -1,0 +1,11 @@
+{
+  "position": 2,
+  "label": "Brew day",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Brew day",
+    "description": "Step-by-step guides for each brew in the BrewClub sequence."
+  }
+}

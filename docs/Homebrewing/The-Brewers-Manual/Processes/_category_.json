@@ -1,0 +1,11 @@
+{
+  "position": 5,
+  "label": "Processes",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Processes",
+    "description": "Brewing, fermentation, packaging, and serving as complete workflows — with material and chemical considerations integrated throughout."
+  }
+}

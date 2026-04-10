@@ -1,0 +1,11 @@
+{
+  "position": 2,
+  "label": "BrewClub",
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "BrewClub",
+    "description": "A guided journey from your first brew through progressively more advanced techniques. Each stage can be exited at any point. References The Brewer's Manual for the underlying science."
+  }
+}
