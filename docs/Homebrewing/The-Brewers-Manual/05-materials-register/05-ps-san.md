@@ -35,4 +35,4 @@ Both GPPS and SAN are [EU Regulation 10/2011](https://eur-lex.europa.eu/legal-co
 
 Unless a product specification explicitly states SAN, you cannot assume it from appearance alone. Both grades are transparent and visually similar. For airlocks, which contact liquid in the liquid trap, grade identification matters.
 
-**If the grade is unconfirmed, treat as GPPS.** The open item for Enolandia airlocks (GPPS vs. SAN grade confirmation) is recorded in the [documentation problem](../08-documentation-problem.md) page.
+**If the grade is unconfirmed, treat as GPPS.** The open item for Enolandia airlocks (GPPS vs. SAN grade confirmation) is recorded in the [documentation problem](../02-documentation-problem.md) page.

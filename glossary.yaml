@@ -30,6 +30,18 @@ DES:
   term: DES
   def: "Disinfectant Ethanol Sanitiser (ChemiPro DES). An ethanol-based (70–80%) sanitiser with no non-volatile residue. Evaporates completely, leaving no WDC risk. A-rated for all common homebrewing materials."
 
+DoC:
+  term: DoC
+  def: "Declaration of Conformity. A manufacturer's written statement that a food contact material or article complies with the applicable EU regulations (primarily 1935/2004 and 10/2011). Required at each stage of the commercial supply chain, but not legally required to be provided to end consumers at retail."
+
+PS:
+  term: PS
+  def: "Polystyrene. A transparent, brittle plastic used in many homebrewing airlocks and some accessories. Comes in two grades: GPPS (General-Purpose Polystyrene, susceptible to DDBSA) and SAN (Styrene-Acrylonitrile, more resistant). Grade is often unspecified by manufacturers — treat as GPPS if unknown."
+
+SAN:
+  term: SAN
+  def: "Styrene-Acrylonitrile copolymer. A transparent plastic used in some airlocks and equipment. The acrylonitrile content gives better chemical resistance than GPPS, particularly against DDBSA in acid-based sanitisers. Rated A for ABNS, unlike GPPS which is rated B/D."
+
 PP:
   term: PP
   def: "Polypropylene. A semi-crystalline polyolefin plastic widely used in fermenter buckets, lids, taps, and airlocks. Excellent chemical resistance across all homebrewing chemical environments. EU Regulation 10/2011 compliant."

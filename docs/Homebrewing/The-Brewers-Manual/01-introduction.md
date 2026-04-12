@@ -5,6 +5,10 @@ title: Introduction
 
 # Introduction: why materials matter
 
+:::note EU focus
+This guide is written from an EU regulatory perspective, reflecting the author's location and the regulatory environment of the site's primary audience. Regulation numbers, food contact standards, and biocide approval frameworks cited throughout are EU instruments. The underlying chemistry and material science are universal — the specific regulatory references will differ for readers in other jurisdictions, but the analytical framework applies everywhere.
+:::
+
 Most homebrewing guides spend a lot of time on grain bills, hop schedules, and fermentation temperatures. Very few spend any time on the materials their equipment is made from, the chemistry of what gets applied to those materials, or what happens when the two interact. This guide exists to fill that gap.
 
 The question that started this research was a simple one: if no-rinse sanitiser kills bacteria and wild yeasts, how is it no-rinse and safe for the beer? Reading the Star San product page produced more questions than answers. Reading the safety data sheets produced more still. And then came the KegLand DuoTight Design Revision document — a manufacturer's own account of how a widely used push-fit fitting had been failing in the field because acid-based sanitisers were concentrating in the fitting collar during drying, stressing the plastic until it cracked.[^1]

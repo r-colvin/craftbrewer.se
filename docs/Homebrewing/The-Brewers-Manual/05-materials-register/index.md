@@ -72,4 +72,4 @@ Several of the most important distinctions in this register — NR versus EPDM g
 
 When equipment documentation does not specify the material of elastomeric or plastic components to this level of detail, the safest approach is: ask the manufacturer directly, cross-reference the product against a known compliant specification, or choose a different product where the material is documented. In the case of NR — where the toxicology risk is invisible to inspection — there is no acceptable alternative to confirmation or replacement.
 
-The [Documentation problem](../08-documentation-problem.md) page covers this gap in detail.
+The [Documentation problem](../02-documentation-problem.md) page covers this gap in detail.
