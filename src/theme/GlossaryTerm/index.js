@@ -82,6 +82,10 @@ function GlossaryTerm({ term, definition, url, routePath = "/glossary", children
     return foundTerm?.definition ?? undefined;
   }, [definition, foundTerm]);
 
+  const effectiveAbbreviation = useMemo(() => {
+    return foundTerm?.abbreviation ?? undefined;
+  }, [foundTerm]);
+
   const effectiveUrl = useMemo(() => {
     if (url && typeof url === "string" && url.length > 0) return url;
     return foundTerm?.url ?? undefined;
@@ -101,6 +105,11 @@ function GlossaryTerm({ term, definition, url, routePath = "/glossary", children
     placement === "top" ? styles.tooltipTop : styles.tooltipBottom,
     styles.tooltipFloating,
   ].join(" ");
+
+  // Tooltip header: "PP — Polypropylene" if abbreviation exists, otherwise just the term
+  const tooltipHeader = effectiveAbbreviation
+    ? `${term} — ${effectiveAbbreviation}`
+    : term;
 
   return (
     <span
@@ -132,7 +141,7 @@ function GlossaryTerm({ term, definition, url, routePath = "/glossary", children
           onMouseEnter={() => { cancelHide(); setShowTooltip(true); }}
           onMouseLeave={scheduleHide}
         >
-          <strong>{term}</strong>
+          <strong>{tooltipHeader}</strong>
           {" "}{effectiveDefinition}
           {effectiveUrl && (
             <a href={effectiveUrl} className={styles.tooltipLink}>
