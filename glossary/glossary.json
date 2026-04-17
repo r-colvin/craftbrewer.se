@@ -1,0 +1,145 @@
+{
+  "description": "CraftBrewer glossary — homebrewing science and materials terminology",
+  "terms": [
+    {
+      "term": "Wort",
+      "definition": "Liquid extracted from malted grain during mashing and boiling, before fermentation. The starting point for beer."
+    },
+    {
+      "term": "IPA",
+      "abbreviation": "India Pale Ale",
+      "definition": "A hop-forward beer style characterised by pronounced bitterness and hop aroma."
+    },
+    {
+      "term": "Mashing",
+      "definition": "Soaking crushed malted grain in hot water at a controlled temperature to convert starches to fermentable sugars."
+    },
+    {
+      "term": "ABNS",
+      "abbreviation": "Acid-Based No-Rinse Sanitiser",
+      "definition": "The class of sanitisers based on dodecylbenzenesulfonic acid (DDBSA) and phosphoric acid. Examples: Star San, Sanipro Rinse, StellarSan, Chemsan. Safe to leave on food-contact surfaces without rinsing when used at correct dilution."
+    },
+    {
+      "term": "WDC",
+      "abbreviation": "Wet-Dry Cycle",
+      "definition": "The process by which liquid applied to a surface evaporates, leaving non-volatile components concentrated as a dry residue. The key mechanism for understanding sanitiser behaviour on equipment. See: The wet-dry cycle model."
+    },
+    {
+      "term": "CF",
+      "abbreviation": "Concentration Factor",
+      "definition": "How many times more concentrated the non-volatile residue is compared to the original working solution, after evaporation. At complete drying of a 1:250 ABNS solution, CF = 250."
+    },
+    {
+      "term": "DDBSA",
+      "abbreviation": "Dodecylbenzenesulfonic acid",
+      "definition": "The active surfactant in acid-based no-rinse sanitisers (ABNS). A long-chain anionic surfactant that disrupts microbial cell membranes at low pH. Non-volatile — it concentrates on surfaces as water evaporates."
+    },
+    {
+      "term": "DES",
+      "abbreviation": "Disinfectant Ethanol Sanitiser",
+      "definition": "ChemiPro DES. An ethanol-based (70–80%) sanitiser with no non-volatile residue. Evaporates completely, leaving no WDC risk. A-rated for all common homebrewing materials."
+    },
+    {
+      "term": "DoC",
+      "abbreviation": "Declaration of Conformity",
+      "definition": "A manufacturer's written statement that a food contact material or article complies with the applicable EU regulations (primarily 1935/2004 and 10/2011). Required at each stage of the commercial supply chain, but not legally required to be provided to end consumers at retail."
+    },
+    {
+      "term": "PP",
+      "abbreviation": "Polypropylene",
+      "definition": "A semi-crystalline polyolefin plastic widely used in fermenter buckets, lids, taps, and airlocks. Excellent chemical resistance across all homebrewing chemical environments. EU Regulation 10/2011 compliant."
+    },
+    {
+      "term": "HDPE",
+      "abbreviation": "High-Density Polyethylene",
+      "definition": "A polyolefin plastic used in fermenter taps and spray bottles. Slightly better chemical barrier properties than PP. EU Regulation 10/2011 compliant."
+    },
+    {
+      "term": "PET",
+      "abbreviation": "Polyethylene terephthalate",
+      "definition": "The plastic used in the FermZilla All Rounder, Oxebar mini keg, and PET bottles. Recycling code ♻️1. Extensively tested for food contact with carbonated beverages. Do not exceed 40 °C when cleaning."
+    },
+    {
+      "term": "EPDM",
+      "abbreviation": "Ethylene Propylene Diene Monomer",
+      "definition": "A saturated-backbone elastomer rubber used in fermenter grommets and tap washers. Better chemical resistance than NR or SBR. Rated B for DDBSA in realistic homebrewing use with post-batch cleaning."
+    },
+    {
+      "term": "POK",
+      "abbreviation": "Polyketone",
+      "definition": "An engineering thermoplastic used in current KegLand DuoTight push-fit fittings and the RAPT Pill body. Replaced POM due to POM's vulnerability to acid-catalysed degradation under WDC conditions. A-rated for all homebrewing chemicals.",
+      "url": "/Homebrewing/The-Brewers-Manual/materials-register/pok"
+    },
+    {
+      "term": "POM",
+      "abbreviation": "Polyoxymethylene",
+      "definition": "Also known as acetal or Delrin. An engineering thermoplastic used in John Guest push-fit fittings and older DuoTight collars. Susceptible to acid-catalysed chain-unzipping under WDC conditions, releasing formaldehyde. Rated D–X for ABNS.",
+      "url": "/Homebrewing/The-Brewers-Manual/materials-register/pom"
+    },
+    {
+      "term": "PS",
+      "abbreviation": "Polystyrene",
+      "definition": "A transparent, brittle plastic used in many homebrewing airlocks and some accessories. Comes in two grades: GPPS (General-Purpose Polystyrene, susceptible to DDBSA) and SAN (Styrene-Acrylonitrile, more resistant). Grade is often unspecified by manufacturers — treat as GPPS if unknown."
+    },
+    {
+      "term": "SAN",
+      "abbreviation": "Styrene-Acrylonitrile copolymer",
+      "definition": "A transparent plastic used in some airlocks and equipment. The acrylonitrile content gives better chemical resistance than GPPS, particularly against DDBSA in acid-based sanitisers. Rated A for ABNS, unlike GPPS which is rated B/D."
+    },
+    {
+      "term": "ESC",
+      "abbreviation": "Environmental Stress Cracking",
+      "definition": "Failure of a polymer under the combined action of mechanical stress and chemical exposure. The failure mode of POM DuoTight collars under repeated ABNS WDC cycles. Occurs below the material's normal stress threshold when chemical exposure is present."
+    },
+    {
+      "term": "SML",
+      "abbreviation": "Specific Migration Limit",
+      "definition": "The maximum permitted amount of a substance that may migrate from a food contact material into food or a food simulant, set by EU Regulation 10/2011. Expressed in mg/kg of food."
+    },
+    {
+      "term": "FKM",
+      "abbreviation": "Fluoroelastomer",
+      "definition": "The ISO/ASTM class designation for the family of fluorinated synthetic rubbers commercially known as Viton. High chemical resistance, but cure system (peroxide vs. polyamine) significantly affects compatibility with phosphoric acid."
+    },
+    {
+      "term": "TPV",
+      "abbreviation": "Thermoplastic Vulcanisate",
+      "definition": "A rubber-toughened thermoplastic that combines the chemical resistance of a vulcanised rubber with the processing advantages of thermoplastics. Santoprene is an EPDM/PP TPV used in the Oxebar Gen2 elbow and NukaTap valve shuttle."
+    },
+    {
+      "term": "PBW",
+      "abbreviation": "Powdered Brewery Wash",
+      "definition": "A sodium metasilicate and percarbonate-based alkaline cleaner widely used in brewing. Removes organic soil through alkaline hydrolysis. A-rated for all common homebrewing plastic and elastomer materials at working concentrations."
+    },
+    {
+      "term": "OTR",
+      "abbreviation": "Oxygen Transmission Rate",
+      "definition": "A measure of how quickly oxygen permeates through a packaging material. Lower OTR means better oxygen barrier and longer shelf life for packaged beer. Multilayer PET (Oxebar) and stainless steel have significantly lower OTR than plain PET."
+    },
+    {
+      "term": "SDS",
+      "abbreviation": "Safety Data Sheet",
+      "definition": "A standardised document providing detailed information on a chemical substance or mixture — composition, hazards, handling, and regulatory status. The primary source for confirmed chemical composition data. EU format governed by REACH Regulation (EC) 1907/2006."
+    },
+    {
+      "term": "REACH",
+      "abbreviation": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
+      "definition": "EU Regulation (EC) 1907/2006. The primary EU chemicals regulation framework, which governs SDS format and substance disclosure requirements."
+    },
+    {
+      "term": "SVHC",
+      "abbreviation": "Substance of Very High Concern",
+      "definition": "A substance identified under REACH as having serious hazardous properties — carcinogenic, mutagenic, toxic to reproduction, or persistent/bioaccumulative. Cyclic siloxanes D4 and D5 found in silicone are SVHC-listed."
+    },
+    {
+      "term": "NR",
+      "abbreviation": "Natural Rubber",
+      "definition": "Vulcanised latex of Hevea brasiliensis. Used in budget grommets and washers. Carries N-nitrosamine precursor risk from sulphur-cure accelerators — invisible to inspection. Replace immediately with EPDM."
+    },
+    {
+      "term": "SBR",
+      "abbreviation": "Styrene-Butadiene Rubber",
+      "definition": "A synthetic rubber sharing NR's unsaturated backbone and sulphur-cure chemistry. Same N-nitrosamine precursor risk as NR. Replace immediately with EPDM."
+    }
+  ]
+}

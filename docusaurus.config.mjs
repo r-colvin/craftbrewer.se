@@ -1,13 +1,16 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-//const lightCodeTheme = require('prism-react-renderer/themes/github');
-const lightCodeTheme = require('prism-react-renderer').themes.github;
-//const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const darkCodeTheme = require('prism-react-renderer').themes.dracula;
+import { themes as prismThemes } from 'prism-react-renderer';
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+import { createRequire } from 'module';
+import { fileURLToPath } from 'url';
+import path from 'path';
 
-const remarkMath = require('remark-math').default;
-const rehypeKatex = require('rehype-katex').default;
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const require = createRequire(import.meta.url);
+const { remarkPlugin: remarkGlossaryTerms } = require('docusaurus-plugin-glossary');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -29,13 +32,31 @@ const config = {
 
   onBrokenLinks: 'throw',
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
+
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      {
+        hashed: true,
+        indexDocs: true,
+        docsRouteBasePath: '/',
+      },
+    ],
+  ],
+
+  plugins: [
+    [
+      'docusaurus-plugin-glossary',
+      {
+        glossaryPath: 'glossary/glossary.json',
+        routePath: '/glossary',
+      },
+    ],
+  ],
 
   presets: [
     [
@@ -44,20 +65,17 @@ const config = {
       ({
         docs: {
           routeBasePath: '/',
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/r-colvin/craftbrewer.se',
+          sidebarPath: './sidebars.js',
+          editUrl: 'https://github.com/r-colvin/craftbrewer.se',
           remarkPlugins: [
-            [ require('@renatonagliati/remark-auto-glossary').default, { yamlFile: 'glossary.yaml' } ],
+            [remarkGlossaryTerms, { glossaryPath: 'glossary/glossary.json', routePath: '/glossary', siteDir: __dirname }],
             remarkMath,
           ],
           rehypePlugins: [rehypeKatex],
         },
         blog: false,
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: './src/css/custom.css',
         },
       }),
     ],
@@ -70,17 +88,15 @@ const config = {
       integrity: 'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
       crossorigin: 'anonymous',
     },
-],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       navbar: {
         title: 'CraftBrewer',
         logo: {
           alt: 'CraftBrewer-Logo',
-          /*src: 'https://web.brewfather.app/svg/beer.svg',*/
           src: 'https://github.com/user-attachments/assets/f8a7efd1-2721-49a4-af63-6b8c65eaf705',
         },
         items: [
@@ -91,13 +107,13 @@ const config = {
           },
         ],
       },
-     /*tableOfContents: {
+      /*tableOfContents: {
         minHeadingLevel: 2,
         maxHeadingLevel: 5,
       },*/
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
       colorMode: {
         defaultMode: 'dark',
@@ -107,4 +123,4 @@ const config = {
     }),
 };
 
-module.exports = config;
+export default config;

@@ -28,3 +28,9 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Offset glossary anchor links to clear the sticky navbar */
+[id] {
+  scroll-margin-top: calc(var(--ifm-navbar-height) + 1rem);
+}
+
