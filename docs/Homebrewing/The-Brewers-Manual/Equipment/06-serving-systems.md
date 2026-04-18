@@ -5,9 +5,7 @@ title: Serving systems
 
 # Serving systems
 
-:::note EU focus
-Components referenced on this page are available through KegLand EU and Swedish homebrew retailers. EVABarrier line is a KegLand product; equivalent co-extruded barrier lines are available from other EU suppliers. DuoTight fittings referenced are the current POK-collar version.
-:::
+*This page follows the EU regulatory framework and Swedish market context described in the [introduction](../01-introduction.md).*
 
 A serving system connects the keg to the glass. The materials in the flow path — beer line, fittings, taps — are in sustained contact with finished, carbonated beer at serving pressure. They are cleaned between uses, but less frequently than fermentation equipment; biofilm and flavour carry-over are the primary concerns alongside material compatibility. Getting the serving system right is a one-time decision that determines beer quality for every pour thereafter.
 

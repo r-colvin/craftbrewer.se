@@ -5,9 +5,7 @@ title: Oxebar 4 L mini keg
 
 # Oxebar 4 L mini keg
 
-:::note EU focus
-The Oxebar 4 L is available through KegLand EU and Swedish homebrew retailers. References to KegLand documentation reflect the EU product; Australian product pages may differ in component specification.
-:::
+*This page follows the EU regulatory framework and Swedish market context described in the [introduction](../01-introduction.md).*
 
 The Oxebar 4 L is a multilayer PET mini keg using a PCO38 threaded tapping head. Its key advantage over plain PET bottles is its EVOH oxygen barrier layer, which substantially reduces oxygen transmission through the vessel walls and extends the practical storage window for carbonated beer. It is the primary packaging vessel for BrewClub Level 1 and for brewers who want keg-style serving without CO₂ infrastructure.
 

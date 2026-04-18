@@ -5,9 +5,7 @@ title: Cleaning
 
 # Cleaning
 
-:::note EU focus
-This page covers cleaning products available in Sweden and the EU. Product recommendations reflect EU market availability. US products (PBW) are mentioned for comparison where they are widely referenced in the homebrew literature; the primary recommendation for most setups is StellarClean (KegLand).
-:::
+*This page follows the EU regulatory framework and Swedish market context described in the [introduction](./01-introduction.md).*
 
 Cleaning is not the same thing as sanitising, and the distinction matters in both directions. Cleaning removes organic soil — yeast residue, protein deposits, hop resins, beer stone. Sanitising reduces microbial load on a *clean* surface to levels that cannot cause infection. Sanitiser applied over organic contamination cannot reliably reach the microbial cells embedded beneath the soil layer. The sequence is non-negotiable: **clean first, sanitise second**.
 

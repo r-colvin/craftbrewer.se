@@ -2,13 +2,17 @@
   "description": "CraftBrewer glossary — homebrewing science and materials terminology",
   "terms": [
     {
+      "term": "Organoleptic",
+      "definition": "Relating to the sensory properties of a food or drink — taste, smell, appearance, and texture. EU food contact regulations require that materials do not cause unacceptable organoleptic changes to food."
+    },
+    {
       "term": "Wort",
       "definition": "Liquid extracted from malted grain during mashing and boiling, before fermentation. The starting point for beer."
     },
     {
       "term": "IPA",
-      "abbreviation": "India Pale Ale",
-      "definition": "A hop-forward beer style characterised by pronounced bitterness and hop aroma."
+      "abbreviation": "Isopropyl Alcohol",
+      "definition": "A common solvent and disinfectant alcohol (propan-2-ol). Occasionally referenced in chemical compatibility contexts. Not used as a primary sanitiser in homebrewing. Note: the abbreviation IPA also refers to India Pale Ale in brewing contexts — spell out India Pale Ale in full throughout this guide to avoid ambiguity."
     },
     {
       "term": "Mashing",
@@ -17,7 +21,7 @@
     {
       "term": "ABNS",
       "abbreviation": "Acid-Based No-Rinse Sanitiser",
-      "definition": "The class of sanitisers based on dodecylbenzenesulfonic acid (DDBSA) and phosphoric acid. Examples: Star San, Sanipro Rinse, StellarSan, Chemsan. Safe to leave on food-contact surfaces without rinsing when used at correct dilution."
+      "definition": "The class of acid-based sanitisers used in homebrewing, combining phosphoric acid with an anionic alkylbenzenesulfonate surfactant. The acid creates a low-pH environment hostile to microorganisms; the surfactant disrupts cell membranes. Examples: Star San, Sanipro Rinse, StellarSan, Chemsan. Approved for use on food-contact surfaces without rinsing when used at the manufacturer's specified dilution."
     },
     {
       "term": "WDC",

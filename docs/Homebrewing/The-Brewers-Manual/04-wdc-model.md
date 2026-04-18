@@ -137,7 +137,7 @@ POM's compatibility charts rate it as acceptable with ABNS at working dilution. 
 KegLand's solution — replacing POM with POK (polyketone) in the collar — addresses the material susceptibility. It does not address the practice that created the exposure: applying no-rinse discipline to external structural surfaces that have no food-contact reason to avoid rinsing. Both the material upgrade and the practice correction are valid responses; the POK collar makes the fitting more forgiving of the practice, but understanding why the practice was wrong is more useful long-term than simply trusting that the replacement material is immune.
 
 :::note John Guest fittings
-The same POM material is used in John Guest push-fit fittings, which remain widely sold and used in homebrewing gas and liquid line systems. The DuoTight design revision document identifies this but does not provide a recommendation. The material analysis and process guidance in this documentation applies equally to John Guest fittings — they are not exempt from the WDC model by virtue of being a different brand.
+The same POM material is used in John Guest push-fit fittings, which remain widely sold and used in homebrewing gas and liquid line systems. The [KegLand DuoTight Design Revision document](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf) identifies this but does not provide a recommendation. The material analysis and process guidance in this documentation applies equally to John Guest fittings — they are not exempt from the WDC model by virtue of being a different brand.
 :::
 
 ## DDBSA in beer — the worst-case calculation

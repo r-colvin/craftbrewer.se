@@ -5,9 +5,7 @@ title: FermZilla All Rounder (30 L)
 
 # FermZilla All Rounder (30 L)
 
-:::note EU focus
-This page covers the KegLand FermZilla All Rounder available through KegLand EU. Component specifications are based on KegLand documentation; several material confirmations are pending from KegLand EU (noted throughout). A 20 L FermZilla does not exist — the 20 L fermentation option in the BrewClub context is the Witre PP bucket (see [bucket fermenters](./01-bucket-fermenter.md)).
-:::
+*This page follows the EU regulatory framework and Swedish market context described in the [introduction](../01-introduction.md).*
 
 The FermZilla All Rounder is a 30 L pressure-capable PET fermenter designed for pressure fermentation, closed transfer, and extended-storage conditioning. It is the step up from the bucket fermenter for brewers who want pressure fermentation capability, clearer beer through pressure conditioning, or a larger batch size. Its material profile is well-suited to all standard brewing chemicals; the key constraints are temperature (the PET vessel) and a small number of component material confirmations that remain pending from the manufacturer.
 

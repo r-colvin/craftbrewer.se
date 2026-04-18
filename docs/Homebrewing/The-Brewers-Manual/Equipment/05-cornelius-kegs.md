@@ -5,9 +5,7 @@ title: Cornelius kegs and stainless mini kegs
 
 # Cornelius kegs and stainless mini kegs
 
-:::note EU focus
-Cornelius kegs and stainless mini kegs are available through Swedish homebrew retailers and KegLand EU. LOW2 O-ring kits are available from kegland.eu and from US suppliers shipping to Sweden. Stainless specifications on this page reference 304 stainless — the standard for food-contact brewing equipment.
-:::
+*This page follows the EU regulatory framework and Swedish market context described in the [introduction](../01-introduction.md).*
 
 Stainless steel kegs — whether 5 L mini kegs or 9 L Cornelius (ball lock or pin lock) kegs — eliminate two of the three limitations that affect PET packaging: wall oxygen transmission and temperature-constrained cleaning. The vessel itself is effectively inert to all brewing chemicals; the meaningful material decisions concern the seals, and for stainless kegs the critical seal is the lid O-ring.
 

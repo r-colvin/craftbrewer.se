@@ -5,9 +5,7 @@ title: Bucket fermenters
 
 # Bucket fermenters
 
-:::note EU focus
-Product recommendations on this page reflect Swedish and EU market availability. Tap and bucket brand names refer to products available through Bryggbolaget, Mr-Malt, Malt Magnus, and ölbryggning. KegLand EU is referenced for components also sold through that channel.
-:::
+*This page follows the EU regulatory framework and Swedish market context described in the [introduction](../01-introduction.md).*
 
 The plastic bucket fermenter is the most common entry-level homebrewing vessel in Sweden, and in most configurations it is a perfectly adequate piece of equipment. The vessel is simple — a food-grade polypropylene bucket with a lid — and most of the practical questions concern the components attached to it: the tap, the grommet, and the airlock. These are the parts with chemical compatibility implications, and they are the parts where the choice of material matters.
 

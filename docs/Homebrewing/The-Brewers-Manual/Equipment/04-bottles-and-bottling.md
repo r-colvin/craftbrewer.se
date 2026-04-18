@@ -5,9 +5,7 @@ title: Bottles and bottling
 
 # Bottles and bottling
 
-:::note EU focus
-Crown cap and closure standards referenced on this page are EU/Swedish market. Oxygen-scavenging liner products (Amorim Oxyguard and equivalents) are available through European homebrew retailers. PET bottle specifications reflect EU recycled PET standards.
-:::
+*This page follows the EU regulatory framework and Swedish market context described in the [introduction](../01-introduction.md).*
 
 Gravity bottling is the lowest-barrier packaging method — no CO₂ infrastructure, no kegging equipment, no counter-pressure filling. It is also the method where oxygen management is most difficult, because every step from fermenter to capped bottle introduces an opportunity for oxygen pickup. This page covers the materials (PET, glass, crown caps) and the practices that minimise that exposure without requiring equipment beyond what most beginning brewers already have.
 

@@ -54,6 +54,11 @@ const sidebars = {
       ],
     },
     */
+    {
+      type: 'link',
+      label: 'Glossary',
+      href: '/glossary',
+    },
   ],
 };
 

@@ -5,13 +5,9 @@ title: Introduction
 
 # Introduction: why materials matter
 
-:::note EU focus
-This guide is written from an EU regulatory perspective, reflecting the author's location and the regulatory environment of the site's primary audience. Regulation numbers, food contact standards, and biocide approval frameworks cited throughout are EU instruments. The underlying chemistry and material science are universal — the specific regulatory references will differ for readers in other jurisdictions, but the analytical framework applies everywhere.
-:::
-
 Most homebrewing guides spend a lot of time on grain bills, hop schedules, and fermentation temperatures. Very few spend any time on the materials their equipment is made from, the chemistry of what gets applied to those materials, or what happens when the two interact. This guide exists to fill that gap.
 
-The question that started this research was a simple one: if no-rinse sanitiser kills bacteria and wild yeasts, how is it no-rinse and safe for the beer? Reading the Star San product page produced more questions than answers. Reading the safety data sheets produced more still. And then came the KegLand DuoTight Design Revision document — a manufacturer's own account of how a widely used push-fit fitting had been failing in the field because acid-based sanitisers were concentrating in the fitting collar during drying, stressing the plastic until it cracked.[^1]
+The question that started this research was a simple one: if no-rinse sanitiser kills bacteria and wild yeasts, how is it no-rinse and safe for the beer? Reading the Star San product page produced more questions than answers. Reading the safety data sheets produced more still. And then came the [KegLand DuoTight Design Revision document](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf)[^1] — a manufacturer's own account of how a widely used push-fit fitting had been failing in the field because acid-based sanitisers were concentrating in the fitting collar during drying, stressing the plastic until it cracked.
 
 That document established the mechanism. The question that followed was: where else in a typical homebrew setup does this happen?
 
@@ -24,7 +20,7 @@ Homebrewing has a lot of received wisdom about cleaning and sanitation. Most of 
 A few representative examples:
 
 - "Food-safe plastic is safe for homebrewing." This is true for the vessel body in most cases. It may not be true for every O-ring, grommet, tap washer, and airlock in the same kit — because food-safe plastic covers a wide range of materials with very different chemical resistance profiles, and the declaration of conformity for the bucket does not certify the grommet.
-- "Star San is no-rinse and completely safe." For the internal surfaces of a fermenter that will be filled with wort, this is well supported. For the external structural components of a push-fit fitting that will be left to dry, this was the failure mode that caused the DuoTight design revision.
+- "Star San is no-rinse and completely safe." The no-rinse designation applies at the correct working dilution and in accordance with the manufacturer's instructions — an undiluted or incorrectly prepared solution is not no-rinse, and the safety profile changes accordingly. For the internal surfaces of a fermenter that will be filled with wort, this is well supported. For the external structural components of a push-fit fitting that will be left to dry, this was the failure mode that caused the [DuoTight design revision](https://kegland.com.au/cdn/shop/files/duotight_design_revision.pdf).
 - "Viton is chemically resistant to everything." Viton fluoroelastomers have excellent resistance profiles. Viton comes in multiple cure systems — peroxide-cured and polyamine-cured — with meaningfully different resistance to acid-based sanitisers at low pH. Specifying "Viton" without specifying the grade leaves a significant gap.
 - "I've never had a problem." This is the most common response to questions about materials compatibility. It is anecdotal and survivorship-biased. Degradation is often invisible until it becomes structural failure. Some toxicology risks — nitrosamine precursors from natural rubber, for example — produce no visible signal at all.
 
@@ -53,6 +49,8 @@ The reference pages are designed to be read in order on first encounter — each
 This guide focuses on cleaning and sanitisation chemistry and its interaction with equipment materials. It does not attempt to cover all aspects of homebrewing. Fermentation science, recipe design, water chemistry, and yeast management are all outside scope here — John Palmer's *[How to Brew](https://www.howtobrew.com/)* remains the best starting point for those topics, and this guide is in some ways a companion to it rather than a replacement.
 
 What *How to Brew* does not cover in any depth is the materials science of the equipment that fermentation takes place in. That is the gap this guide is written to fill.
+
+Regulation numbers, food contact standards, and biocide approval frameworks cited throughout are EU instruments — primarily [Regulation (EC) No. 1935/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004R1935), [Regulation (EU) No. 10/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011R0010), and [Regulation (EU) No. 528/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0528). Equipment recommendations and retailer references reflect the Swedish market — Bryggbolaget, Mr-Malt, Malt Magnus, ölbryggning, and KegLand EU are the primary sources. Equivalent products are available worldwide; the underlying chemistry and material science are universal, and the analytical framework applies regardless of where you brew or what you buy.
 
 ## Disclaimer
 

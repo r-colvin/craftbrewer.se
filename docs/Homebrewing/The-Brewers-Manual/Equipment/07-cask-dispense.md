@@ -5,9 +5,7 @@ title: Cask dispense
 
 # Cask dispense
 
-:::note EU focus
-Cask dispense as described here uses equipment available in Sweden and the EU. Cask sizes follow the traditional British system (pin = 4.5 imperial gallons / ~20 L; firkin = 9 imperial gallons / ~40 L) but stainless cask vessels are available through European homebrew suppliers. Pint365 cask taps are available through select EU homebrew retailers.
-:::
+*This page follows the EU regulatory framework and Swedish market context described in the [introduction](../01-introduction.md).*
 
 Cask ale — real ale conditioned in the vessel and served by gravity or hand pump — is a distinct category from kegged beer. Where a keg is sealed, pressurised with CO₂, and served under gas pressure, a cask is a living vessel: yeast continues conditioning the beer inside, carbonation is from residual fermentation only, and once tapped, the cask is open to atmosphere. These differences have direct implications for how cask equipment is maintained and what chemical compatibility considerations apply.
 
