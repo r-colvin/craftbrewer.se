@@ -144,6 +144,19 @@
       "term": "SBR",
       "abbreviation": "Styrene-Butadiene Rubber",
       "definition": "A synthetic rubber sharing NR's unsaturated backbone and sulphur-cure chemistry. Same N-nitrosamine precursor risk as NR. Replace immediately with EPDM."
+    },
+    {
+      "term": "Beer stone",
+      "definition": "A grey-white mineral scale that deposits on fermenter walls, taps, and heat exchanger surfaces from wort and beer. Composed primarily of calcium oxalate (from oxalic acid in malt) with some calcium tartrate. Resists plain water rinsing but dissolves readily in alkaline cleaners (PBW, StellarClean) and in acid sanitisers at working dilution."
+    },
+    {
+      "term": "Saponify",
+      "definition": "The chemical reaction between a fatty acid and an alkali to form soap (a soluble salt of the fatty acid) and glycerol. In brewing cleaning, alkaline cleaners saponify the lipid components of yeast cell walls and hop resins, converting them into water-soluble compounds that can be rinsed away."
+    },
+    {
+      "term": "CIP",
+      "abbreviation": "Clean-in-Place",
+      "definition": "A method of cleaning the interior of pipework, vessels, and equipment without disassembly, using pumped cleaning and rinsing solutions. Standard in commercial and microbrewery settings. Requires dedicated CIP equipment and is out of scope for small-batch homebrewing."
     }
   ]
 }
