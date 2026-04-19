@@ -26,6 +26,10 @@ A few representative examples:
 
 None of this is meant to be alarmist. The core thesis of this guide is: **here is why you probably don't need to worry, and here is the specific scenario where you might.** The goal is to validate conventional wisdom with evidence, to identify the specific edge cases where it fails, and to give you the reasoning tools to evaluate new situations yourself.
 
+## A note on the use of AI in producing this guide
+
+The research behind this guide — sourcing SDSs, tracking down manufacturer documentation, reading regulatory frameworks, testing claims against real products — was done by a human brewer with an interest in getting the answers right. AI tooling was used during the writing process: it helped locate sources that had been missed, draft prose, and structure arguments. Every factual claim was reviewed against the primary source it cites, and a significant number of AI-generated claims were corrected, qualified, or removed during that review. The time spent reviewing has been roughly comparable to the time it would have taken to write from scratch — which is probably the honest description of what responsible use of these tools looks like. The result is not an AI document, and it is not a purely hand-written one. It is research and judgment, with a different kind of writing assistance.
+
 ## How this research works
 
 Every claim in this guide is traced to a primary source. Primary sources are manufacturer safety data sheets (SDS), declarations of conformity, EU regulations, and peer-reviewed data. Secondary sources — forum posts, YouTube videos, retailer Q&A — are noted where they flag an issue worth investigating, but they do not constitute evidence.
