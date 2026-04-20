@@ -157,6 +157,14 @@
       "term": "CIP",
       "abbreviation": "Clean-in-Place",
       "definition": "A method of cleaning the interior of pipework, vessels, and equipment without disassembly, using pumped cleaning and rinsing solutions. Standard in commercial and microbrewery settings. Requires dedicated CIP equipment and is out of scope for small-batch homebrewing."
+    },
+    {
+      "term": "Chelating agent",
+      "definition": "A molecule that binds to metal ions (such as calcium and magnesium) at multiple points, forming a stable ring-like complex that holds the ion in solution and prevents it from precipitating or redepositing. In brewing cleaners, chelating agents dissolve beer stone and prevent scale from reforming on surfaces after cleaning. Common chelating agents in brewing cleaners include EDTA (ethylenediaminetetraacetic acid) and TKPP (tetrapotassium pyrophosphate)."
+    },
+    {
+      "term": "Sequester",
+      "definition": "To chemically bind and effectively remove an ion from active participation in solution, typically by chelation. Sequestering agents in cleaning products prevent calcium and magnesium ions from causing scale deposits or interfering with the cleaning chemistry. In brewing, sequestration is the primary mechanism by which chelating agents prevent beer stone redeposition."
     }
   ]
 }
