@@ -39,7 +39,7 @@ Contact time varies by product — the figures in the table below are from manuf
 
 *Concentration figures from EU REACH/CLP SDSs; working dilution and contact time from manufacturer product instructions.*
 
-*† [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) no-rinse status is unresolved — treat as rinse-required. See the info box below and the [ChemiPro San section](#chemipro-san--the-caveat).*
+*† [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) no-rinse status is unresolved — treat as rinse-required. See the info box below.*
 
 **Sources**
 
@@ -107,7 +107,7 @@ These working concentrations — a few hundred ppm DDBSA and a few hundred to lo
 
 No-rinse means the sanitiser residue at the approved working dilution is food-safe — surfaces can be used for food or drink contact without rinsing. It is a food safety approval, not a claim about sanitisation duration: how long a surface remains microbiologically sanitised is a separate question, but the food safety of the residue is not time-limited. Follow the manufacturer's instructions for dilution and contact time; after that, the no-rinse approval covers the residue left behind.
 
-The regulatory basis differs by product and market. [Star San](https://www.fivestarchemicals.com/product/star-san/) holds EPA registration (EPA Reg. No. 65001-1) as a no-rinse food-contact sanitiser in the US.[^1] [Sanipro Rinse](https://sanipro.se) is approved under the EU biocide framework ([Regulation (EU) No. 528/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0528)) and described as no-rinse by the manufacturer.[^3] [StellarSan](https://www.kegland.com.au/stellarsan-food-grade-sanitiser.html) carries a KegLand no-rinse declaration, though its SDS remains in Australian NOHSC format rather than EU REACH/CLP.[^4] [Chemsan](https://www.chemisphere.co.uk/chemsan) is EU REACH compliant with a 2-minute contact time.[^5] [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) uses the same chemistry but its no-rinse status is unresolved — see the [ChemiPro San section](#chemipro-san--the-caveat) below.[^cpb]
+The regulatory basis differs by product and market. [Star San](https://www.fivestarchemicals.com/product/star-san/) holds EPA registration (EPA Reg. No. 65001-1) as a no-rinse food-contact sanitiser in the US.[^1] [Sanipro Rinse](https://sanipro.se) is approved under the EU biocide framework ([Regulation (EU) No. 528/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0528)) and described as no-rinse by the manufacturer.[^3] [StellarSan](https://www.kegland.com.au/stellarsan-food-grade-sanitiser.html) carries a KegLand no-rinse declaration, though its SDS remains in Australian NOHSC format rather than EU REACH/CLP.[^4] [Chemsan](https://www.chemisphere.co.uk/chemsan) is EU REACH compliant with a 2-minute contact time.[^5] [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) is approved under the EU biocide framework, though its no-rinse status is unresolved — see the ChemiPro San info box in the ABNS section above.[^cpb]
 
 The following calculation shows how much non-volatile residue remains after draining, and confirms it is well within safe limits. The full analysis is in the [wet-dry cycle model](./04-wdc-model.md); it is summarised here because this is the first place it is relevant.
 
@@ -274,7 +274,7 @@ Working-dilution ABNS can be stored in the vessel between brews, but only if you
 
 **If you have both ABNS and an ethanol sanitiser,** they complement each other well. ABNS for fermenter bodies and large volumes; ethanol for small items, spot sanitisation, and anything where zero residue matters more than volume economy. Heat where equipment tolerates it, for maximum certainty on items that will be stored.
 
-*[ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) — treat as rinse-required until Brouwland resolves the composition discrepancy and no-rinse status. If you use it, rinse after contact time. See the [note above](#a-note-on-chemipro-san-1) for full detail.*
+*[ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) — treat as rinse-required until Brouwland resolves the composition discrepancy and no-rinse status. If you use it, rinse after contact time. See the ChemiPro San info box in the ABNS section above for full detail.*
 
 ---
 
