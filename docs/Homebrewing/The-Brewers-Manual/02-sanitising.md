@@ -329,11 +329,22 @@ Purpose-made IPA spray — essentially 70% IPA in water, without the skin-care a
 
 ## Saniclean
 
-[Saniclean](https://www.fivestarchemicals.com/product/saniclean/) (Five Star Chemicals) is a low-foam variant of Star San — the same phosphoric acid and DDBSA chemistry, reformulated to produce significantly less foam.[^saniclean] It is designed primarily for kegs and serving lines, where the heavy foam of standard Star San is difficult to manage in confined volumes and slow to drain. As an ABNS product, all the WDC analysis and material compatibility guidance that applies to Star San applies equally to Saniclean. It is not widely stocked by EU/Swedish homebrew retailers at the time of writing.
+[Saniclean](https://www.fivestarchemicals.com/product/saniclean/) (Five Star Chemicals) is a low-foam ABNS product — the same phosphoric acid base as Star San, reformulated with a different surfactant to produce significantly less foam.[^saniclean] The low-foam property makes it useful wherever foam management is a constraint: CIP recirculation, keg cleaning, and any application where the heavy foam of Star San is slow to drain or difficult to work with. It is not limited to kegs or serving lines — it is simply the lower-foam variant for any context where that matters.
+
+**Formulation and surfactant difference.** The [EU SDS (MaltMagnus/KemRisk v6.0, January 2026)](/references/Saniclean-S%C3%A4kerhetsdatablad-v6.0.pdf)[^saniclean-sds] declares phosphoric acid at 20–40% as the only listed hazardous ingredient. The detergent label (Regulation 648/2004) declares ≥30% phosphates — no anionic surfactants appear at declaration threshold. The [Five Star product sheet](/references/Saniclean.pdf)[^saniclean-ps] describes the surfactant as “Sulfonate Oleic Acid”, which is chemically distinct from DDBSA (dodecylbenzenesulfonic acid). Sulfonate oleic acid is a fatty acid-derived sulfonate rather than an alkylbenzene sulfonate — a different backbone, different chain length, different physical properties. It is this surfactant substitution that produces lower foam.
+
+The material compatibility implications of the different surfactant are not fully characterised from available primary sources. The WDC risk profile is similar in principle — phosphoric acid is non-volatile and concentrates on drying regardless of which surfactant is present — but the specific elastomer and polymer interactions of sulfonate oleic acid differ from those of DDBSA. Until a primary compatibility study is available, treat Saniclean material compatibility as similar to but not identical to Star San, and check the [materials register](./05-materials-register/index.md) where ABNS ratings are based on DDBSA specifically.
+
+- **Dosage:** 2.5–4 mL/L (25–40 mL per 10 L); higher concentrations require a rinse[^saniclean-mm]
+- **Contact time:** 3 minutes[^saniclean-mm]
+- **No-rinse status:** no-rinse at the lower end of the dosage range; rinse required at higher concentrations
+- **Availability:** available from Swedish homebrew retailers including MaltMagnus (3.78 L) and Mr-Malt (3.78 L)[^saniclean-mm]
 
 ---
 
-## Bleach
+## Historical and specialist sanitisers
+
+### Bleach
 
 Household bleach (sodium hypochlorite, typically 3–5% active chlorine) was the standard homebrewing sanitiser before ABNS products became widely available. At approximately 50–100 ppm free chlorine — around 1–2 mL of 5% bleach per litre of water — it is effective against bacteria, yeasts, and moulds.
 
@@ -341,9 +352,7 @@ Bleach is not recommended when ABNS is available, for two reasons. The primary c
 
 If bleach is used despite these limitations, use unscented household bleach at 50–100 ppm free chlorine, rinse thoroughly with clean potable water before the vessel contacts any acid (including ABNS), and do not use in the same session as ABNS without a complete equipment rinse between them.
 
----
-
-## Iodophor
+### Iodophor
 
 Iodophor is an iodine-based sanitiser — iodine complexed with a polymer carrier (usually polyvinylpyrrolidone) to produce a stable, lower-irritancy solution that releases free iodine in water. At the correct working dilution (typically 12.5–25 ppm available iodine, highly diluted from a concentrate of around 1.75% available iodine), iodophor carries no-rinse approval for food-contact surfaces in the US, where it is well-established in commercial brewing.
 
@@ -371,19 +380,47 @@ Heat is a practical sanitisation method for equipment that can tolerate it. Unli
 
 ## Choosing a sanitiser
 
-**Fill-and-drain sanitisation of a large vessel** — fermenter, keg, Corny keg body: ABNS is the practical choice. Preparing 2–3 litres of working-dilution solution and swirling it through a 20 L fermenter takes two minutes; the equivalent volume of ethanol spray is not economical. For a Swedish brewer, [Sanipro Rinse](https://sanipro.se) is the best-documented EU option — explicit no-rinse approval, EU biocide registration, well-characterised SDS. [StellarSan](https://kegland.eu/products/stellarsan-food-grade-sanitiser-500ml) is the most convenient to dose (dual-chamber bottle) and is becoming increasingly available in Sweden. [Star San](https://www.fivestarchemicals.com/product/star-san/) and [Chemsan](https://www.chemisphere.co.uk/chemsan) are equivalent alternatives. Check your equipment materials against the [materials register](./05-materials-register/index.md) before use — compatibility is not uniform across vessel types, seals, and fittings.
+For most homebrewing equipment and most batches, any ABNS product is appropriate. The differences between Sanipro Rinse, Star San, StellarSan, and Chemsan matter at the margins — dosage convenience, foam level, no-rinse approval basis — but for a standard fermenter sanitised before pitching, all of them work. Ethanol sanitisers and boiling water are genuinely different in character: zero non-volatile residue, no foam, no dilution preparation, and practically zero risk of material interaction. They are the right choice in specific scenarios — spot sanitisation, small items, equipment where WDC accumulation matters — and a reasonable single-sanitiser choice for small-batch brewing where fill-and-drain volume is not a constraint.
+
+The more useful distinctions are by use case:
+
+**Fill-and-drain sanitisation of a large vessel** — fermenter, keg, Corny keg body: ABNS. Preparing 2–3 litres of working-dilution solution and swirling it through a 20 L fermenter takes two minutes; the equivalent volume of ethanol spray is not economical. For a Swedish brewer, [Sanipro Rinse](https://sanipro.se) is the best-documented EU option — explicit no-rinse approval, EU biocide registration, well-characterised SDS. [StellarSan](https://kegland.eu/products/stellarsan-food-grade-sanitiser-500ml) is the most convenient to dose (dual-chamber bottle) and is becoming increasingly available in Sweden. [Star San](https://www.fivestarchemicals.com/product/star-san/) and [Chemsan](https://www.chemisphere.co.uk/chemsan) are equivalent alternatives. Check your equipment materials against the [materials register](./05-materials-register/index.md) before use — compatibility is not uniform across vessel types, seals, and fittings.
 
 Working-dilution ABNS can be stored in the vessel between brews, but only in equipment confirmed to tolerate sustained immersion. KegLand confirm this is safe for PET FermZilla All Rounder vessels.[^4] There are community reports of silicone components failing under sustained ABNS exposure — including dissolved O-rings[^hbt1] and partial disintegration of a silicone trub dam after several weeks of Star San contact in a stainless kettle.[^reddit1] Star San manufacturer guidance advises against storing mixed solution beyond 12 hours. The safest default is to prepare what you need for a brew day and discard the rest.
 
-**Spot sanitisation of small items** — thermometer probe, tap spigot, hydrometer, bottling wand: ethanol sanitiser. No preparation, no foam, zero residue, quick evaporation. [ChemiPro DES](https://brouwland.com/en/cleaning-products/10199-chemipro-des-750-ml.html) in a spray bottle covers most of these tasks. Wipes are an alternative for items where a spray is awkward — allow to dry before contact with beer.
+**Spot sanitisation of small items** — thermometer probe, tap spigot, hydrometer, bottling wand: ethanol sanitiser spray or wipes. No preparation, no foam, zero residue, quick evaporation. [ChemiPro DES](https://brouwland.com/en/cleaning-products/10199-chemipro-des-750-ml.html) in a spray bottle covers most of these tasks. ABNS in a spray bottle is also viable — check the spray bottle seal materials are compatible (EPDM is fine; polyamine-cured Viton is not for ethanol) and note that ABNS on small items still leaves a non-volatile residue on drying.
 
-**Kegs and serving lines** — where Star San foam is a management problem: Saniclean (Five Star low-foam ABNS) where available. Same chemistry, same material compatibility analysis, substantially less foam.
+**Low-foam applications — keg lines, CIP recirculation, confined volumes:** Saniclean where available. Same phosphoric acid base as Star San but with a different surfactant (sulfonate oleic acid) that produces far less foam — useful wherever foam management is a constraint, not limited to serving systems specifically.
 
-**Pre-storage sanitisation of silicone tubing and components:** boiling water. Silicone tolerates it fully and heat is the cleanest option — no residue, no timing questions, no chemical accumulation.
+**Sanitising transfer hoses and tubing for storage:** boiling water is the cleanest option for silicone — no residue, no chemistry concerns, and silicone tolerates it fully. ABNS fill-and-drain is an alternative; drain thoroughly and allow to dry before storage. Ethanol flush is the quickest for immediate use but leaves tubing wet with residue until dry.
 
 **Where zero non-volatile residue is required** — components with sustained acid-contact risk, or equipment where WDC accumulation is a concern: ethanol sanitiser or heat. Both leave nothing behind. [Tingstad Ytdesinfektion Premium](https://www.tingstad.com/) has the strongest EU regulatory basis for food-contact use among the ethanol products (PT4 approval under [Regulation (EU) No. 528/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0528)).
 
 **When material compatibility is uncertain:** check the [materials register](./05-materials-register/index.md) first. The register covers each material with specific ratings for ABNS and ethanol sanitisers, including failure mode descriptions and the WDC implications for each geometry.
+
+**For standard homebrewing with a single sanitiser:** ABNS covers the most ground for most setups. It handles large volumes, is no-rinse approved, and is effective for all common brewing-relevant organisms at working dilution. The residue implications are real but manageable with correct practice — clean after every brew, use correct dilution, and follow the WDC model guidance for sensitive components. The [KegLand DuoTight design revision](/references/duotight_design_revision.pdf) is the document that made the case for taking this seriously: a manufacturer-produced quantitative analysis showing how repeated ABNS wet-dry cycling cracked the POM collar of their own fitting. That failure is what this guide was written to explain. For packaging convenience, [StellarSan](https://kegland.eu/products/stellarsan-food-grade-sanitiser-500ml)'s dual-chamber dosing bottle removes the need for a syringe at any practical volume.
+
+DES alone is viable as a single sanitiser for small-batch brewing at 5–10 L scale — where you are sanitising a bucket, a handful of bottles, and a few small items with a spray bottle rather than filling and draining a large vessel. At that scale, cost per use is low and zero-residue is a genuine advantage. At larger volumes or higher frequency, ABNS is significantly more economical and practical.
+
+**If you can have two sanitisers:** ABNS for vessels and large volumes; ethanol for spot sanitisation and anything where zero residue matters. They complement each other directly, and the ethanol spray doubles as a spot sanitiser for brew-day small items (tap exterior, hydrometer, probe) without any preparation. [ChemiPro DES](https://brouwland.com/en/cleaning-products/10199-chemipro-des-750-ml.html) at 750 mL is a natural companion to any ABNS product.
+
+**Boiling water** is a zero-cost option for anything that tolerates it: glass, stainless, silicone tubing. It needs no shelf space, no sourcing, and leaves no residue. Use it where it is practical rather than defaulting to chemical sanitisers for every item.
+
+**Summary table:**
+
+| Product | Type | Best for | No-rinse | Dosage | Notes |
+|---|---|---|---|---|---|
+| [Sanipro Rinse](https://sanipro.se) | ABNS | Large vessels, general sanitisation | ✓ EU approved | 1.25–2.5 mL/L | Best-documented EU/Swedish option; no built-in dosing |
+| [Star San](https://www.fivestarchemicals.com/product/star-san/) | ABNS | Large vessels, general sanitisation | ✓ EPA (US) | 1.5 mL/L | No built-in dosing; discard after 1–12 hrs per Five Star |
+| [StellarSan](https://kegland.eu/products/stellarsan-food-grade-sanitiser-500ml) | ABNS | Large vessels, general sanitisation | ✓ KegLand | 1.5 mL/L | Dual-chamber dosing bottle — most convenient of the ABNS products |
+| [Chemsan](https://www.chemisphere.co.uk/chemsan) | ABNS | Large vessels, general sanitisation | ✓ EU REACH | 2 mL/L | 2-minute contact time; no-rinse only at stated dilution; 50 g single-use sachets |
+| [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) | ABNS | Large vessels | ⚠ unconfirmed | 1.5–2.5 mL/L | Treat as rinse-required — see info box above |
+| [Saniclean](https://www.fivestarchemicals.com/product/saniclean/) | ABNS (low-foam) | Any use where foam is a constraint | ✓ at lower dosage; rinse at higher | 2.5–4 mL/L | Different surfactant from Star San (sulfonate oleic acid vs DDBSA) — material compatibility similar but not identical |
+| [ChemiPro DES](https://brouwland.com/en/cleaning-products/10199-chemipro-des-750-ml.html) | Ethanol ~80% | Spot sanitisation, zero-residue use | ✓ (evaporates) | ready to use | Zero WDC risk; flammable; 750 mL spray + 5 L refill |
+| [Tingstad Ytdesinfektion Premium](https://www.tingstad.com/) | Ethanol + IPA | Spot sanitisation, food-contact surfaces | ✓ PT4 EU | ready to use | Only ethanol sanitiser with confirmed EU food-contact (PT4) approval |
+| Heat / boiling water | Heat | Glass, stainless, silicone tubing | ✓ (no residue) | — | Zero cost; zero residue; not suitable for PET or most elastomers |
+| Bleach | Hypochlorite | Historical use only | ✗ rinse required | ~1–2 mL/L (5%) | Not recommended with ABNS — chlorine gas risk if acid contact |
+| Iodophor | Iodine-based | Where available; familiar users | ✓ at correct concentration | per instructions | Stains surfaces; concentration-sensitive; limited EU availability |
 
 *[ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) — treat as rinse-required until Brouwland resolves the composition discrepancy and no-rinse status. If you use it, rinse after contact time. See the ChemiPro San info box in the ABNS section above for full detail.*
 
@@ -421,7 +458,13 @@ Working-dilution ABNS can be stored in the vessel between brews, but only in equ
 
 [^starsan-cl]: Five Star Chemicals, [*Star San Technical Data Sheet*](https://www.beveragefactory.com/images/guides/StarSan-TECH.pdf) — accessed April 2026. Explicit statement: "DO NOT MIX STAR SAN WITH CHLORINATED CLEANERS AS CHLORINE GAS WILL RESULT." Mechanism: phosphoric acid + hypochlorite → Cl₂.
 
-[^saniclean]: Five Star Chemicals, [Saniclean product page](https://www.fivestarchemicals.com/product/saniclean/) — low-foam ABNS variant; same active chemistry (phosphoric acid + DDBSA) as Star San, reformulated to reduce foam. Accessed April 2026 from [fivestarchemicals.com](https://www.fivestarchemicals.com).
+[^saniclean]: Five Star Chemicals, [Saniclean product page](https://www.fivestarchemicals.com/product/saniclean/) — low-foam ABNS; phosphoric acid base with sulfonate oleic acid surfactant rather than DDBSA. Accessed April 2026 from [fivestarchemicals.com](https://www.fivestarchemicals.com).
+
+[^saniclean-sds]: MaltMagnus AB / KemRisk Sweden AB, *Saniclean Säkerhetsdatablad v6.0* (January 2026) — EU REACH/CLP Swedish. Section 3: phosphoric acid 20–40% (only listed hazardous ingredient). Detergent label (648/2004): ≥30% phosphates; no anionic surfactants declared at threshold. Accessed April 2026 from [maltmagnus.se](https://maltmagnus.se) · [`Saniclean-Säkerhetsdatablad-v6.0.pdf`](/references/Saniclean-S%C3%A4kerhetsdatablad-v6.0.pdf)
+
+[^saniclean-ps]: Five Star Chemicals / MaltMagnus, [*Saniclean product sheet*](/references/Saniclean.pdf) — states surfactant as “Sulfonate Oleic Acid”; dosage 15 mL per 6 litres (2.5 mL/L); contact time 3 minutes. Archived from [mr-malt.se](https://mr-malt.se). Tier 2 source — product sheet, not primary SDS.
+
+[^saniclean-mm]: MaltMagnus, [Saniclean 3.78 L product page](https://maltmagnus.se/se/sv/utrustning/rengoring/desinfektion/saniclean-378-l/) — dosage stated as 25–40 mL per 10 L (2.5–4 mL/L); higher dosage requires rinsing; contact time 3 minutes. Tier 2 source — retailer product page.
 
 [^cleaning-vs-san]: Malt Magnus (email correspondence, August 2024): vendor position is that tap water in normal household conditions does not contain beer-spoiling organisms; the infection risk lies in the vessel or handling, not the water itself. Tier 2 source — retailer, not primary manufacturer or academic study. The broader position is consistent with the Enolandia George's Beer beginner kit instructions, which specify no dedicated sanitisation step and rely on thorough cleaning followed by immediate pitching. [`Instructions - Georges beer.pdf`](/references/Instructions%20-%20Georges%20beer.pdf)
 
