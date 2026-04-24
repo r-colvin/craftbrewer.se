@@ -16,6 +16,7 @@
     },
     {
       "term": "Mashing",
+      "aliases": ["mash", "mashed"],
       "definition": "Soaking crushed malted grain in hot water at a controlled temperature to convert starches to fermentable sugars."
     },
     {
@@ -151,6 +152,7 @@
     },
     {
       "term": "Saponify",
+      "aliases": ["saponifies", "saponifiable", "saponification"],
       "definition": "The chemical reaction between a fatty acid and an alkali to form soap (a soluble salt of the fatty acid) and glycerol. In brewing cleaning, alkaline cleaners saponify the lipid components of yeast cell walls and hop resins, converting them into water-soluble compounds that can be rinsed away."
     },
     {
@@ -160,10 +162,12 @@
     },
     {
       "term": "Chelating agent",
+      "aliases": ["chelation", "chelate", "chelates", "chelated"],
       "definition": "A molecule that binds to metal ions (such as calcium and magnesium) at multiple points, forming a stable ring-like complex that holds the ion in solution and prevents it from precipitating or redepositing. In brewing cleaners, chelating agents dissolve beer stone and prevent scale from reforming on surfaces after cleaning. Common chelating agents in brewing cleaners include EDTA (ethylenediaminetetraacetic acid) and TKPP (tetrapotassium pyrophosphate)."
     },
     {
       "term": "Sequester",
+      "aliases": ["sequestering", "sequestration", "sequesters", "sequestered"],
       "definition": "To chemically bind and effectively remove an ion from active participation in solution, typically by chelation. Sequestering agents in cleaning products prevent calcium and magnesium ions from causing scale deposits or interfering with the cleaning chemistry. In brewing, sequestration is the primary mechanism by which chelating agents prevent beer stone redeposition."
     }
   ]

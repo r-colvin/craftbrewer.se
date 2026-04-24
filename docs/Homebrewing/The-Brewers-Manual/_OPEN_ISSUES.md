@@ -159,24 +159,47 @@ A disclaimer should be added to the site introduction: retailer links carry no a
 **Label:** enhancement, infrastructure
 
 ### Glossary plugin — alias/stemming support
-Plugin does not match inflected forms. Known false negatives: "saponifies", "saponifiable" (Saponify); "chelating", "chelation" (Chelating agent); "sequestering", "sequestration" (Sequester). Feature request needed on plugin GitHub repository.
-**Label:** enhancement, glossary-plugin
+Aliases are now supported in 3.3.2 via an `aliases` array field on each term object. Add aliases to glossary.json terms where inflected forms need to trigger tooltips (e.g. `"aliases": ["saponifies", "saponifiable"]` for Saponify). Stemming is not supported — aliases must be listed explicitly.
+**Action:** Add `aliases` arrays to relevant glossary terms.
+**Label:** enhancement, glossary
 
-### Glossary plugin — word boundary fix for short terms
-Plugin matches "SAN" inside product names (StarSan, StellarSan, Chemsan, ChemiPro San) without word boundaries, triggering the SAN (plastic) tooltip incorrectly. Fix: extend the existing patch to add `\b` word boundaries to the matching regex.
-**Label:** bug, glossary-plugin
+### Glossary plugin — word boundary and plurals matching
+Fixed upstream in 3.3.2. The plugin now enforces word boundaries and handles `+s`/`+es` plurals. This resolves the `REACH`/`reaches` false positive and the `SAN` matching inside product names like `StarSan`, `StellarSan`, `Chemsan`. The sentence rewordings introduced as workarounds can be reverted if desired, but are harmless to leave in place.
+**Status:** ✅ Resolved in 3.3.2 — no action required.
+**Label:** ~~bug, glossary-plugin~~
+
+### Glossary plugin — terms matched inside H1-H6 headings
+Fixed upstream in 3.3.2. Terms in headings are now skipped by the remark plugin.
+**Status:** ✅ Resolved in 3.3.2 — no action required.
+**Label:** ~~bug, glossary-plugin~~
 
 ### Glossary plugin — REACH false-positive
-"reaches" triggers the REACH glossary term. Currently resolved by rewording. If upstream adds whole-word matching, revert workarounds.
-**Label:** bug, glossary-plugin
+✅ Resolved upstream in 3.3.2 (word boundary fix). Workaround sentences can be reverted if desired.
+**Label:** ~~bug, glossary-plugin~~
 
-### `glossary.json` — `url` fields
+### Glossary plugin — word boundary fix for short terms
+✅ Resolved upstream in 3.3.2.
+**Label:** ~~bug, glossary-plugin~~
+
+### Glossary — full audit pass (post-3.3.2)
+Now that 3.3.2 is in place (heading skip, word boundaries, alias support), a pass through all written pages is needed to:
+- Check `autoLink: false` candidates — terms we don’t want linking in certain contexts (e.g. `SAN` in prose may be fine, but review in context of cleaning/sanitising pages where product names dominate)
+- Verify alias coverage is working correctly in the build for Saponify, Chelating agent, Sequester, Mashing
+- Identify any new false positives introduced by 3.3.2’s broader matching
+- Identify terms with multiple meanings beyond IPA (India Pale Ale vs isopropyl alcohol) and decide handling per term
+- Add `url` fields to terms as their dedicated pages are written
+Scope: all pages through and including `03-cleaning.md` as a first pass; extend to remaining pages as they are written.
+**Label:** enhancement, glossary
+
 Add `url` field to remaining glossary terms as their dedicated doc pages are confirmed and written. Currently only POM and POK have `url` fields.
 **Label:** enhancement, glossary
 
-### `glossary.yaml` — legacy file
-Legacy file still in repo root — safe to delete once confirmed no longer referenced.
-**Label:** cleanup, infrastructure
+### docusaurus-plugin-glossary patch — REMOVED
+✅ The patch (`patches/docusaurus-plugin-glossary+3.2.0.patch`) fixed the `import.meta.url` CJS bug. This was resolved upstream in 3.3.2.
+- `patch-package` removed from `devDependencies`
+- `postinstall: patch-package` removed from `scripts`
+- Patch file marked for deletion (`git rm patches/docusaurus-plugin-glossary+3.2.0.patch`)
+**Label:** ~~cleanup, infrastructure~~
 
 ### References page — `05-references/01-references.md`
 Stub exists but not yet written. Needs full bibliography treatment.
