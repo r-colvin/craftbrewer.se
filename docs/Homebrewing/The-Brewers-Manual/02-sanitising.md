@@ -25,48 +25,88 @@ Ethanol-based sanitisers — covered in their own section below — are a separa
 
 ABNS sanitisers kill microorganisms by a combined acid and surfactant mechanism. The phosphoric acid drops the solution pH to approximately 3.0–3.5, creating an environment hostile to microbial membranes. DDBSA is a surfactant — it disrupts cell membranes by integrating into the lipid bilayer via its hydrophobic alkyl chain, while the charged sulfonate head group maintains solubility. The two active ingredients are understood to work synergistically, with neither alone fully accounting for the product's efficacy or no-rinse approval. This mechanism is consistent with the established literature on anionic surfactant antimicrobial action, for example in [this HomeBrewTalk forum thread](https://www.homebrewtalk.com/threads/question-regarding-ppms-of-starsan-acid.294982/),[^ia] but has not been publicly documented by any of the manufacturers in primary technical materials — if you have a credible primary reference, a contribution via the [GitHub repository](https://github.com/r-colvin/craftbrewer.se) is welcome.
 
-Contact time varies by product — the figures in the table below are from manufacturer product instructions, but **check the instructions for the specific product being used.**
+Contact time varies by product — always check the current product instructions for whichever product you are using.
 
-### Active ingredients, working dilution, and contact time
+Material compatibility with sanitising chemicals — which materials tolerate ABNS, at what concentration and contact time — is covered in the [materials register](./05-materials-register/index.md). The profiles below note material-specific guidance where documented by the manufacturer; the materials register is the place for the full treatment.
 
-| Product | Manufacturer | Phosphoric acid | Surfactant | Other ingredients | Working dilution | Contact time |
-|---|---|---|---|---|---|---|
-| [Sanipro Rinse](https://sanipro.se) | Behrens Group AB (SE) | 40–50% | DDBSA 15–25% | IPA 1–10% | 1.25–2.5 mL/L | 60 sec |
-| [Star San](https://www.fivestarchemicals.com/product/star-san/) | Five Star Chemicals (US) | 50% | DDBSA 15% | none declared | 1.5 mL/L | 1–2 min |
-| [StellarSan](https://www.kegland.com.au/stellarsan-food-grade-sanitiser.html) | KegLand (AU) | 40–60% | DDBSA 10–30% | IMS (ethanol) 5–20% | 1.5 mL/L | 1 min |
-| [Chemsan](https://www.chemisphere.co.uk/chemsan) | Chemisphere (UK) | 20–40% | benzenesulfonic acid (Na salt) 5–25% | IPA &lt;1% | 2 mL/L | 2 min |
-| [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) | Brouwland (BE) | 25–50% | DDBSA 5–15% | propylene glycol, tetrasodium glutamate diacetate, caprylyl/capryl glucoside, sodium/potassium cumene sulphonate (each 1–5%) | 1.5–2.5 mL/L | 60 sec † |
+### Products available in the Swedish and EU market
 
-*Concentration figures from EU REACH/CLP SDSs; working dilution and contact time from manufacturer product instructions.*
+:::note Product images
+Product images will be added in a future update.
+:::
 
-*† [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) no-rinse status is unresolved — treat as rinse-required. See the info box below.*
+:::note Usage instructions
+Dosage, concentration, contact time, and no-rinse status shown in these profiles reflects sources available at the time of writing. Always read and follow the current product instructions — manufacturer guidance takes precedence over anything stated here.
+:::
 
-**Sources**
+---
 
-- [Sanipro Rinse](https://sanipro.se)
-  - [SDS](https://sanipro.se)[^3]
-  - Usage instructions[^sb] *(Tier 2 — primary from Behrens Group not yet obtained)*
-- [Star San](https://www.fivestarchemicals.com/product/star-san/)
-  - [SDS](https://maltmagnus.se/documents/Star%20San-S%C3%A4kerhetsdatablad-v6.0.pdf)[^2]
-  - [Product page / usage instructions](https://fivestarchemicals.com/star-san)[^1]
-- [StellarSan](https://www.kegland.com.au/stellarsan-food-grade-sanitiser.html)
-  - [SDS (MSDS, AU format)](/references/KegLand_StellarSan_MSDS.pdf)[^4]
-  - [EU label / usage instructions](https://kegland.eu/cdn/shop/files/AfbeeldingvanWhatsAppop2025-09-12om15.14.41_cc5d0b2b.jpg?v=1769781862)[^kb]
-- [Chemsan](https://www.chemisphere.co.uk/chemsan)
-  - [SDS](https://www.chemisphere.co.uk/chemsan)[^5]
-  - [TDS and usage instructions](/references/Chemsan-Information-Sheet-FAQs-compressed.pdf)[^cb]
-- [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html)
-  - [SDS — Brouwland EN](/references/Chemipro%20SAN-GB%20English-v1.pdf) (primary)
-  - [SDS — Brouwland SV](/references/Chemipro%20SAN-Sweden%20Swedish-v1.pdf) (primary)
-  - [SDS — MaltMagnus SV](https://maltmagnus.se/documents/13-ChemiproSan-S%C3%A4kerhetsdatablad-v2.0.pdf)[^cp] *(supplier SDS — differs from primary, see note below)*
-  - [Product page / usage instructions](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html)[^cpb]
+#### Sanipro Rinse
+
+**Manufacturer:** [Behrens Group AB](https://sanipro.se) &middot; **SDS:** [EU REACH/CLP v1, Swedish occupational limits, October 2016](https://sanipro.se)[^3]
+
+- **Formulation:** phosphoric acid 40–50%, DDBSA 15–25%, isopropanol 1–10%
+- **Mechanism:** phosphoric acid drops pH to approximately 3.0–3.5; DDBSA disrupts cell membranes through surfactant action. The two components work synergistically — see [How ABNS works](#how-abns-works) above
+- **Temperature and contact time:** ambient (15–25°C); 60 seconds minimum[^sb]
+- **Chemical incompatibility:** do not mix with alkaline cleaners — rinse equipment thoroughly after cleaning before applying. Do not mix with chlorine-based products (chlorine gas risk — see the [cleaning guide](./03-cleaning.md))
+- **Dosage:** 1.25–2.5 mL/L (12.5–25 mL per 10 L)[^sb] · Available in 250 mL and 1 L bottles — standard format, no built-in dosing; a syringe or measuring pipette is recommended for accuracy at small volumes (e.g. 1–2 L of working solution). **Open item:** primary instruction sheet from Behrens Group AB not yet obtained; dosage figures are from a Tier 2 retailer source[^sb]
+
+---
+
+#### Star San
+
+**Manufacturer:** [Five Star Chemicals](https://www.fivestarchemicals.com/product/star-san/) &middot; **SDS:** [EU REACH/CLP v6.0, Swedish, January 2026](https://maltmagnus.se/documents/Star%20San-S%C3%A4kerhetsdatablad-v6.0.pdf)[^2]
+
+- **Formulation:** phosphoric acid 50%, DDBSA 15% — no alcohol component declared
+- **Mechanism:** phosphoric acid + DDBSA dual mechanism — see [How ABNS works](#how-abns-works) above
+- **Temperature and contact time:** ambient (15–25°C); 1–2 minutes[^1]
+- **Chemical incompatibility:** do not mix with alkaline cleaners or chlorine-based products. Five Star technical documentation states explicitly: "DO NOT MIX STAR SAN WITH CHLORINATED CLEANERS AS CHLORINE GAS WILL RESULT"[^starsan-cl]
+- **Dosage:** 1.5 mL/L (1 oz per 5 US gallons)[^1] · Available in 8 oz, 946 mL (32 oz), 1 gal, and 5 gal sizes — the 946 mL size is most common in Sweden. No built-in dosing in any format; a syringe or measuring pipette is needed at small volumes. Five Star states the solution should be used immediately and recommends discarding after 1 hour; a Five Star technical document gives 12 hours as the maximum mixed solution shelf life[^1]
+
+---
+
+#### StellarSan
+
+**Manufacturer:** [KegLand](https://kegland.eu/products/stellarsan-food-grade-sanitiser-500ml) &middot; **SDS:** [MSDS, AU NOHSC format](/references/KegLand_StellarSan_MSDS.pdf)[^4] &middot; **EU label:** [KL05357, KegLand EU](https://kegland.eu/cdn/shop/files/AfbeeldingvanWhatsAppop2025-09-12om15.14.41_cc5d0b2b.jpg?v=1769781862)[^kb]
+
+- **Formulation:** phosphoric acid 40–60%, DDBSA 10–30%, IMS (industrial methylated spirits — ethanol denatured with methanol, CAS 64-17-5) 5–20%[^4] · At the manufacturer's recommended dilution of 1.5 mL/L, the working solution contains 300 ppm DDBSA and 780 ppm phosphoric acid[^kb]
+- **Mechanism:** phosphoric acid + DDBSA dual mechanism — see [How ABNS works](#how-abns-works) above. The IMS component is volatile and evaporates completely on drying; it contributes nothing to the non-volatile residue
+- **Temperature and contact time:** ambient (15–25°C); 1 minute minimum[^kb]
+- **Chemical incompatibility:** do not mix with alkaline cleaners or chlorine-based products
+- **Dosage:** 1.5 mL/L[^kb] · Available in 500 mL — **dual-chamber dosing bottle**: squeeze the small inner chamber to dispense a pre-measured dose directly into water. This is the most convenient built-in dosing of all the ABNS products listed here; no syringe required at any practical volume. KegLand explicitly confirms working-dilution StellarSan can be stored in a FermZilla All Rounder (PET) indefinitely[^4]
+
+---
+
+#### Chemsan
+
+**Manufacturer:** [Chemisphere](https://www.chemisphere.co.uk/chemsan) &middot; **SDS:** [EU REACH/CLP v2.2.0, November 2020](https://www.chemisphere.co.uk/chemsan)[^5] &middot; **TDS:** [Technical Data Sheet and FAQs](/references/Chemsan-Information-Sheet-FAQs-compressed.pdf)[^cb]
+
+- **Formulation:** phosphoric acid 20–40%, benzenesulfonic acid sodium salt (SDBS) 5–25%, isopropanol &lt;1% · The sodium salt form of the DDBSA-equivalent surfactant behaves identically in solution at brewing-relevant pH — see the opening of the [ABNS section](#acid-based-no-rinse-sanitisers-abns) above
+- **Mechanism:** phosphoric acid + SDBS dual mechanism — see [How ABNS works](#how-abns-works) above
+- **Temperature and contact time:** ambient (15–25°C); 2 minutes minimum[^cb] · No-rinse applies only at the stated dilution; higher concentrations require a potable water rinse[^cb]
+- **Chemical incompatibility:** do not mix with alkaline cleaners or chlorine-based products
+- **Dosage:** 2 mL/L (10 mL per 5 L)[^cb] · Available in standard bottle format; no built-in dosing. Also available in 50 g single-use sachets — each makes 25 L of solution
+
+---
+
+#### ChemiPro San
+
+**Manufacturer:** [Brouwland](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) &middot; **SDS:** [Brouwland EN v1](/references/Chemipro%20SAN-GB%20English-v1.pdf) (primary) · [Brouwland SV v1](/references/Chemipro%20SAN-Sweden%20Swedish-v1.pdf) (primary) · [MaltMagnus/KemRisk SV v2.0](https://maltmagnus.se/documents/13-ChemiproSan-S%C3%A4kerhetsdatablad-v2.0.pdf)[^cp] *(supplier SDS — disagrees with primary on formulation)*
+
+- **Formulation:** phosphoric acid 25–50%, DDBSA 5–15%, propylene glycol 1–5%, tetrasodium glutamate diacetate 1–5%, caprylyl/capryl glucoside 1–5%, sodium/potassium cumene sulphonate 1–5% each · *Per Brouwland primary SDS (December 2023) — see the info box below for the unresolved discrepancy with the MaltMagnus/KemRisk supplier SDS*
+- **Mechanism:** phosphoric acid + DDBSA dual mechanism, plausibly similar to other ABNS products — but composition uncertainty prevents a full equivalent assessment
+- **Temperature and contact time:** ambient; 60 seconds[^cpb]
+- **Chemical incompatibility:** do not mix with alkaline cleaners or chlorine-based products
+- **Dosage:** 1.5–2.5 mL/L[^cpb] · Standard bottle format; no built-in dosing
+
+**⚠ Treat as rinse-required** — see the info box below. If you use ChemiPro San, rinse with clean potable water after the contact time.
 
 :::info A note on [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html)
 [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) is flagged here because the available documentation raises two unresolved issues that prevent it being treated as equivalent to the other ABNS products on this page.
 
 **Composition discrepancy.** Two EU REACH/CLP SDSs exist for this product and they do not agree. The Brouwland primary SDS ([EN](/references/Chemipro%20SAN-GB%20English-v1.pdf) · [SV](/references/Chemipro%20SAN-Sweden%20Swedish-v1.pdf), December 2023) declares phosphoric acid at 25–50% and DDBSA (CAS 27176-87-0) as the surfactant at 5–15%. The [MaltMagnus/KemRisk supplier SDS](https://maltmagnus.se/documents/13-ChemiproSan-S%C3%A4kerhetsdatablad-v2.0.pdf) (February 2026) declares phosphoric acid at ≥50–&lt;80% and lists a different surfactant — secondary alkylbenzene sulfonic acid (CAS 85536-14-7) — at 1–10%. The phosphoric acid ranges do not overlap, and the two surfactant CAS numbers identify chemically distinct compounds. The detergent ingredient declaration (Regulation (EC) No. 648/2004) in the MaltMagnus SDS adds a third inconsistency, declaring anionic surfactants at 15–&lt;30%. No explanation for these discrepancies has been published by Brouwland or Malt Magnus. This is a significant documentation problem: for a product that contacts food-preparation equipment, knowing what it actually contains is a minimum expectation. The two SDSs cannot both be correct. Until resolved, the Brouwland primary SDS is treated as authoritative.
 
-**No-rinse status.** The [product page](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) states the product “only requires a contact time of 60 sec” without specifying whether rinsing is required. The directions of use state “Rinse only with clean potable water” — wording that is genuinely ambiguous. No EU biocide framework no-rinse approval (equivalent to the one held by [Sanipro Rinse](https://sanipro.se) under Regulation (EU) No. 528/2012) has been confirmed for this product.
+**No-rinse status.** The [product page](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) states the product "only requires a contact time of 60 sec" without specifying whether rinsing is required. The directions of use state "Rinse only with clean potable water" — wording that is genuinely ambiguous. No EU biocide framework no-rinse approval (equivalent to the one held by [Sanipro Rinse](https://sanipro.se) under Regulation (EU) No. 528/2012) has been confirmed for this product.
 
 **Is ChemiPro San suitable?** The composition discrepancy means the material compatibility analysis — which depends on knowing what is in the product and at what concentration — cannot be completed with confidence. This is not a statement that [ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) is unsafe. The chemistry is plausibly similar to [Star San](https://www.fivestarchemicals.com/product/star-san/) and [Sanipro Rinse](https://sanipro.se), and it is widely used in homebrewing without reported problems. But the documentation does not meet the standard applied to other products in this guide.
 
@@ -158,6 +198,14 @@ For acute toxicity, the two active ingredients have well-characterised oral LD50
 No-rinse approval means the sanitiser residue on food-contact surfaces is safe to leave in contact with food or drink at the approved dilution. It says nothing about material compatibility. External fitting bodies, compression collars, and structural components that are not in the beer flow path may still be left unrinsed from a food safety perspective — but rinsing them after sanitisation contact time is recommended on material grounds, to limit unnecessary exposure to DDBSA. This distinction is discussed in detail in the [wet-dry cycle model](./04-wdc-model.md).
 :::
 
+### No-rinse and top-up water
+
+The conventional instruction not to rinse after ABNS sanitising sometimes puzzles brewers who routinely add tap water to their fermenter — as top-up in partial boil batches, or as the first liquid in for kit brews — without ever experiencing infections. Both practices are consistent.
+
+No-rinse does not mean tap water is dangerous. It means rinsing is unnecessary from a food-safety standpoint and introduces a specific avoidable risk: a contaminated rinse vessel, a delayed or interrupted brew day where the rinsed but no-longer-sanitised surface has time to re-accumulate organisms, or a water source of uncertain microbiological quality. When none of those conditions apply — when pitching follows sanitisation promptly and the tap water is normal household quality — rinsing with clean water does not meaningfully increase infection risk. Malt Magnus summarise the position directly in their vendor communications: clean tap water in normal household conditions does not harbour the organisms that spoil beer; the infection risk is in the vessel and handling, not the water.[^cleaning-vs-san]
+
+The no-rinse recommendation is primarily about discipline and reliability under real-world conditions, not a statement that clean tap water is sterile.
+
 ### Foam
 
 ABNS sanitisers foam. This is a direct consequence of DDBSA being a surfactant: surfactants reduce the surface tension of water, stabilising air bubbles and producing persistent foam. The foam is the same DDBSA solution in dilute form enclosing air — it is not a concentrated or more-reactive form of the sanitiser. It does not indicate contamination, chemical failure, or anything having gone wrong.
@@ -192,41 +240,78 @@ The limiting factor for long-term storage is the elastomeric and flexible compon
 
 ## Ethanol-based sanitisers
 
-Ethanol at 70–80% concentration denatures proteins and disrupts cell membranes through dehydration, killing vegetative bacteria, yeasts, and moulds effectively. Any product in this concentration range — whether a purpose-made food-grade sanitiser or a diluted high-proof spirit — is functionally similar in antimicrobial action. The differences between products lie in co-formulants, regulatory approval status, packaging, and availability rather than in the fundamental sanitising mechanism.
+Ethanol at 70–80% concentration denatures proteins and disrupts cell membranes through dehydration, killing vegetative bacteria, yeasts, and moulds effectively. Any product in this concentration range — whether a purpose-made food-grade sanitiser or a diluted high-proof spirit — is functionally similar in antimicrobial action. The differences between products lie in co-formulants, regulatory approval status, packaging, and availability.
 
-In the EU and Swedish market, **ChemiPro DES** (Brouwland, 750 mL spray bottle and 5 L refill, distributed by Malt Magnus in Sweden)[^7] is the most readily available purpose-formulated option. It contains approximately 80% ethanol by weight. Other products available in or accessible to the Swedish market are covered below.
-
-### Properties of ethanol sanitisers
-
-**Zero non-volatile residue.** Ethanol and water both evaporate completely. DES leaves nothing on the surface after drying — WDC risk is zero by definition. There are no DDBSA residues to concentrate, no phosphoric acid accumulation, and no residue-driven material compatibility implications.
-
-**No preparation required for purpose-formulated products.** ChemiPro DES and similar ready-to-use products are used as supplied — no measuring, mixing, or waiting. High-proof spirits (Everclear, rectified spirit) require dilution to 70–80% before use, but this is a simple one-time preparation and the diluted solution stores well.
-
-**Material compatibility.** Ethanol at 70–80% is compatible with the primary materials used in homebrewing equipment — PP, PET, EPDM, stainless steel, glass, POK. However, 80% ethanol is not universally inert: HDPE drops from A to B-rated above roughly 70% ethanol concentration; some elastomers swell significantly at high ethanol concentrations; and polystyrene (PS) and polycarbonate (PC) are poorly compatible. In practice, the materials most commonly encountered in food-contact homebrewing equipment are well-tolerated; the [materials register](./05-materials-register/index.md) covers specific ratings per material.
-
-### DES limitations
-
-Ethanol is flammable. Ethanol sanitisers must be kept away from open flames and ignition sources — relevant if using a gas burner on brew day. Apply before lighting burners.
-
-ChemiPro DES contains 20% undisclosed components beyond ethanol and water. The MaltMagnus SDS lists only ethanol as the hazardous ingredient.[^7] The non-hazardous fraction is not publicly characterised — a documentation gap for those who want to verify the full composition, though not a safety concern for normal use.
+Ethanol and water both evaporate completely, leaving no non-volatile residue — WDC risk is zero by definition. Ethanol sanitisers are A-rated for all common homebrewing hard plastics and stainless. HDPE and some elastomers are less tolerant at high concentrations; the [materials register](./05-materials-register/index.md) covers specific ratings. Ethanol is flammable — keep away from open flames and apply before lighting gas burners.
 
 ### Working concentration — why 70–80% and not higher
 
 The 70–80% concentration range is not arbitrary. Ethanol at this concentration kills microorganisms primarily by protein denaturation and membrane disruption through dehydration — mechanisms that require water to be present. At concentrations above 90%, ethanol rapidly desiccates the microbial cell surface, forming a protective protein precipitate that actually reduces penetration and killing efficacy. At 100% ethanol, antimicrobial effectiveness is substantially lower than at 70%. The 70% figure is well-established in pharmaceutical and medical disinfection literature as close to the optimum, with 70–80% generally regarded as the practical effective range. Higher is not better.
 
-### Other ethanol sanitisers
+### Products available in the Swedish and EU market
 
-ChemiPro DES is the most readily available food-grade ethanol sanitiser in the EU/Swedish market at the time of writing. Several other products are worth noting.
+:::note Usage instructions
+Dosage and contact time shown in these profiles reflects sources available at the time of writing. Always read and follow the current product instructions — manufacturer guidance takes precedence over anything stated here.
+:::
 
-**KegLand Super Kill Ethyl Sanitiser** (KL05371) is an Australian product sold at 70% ethanol in a 1 L HDPE spray bottle.[^sk] The product page describes it as "70% pure food grade ethanol" with "30% proprietary ingredients", but the SDS (AU format, revised April 2021) declares the composition simply as ethanol 70% and water — no other hazardous or undisclosed components are listed in Section 3. The discrepancy between the marketing copy and the SDS is unexplained; the SDS is the regulatory document and is taken as authoritative here. No EU REACH/CLP SDS exists; the product is not currently available in the EU market, though KegLand EU distribution is expanding.
+---
 
-A note on the SDS availability: the SDS is not linked on the KegLand product page, which instead directs users to email sds@kegland.com.au. For a product sold commercially for food-contact sanitisation, embedding the SDS link directly on the product page is the expected standard — KegLand publishes SDSs for many other products and this appears to be an oversight rather than deliberate restriction.
+#### ChemiPro DES
 
-**Tingstad Ytdesinfektion Premium** (TP555) is one product in Tingstad’s surface disinfection range, available in multiple variants and sizes.[^tp] The SDS (v7, issued 22 April 2025) declares ethanol at >50–&lt;70% (598 g/kg) and propan-2-ol (IPA) at >5–&lt;10% (66 g/kg). Critically, it is approved under both **PT2** (surface disinfectant) and **PT4** (surfaces in contact with food and feed) under Regulation (EU) No. 528/2012 — making it the only product in this section with a confirmed EU food-contact surface approval. The IPA component means it carries the same flammability classification as products containing isopropanol (Flam. Liq. 2, H225). Available in Sweden from Tingstad as a 5 L concentrate, making it economical for regular use.
+**Manufacturer:** [Brouwland](https://brouwland.com/en/cleaning-products/10199-chemipro-des-750-ml.html) &middot; **SDS:** [EU REACH/CLP v2.0, Swedish, February 2026](https://maltmagnus.se/documents/11-ChemiproDES-S%C3%A4kerhetsdatablad-v2.0.pdf)[^7]
 
-**Alcodes GF** is a Danish-approved ethanol sanitiser available from the Swedish homebrew retailer JM Bryg, sold with an atomiser.[^alc] It carries Danish biocide approval number DK: 2020-29-7105-00055. No SDS has been obtained and no composition data is available at this stage — flagged as an open item.
+- **Formulation:** ethanol ~80% by weight · 20% undisclosed non-hazardous components; the SDS lists only ethanol as the hazardous ingredient — the non-hazardous fraction is not publicly characterised
+- **Mechanism:** protein denaturation and membrane disruption through dehydration at 70–80% concentration — see [Working concentration — why 70–80% and not higher](#working-concentration--why-7080-and-not-higher) above
+- **Temperature and contact time:** ready to use as supplied; no dilution required. Apply, allow 15–30 seconds minimum contact, proceed — ethanol evaporates completely leaving zero non-volatile residue
+- **Chemical incompatibility:** flammable (Flam. Liq. 2, H225) — keep away from open flames and ignition sources. Apply before lighting gas burners
+- **Safety:** classified Flam. Liq. 2 (H225) and Eye Irrit. 2 (H319)
+- **Dosage:** ready to use — no preparation required · Available in 750 mL spray bottle and 5 L refill jug (distributed by MaltMagnus in Sweden)
 
-**Everclear** (Luxco, US) is a rectified grain spirit bottled at 95% ABV (190 US proof) — essentially the maximum achievable by conventional distillation, as ethanol and water form an azeotrope at 95.6%. It is not sold retail in the EU or UK, though it can be imported in personal quantities. The EU equivalent is high-proof rectified spirit (*spiritus*, *neutral grain spirit*), available from specialist retailers in several EU countries including Poland and some Scandinavian markets. For use as a sanitiser, Everclear or equivalent high-proof spirit must be diluted to 70–80% before use — it is not more effective at 95%, and as noted above, is actually less effective. Dilution is straightforward: to make 70% ethanol from 95% ethanol, mix 73.7 mL of 95% spirit with 26.3 mL of water per 100 mL final volume. At the EU retail level, high-proof food-grade spirit remains niche and substantially more expensive per litre of working-strength sanitiser than a purpose-formulated product.
+---
+
+#### Tingstad Ytdesinfektion Premium (TP555)
+
+**Manufacturer:** [Tingstad Papper AB](https://www.tingstad.com/) &middot; **SDS:** [EU REACH/CLP v7, Swedish, 22 April 2025](/references/TP555.pdf)[^tp]
+
+- **Formulation:** ethanol 598 g/kg (>50–&lt;70%), propan-2-ol (IPA) 66 g/kg (>5–&lt;10%)
+- **Mechanism:** ethanol + IPA combination — protein denaturation and membrane disruption. See [Working concentration](#working-concentration--why-7080-and-not-higher) above
+- **Temperature and contact time:** ready to use; apply and allow to evaporate
+- **Chemical incompatibility:** flammable (Flam. Liq. 2, H225) — keep away from open flames
+- **Safety:** classified Flam. Liq. 2 (H225) and Eye Irrit. 2 (H319)
+- **Dosage:** ready to use · Available in 5 L concentrate from Tingstad in Sweden — economical for regular use · **Regulatory note:** approved under both PT2 (surface disinfectant) and **PT4 (surfaces in contact with food and feed)** under [Regulation (EU) No. 528/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0528) — the only ethanol sanitiser in this section with confirmed EU food-contact surface approval
+
+---
+
+#### KegLand Super Kill Ethyl Sanitiser (KL05371)
+
+**Manufacturer:** [KegLand](https://kegland.com.au/products/super-kill-ethyl-sanitiser-spray-1000ml-ethanol-alcohol) &middot; **SDS:** [AU format, April 2021](/references/KL05371_-_Ethanol_70_-_Safety_Data_Sheet.pdf)[^sk]
+
+- **Formulation:** ethanol 70%, water · The product page describes "30% proprietary ingredients" but SDS Section 3 declares only ethanol and water; the SDS is the regulatory document and is treated as authoritative
+- **Mechanism:** ethanol at 70% concentration — see [Working concentration](#working-concentration--why-7080-and-not-higher) above
+- **Temperature and contact time:** ready to use; apply and allow to evaporate
+- **Chemical incompatibility:** flammable — keep away from ignition sources
+- **Dosage:** ready to use · Available in 1 L HDPE spray bottle · **Not currently available in the EU market.** No EU REACH/CLP SDS exists; the SDS is not linked on the KegLand product page and requires an email to sds@kegland.com.au — an oversight for a food-contact product
+
+---
+
+#### Alcodes GF
+
+**Manufacturer:** not confirmed &middot; sold by [JM Bryg](https://jmbryg.se/shop/130-rengoringsutrustning/4262-alcodes-gf-1l-med-atomizer/) (SE) with atomiser · Danish biocide approval: DK: 2020-29-7105-00055[^alc]
+
+- **Formulation:** not confirmed — SDS not obtained
+- **Dosage:** 1 L with atomiser · **Open item:** composition, SDS, and EU approval status not confirmed at time of writing
+
+---
+
+### High-proof spirits (Everclear and equivalents)
+
+**Everclear** (Luxco, US) is rectified grain spirit at 95% ABV — essentially the maximum achievable by conventional distillation, as ethanol and water form an azeotrope at 95.6%. Not sold retail in the EU or UK, though importable in personal quantities. The EU equivalent is high-proof rectified spirit (*spiritus*, *neutral grain spirit*), available from specialist retailers in Poland and some Scandinavian markets.
+
+High-proof spirit must be diluted to 70–80% before use as a sanitiser — it is not more effective at 95% and is actually less effective at that concentration. To make 70% ethanol from 95%: mix 73.7 mL of 95% spirit with 26.3 mL of water per 100 mL final volume. At EU retail prices, high-proof spirit is substantially more expensive per litre of working-strength sanitiser than a purpose-formulated product.
+
+### Ethanol wipes
+
+Pre-wetted wipes with 70% ethanol or isopropyl alcohol (IPA) are a practical tool for spot sanitisation of small items — thermometer probes, hydrometer tubes, the outside of tap bodies, sample ports. Allow to dry fully before contact with beer. They are convenient where a spray bottle is impractical. Choose wipes without humectants, gelling agents, or fragrances — the same co-formulant caution as for hand sanitiser applies. KegLand AU produces a wipe format (70% ethanol, not currently EU-available); the EU equivalent is any pharmaceutical or laboratory-grade 70% ethanol or IPA wipe without skin-care additives.
 
 ### Ethanol sanitisers versus hand sanitiser
 
@@ -242,6 +327,32 @@ Purpose-made IPA spray — essentially 70% IPA in water, without the skin-care a
 
 ---
 
+## Saniclean
+
+[Saniclean](https://www.fivestarchemicals.com/product/saniclean/) (Five Star Chemicals) is a low-foam variant of Star San — the same phosphoric acid and DDBSA chemistry, reformulated to produce significantly less foam.[^saniclean] It is designed primarily for kegs and serving lines, where the heavy foam of standard Star San is difficult to manage in confined volumes and slow to drain. As an ABNS product, all the WDC analysis and material compatibility guidance that applies to Star San applies equally to Saniclean. It is not widely stocked by EU/Swedish homebrew retailers at the time of writing.
+
+---
+
+## Bleach
+
+Household bleach (sodium hypochlorite, typically 3–5% active chlorine) was the standard homebrewing sanitiser before ABNS products became widely available. At approximately 50–100 ppm free chlorine — around 1–2 mL of 5% bleach per litre of water — it is effective against bacteria, yeasts, and moulds.
+
+Bleach is not recommended when ABNS is available, for two reasons. The primary concern is the acid-incompatibility hazard: phosphoric acid in ABNS reacts with hypochlorite to produce chlorine gas. The same reaction applies to any acid contact with a bleach residue. Thorough rinsing with clean water eliminates this risk in practice, but the consequence of incomplete rinsing is chlorine gas rather than a flavour issue. VWP and other chlorine-based cleaners carry the same hazard — this is discussed in detail in the [cleaning guide](./03-cleaning.md). The second concern is chlorophenol off-flavour: chlorine reacting with phenolic compounds in wort produces the distinctive medicinal or antiseptic character that is one of the most recognisable defects in homebrew. Inadequate rinsing reliably produces this fault.
+
+If bleach is used despite these limitations, use unscented household bleach at 50–100 ppm free chlorine, rinse thoroughly with clean potable water before the vessel contacts any acid (including ABNS), and do not use in the same session as ABNS without a complete equipment rinse between them.
+
+---
+
+## Iodophor
+
+Iodophor is an iodine-based sanitiser — iodine complexed with a polymer carrier (usually polyvinylpyrrolidone) to produce a stable, lower-irritancy solution that releases free iodine in water. At the correct working dilution (typically 12.5–25 ppm available iodine, highly diluted from a concentrate of around 1.75% available iodine), iodophor carries no-rinse approval for food-contact surfaces in the US, where it is well-established in commercial brewing.
+
+Two practical limitations have led to ABNS displacing iodophor in most homebrewing contexts. First, iodine stains: it leaves a yellow-brown discolouration on plastic, silicone, and porous surfaces at concentrations above the no-rinse threshold, and the staining is difficult to reverse. Second, iodophor is concentration-sensitive — above the no-rinse threshold a potable water rinse is required; below effective concentration the sanitising efficacy drops. Neither problem is insurmountable, but together they make ABNS the more forgiving choice for homebrewers who are not measuring concentration with test strips.
+
+Iodophor is not widely stocked by EU/Swedish homebrew retailers and has no established EU biocide no-rinse approval equivalent to that held by Sanipro Rinse. It remains a legitimate option where it is available, particularly for brewers already familiar with concentration management.
+
+---
+
 ## Heat sanitisation
 
 Heat is a practical sanitisation method for equipment that can tolerate it. Unlike chemical sanitisers, it leaves no residue of any kind and requires no contact time beyond the heat exposure itself. The constraint is material compatibility.
@@ -252,27 +363,27 @@ Heat is a practical sanitisation method for equipment that can tolerate it. Unli
 
 **Silicone tubing** is one of the few common homebrewing materials that genuinely tolerates boiling. Food-grade silicone hose (such as standard 6×10 mm silicone transfer hose)[^si] is rated for continuous use from −60°C to +200°C, making boiling water — or even steam — appropriate. This is the best option for pre-storage sanitisation of silicone hose.
 
-**POK (polyketone) fittings:** KegLand explicitly describes the Gen 2 DuoTight body (Poketon/POK) as “auclavable / heat resistant”.[^dt2] POK is one of the few push-fit fitting materials where heat sanitisation is genuinely practical, though for connectors with silicone or EPDM O-rings the full assembly may not be autoclave-rated even if the body is.
+**POK (polyketone) fittings:** KegLand explicitly describes the Gen 2 DuoTight body (Poketon/POK) as "auclavable / heat resistant".[^dt2] POK is one of the few push-fit fitting materials where heat sanitisation is genuinely practical, though for connectors with silicone or EPDM O-rings the full assembly may not be autoclave-rated even if the body is.
 
 **What heat cannot reliably sanitise in a homebrewing context:** PET vessels (temperature limit), PP fittings and taps (generally safe to ~80°C but not for boiling immersion in all cases), most standard airlock materials, and any assembly containing NR (natural rubber) or LDPE seals.
 
 ---
 
-## Sanitiser summary and selection
+## Choosing a sanitiser
 
-The three sanitisation approaches covered in this guide have genuinely different properties. Understanding the tradeoffs is more useful than a single recommendation, because the right choice depends on what you are sanitising and what you have available.
+**Fill-and-drain sanitisation of a large vessel** — fermenter, keg, Corny keg body: ABNS is the practical choice. Preparing 2–3 litres of working-dilution solution and swirling it through a 20 L fermenter takes two minutes; the equivalent volume of ethanol spray is not economical. For a Swedish brewer, [Sanipro Rinse](https://sanipro.se) is the best-documented EU option — explicit no-rinse approval, EU biocide registration, well-characterised SDS. [StellarSan](https://kegland.eu/products/stellarsan-food-grade-sanitiser-500ml) is the most convenient to dose (dual-chamber bottle) and is becoming increasingly available in Sweden. [Star San](https://www.fivestarchemicals.com/product/star-san/) and [Chemsan](https://www.chemisphere.co.uk/chemsan) are equivalent alternatives. Check your equipment materials against the [materials register](./05-materials-register/index.md) before use — compatibility is not uniform across vessel types, seals, and fittings.
 
-**ABNS (acid-based no-rinse sanitisers)** are the workhorse for larger vessels. Fill-and-drain sanitisation of a 20 L fermenter is practical; the same volume of ethanol spray is not. The tradeoff is the WDC residue mechanism: non-volatile DDBSA and phosphoric acid concentrate on surfaces as water evaporates, which matters for certain materials and geometries. Whatever ABNS you use, know what your equipment is made of and check the [materials register](./05-materials-register/index.md) — material compatibility is not uniform across vessel types, seals, and fittings. ABNS requires correct dilution and produces foam. The best-documented EU product for Sweden is [Sanipro Rinse](https://sanipro.se) — EU-approved, well-characterised SDS, explicitly no-rinse.
+Working-dilution ABNS can be stored in the vessel between brews, but only in equipment confirmed to tolerate sustained immersion. KegLand confirm this is safe for PET FermZilla All Rounder vessels.[^4] There are community reports of silicone components failing under sustained ABNS exposure — including dissolved O-rings[^hbt1] and partial disintegration of a silicone trub dam after several weeks of Star San contact in a stainless kettle.[^reddit1] Star San manufacturer guidance advises against storing mixed solution beyond 12 hours. The safest default is to prepare what you need for a brew day and discard the rest.
 
-Working-dilution ABNS can be stored in the vessel between brews, but only if you know your specific equipment can tolerate sustained immersion. KegLand confirm this is safe for PET FermZilla All Rounder vessels.[^4] There are community reports of silicone components failing under sustained ABNS exposure — including dissolved O-rings[^hbt1] and partial disintegration of a silicone trub dam after several weeks of Star San contact in a stainless kettle.[^reddit1] Star San manufacturer guidance advises against storing mixed solution beyond 12 hours. The safest default is to make what you need for a brew day and discard the rest.
+**Spot sanitisation of small items** — thermometer probe, tap spigot, hydrometer, bottling wand: ethanol sanitiser. No preparation, no foam, zero residue, quick evaporation. [ChemiPro DES](https://brouwland.com/en/cleaning-products/10199-chemipro-des-750-ml.html) in a spray bottle covers most of these tasks. Wipes are an alternative for items where a spray is awkward — allow to dry before contact with beer.
 
-**Ethanol-based sanitisers** leave zero non-volatile residue — no WDC accumulation, no residue-driven material compatibility implications. They are the cleanest option analytically, and the practical choice for spot sanitisation of small items where ABNS volume is impractical. The limitation is economy at large volumes and flammability. As with ABNS, check your equipment materials — 80% ethanol is not universally inert and the [materials register](./05-materials-register/index.md) covers specific ratings. [ChemiPro DES](https://maltmagnus.se/products/chemipro-des) is the most available EU/Swedish option; [Tingstad Ytdesinfektion Premium](https://www.tingstad.com/) has the stronger regulatory position for food-contact surfaces (PT4 approval). Whether ethanol is suitable as airlock fill liquid depends on the airlock material and fermentation context — KegLand recommend their ethyl sanitiser for PP S-type airlocks, but 70–80% ethanol is sufficient to kill yeast on suck-back during active fermentation, making working-dilution ABNS or glycerol the safer general choice.
+**Kegs and serving lines** — where Star San foam is a management problem: Saniclean (Five Star low-foam ABNS) where available. Same chemistry, same material compatibility analysis, substantially less foam.
 
-**Heat** is zero-residue, zero-chemical, and costs nothing — everyone has access to boiling water. For items like glass hydrometers, thermometer probes, muslin bags, and silicone tubing, it is simple and thorough. Boiling a stainless keg or fermenter is impractical at homebrew scale and unnecessary when chemical sanitisers are available. Heat is not an option for PET vessels, most airlock materials, or assemblies with NR seals — again, know your materials.
+**Pre-storage sanitisation of silicone tubing and components:** boiling water. Silicone tolerates it fully and heat is the cleanest option — no residue, no timing questions, no chemical accumulation.
 
-**If you can only have one sanitiser,** ABNS covers the most ground. It handles large volumes, is no-rinse approved, and is effective at working dilution for all common brewing-relevant organisms. The residue implications are real but manageable with correct practice — clean after every brew, use correct dilution, and follow the WDC model guidance for sensitive components.
+**Where zero non-volatile residue is required** — components with sustained acid-contact risk, or equipment where WDC accumulation is a concern: ethanol sanitiser or heat. Both leave nothing behind. [Tingstad Ytdesinfektion Premium](https://www.tingstad.com/) has the strongest EU regulatory basis for food-contact use among the ethanol products (PT4 approval under [Regulation (EU) No. 528/2012](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0528)).
 
-**If you have both ABNS and an ethanol sanitiser,** they complement each other well. ABNS for fermenter bodies and large volumes; ethanol for small items, spot sanitisation, and anything where zero residue matters more than volume economy. Heat where equipment tolerates it, for maximum certainty on items that will be stored.
+**When material compatibility is uncertain:** check the [materials register](./05-materials-register/index.md) first. The register covers each material with specific ratings for ABNS and ethanol sanitisers, including failure mode descriptions and the WDC implications for each geometry.
 
 *[ChemiPro San](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) — treat as rinse-required until Brouwland resolves the composition discrepancy and no-rinse status. If you use it, rinse after contact time. See the ChemiPro San info box in the ABNS section above for full detail.*
 
@@ -308,6 +419,12 @@ Working-dilution ABNS can be stored in the vessel between brews, but only if you
 
 [^cpb]: Brouwland, [ChemiPro San product page](https://brouwland.com/en/cleaning-products/10224-chemipro-san-1-l.html) — dilution 15–25 mL per 10 L (1.5–2.5 mL/L); contact time 60 seconds. Directions state: "Rinse only with clean potable water." This instruction is ambiguous — it may mean rinsing is mandatory, or it may mean that if rinsing is performed, only potable water should be used. No EU biocide no-rinse approval has been confirmed. **Position: treat as rinse-required until formal no-rinse declaration is published.** See ChemiPro San section below.
 
+[^starsan-cl]: Five Star Chemicals, [*Star San Technical Data Sheet*](https://www.beveragefactory.com/images/guides/StarSan-TECH.pdf) — accessed April 2026. Explicit statement: "DO NOT MIX STAR SAN WITH CHLORINATED CLEANERS AS CHLORINE GAS WILL RESULT." Mechanism: phosphoric acid + hypochlorite → Cl₂.
+
+[^saniclean]: Five Star Chemicals, [Saniclean product page](https://www.fivestarchemicals.com/product/saniclean/) — low-foam ABNS variant; same active chemistry (phosphoric acid + DDBSA) as Star San, reformulated to reduce foam. Accessed April 2026 from [fivestarchemicals.com](https://www.fivestarchemicals.com).
+
+[^cleaning-vs-san]: Malt Magnus (email correspondence, August 2024): vendor position is that tap water in normal household conditions does not contain beer-spoiling organisms; the infection risk lies in the vessel or handling, not the water itself. Tier 2 source — retailer, not primary manufacturer or academic study. The broader position is consistent with the Enolandia George's Beer beginner kit instructions, which specify no dedicated sanitisation step and rely on thorough cleaning followed by immediate pitching. [`Instructions - Georges beer.pdf`](/references/Instructions%20-%20Georges%20beer.pdf)
+
 [^6]: Flavour detection threshold for DDBSA in beer: a specific primary organoleptic study for DDBSA in beer has not been located. The 1–5 ppm figure is based on general sensory science for anionic surfactants in aqueous matrices and is used as a working estimate only. LD50 values from the archived ChemiPro SAN SDS (Brouwland, December 2023, Section 11) · [`Chemipro SAN-GB English-v1.pdf`](/references/Chemipro%20SAN-GB%20English-v1.pdf): DDBSA oral LD50 ~2,000 mg/kg (rat); phosphoric acid oral LD50 2,600 mg/kg (rat), corroborated by the MaltMagnus/KemRisk supplier SDS · [`13-ChemiproSan-S%C3%A4kerhetsdatablad-v2.0.pdf`](/references/13-ChemiproSan-S%C3%A4kerhetsdatablad-v2.0.pdf).
 
 [^7]: MaltMagnus / Brouwland, *ChemiPro DES Säkerhetsdatablad (Safety Data Sheet)*, v2.0 (February 2026) — EU REACH/CLP, prepared by KemRisk Sweden AB. Accessed April 2026 from [maltmagnus.se](https://maltmagnus.se).
@@ -322,7 +439,7 @@ Working-dilution ABNS can be stored in the vessel between brews, but only if you
 
 [^si]: Mr Malt (SE), [Silicone hose 6 × 10 mm product page](https://mr-malt.se/en/equipment/tubing/silicone/silicone-hose-6-x-10-mm) — operating temperature stated as −60°C to +200°C; food safety certifications listed as Euro-Pharm, USP-CL.VI, FDA, BfR/BGVV, ISO 10993. Accessed April 2026.
 
-[^dt2]: KegLand, [DuoTight Generation 2 Design Revision](https://docs.kegland.com.au/products/fittings/duotight-generation-2-design-revision) — KegLand docs platform. States Poketon body as “Autoclavable / heat resistant”; Gen 2 seals are double O-ring silicone + EPDM combination. Accessed April 2026.
+[^dt2]: KegLand, [DuoTight Generation 2 Design Revision](https://docs.kegland.com.au/products/fittings/duotight-generation-2-design-revision) — KegLand docs platform. States Poketon body as "Autoclavable / heat resistant"; Gen 2 seals are double O-ring silicone + EPDM combination. Accessed April 2026.
 
 [^hbt1]: HomeBrewTalk forum, [*StarSan and Silicone Hose*](https://homebrewtalk.com/threads/starsan-and-silicone-hose.625795/) — community thread; user reports silicone O-rings dissolving under Star San exposure. Tier 3 community source.
 
