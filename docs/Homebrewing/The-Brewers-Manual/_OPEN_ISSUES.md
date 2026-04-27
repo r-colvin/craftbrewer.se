@@ -2,7 +2,7 @@
 
 **Purpose:** GitHub-issue-ready tracking of known gaps, deferred improvements, and follow-up tasks. Each item is written so it can be converted directly to a GitHub issue. Maintained alongside RESEARCH_MASTER.md.
 
-**Last updated:** 2026-04-20
+**Last updated:** 2026-04-24
 
 ---
 
@@ -116,12 +116,17 @@ Current material pages use "PBW" as the proxy column for all alkaline cleaners. 
 ## Site infrastructure — future improvements
 
 ### Product images
-All product profiles in `03-cleaning.md` and `02-sanitising.md` have a placeholder noting images will be added. Source priority: (1) manufacturer's site, (2) Swedish/EU retailers. Prefer local copies in `static/images/products/` with descriptive filenames. See image handling policy in RESEARCH_MASTER.md.
+`static/images/products/` directory created 2026-04-24. `WhereToBuy` component updated to render image (120×120 px, object-fit contain) above retailer links when `image.local` or `image.remote` is set in products.json.
+
+**Outstanding — image URLs:** Remote image URLs not yet populated in products.json. A sourcing checklist is at `docs/Homebrewing/The-Brewers-Manual/_IMAGE_SOURCING.md`. For each product, visit the linked retailer/manufacturer page, copy the main product image URL, and paste into `image.remote` in products.json. Then start a CB session to download local copies, set `image.local`, and remove the `:::note Product images` admonitions from `02-sanitising.md` and `03-cleaning.md`.
 **Label:** enhancement, images
 
 ### Product JSON
-Abstract all product data (name, manufacturer URL, retailer links per market, SDS links with version/date, image paths) into a structured `data/products.json`. This allows retailer links to be updated in one place rather than across multiple markdown files. Future: Docusaurus plugin to display current pricing.
-**Label:** enhancement, infrastructure
+✅ **Implemented 2026-04-24.** `static/data/products.json` (14 products) and `static/data/vendors.json` (13 vendors) written. `src/components/WhereToBuy/index.jsx` React component written. Fetches both JSON files at runtime; renders confirmed retailer links grouped by market (SE → EU → UK → AU → US); silently renders nothing if no confirmed URLs exist for a product.
+
+### WhereToBuy component — wiring
+✅ **Complete 2026-04-24.** `<WhereToBuy />` added to all 13 product profiles across `02-sanitising.md` and `03-cleaning.md`. Remaining null retailer URLs deferred to final documentation review.
+**Label:** ~~enhancement, infrastructure~~
 
 ### Sanitiser packaging and dosing comparison
 Packaging format and dosing convenience differ significantly between ABNS products and are worth covering in `02-sanitising.md` profiles:
@@ -134,23 +139,29 @@ Packaging format and dosing convenience differ significantly between ABNS produc
 **Label:** content, sanitising
 
 ### Vendor list — where to buy in Sweden
-No central list of Swedish/EU homebrew retailers currently exists on the site. Product profiles link to manufacturer pages, not retailers. A vendor list page (or section in the introduction) would help readers find products in their market.
+✅ **`static/data/vendors.json` written 2026-04-24.** 10 vendors seeded: malt-magnus, ölbryggning, mr-malt, hembryggeriet, kegland-eu, brouwland, five-star, chemisphere, behrens, kegland-au.
 
-Options:
-- A static page listing confirmed Swedish/EU vendors with links (easy to implement, hard to maintain)
-- A `data/vendors.json` feeding a dynamic page (maintainable; consistent with the product JSON approach; vendor links in `data/products.json` can reference vendor IDs from this file)
-
-The JSON approach is preferred as it allows product pages to show “where to buy this product” dynamically, and allows search/filter links per vendor when those are stable.
-
-**Action:** Define vendor JSON schema alongside product JSON schema. Implement together.
+**Outstanding — vendor list page:** No dedicated site page listing all vendors exists yet. A future page could render a `<VendorList />` component reading from vendors.json. Deferred until SE retailer URLs are confirmed in products.json.
 **Label:** enhancement, infrastructure
 
-### Product JSON — workflow prompt needed
-When `data/products.json` is implemented, product pages will need to be updated to reference JSON IDs rather than hardcoded URLs. A standard prompt will be needed to instruct Claude to read the updated JSON and update affected pages accordingly. Draft prompt when JSON schema is finalised.
+### Product JSON — workflow prompt
+Use this prompt when `products.json` or `vendors.json` has been updated and downstream page edits may be needed:
+
+> **CB · update · product pages after JSON change**
+>
+> We've updated `static/data/products.json` (or `static/data/vendors.json`). Before making any changes, please:
+>
+> 1. Read `RESEARCH_MASTER.md` and the updated JSON files from disk.
+> 2. Identify which product profiles in `02-sanitising.md` and `03-cleaning.md` are affected (new retailer URL, changed URL, new SDS, added image).
+> 3. If a product already uses `<WhereToBuy />`, no prose change is needed — the component picks up the JSON change automatically. If the product still uses a hardcoded inline link, update it.
+> 4. If an SDS has been added or updated, check whether footnotes on the relevant page reference the new entry. Update footnotes to match the new SDS `label` and `archived_path`.
+> 5. Update RESEARCH_MASTER.md section 1 (`static/references/` current contents) if a new PDF has been archived.
+> 6. Do not rewrite prose. Targeted edits only.
+
 **Label:** enhancement, infrastructure
 
 ### Dosage information — ChemiPro Wash and Enzybrew 10 not confirmed
-Dosage figures for ChemiPro Wash and Enzybrew 10 are not yet confirmed from primary or retailer sources. Both product profiles currently say “consult product instructions”.
+Dosage figures for ChemiPro Wash and Enzybrew 10 are not yet confirmed from primary or retailer sources. Both product profiles currently say "consult product instructions".
 **Action:** Locate dosage instructions from Brouwland (ChemiPro Wash) and from ölbryggning.se or MaltMagnus (Enzybrew 10). Update profiles and footnotes.
 **Label:** documentation, manufacturer-follow-up
 
@@ -183,9 +194,9 @@ Fixed upstream in 3.3.2. Terms in headings are now skipped by the remark plugin.
 
 ### Glossary — full audit pass (post-3.3.2)
 Now that 3.3.2 is in place (heading skip, word boundaries, alias support), a pass through all written pages is needed to:
-- Check `autoLink: false` candidates — terms we don’t want linking in certain contexts (e.g. `SAN` in prose may be fine, but review in context of cleaning/sanitising pages where product names dominate)
+- Check `autoLink: false` candidates — terms we don't want linking in certain contexts (e.g. `SAN` in prose may be fine, but review in context of cleaning/sanitising pages where product names dominate)
 - Verify alias coverage is working correctly in the build for Saponify, Chelating agent, Sequester, Mashing
-- Identify any new false positives introduced by 3.3.2’s broader matching
+- Identify any new false positives introduced by 3.3.2's broader matching
 - Identify terms with multiple meanings beyond IPA (India Pale Ale vs isopropyl alcohol) and decide handling per term
 - Add `url` fields to terms as their dedicated pages are written
 Scope: all pages through and including `03-cleaning.md` as a first pass; extend to remaining pages as they are written.

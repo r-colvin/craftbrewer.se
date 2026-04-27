@@ -3,6 +3,8 @@ sidebar_position: 3
 title: Sanitising
 ---
 
+import WhereToBuy from '@site/src/components/WhereToBuy';
+
 # Sanitising
 
 *This page follows the EU regulatory framework and Swedish market context described in the [introduction](./01-introduction.md).*
@@ -31,10 +33,6 @@ Material compatibility with sanitising chemicals — which materials tolerate AB
 
 ### Products available in the Swedish and EU market
 
-:::note Product images
-Product images will be added in a future update.
-:::
-
 :::note Usage instructions
 Dosage, concentration, contact time, and no-rinse status shown in these profiles reflects sources available at the time of writing. Always read and follow the current product instructions — manufacturer guidance takes precedence over anything stated here.
 :::
@@ -51,6 +49,8 @@ Dosage, concentration, contact time, and no-rinse status shown in these profiles
 - **Chemical incompatibility:** do not mix with alkaline cleaners — rinse equipment thoroughly after cleaning before applying. Do not mix with chlorine-based products (chlorine gas risk — see the [cleaning guide](./03-cleaning.md))
 - **Dosage:** 1.25–2.5 mL/L (12.5–25 mL per 10 L)[^sb] · Available in 250 mL and 1 L bottles — standard format, no built-in dosing; a syringe or measuring pipette is recommended for accuracy at small volumes (e.g. 1–2 L of working solution). **Open item:** primary instruction sheet from Behrens Group AB not yet obtained; dosage figures are from a Tier 2 retailer source[^sb]
 
+<WhereToBuy productId="sanipro-rinse" />
+
 ---
 
 #### Star San
@@ -62,6 +62,8 @@ Dosage, concentration, contact time, and no-rinse status shown in these profiles
 - **Temperature and contact time:** ambient (15–25°C); 1–2 minutes[^1]
 - **Chemical incompatibility:** do not mix with alkaline cleaners or chlorine-based products. Five Star technical documentation states explicitly: "DO NOT MIX STAR SAN WITH CHLORINATED CLEANERS AS CHLORINE GAS WILL RESULT"[^starsan-cl]
 - **Dosage:** 1.5 mL/L (1 oz per 5 US gallons)[^1] · Available in 8 oz, 946 mL (32 oz), 1 gal, and 5 gal sizes — the 946 mL size is most common in Sweden. No built-in dosing in any format; a syringe or measuring pipette is needed at small volumes. Five Star states the solution should be used immediately and recommends discarding after 1 hour; a Five Star technical document gives 12 hours as the maximum mixed solution shelf life[^1]
+
+<WhereToBuy productId="star-san" />
 
 ---
 
@@ -75,6 +77,8 @@ Dosage, concentration, contact time, and no-rinse status shown in these profiles
 - **Chemical incompatibility:** do not mix with alkaline cleaners or chlorine-based products
 - **Dosage:** 1.5 mL/L[^kb] · Available in 500 mL — **dual-chamber dosing bottle**: squeeze the small inner chamber to dispense a pre-measured dose directly into water. This is the most convenient built-in dosing of all the ABNS products listed here; no syringe required at any practical volume. KegLand explicitly confirms working-dilution StellarSan can be stored in a FermZilla All Rounder (PET) indefinitely[^4]
 
+<WhereToBuy productId="stellarsan" />
+
 ---
 
 #### Chemsan
@@ -87,6 +91,8 @@ Dosage, concentration, contact time, and no-rinse status shown in these profiles
 - **Chemical incompatibility:** do not mix with alkaline cleaners or chlorine-based products
 - **Dosage:** 2 mL/L (10 mL per 5 L)[^cb] · Available in standard bottle format; no built-in dosing. Also available in 50 g single-use sachets — each makes 25 L of solution
 
+<WhereToBuy productId="chemsan" />
+
 ---
 
 #### ChemiPro San
@@ -98,6 +104,8 @@ Dosage, concentration, contact time, and no-rinse status shown in these profiles
 - **Temperature and contact time:** ambient; 60 seconds[^cpb]
 - **Chemical incompatibility:** do not mix with alkaline cleaners or chlorine-based products
 - **Dosage:** 1.5–2.5 mL/L[^cpb] · Standard bottle format; no built-in dosing
+
+<WhereToBuy productId="chemipro-san" />
 
 **⚠ Treat as rinse-required** — see the info box below. If you use ChemiPro San, rinse with clean potable water after the contact time.
 
@@ -266,6 +274,8 @@ Dosage and contact time shown in these profiles reflects sources available at th
 - **Chemical incompatibility:** flammable (Flam. Liq. 2, H225) — keep away from open flames and ignition sources. Apply before lighting gas burners
 - **Safety:** classified Flam. Liq. 2 (H225) and Eye Irrit. 2 (H319)
 - **Dosage:** ready to use — no preparation required · Available in 750 mL spray bottle and 5 L refill jug (distributed by MaltMagnus in Sweden)
+
+<WhereToBuy productId="chemipro-des" />
 
 ---
 

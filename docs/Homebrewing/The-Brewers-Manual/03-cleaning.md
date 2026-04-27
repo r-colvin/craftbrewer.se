@@ -3,6 +3,8 @@ sidebar_position: 4
 title: Cleaning
 ---
 
+import WhereToBuy from '@site/src/components/WhereToBuy';
+
 # Cleaning
 
 *This page follows the EU regulatory framework and Swedish market context described in the [introduction](./01-introduction.md).*
@@ -73,10 +75,6 @@ Material compatibility with cleaning chemicals — which materials tolerate whic
 
 ### Products available in the Swedish market
 
-:::note Product images
-Product images will be added in a future update.
-:::
-
 :::note Usage instructions
 Dosage, temperature, contact time, and compatibility information shown in these profiles reflects sources available at the time of writing. Always read and follow the current product instructions — manufacturer guidance takes precedence over anything stated here.
 :::
@@ -94,6 +92,8 @@ Dosage, temperature, contact time, and compatibility information shown in these 
 - **Documentation note:** the KegLand docs page lists sodium silicate as the alkaline booster; the EU SDS v2.0 confirms this is incorrect — it is sodium metasilicate
 - **Dosage:** 10 g/L.[^stellarclean-dosage] Also available in 50 g single-use sachets — each makes 5 L of solution, with no weighing required
 
+<WhereToBuy productId="stellarclean" />
+
 ---
 
 #### PBW (Powdered Brewery Wash)
@@ -110,6 +110,9 @@ Dosage, temperature, contact time, and compatibility information shown in these 
 
   The tablet format eliminates weighing entirely — practical for small-batch cleaning at any scale, similar in convenience to espresso machine cleaning tablets
 
+<WhereToBuy productId="pbw-powder" />
+<WhereToBuy productId="pbw-tablets" />
+
 ---
 
 #### ChemClean
@@ -121,6 +124,8 @@ Dosage, temperature, contact time, and compatibility information shown in these 
 - **Temperature and contact time:** effective cold or warm
 - **Chemical incompatibility:** SDS Section 7 states explicitly: do not mix with other products, and keep away from acids. The chemistry is consistent with all high-metasilicate alkaline cleaners — alkaline reacting with acid produces neutralisation; if a chlorine source is also present, chlorine gas can result. Rinse thoroughly before applying ABNS sanitiser
 - **Dosage:** 2.5 g/L.[^chemclean-dosage] Also available in 50 g single-use sachets — each makes 20 L of solution
+
+<WhereToBuy productId="chemclean" />
 
 ---
 
@@ -134,6 +139,8 @@ Dosage, temperature, contact time, and compatibility information shown in these 
 - **Safety and chemical incompatibility:** classified Skin Corr. 1 (H314) — use appropriate PPE (gloves, eye protection). Do not mix with acids or chlorine-based products; rinse thoroughly before applying ABNS sanitiser
 - **Dosage:** consult product instructions for dosage.[^chemiprowash-dosage]
 
+<WhereToBuy productId="chemipro-wash" />
+
 ---
 
 #### Enzybrew 10
@@ -145,6 +152,8 @@ Dosage, temperature, contact time, and compatibility information shown in these 
 - **Temperature and contact time:** effective cold or warm; enzyme activity may be reduced at higher temperatures
 - **Chemical incompatibility:** do not mix with acids or chlorine-based products — rinse thoroughly before applying ABNS sanitiser
 - **Dosage:** consult product instructions for dosage.[^enzybrew-dosage]
+
+<WhereToBuy productId="enzybrew-10" />
 
 ## Phosphate-based alkaline cleaners
 
@@ -159,6 +168,8 @@ Phosphate-based cleaning is the traditional professional brewing chemistry, pred
 - **Temperature and contact time:** designed for hot use — the product is marketed for use in the Grainfather system at operating temperatures. For heavy soiling of kettles and mash tuns at lower temperatures, extend soak time
 - **Chemical incompatibility:** incompatible with acids — rinse thoroughly before applying ABNS sanitiser
 - **Safety:** classified Skin Corr. 1B (H314), Eye Dam. 1 (H318), STOT SE 3 (H335) — the metasilicate component drives the corrosive classification despite its low concentration. Use appropriate PPE (gloves, eye protection)
+
+<WhereToBuy productId="grainfather-hpc" />
 
 ## Oxidising cleaners
 
@@ -184,6 +195,8 @@ KegLand recommends StellarOxy as the primary cleaner for FermZilla PET vessels, 
 - **Mechanism:** purely oxidative — the cleaning action comes entirely from hydrogen peroxide released by sodium percarbonate in water. Effective against biofilm matrix, pigmented deposits, and hop resin staining. No alkaline hydrolysis mechanism
 - **Temperature and contact time:** use at or below 50°C — the percarbonate component decomposes above this temperature and loses effectiveness
 - **Chemical incompatibility:** incompatible with acids and reducing agents — rinse thoroughly before applying ABNS sanitiser
+
+<WhereToBuy productId="chemipro-oxi" />
 
 ## Household detergents
 
@@ -215,6 +228,8 @@ The problem is specifically the interaction with ABNS sanitisers. Five Star's te
 Additionally, the VWP SDS (Section 1.2) states the product is for industrial use only in the Swedish regulatory context. The SDS and the manufacturer's consumer website tell different stories about who this product is for. This is the same documentation gap problem described elsewhere in this guide.
 
 For homebrewers using ABNS sanitisers — which is essentially all homebrewers — the safer choice is alkaline percarbonate cleaning, which carries no acid-incompatibility hazard. Chlorine-based cleaners are not recommended in this guide, not because they do not clean effectively, but because the acid-incompatibility risk with ABNS is a meaningful safety concern that alkaline percarbonate alternatives eliminate entirely.
+
+<WhereToBuy productId="vwp" />
 
 ## Choosing a cleaner
 

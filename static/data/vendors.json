@@ -1,0 +1,93 @@
+[
+  {
+    "id": "malt-magnus",
+    "name": "Malt Magnus",
+    "homepage": "https://www.maltmagnus.se",
+    "markets": ["SE"],
+    "notes": "Swedish retailer. Stocks ChemiPro range (via Brouwland), PBW (powder + tablets), StellarClean, Enzybrew 10, Grainfather HPC, Star San. SDS documents on maltmagnus.se are Swedish-language EU REACH/CLP documents produced by KemRisk Sweden AB."
+  },
+  {
+    "id": "olbryggning",
+    "name": "Ölbryggning",
+    "homepage": "https://www.olbryggning.se",
+    "markets": ["SE"],
+    "notes": "Swedish retailer. Stocks ChemClean (Chemisphere), ChemiPro OXI, Enzybrew 10, VWP (out of scope), Pipeline range, PBW, Star San, Sanipro Rinse, Chemsan."
+  },
+  {
+    "id": "mr-malt",
+    "name": "Mr-Malt",
+    "homepage": "https://www.mr-malt.se",
+    "markets": ["SE"],
+    "notes": "Swedish retailer. Stocks Grainfather HPC, PBW, Star San, general homebrew range."
+  },
+  {
+    "id": "hembryggeriet",
+    "name": "Hembryggeriet",
+    "homepage": "https://www.hembryggeriet.se",
+    "markets": ["SE"],
+    "notes": "Swedish retailer. Stocks Sanipro Rinse, PBW, ChemClean, Star San, general homebrew range."
+  },
+  {
+    "id": "koksbryggeriet",
+    "name": "Köksbryggeriet",
+    "homepage": "https://www.koksbryggeriet.se",
+    "markets": ["SE"],
+    "notes": "Swedish retailer. Stocks PBW, Sanipro Rinse."
+  },
+  {
+    "id": "thehomebrewery-eu",
+    "name": "The Homebrewery",
+    "homepage": "https://thehomebrewery.eu",
+    "markets": ["EU"],
+    "notes": "EU homebrew retailer. Stocks Sanipro Rinse."
+  },
+  {
+    "id": "olkompaniet",
+    "name": "Ölkompaniet",
+    "homepage": "https://www.olkompaniet.se",
+    "markets": ["SE"],
+    "notes": "Swedish retailer. Stocks Chemsan."
+  },
+  {
+    "id": "kegland-eu",
+    "name": "KegLand EU",
+    "homepage": "https://www.kegland.eu",
+    "markets": ["EU"],
+    "notes": "EU distributor for KegLand products. Stocks StellarClean, StellarSan, ChemiPro DES, Chemsan. EU-market SDSs available on kegland.eu product pages."
+  },
+  {
+    "id": "brouwland",
+    "name": "Brouwland",
+    "homepage": "https://www.brouwland.com",
+    "markets": ["EU"],
+    "notes": "Belgian homebrew retailer and distributor. Primary source and manufacturer-equivalent for ChemiPro range. Sells via own site and through Swedish/EU retailers."
+  },
+  {
+    "id": "five-star",
+    "name": "Five Star Chemicals",
+    "homepage": "https://www.fivestarchemicals.com",
+    "markets": ["EU", "SE"],
+    "notes": "US manufacturer of Star San and PBW. Products available in EU/SE via homebrew retailers. No EU-direct retail; listed here as manufacturer-as-vendor for linking purposes only."
+  },
+  {
+    "id": "chemisphere",
+    "name": "Chemisphere UK",
+    "homepage": "https://chemisphereuk.com",
+    "markets": ["EU"],
+    "notes": "UK manufacturer of ChemClean and Chemsan. Products sold into EU market via ölbryggning.se and others."
+  },
+  {
+    "id": "behrens",
+    "name": "Behrens Group AB",
+    "homepage": "https://www.sanipro.se",
+    "markets": ["SE"],
+    "notes": "Swedish manufacturer of Sanipro Rinse. Product sold primarily through hembryggeriet.se and other Swedish retailers."
+  },
+  {
+    "id": "kegland-au",
+    "name": "KegLand AU",
+    "homepage": "https://www.kegland.com.au",
+    "markets": ["AU"],
+    "notes": "Australian source. Origin of StellarClean and StellarSan. AU-market SDSs in Australian NOHSC format."
+  }
+]

@@ -1,0 +1,595 @@
+[
+  {
+    "id": "stellarclean",
+    "name": "StellarClean",
+    "category": "cleaner",
+    "subcategory": "alkaline-percarbonate",
+    "manufacturer": {
+      "name": "KegLand",
+      "homepage": "https://www.kegland.eu",
+      "product_url": "https://www.kegland.eu/products/stellarclean-kitchen-brewery-cleaner"
+    },
+    "sds": [
+      {
+        "label": "KegLand.eu StellarClean SDS v2.0 (Swedish, EU REACH/CLP, January 2026)",
+        "url": null,
+        "archived_path": "/references/stellarclean%20sikkerhetsdatablad%20se.pdf",
+        "language": "sv",
+        "market": "EU",
+        "version": "2.0",
+        "date": "2026-01",
+        "notes": "Preferred citation for this guide. Confirms: sodium percarbonate 25\u201340%, disodium metasilicate 25\u201340%, DDBSA 10\u201315%, citric acid 1\u20133%. pH >12."
+      },
+      {
+        "label": "KegLand.eu StellarClean SDS v2.0 (Norwegian/English, EU REACH/CLP, January 2026)",
+        "url": null,
+        "archived_path": "/references/stellarclean%20sikkerhetsdatablad%20no.pdf",
+        "language": "no",
+        "market": "EU",
+        "version": "2.0",
+        "date": "2026-01",
+        "notes": "Same formulation as Swedish version. Norwegian language with some English sections."
+      },
+      {
+        "label": "KegLand StellarClean MSDS (Australian NOHSC format, January 2018)",
+        "url": null,
+        "archived_path": "/references/KL05494-StellarClean-MSDS.pdf",
+        "language": "en",
+        "market": "AU",
+        "version": null,
+        "date": "2018-01",
+        "notes": "Superseded by EU SDS v2.0. Retained for historical reference. Note: sodium silicate claim on KegLand docs page is incorrect \u2014 EU SDS confirms metasilicate."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "kegland-eu", "url": "https://www.kegland.eu/products/stellarclean-kitchen-brewery-cleaner", "market": "EU"},
+      {"vendor_id": "malt-magnus", "url": null, "market": "SE", "notes": "URL not confirmed \u2014 verify before publishing"}
+    ],
+    "image": {
+      "local": "/images/products/1kg-tub-stellarclean-powdered-brewery-wash-pbw-35oz-tub-with-10g-scoop-kegland.webp",
+      "remote": "https://kegland.eu/cdn/shop/files/1kg-tub-stellarclean-powdered-brewery-wash-pbw-35oz-tub-with-10g-scoop-kegland-1_88f31d4c-5dc2-4245-9033-241cbb9d7b9f.jpg?v=1757683405&width=1200"
+    },
+    "packaging": [
+      {"size": "50 g", "notes": "single-use sachet, makes 5 L"},
+      {"size": "1 kg", "notes": "tub with 10 g scoop"}
+    ]
+  },
+  {
+    "id": "pbw-powder",
+    "name": "PBW (powder)",
+    "category": "cleaner",
+    "subcategory": "alkaline-percarbonate",
+    "manufacturer": {
+      "name": "Five Star Chemicals",
+      "homepage": "https://www.fivestarchemicals.com",
+      "product_url": "https://www.fivestarchemicals.com/product/pbw/"
+    },
+    "sds": [
+      {
+        "label": "Five Star PBW SDS v1.0 (US/Canada, HazCom 2012/WHMIS 2015, April 2022)",
+        "url": "https://www.fivestarchemicals.com/wp-content/uploads/pbw_us-canada_english_u0422.pdf",
+        "archived_path": "/references/pbw_us-canada_english_u0422.pdf",
+        "language": "en",
+        "market": "US",
+        "version": "1.0",
+        "date": "2022-04",
+        "notes": "Confirms: disodium carbonate 30\u201360%, sodium percarbonate 10\u201330%, tetrasodium EDTA 10\u201330%, sodium metasilicate 1\u20133%. pH 11.55 at 10%."
+      },
+      {
+        "label": "MaltMagnus/KemRisk PBW SDS v6.0 (Swedish, EU REACH/CLP, January 2026)",
+        "url": null,
+        "archived_path": "/references/9-PBW-S%C3%A4kerhetsdatablad-v6.0.pdf",
+        "language": "sv",
+        "market": "EU",
+        "version": "6.0",
+        "date": "2026-01",
+        "notes": "EU REACH/CLP compliant. Prepared by KemRisk Sweden AB."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "mr-malt", "url": "https://mr-malt.se/en/equipment/cleaning/cleaning-chemicals/pbw-450-g-1-lb", "market": "SE"},
+      {"vendor_id": "olbryggning", "url": "https://www.olbryggning.se/five-star/100134/pbw-1-8-kg-kraftfullt-basiskt-reng%C3%B6ringsmedel", "market": "SE"},
+      {"vendor_id": "malt-magnus", "url": "https://maltmagnus.se/se/sv/utrustning/rengoring/rengoringsmedel/pbw-18-kg/", "market": "SE"},
+      {"vendor_id": "koksbryggeriet", "url": "https://www.koksbryggeriet.se/sv/artiklar/pbw-450-gr.html", "market": "SE"},
+      {"vendor_id": "hembryggeriet", "url": "https://www.hembryggeriet.se/brand/pbw", "market": "SE"}
+    ],
+    "image": {
+      "local": "/images/products/PBW18.webp",
+      "remote": "https://maltmagnus.se/thumb/1891/413x0/PBW18.webp"
+    },
+    "packaging": [
+      {"size": "450 g"},
+      {"size": "1.8 kg"}
+    ]
+  },
+  {
+    "id": "pbw-tablets",
+    "name": "PBW (tablets)",
+    "category": "cleaner",
+    "subcategory": "alkaline-percarbonate",
+    "manufacturer": {
+      "name": "Five Star Chemicals",
+      "homepage": "https://www.fivestarchemicals.com",
+      "product_url": "https://www.fivestarchemicals.com/product/pbw-tablets/"
+    },
+    "sds": [
+      {
+        "label": "Five Star PBW Tablets SDS",
+        "url": null,
+        "archived_path": null,
+        "language": "en",
+        "market": "US",
+        "version": null,
+        "date": null,
+        "notes": "SDS not yet retrieved or archived. Formulation expected to match powder; confirm before citing."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "malt-magnus", "url": "https://maltmagnus.se/se/sv/utrustning/rengoring/rengoringsmedel/pbw-tabletter-50-x-25-g/", "market": "SE", "notes": "50\u00d725 g pack"},
+      {"vendor_id": "malt-magnus", "url": "https://maltmagnus.se/se/sv/utrustning/rengoring/rengoringsmedel/pbw-tabletter-40-x-10-g/", "market": "SE", "notes": "40\u00d710 g pack"}
+    ],
+    "image": {
+      "local": "/images/products/PBW-tab-2-5g-1.webp",
+      "remote": "https://maltmagnus.se/thumb/5767/1024x0/PBW-tab-2-5g-1.webp"
+    },
+    "packaging": [
+      {"size": "40 \u00d7 10 g", "notes": "one tablet per 4 L"},
+      {"size": "50 \u00d7 25 g", "notes": "one tablet per 10 L"}
+    ]
+  },
+  {
+    "id": "chemclean",
+    "name": "ChemClean",
+    "category": "cleaner",
+    "subcategory": "alkaline-percarbonate",
+    "manufacturer": {
+      "name": "Chemisphere UK",
+      "homepage": "https://chemisphereuk.com",
+      "product_url": "https://chemisphereuk.com/product/chemclean/"
+    },
+    "sds": [
+      {
+        "label": "Chemisphere UK ChemClean SDS (EU REACH/CLP, November 2020)",
+        "url": "https://chemisphereuk.com/wp-content/uploads/simple-file-list/Craft-And-Home-Brewer-Range/ChemClean/ChemClean-HS-Data-sheet.pdf",
+        "archived_path": "/references/ChemClean-HS-Data-sheet.pdf",
+        "language": "en",
+        "market": "EU",
+        "version": null,
+        "date": "2020-11",
+        "notes": "Confirms: sodium metasilicate pentahydrate 20\u201350%, sodium percarbonate 20\u201350%, sodium carbonate 20\u201350%, DDBSA 1\u201310%. pH >12."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "olbryggning", "url": "https://www.olbryggning.se/chemisphere/107833/chemclean-50-g-effektivt-alkaliskt-reng%C3%B6ringsmedel", "market": "SE"},
+      {"vendor_id": "hembryggeriet", "url": "https://www.hembryggeriet.se/chemclean-2kg-alkaliskt-rengoringsmedel-3333", "market": "SE"}
+    ],
+    "image": {
+      "local": "/images/products/Product-Chemclean-1-2.jpg",
+      "remote": "https://chemisphereuk.com/wp-content/uploads/2025/03/Product-Chemclean-1-2.jpg"
+    },
+    "packaging": [
+      {"size": "50 g", "notes": "single-use sachet, makes 20 L"},
+      {"size": "2 kg"}
+    ]
+  },
+  {
+    "id": "chemipro-wash",
+    "name": "ChemiPro Wash",
+    "category": "cleaner",
+    "subcategory": "alkaline-percarbonate",
+    "manufacturer": {
+      "name": "Brouwland",
+      "homepage": "https://www.brouwland.com",
+      "product_url": "https://www.brouwland.com/en/cleaning-and-sanitation/cleaning-products/c/chemipro-wash"
+    },
+    "sds": [
+      {
+        "label": "MaltMagnus/KemRisk ChemiPro Wash SDS v2.0 (Swedish, EU REACH/CLP, February 2026)",
+        "url": null,
+        "archived_path": "/references/14-ChemiproWash-S%C3%A4kerhetsdatablad-v2.0.pdf",
+        "language": "sv",
+        "market": "EU",
+        "version": "2.0",
+        "date": "2026-02",
+        "notes": "Prepared by KemRisk Sweden AB. Confirms: sodium metasilicate \u226530\u2013<50%, sodium carbonate \u226515\u2013<30%, sodium percarbonate \u226515\u2013<30%, TKPP \u22651\u2013<10%, EDTA \u22651\u2013<10%, non-ionic surfactant \u22651\u2013<10%. pH 11\u201312. Skin Corr. 1 (H314)."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "brouwland", "url": "https://www.brouwland.com/en/cleaning-and-sanitation/cleaning-products/c/chemipro-wash", "market": "EU"},
+      {"vendor_id": "malt-magnus", "url": null, "market": "SE", "notes": "URL not confirmed \u2014 verify before publishing"}
+    ],
+    "image": {
+      "local": "/images/products/chemipro-wash-500-g.jpg",
+      "remote": "https://brouwland.com/21033-large_default/chemipro-wash-500-g.jpg"
+    },
+    "packaging": [
+      {"size": "500 g"}
+    ]
+  },
+  {
+    "id": "enzybrew-10",
+    "name": "Enzybrew 10",
+    "category": "cleaner",
+    "subcategory": "alkaline-percarbonate",
+    "manufacturer": {
+      "name": null,
+      "homepage": null,
+      "product_url": null,
+      "notes": "Manufacturer not confirmed. SDS issued by MaltMagnus/KemRisk (supplier SDS). Open issue: identify manufacturer before adding product_url."
+    },
+    "sds": [
+      {
+        "label": "MaltMagnus/KemRisk Enzybrew 10 SDS v1.0 (Swedish, EU REACH/CLP, January 2025)",
+        "url": null,
+        "archived_path": "/references/Enzybrew_10_1.0_SDB.pdf",
+        "language": "sv",
+        "market": "EU",
+        "version": "1.0",
+        "date": "2025-01",
+        "notes": "Prepared by KemRisk Sweden AB. Confirms: sodium carbonate >30%, sodium percarbonate >30%, sodium metasilicate <5%. Enzyme content confirmed on detergent label (EU 648/2004) but types not individually disclosed."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "malt-magnus", "url": null, "market": "SE", "notes": "URL not confirmed \u2014 verify before publishing"},
+      {"vendor_id": "olbryggning", "url": null, "market": "SE", "notes": "URL not confirmed \u2014 verify before publishing"}
+    ],
+    "image": {
+      "local": "/images/products/WEB_Image_Enzybrew_10__750_g_enzybrew-10-cleaning_750g-279209397_plid_65625.jpeg",
+      "remote": "https://www.olbryggning.se/Media/Cache/Images/6/5/WEB_Image_Enzybrew_10__750_g_enzybrew-10-cleaning_750g-279209397_plid_65625.jpeg?v=638508760034000000"
+    },
+    "packaging": [
+      {"size": "750 g"}
+    ]
+  },
+  {
+    "id": "grainfather-hpc",
+    "name": "Grainfather High Performance Cleaner",
+    "category": "cleaner",
+    "subcategory": "phosphate",
+    "manufacturer": {
+      "name": "Grainfather",
+      "homepage": "https://www.grainfather.com",
+      "product_url": "https://www.grainfather.com/products/high-performance-cleaner",
+      "notes": "Manufacturer URL not confirmed \u2014 verify the correct product page before publishing."
+    },
+    "sds": [
+      {
+        "label": "MaltMagnus/KemRisk Grainfather High Performance Cleaner SDS v4.0 (Swedish, EU REACH/CLP, January 2024)",
+        "url": null,
+        "archived_path": "/references/Grainfather%20High%20Preformance%20Cleaner-S%C3%A4kerhetsdatablad-v4.0.pdf",
+        "language": "sv",
+        "market": "EU",
+        "version": "4.0",
+        "date": "2024-01",
+        "notes": "Prepared by KemRisk Sweden AB. Confirms: sodium sulfate >60\u2013<90%, STPP >10\u2013<30%, sodium metasilicate pentahydrate >1\u2013<10%. Phosphate-based cleaner \u2014 distinct category from alkaline percarbonate products. Skin Corr. 1B (H314), Eye Dam. 1 (H318)."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "malt-magnus", "url": null, "market": "SE", "notes": "URL not confirmed \u2014 verify before publishing"},
+      {"vendor_id": "mr-malt", "url": null, "market": "SE", "notes": "URL not confirmed \u2014 verify before publishing"}
+    ],
+    "image": {
+      "local": "/images/products/Grainfather_20High_20Performance_20Cleaner_20500g-1.webp",
+      "remote": "https://eu.grainfather.com/cdn/shop/files/Grainfather_20High_20Performance_20Cleaner_20500g-1.jpg?v=1754271332&width=1620"
+    },
+    "packaging": [
+      {"size": "500 g"}
+    ]
+  },
+  {
+    "id": "chemipro-oxi",
+    "name": "ChemiPro OXI",
+    "category": "cleaner",
+    "subcategory": "oxidising",
+    "manufacturer": {
+      "name": "Brouwland",
+      "homepage": "https://www.brouwland.com",
+      "product_url": "https://www.brouwland.com/en/cleaning-and-sanitation/cleaning-products/c/chemipro-oxi"
+    },
+    "sds": [
+      {
+        "label": "MaltMagnus/KemRisk ChemiPro OXI SDS v6.0 (Swedish, EU REACH/CLP, February 2026)",
+        "url": null,
+        "archived_path": "/references/10-ChemiproOxi-S%C3%A4kerhetsdatablad-v6.0.pdf",
+        "language": "sv",
+        "market": "EU",
+        "version": "6.0",
+        "date": "2026-02",
+        "notes": "Prepared by KemRisk Sweden AB. Confirms: sodium percarbonate \u226550\u2013<100%, sodium carbonate \u22652.5\u2013<5%. Pure oxidising cleaner. No surfactant. Decomposes above 50\u00b0C."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "brouwland", "url": "https://www.brouwland.com/en/cleaning-and-sanitation/cleaning-products/c/chemipro-oxi", "market": "EU"},
+      {"vendor_id": "olbryggning", "url": null, "market": "SE", "notes": "URL not confirmed \u2014 verify before publishing"}
+    ],
+    "image": {
+      "local": "/images/products/chemipro-oxi-100-g.jpg",
+      "remote": "https://brouwland.com/33309-large_default/chemipro-oxi-100-g.jpg"
+    },
+    "packaging": [
+      {"size": "100 g", "notes": "single-use sachet"},
+      {"size": "400 g"}
+    ]
+  },
+  {
+    "id": "star-san",
+    "name": "Star San",
+    "category": "sanitiser",
+    "subcategory": "abns",
+    "manufacturer": {
+      "name": "Five Star Chemicals",
+      "homepage": "https://www.fivestarchemicals.com",
+      "product_url": "https://www.fivestarchemicals.com/product/star-san/"
+    },
+    "sds": [
+      {
+        "label": "Five Star Star San SDS v2.1 (US GHS/HazCom, November 2020)",
+        "url": null,
+        "archived_path": null,
+        "language": "en",
+        "market": "US",
+        "version": "2.1",
+        "date": "2020-11",
+        "notes": "EPA Reg. No. 65001-1. Not EU REACH/CLP. Not yet archived locally \u2014 obtain and archive before citing in a footnote."
+      },
+      {
+        "label": "MaltMagnus/KemRisk Star San SDS v6.0 (Swedish, EU REACH/CLP, January 2026)",
+        "url": null,
+        "archived_path": null,
+        "language": "sv",
+        "market": "EU",
+        "version": "6.0",
+        "date": "2026-01",
+        "notes": "Prepared by KemRisk Sweden AB. Confirms: phosphoric acid 50%, DDBSA 15% in concentrate. Not yet archived locally \u2014 obtain PDF and archive."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "olbryggning", "url": "https://www.olbryggning.se/five-star/100169/star-san-946-ml-32-oz", "market": "SE"},
+      {"vendor_id": "mr-malt", "url": "https://mr-malt.se/en/equipment/cleaning/sanitizing/star-san-946-ml-32-oz", "market": "SE"},
+      {"vendor_id": "malt-magnus", "url": "https://maltmagnus.se/se/sv/utrustning/rengoring/desinfektion/star-san-946-ml/", "market": "SE"},
+      {"vendor_id": "hembryggeriet", "url": "https://www.hembryggeriet.se/star-san-946ml-skummande-desinfektionsmedel-202", "market": "SE"}
+    ],
+    "image": {
+      "local": "/images/products/StarSan-946ml.webp",
+      "remote": "https://maltmagnus.se/thumb/4851/413x0/StarSan-946ml.webp"
+    },
+    "packaging": [
+      {"size": "250 mL", "format": "liquid"},
+      {"size": "946 mL", "format": "liquid", "notes": "dual-chamber dosing bottle"},
+      {"size": "3.78 L", "format": "liquid"}
+    ]
+  },
+  {
+    "id": "sanipro-rinse",
+    "name": "Sanipro Rinse",
+    "category": "sanitiser",
+    "subcategory": "abns",
+    "manufacturer": {
+      "name": "Behrens Group AB",
+      "homepage": "https://www.sanipro.se",
+      "product_url": "https://www.sanipro.se",
+      "notes": "Direct product page URL not confirmed. sanipro.se is the manufacturer homepage. Verify product page URL before publishing."
+    },
+    "sds": [
+      {
+        "label": "Behrens Group AB Sanipro Rinse SDS v1 (EU REACH/CLP with Swedish exposure limits, October 2016)",
+        "url": null,
+        "archived_path": null,
+        "language": "sv",
+        "market": "EU",
+        "version": "1",
+        "date": "2016-10",
+        "notes": "Highest-priority SDS for this guide (Swedish supplier, EU REACH/CLP + Swedish limits). Direct PDF URL not yet confirmed. Not yet archived locally \u2014 obtain and archive."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "koksbryggeriet", "url": "https://www.koksbryggeriet.se/sv/artiklar/desinfektionsmedel-sanipro-rinse-250-ml.html", "market": "SE"},
+      {"vendor_id": "hembryggeriet", "url": "https://www.hembryggeriet.se/sanipro-rinse-250ml-skummande-desinfektionsmedel-249", "market": "SE"},
+      {"vendor_id": "olbryggning", "url": "https://www.olbryggning.se/annet/103837/sanipro-rinse-250-ml-skummande-desinfektionsmedel", "market": "SE"},
+      {"vendor_id": "thehomebrewery-eu", "url": "https://thehomebrewery.eu/sanipro-rinse-1000ml-foaming-sanitizer-250", "market": "EU"}
+    ],
+    "image": {
+      "local": "/images/products/2775_1.webp",
+      "remote": "https://www.hembryggeriet.se/upload/product_images/2775_1.webp"
+    },
+    "packaging": [
+      {"size": "250 mL"},
+      {"size": "1 L"}
+    ]
+  },
+  {
+    "id": "stellarsan",
+    "name": "StellarSan",
+    "category": "sanitiser",
+    "subcategory": "abns",
+    "manufacturer": {
+      "name": "KegLand",
+      "homepage": "https://www.kegland.eu",
+      "product_url": "https://kegland.eu/products/stellarsan-500ml-16oz"
+    },
+    "sds": [
+      {
+        "label": "KegLand StellarSan MSDS (Australian NOHSC format)",
+        "url": null,
+        "archived_path": "/references/KegLand_StellarSan_MSDS.pdf",
+        "language": "en",
+        "market": "AU",
+        "version": null,
+        "date": null,
+        "notes": "Australian NOHSC format, not EU REACH/CLP. Medium confidence only. EU REACH SDS not yet obtained \u2014 open item."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "kegland-eu", "url": "https://kegland.eu/products/stellarsan-500ml-16oz", "market": "EU"},
+      {"vendor_id": "malt-magnus", "url": null, "market": "SE", "notes": "URL not confirmed \u2014 verify before publishing"}
+    ],
+    "image": {
+      "local": "/images/products/IMG-0571.webp",
+      "remote": null
+    },
+    "packaging": [
+      {"size": "500 mL", "format": "liquid", "notes": "dual-chamber dosing bottle"}
+    ]
+  },
+  {
+    "id": "chemsan",
+    "name": "Chemsan",
+    "category": "sanitiser",
+    "subcategory": "abns",
+    "manufacturer": {
+      "name": "Chemisphere UK",
+      "homepage": "https://chemisphereuk.com",
+      "product_url": "https://chemisphereuk.com/product/chemsan/"
+    },
+    "sds": [
+      {
+        "label": "Chemisphere Chemsan Technical Data Sheet and FAQs",
+        "url": "https://chemisphereuk.com/wp-content/uploads/simple-file-list/Craft-And-Home-Brewer-Range/Chemsan/Chemsan-Information-Sheet-FAQs-compressed.pdf",
+        "archived_path": "/references/Chemsan-Information-Sheet-FAQs-compressed.pdf",
+        "language": "en",
+        "market": "EU",
+        "version": null,
+        "date": null,
+        "notes": "TDS/FAQs document, not a formal SDS. Confirms: dilution 2 mL/L (0.2%), contact time 2 min, no-rinse at stated dilution. Describes surfactant as benzenesulfonic acid and isopropanol."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "olbryggning", "url": "https://www.olbryggning.se/chemisphere/107573/chemsan-100-ml-skummande-surt-desinfektionsmedel", "market": "SE"},
+      {"vendor_id": "olkompaniet", "url": "https://www.olkompaniet.se/products/chemsan-500ml", "market": "SE"},
+      {"vendor_id": "kegland-eu", "url": "https://kegland.eu/products/chemsan-1000ml", "market": "EU"}
+    ],
+    "image": {
+      "local": "/images/products/Chemsan-whole-range-1824x2048.jpeg",
+      "remote": "https://chemisphereuk.com/wp-content/uploads/2025/03/Chemsan-whole-range-1824x2048.jpeg"
+    },
+    "packaging": [
+      {"size": "100 mL"},
+      {"size": "500 mL"},
+      {"size": "1 L"}
+    ]
+  },
+  {
+    "id": "chemipro-san",
+    "name": "ChemiPro San",
+    "category": "sanitiser",
+    "subcategory": "abns",
+    "manufacturer": {
+      "name": "Brouwland",
+      "homepage": "https://www.brouwland.com",
+      "product_url": "https://www.brouwland.com/en/cleaning-and-sanitation/sanitation-products/c/chemipro-san"
+    },
+    "sds": [
+      {
+        "label": "Brouwland ChemiPro San SDS v1 (English, EU REACH/CLP, December 2023)",
+        "url": null,
+        "archived_path": "/references/Chemipro%20SAN-GB%20English-v1.pdf",
+        "language": "en",
+        "market": "EU",
+        "version": "1",
+        "date": "2023-12",
+        "notes": "Primary/authoritative SDS. Confirms: phosphoric acid 25\u201350%, DDBSA (CAS 27176-87-0) 5\u201315%, propylene glycol 1\u20135%, tetrasodium glutamate diacetate 1\u20135%, caprylyl/capryl glucoside 1\u20135%, sodium/potassium cumene sulphonate 1\u20135% each."
+      },
+      {
+        "label": "Brouwland ChemiPro San SDS v1 (Swedish, EU REACH/CLP, December 2023)",
+        "url": null,
+        "archived_path": "/references/Chemipro%20SAN-Sweden%20Swedish-v1.pdf",
+        "language": "sv",
+        "market": "EU",
+        "version": "1",
+        "date": "2023-12",
+        "notes": "Swedish-language version of the Brouwland primary SDS."
+      },
+      {
+        "label": "MaltMagnus/KemRisk ChemiPro San SDS v2.0 (Swedish, EU REACH/CLP, February 2026)",
+        "url": null,
+        "archived_path": "/references/13-ChemiproSan-S%C3%A4kerhetsdatablad-v2.0.pdf",
+        "language": "sv",
+        "market": "EU",
+        "version": "2.0",
+        "date": "2026-02",
+        "notes": "Supplier SDS from KemRisk Sweden AB. Disagrees with Brouwland primary on phosphoric acid content (\u226550\u2013<80% vs 25\u201350%) and surfactant CAS number (85536-14-7 vs 27176-87-0). Brouwland primary treated as authoritative until discrepancy resolved. Open issue."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "brouwland", "url": "https://www.brouwland.com/en/cleaning-and-sanitation/sanitation-products/c/chemipro-san", "market": "EU"},
+      {"vendor_id": "malt-magnus", "url": null, "market": "SE", "notes": "URL not confirmed \u2014 verify before publishing"}
+    ],
+    "image": {
+      "local": "/images/products/chemipro-san-1-l.jpg",
+      "remote": "https://brouwland.com/30509-large_default/chemipro-san-1-l.jpg"
+    },
+    "packaging": [
+      {"size": "1 L"},
+      {"size": "5 L"}
+    ]
+  },
+  {
+    "id": "chemipro-des",
+    "name": "ChemiPro DES",
+    "category": "sanitiser",
+    "subcategory": "ethanol",
+    "manufacturer": {
+      "name": "Brouwland",
+      "homepage": "https://www.brouwland.com",
+      "product_url": "https://brouwland.com/en/cleaning-products/19719-chemipro-des-750-ml.html"
+    },
+    "sds": [
+      {
+        "label": "MaltMagnus/KemRisk ChemiPro DES SDS v2.0 (Swedish, EU REACH/CLP, February 2026)",
+        "url": null,
+        "archived_path": null,
+        "language": "sv",
+        "market": "EU",
+        "version": "2.0",
+        "date": "2026-02",
+        "notes": "Prepared by KemRisk Sweden AB. Sole declared ingredient: ethanol (CAS 64-17-5) 80%. pH 7.5. Flash point 18\u00b0C \u2014 Flam. Liq. 2. EU Regulation 528/2012 biocide. Not yet archived locally \u2014 obtain PDF and archive."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "kegland-eu", "url": null, "market": "EU", "notes": "URL not confirmed \u2014 verify before publishing"},
+      {"vendor_id": "brouwland", "url": "https://www.brouwland.com/en/cleaning-and-sanitation/sanitation-products/c/chemipro-des", "market": "EU"},
+      {"vendor_id": "malt-magnus", "url": null, "market": "SE", "notes": "URL not confirmed \u2014 verify before publishing"}
+    ],
+    "image": {
+      "local": "/images/products/chemipro-des-750-ml.jpg",
+      "remote": "https://brouwland.com/33937-large_default/chemipro-des-750-ml.jpg"
+    },
+    "packaging": [
+      {"size": "750 mL", "format": "liquid", "notes": "spray bottle"},
+      {"size": "5 L", "format": "liquid", "notes": "refill"}
+    ]
+  },
+  {
+    "id": "vwp",
+    "name": "VWP",
+    "category": "cleaner",
+    "subcategory": "chlorine",
+    "manufacturer": {
+      "name": "Coobra",
+      "homepage": "https://www.vwpclean.co.uk",
+      "product_url": "https://www.vwpclean.co.uk"
+    },
+    "sds": [
+      {
+        "label": "CBF Drinkit AB / Coobra VWP SDS v6.0 (Swedish, EU REACH/CLP, August 2024)",
+        "url": null,
+        "archived_path": "/references/coobra_vwp_msds_6279_se02_sv-08-08-2024.pdf",
+        "language": "sv",
+        "market": "EU",
+        "version": "6.0",
+        "date": "2024-08",
+        "notes": "SDS Section 1.2: identified use stated as industrial use only (Swedish regulatory context). Formulation: NaOH 30\u201350%, sodium carbonate 10\u201320%, NaDCC 10\u201320%. EUH031: develops toxic gas in contact with acid."
+      }
+    ],
+    "retailers": [],
+    "image": {
+      "local": "/images/products/400g-POTCropped.png",
+      "remote": "https://www.vwpclean.co.uk/wp-content/uploads/2025/04/400g-POTCropped.png"
+    },
+    "packaging": [
+      {"size": "100 g"},
+      {"size": "400 g"},
+      {"size": "1 kg"}
+    ]
+  }
+]
