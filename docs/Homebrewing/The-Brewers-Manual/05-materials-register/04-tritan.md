@@ -17,9 +17,13 @@ Tritan is an Eastman-developed copolyester used in the FermZilla Tri-Conical col
 
 ## Compatibility — ABNS: *B*
 
-The ester linkage is more resistant than standard PET due to the TMCD comonomer structure, but brief ABNS contact carries modest hydrolytic risk over repeated cycles. Rated *B* rather than *A* as a precaution — the TMCD structure provides improvement over PET but has less accumulated real-world contact data at the concentrations of concern.
+The ester linkage is more resistant than standard PET due to the TMCD comonomer structure, but brief ABNS contact carries modest hydrolytic risk over repeated cycles. Rated *B* rather than *A* as a precaution — the TMCD structure provides improvement over PET but has less accumulated real-world contact data at the concentrations of concern. The [WDC model](../04-wdc-model.md) applies: rinsing or cleaning between uses prevents residue accumulation on Tritan surfaces.
 
 Appropriate for the collection container role, where ABNS contact is brief and brew-day-limited. The heat resistance advantage over PET (Tritan handles contact up to 100 °C, which PET cannot) makes it a materially better choice for a component that may receive hot water cleaning.
+
+:::note WDC accumulation charts
+Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are a planned addition to this register.
+:::
 
 ## Compatibility — DES: *A*
 

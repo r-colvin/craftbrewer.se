@@ -33,6 +33,12 @@ Ethanol has minimal interaction with PET at 70–80%.
 
 Alkaline hydrolysis of PET ester linkages is genuinely more aggressive than acid hydrolysis, but at 0.5–2% PBW at 40 °C and normal cleaning contact times (15–30 minutes), the rate is slow enough to be a non-concern in practice.
 
+**Note on cleaner selection for FermZilla PET:** KegLand's FermZilla cleaning guide explicitly recommends against PBW for FermZilla All Rounder PET vessels and limits StellarClean to 30 minutes contact time.[^3] This distinction between alkaline percarbonate products is not reflected in the single-column PBW rating here. A full cleaner column review distinguishing high-metasilicate from low-metasilicate alkaline cleaners is a planned revision to this register. Until then, follow the manufacturer's guidance for the specific PET vessel you are using.
+
+:::note WDC accumulation charts
+Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are a planned addition to this register.
+:::
+
 ## Compatibility — beer/wort: *A*
 
 No concern.
@@ -42,3 +48,5 @@ No concern.
 [^1]: *EU Regulation 10/2011* on plastic materials and articles intended to contact food, Annex I — [eur-lex.europa.eu](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923) · PET monomer SMLs: terephthalic acid 7.5 mg/kg; ethylene glycol 30 mg/kg.
 
 [^2]: KegLand customer service, position confirmed in product documentation: StellarSan can be stored in the FermZilla All Rounder indefinitely (accessed April 2026)
+
+[^3]: KegLand, [*FermZilla cleaning guide*](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-tri-conical-27l-and-55l-or-user-guide/cleaning) — accessed April 2026. StellarOxy recommended as primary cleaner; StellarClean limited to 30 minutes or less; PBW (sodium metasilicate) not recommended for FermZilla PET.

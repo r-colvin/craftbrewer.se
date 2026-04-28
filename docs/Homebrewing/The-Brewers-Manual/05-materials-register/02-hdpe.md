@@ -17,7 +17,11 @@ HDPE is used for fermenter taps (KegLand's preferred tap material), spray bottle
 
 ## Compatibility — ABNS: *A*
 
-HDPE rates *A* for phosphoric acid and anionic surfactants at working dilution. The higher crystallinity of HDPE versus PP provides slightly better resistance to hydrocarbon and surfactant penetration, making it the marginally preferable choice for tap bodies where Zone B geometry concentrates WDC residue in thread roots.
+HDPE rates *A* for phosphoric acid and anionic surfactants at working dilution. The higher crystallinity of HDPE versus PP provides slightly better resistance to hydrocarbon and surfactant penetration, making it the marginally preferable choice for tap bodies where Zone B geometry concentrates WDC residue in thread roots. The [WDC model](../04-wdc-model.md) applies to HDPE as it does to all materials receiving ABNS contact that is allowed to dry — but at Zone A (fermenter body, tap bore), HDPE's rating under concentrated residue conditions remains *A*, and rinsing or cleaning between batches resets accumulation.
+
+:::note WDC accumulation charts
+Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are a planned addition to this register.
+:::
 
 ## Compatibility — DES: *A*
 

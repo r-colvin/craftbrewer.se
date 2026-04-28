@@ -15,9 +15,13 @@ These two materials are addressed together because the entire point of the discu
 
 GPPS is amorphous, transparent, and brittle. It has pendant phenyl groups that interact strongly with DDBSA via aromatic π–π stacking: DDBSA's aromatic benzene ring interacts with the PS phenyl groups, facilitating penetration into the polymer matrix.
 
-At working dilution, this produces surface stress-whitening and progressive embrittlement over repeated contact — rated *B*. At WDC-concentrated levels (~75,000 ppm DDBSA after full drying), the interaction is severe — rated *D*.
+At working dilution, this produces surface stress-whitening and progressive embrittlement over repeated contact — rated *B*. At WDC-concentrated levels (approximately 200,000 ppm DDBSA, or 20% by mass, in the dry residue at CF≈667 for StellarSan at the manufacturer's recommended dilution — see the [WDC model](../04-wdc-model.md)), the interaction is severe — rated *D*.
 
 GPPS is therefore a genuine concern if it appears in a component receiving repeated ABNS contact that is allowed to dry, such as the interior of an airlock that is filled with ABNS solution.
+
+:::note WDC accumulation charts
+Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are a planned addition to this register.
+:::
 
 ## SAN — Styrene-Acrylonitrile copolymer
 

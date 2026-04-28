@@ -25,6 +25,10 @@ POK is [EU Regulation 1935/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/
 
 No susceptibility to the phosphoric acid or DDBSA components at working dilution or WDC-concentrated levels. This was specifically validated by KegLand's internal testing during the DuoTight design revision process.[^1]
 
+:::note WDC accumulation charts
+Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are a planned addition to this register.
+:::
+
 ## Compatibility — DES / PBW / beer/wort: *A*
 
 No concern across all three environments.
