@@ -27,12 +27,12 @@
     {
       "term": "WDC",
       "abbreviation": "Wet-Dry Cycle",
-      "definition": "The process by which liquid applied to a surface evaporates, leaving non-volatile components concentrated as a dry residue. The key mechanism for understanding sanitiser behaviour on equipment. See: The wet-dry cycle model."
+      "definition": "The process by which liquid applied to a surface evaporates, leaving non-volatile components concentrated as a dry residue. A single WDC deposits concentrated DDBSA and phosphoric acid on every sanitised surface. Repeated WDC events without cleaning cause residue to accumulate, progressively increasing exposure. Post-brew cleaning resets accumulation to zero. See: The wet-dry cycle model."
     },
     {
       "term": "CF",
       "abbreviation": "Concentration Factor",
-      "definition": "How many times more concentrated the non-volatile residue is compared to the original working solution, after evaporation. At complete drying of a 1:250 ABNS solution, CF = 250."
+      "definition": "How many times more concentrated the non-volatile residue is compared to the original working solution, after evaporation. CF at complete drying is set by the product's working dilution: CF = 1,000 ÷ dose in mL/L. For StellarSan at 1.5 mL/L, CF ≈ 667."
     },
     {
       "term": "DDBSA",
@@ -129,7 +129,8 @@
     {
       "term": "REACH",
       "abbreviation": "Registration, Evaluation, Authorisation and Restriction of Chemicals",
-      "definition": "EU Regulation (EC) 1907/2006. The primary EU chemicals regulation framework, which governs SDS format and substance disclosure requirements."
+      "definition": "EU Regulation (EC) 1907/2006. The primary EU chemicals regulation framework, which governs SDS format and substance disclosure requirements.",
+      "autoLink": false
     },
     {
       "term": "SVHC",
@@ -169,6 +170,10 @@
       "term": "Sequester",
       "aliases": ["sequestering", "sequestration", "sequesters", "sequestered"],
       "definition": "To chemically bind and effectively remove an ion from active participation in solution, typically by chelation. Sequestering agents in cleaning products prevent calcium and magnesium ions from causing scale deposits or interfering with the cleaning chemistry. In brewing, sequestration is the primary mechanism by which chelating agents prevent beer stone redeposition."
+    },
+    {
+      "term": "Molar",
+      "definition": "A unit of concentration in chemistry, abbreviated M (or mol/L). One molar means one mole of substance per litre of solution — a mole being 6.02 × 10²³ molecules, a counting unit that makes reactive quantities practical to compare. For acids, molar concentration directly reflects how many acid molecules are present per litre, and therefore how reactive the solution is. It is less intuitive than percentage by mass (which is how most compatibility charts express concentration), but useful for cross-referencing chemical literature. As a scale reference: 85% phosphoric acid (the standard industrial/laboratory grade) is approximately 14.6 M; the dry residue left by StellarSan after a WDC is approximately 5.4 M; cola drinks contain phosphoric acid at roughly 0.05 M."
     }
   ]
 }

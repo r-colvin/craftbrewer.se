@@ -95,9 +95,43 @@ KegLand AU product (not EU-available). EU equivalent: cloth pre-wetted with Chem
 Full treatment of why rinsing with clean tap water is not meaningfully different in infection risk from standard top-up water practices. Currently flagged in `03-cleaning.md` footnote, points to `02-sanitising.md`.
 **Label:** content, sanitising
 
-### `04-wdc-model.md` — EU focus admonition missing
-Low priority but noted.
-**Label:** content, wdc-model
+### `01-introduction.md` — depth warning and quick-reassurance summary
+The WDC model page is a deep technical dive. Most brewers encountering it for the first time may find it overwhelming. Two additions are needed in the main introduction:
+1. A note that the manual contains seriously detailed analytical content, and that this is intentional — the depth is there for those who want to understand *why*, not just *what to do*.
+2. A simple summary or linked callout for readers who just want reassurance: "Is no-rinse sanitiser safe to use?" → yes, here's why in three sentences, with a link to the full model for those who want the numbers.
+**Label:** content, introduction
+
+### Materials register — WDC accumulation charts per material and zone
+The `04-wdc-model.md` page references charts in the materials register that map accumulated WDC exposure against damage thresholds by zone (Zone A/B/C) for each material. These charts do not yet exist. They are a high priority — they are the primary visual that makes the WDC model actionable for a reader looking at a specific material.
+
+Each chart should show:
+- X axis: number of WDC cycles (0–200+)
+- Y axis: accumulated chemical exposure relative to damage threshold for that material
+- Lines for Zone A, B, C showing different accumulation rates
+- Markers for cleaning reset events
+- Clear indication of where the concern threshold is crossed (and for most materials at Zone A, that it is not crossed in realistic use)
+
+The DuoTight POM vs POK comparison (residue accumulation over WDC cycles) was flagged as a priority chart early in the research.
+
+**Action:** Dedicated CB session once the materials register structure is established. Requires: confirmed damage threshold data per material from ISM/other charts, Zone B/C accumulation multipliers, and a decision on chart format (React component, static SVG, or Docusaurus chart plugin).
+**Label:** content, materials-register, charts
+
+### `04-wdc-model.md` — DDBSA LD50 primary citation
+The DDBSA in beer section cites rat oral LD50 ~650 mg/kg and mouse oral LD50 ~50 mg/kg. Both are flagged as needing primary source confirmation. Suggested sources: ECHA REACH registration dossier for dodecylbenzenesulfonic acid (CAS 27176-87-0), or Sigma-Aldrich/Merck SDS. The footnote currently marks this as an open item.
+**Action:** Locate and confirm primary source; update `[^ddbsa-ld50]` and `[^ddbsa-ld50-mouse]` footnotes.
+**Label:** documentation, wdc-model
+
+### `04-wdc-model.md` — StellarSan label images
+The worked example in `04-wdc-model.md` cites two KegLand StellarSan product labels:
+- **EU label (KL05357):** linked to the KegLand EU product page. The actual label is not archived as an image.
+- **Australian label:** cross-referenced against the archived MSDS; the label itself is not archived.
+
+**Action (Robert):** Obtain images of both labels (EU and AU), save to `static/images/wdc/` (e.g. `stellarsan-label-eu-kl05357.jpg`, `stellarsan-label-au.jpg`). Then open a CB session to add inline images to Step 1 and Step 4 of the worked example, making the source visible to the reader.
+**Label:** content, wdc-model, images
+
+✅ **`04-wdc-model.md` DuoTight failure images — Resolved 2026-04-27.** Images extracted by Robert from `duotight_design_revision.pdf` and saved to `static/images/wdc/`. Both added to the DuoTight failure section with alt text and captions citing the KegLand Design Revision document.
+
+✅ **`04-wdc-model.md` EU focus and CF revision — Resolved 2026-04-27.** EU focus line added. KegLand DuoTight name and design revision citation added to opening paragraph. WDC definition, CF equation, and concentration factor section revised: variable definitions added, worked example rebuilt around confirmed StellarSan EU label figures (1.5 mL/L, CF≈667, 300 ppm DDBSA / 780 ppm phosphoric acid at working dilution), "Applying to your product" subsection added with simplified CF formula. Downstream figures updated (3.7 mg residue, 0.19 ppm DDBSA-in-beer). Prior CF=250 / 930 ppm phosphoric acid figures replaced throughout.
 
 ### `07-microplastics.md` — ANSES 2025 primary source
 Currently cited via wasserdreinull.de secondary source. Attempt to locate primary ANSES report URL.
