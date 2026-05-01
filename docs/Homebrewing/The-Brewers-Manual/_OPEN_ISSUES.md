@@ -252,6 +252,54 @@ Stub exists but not yet written. Needs full bibliography treatment.
 
 ---
 
+## Materials register — editorial intent and chart design principles
+
+### Intent of materials register pages
+
+Each materials page answers the question: **“Given that I have this material in my brewery, what can I do with it, and how safely can I push it?”**
+
+The page does this by:
+1. Describing the material’s chemical behaviour in plain terms
+2. Establishing the actual limits through data and referenced sources
+3. Showing — through charts or explicit numbers — how far normal homebrewing use is from those limits
+4. Flagging the specific scenarios where limits *do* matter
+
+The reader should leave knowing whether their equipment is safe, what the actual margin is, and what would have to go wrong to cause a problem. The pages are about the material in general; specific products from the conversation history are used as case studies and worked examples, not as the primary focus.
+
+**What the charts are for:** The charts exist to make the margin between normal use and the concern threshold visually legible. A chart that shows accumulation on a linear scale — where the threshold is off the top of the visible area — makes the right point but only if the reader reads the axis labels. A chart on a logarithmic scale that shows all scenarios and the threshold together is more immediately readable. For materials where the concern threshold is *not* comfortably out of range, the chart should show clearly *when* and *under what conditions* that threshold is approached or exceeded.
+
+### Chart design pattern established on PP page
+
+The `PPZoneAChart` component uses a horizontal bar chart on a logarithmic scale to show four scenarios against the ESC concern threshold:
+- Working dilution contact (CF=1)
+- Single complete WDC (CF≈667, one cycle)
+- Worst-case accumulated WDC (50 brews, no cleaning)
+- The ESC concern threshold itself
+
+This pattern — “show all scenarios including the limit on a common scale” — should be the template for other materials pages where WDC accumulation is relevant. For materials where the concern threshold *is* approached (EPDM, POM, GPPS), the chart will look very different — the bars will reach or exceed the threshold line, making the concern immediately visible.
+
+For materials with split ratings (e.g., Zone A = A, Zone B = B, Zone C = D), separate bars per zone on the same chart make the geometry-dependence of the risk legible without requiring prose explanation.
+
+**Components to create as materials pages are updated:**
+- `EPDMZoneAChart.jsx` — EPDM at Zone A (bounded grommet scenario); line should approach but not reach concern threshold within typical service life
+- `GPPSAirlockChart.jsx` — general-purpose polystyrene airlock; line should cross concern threshold at relatively low WDC cycle count
+- `POMChart.jsx` — POM at Zone C; should cross threshold very quickly (this is the failure case the whole WDC model is built around)
+
+**Label:** content, materials-register, charts
+
+### WhereToBuy component usage in materials pages
+
+The `<WhereToBuy productId="..." />` component should be added at the end of each chemical compatibility section where a specific product class is discussed. The pattern established on the PP page:
+- ABNS section: all five ABNS sanitisers (stellarsan, star-san, sanipro-rinse, chemsan, chemipro-san)
+- DES section: chemipro-des
+- Alkaline cleaners section: the main cleaners (pbw-powder, stellarclean, chemipro-wash, chemipro-oxi)
+
+This pattern should be carried forward to all materials pages when they are updated. The `WhereToBuy` component renders nothing if a productId is not found, so adding it is safe even if the product data is not yet complete.
+
+**Label:** enhancement, materials-register
+
+---
+
 ## Spray bottle and process content — deferred
 
 ### Spray bottle selection for ABNS and DES
@@ -269,3 +317,79 @@ Content exists but deferred. Working-dilution ABNS or undiluted glycerol recomme
 ### Silicone hose sanitisation options
 Content exists but deferred. Three options: ethanol flush, ABNS flow-through, boiling.
 **Label:** content, processes
+
+---
+
+## Food contact compliance — consider extracting to standalone page
+
+The PP page now contains a detailed treatment of:
+- What makes an article food-grade (additive package, not polymer backbone)
+- EU GMP requirements (Regulation 2023/2006)
+- The EU simulant framework (Annex III simulants, test conditions, what they cover and don't cover)
+- The distinction between single-use and repeated-use compliance (Annex V)
+
+This content is cross-cutting — it applies equally to HDPE, PET, Tritan, PC, silicone, and all other food-contact materials. Currently it lives in full on the PP page with a callout admonition noting that the framework applies to all materials.
+
+When the register is more mature, consider extracting this to a dedicated page (e.g., `00-food-contact-compliance.md`) that individual material pages link to. Individual pages would then contain only material-specific details (particular additives, SMLs, specific migration data, relevant DoC references) rather than re-explaining the framework.
+
+**Decision needed:** extract now, or wait until 3+ more material pages have been updated to the same standard and the duplication becomes more apparent?
+
+**Label:** architecture, materials-register
+
+---
+
+## Standalone page: no-chill brewing
+
+The PP page now contains a detailed treatment of no-chill brewing and why PP buckets are not appropriate for it (Witre max use temp 40 °C, wort stays above 40°C for 12–14 hours). The WortCoolingChart component supports this with data.
+
+This content should eventually be a standalone page in the process section, covering:
+- What no-chill is and why brewers do it
+- The thermal profile (cooling chart)
+- Which vessels are appropriate: food-grade HDPE cubes (purpose-designed, rated for sustained high-temperature contact), stainless steel
+- Which vessels are not appropriate: PP buckets (max use temp 40°C), undocumented buckets
+- The WortCoolingChart component should be shared between this page and the PP materials page
+
+**Label:** content, processes, no-chill
+
+## Community contribution: Malt Miller PP brew vessel
+
+The Malt Miller 30 L vessel is sold as a brew kettle but has no temperature specification, DoC, or food contact documentation. The PP page calls this out and invites contributors to provide documentation if they have it. If documentation is obtained, it should be added to:
+- products.json (new equipment entry for the Malt Miller vessel)
+- The PP temperature section (update the Malt Miller paragraph from “no documentation found” to “documented as follows”)
+- `_OPEN_ISSUES.md` (close this item)
+
+**Label:** community, materials-register, equipment
+
+---
+
+## DuoTight case study page
+
+The DuoTight/POM failure mechanism is referenced in at least four places:
+- PP page — as a contrast case showing why phosphoric acid attacks POM but not PP
+- POM page (08-pom.md) — the primary material-level analysis
+- POK page (07-pok.md) — why POK was chosen as the replacement
+- WDC model page (04-wdc-model.md) — canonical real-world WDC amplification example
+
+The full mechanism (acid hydrolysis → chain-unzipping → dimensional change → press-fit failure) deserves a single page where it can be told completely with quantification. Each material page currently summarises or repeats parts of it.
+
+**Proposed location:** `docs/Homebrewing/The-Brewers-Manual/case-studies/duotight.md`
+
+**Content scope for the case study page:**
+- What the DuoTight is and where it is used
+- The failure mode observed in the field (whitening, fitting loosening, leakage)
+- The WDC mechanism: CF calculation, pH at CF≈667, acetal hydrolysis rate
+- Chain-unzipping: why one broken bond propagates
+- Dimensional change: how much surface loss breaks press-fit tolerance
+- KegLand's material change: POM → POK, and why POK is resistant
+- Lessons: what this means for any POM component in ABNS contact (John Guest fittings, older DuoTight)
+- Cross-references: WDC model, POM page, POK page
+
+**What each referencing page should do once the case study exists:**
+- PP page: one sentence + link (already done — link is `../case-studies/duotight.md`)
+- POM page: full material analysis stays on POM page; mechanism links to case study
+- POK page: brief mention of why POK replaced POM; link to case study
+- WDC model: the DuoTight reference in the concentration factor section links to case study
+
+**Research available:** Full quantified analysis is in the project knowledge (conversation-part-e.md and 20260404072014-material-compatibility-in-brewery-cleaning-and-sanitation.md). The case study can be written directly from these sources.
+
+**Label:** content, case-studies, wdc-model, materials-register

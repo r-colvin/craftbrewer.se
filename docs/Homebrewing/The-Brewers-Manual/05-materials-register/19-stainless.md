@@ -5,9 +5,9 @@ title: Stainless steel 304 and 316L
 
 # Stainless steel 304 and 316L
 
-| | ABNS | DES | PBW | Beer/wort |
+| | ABNS | DES | Cleaning | Beer/wort |
 |---|---|---|---|---|
-| **Rating** | *A* | *A* | *A* | *A* |
+| **Rating** | A | A | A | A |
 
 Stainless steel is the reference construction material for commercial brewing equipment and appears in homebrewing as Cornelius kegs, mini kegs, NukaTap bodies, and pressure-rated vessels. Both 304 and 316L (the molybdenum-containing marine grade) are used; the difference matters primarily for chloride-containing environments. For homebrewing with standard ABNS, DES, and PBW chemistry, 304 is entirely adequate.
 
@@ -23,6 +23,6 @@ For homebrewing practice: ABNS sanitisers (Star San, Sanipro Rinse, StellarSan, 
 
 Passivation — immersion in dilute citric or nitric acid to regenerate the oxide layer — is recommended for new stainless equipment and after any significant mechanical surface damage (grinding, welding, deep scratching). It is not required as a routine step in normal homebrewing cleaning cycles, where the oxide layer is maintained by normal air exposure between uses.
 
-## Compatibility — ABNS / DES / PBW / beer/wort: *A*
+## Compatibility — ABNS / DES / Cleaning / beer/wort: A
 
 Stainless is one of the least chemically constrained materials in the register. No concern in any homebrewing chemical environment using the chemicals described in this guide.

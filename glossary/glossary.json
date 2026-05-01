@@ -172,6 +172,16 @@
       "definition": "To chemically bind and effectively remove an ion from active participation in solution, typically by chelation. Sequestering agents in cleaning products prevent calcium and magnesium ions from causing scale deposits or interfering with the cleaning chemistry. In brewing, sequestration is the primary mechanism by which chelating agents prevent beer stone redeposition."
     },
     {
+      "term": "Polyolefin",
+      "aliases": ["polyolefins"],
+      "definition": "A class of polymers made by polymerising simple alkene (olefin) monomers — propylene for polypropylene, ethylene for polyethylene. The resulting polymer has an all-carbon backbone with no functional groups susceptible to hydrolysis, which is the primary reason polyolefins have excellent resistance to acids, alkalis, and aqueous environments. PP and HDPE are both polyolefins."
+    },
+    {
+      "term": "Hydrolysis",
+      "aliases": ["hydrolysed", "hydrolyse", "hydrolysable", "hydrolyses", "hydrolytic"],
+      "definition": "The chemical reaction in which a molecule is split by water, typically at a bond that connects two parts of the molecule. In food contact materials, hydrolysis is the primary mechanism by which acid or alkaline cleaning solutions attack susceptible polymers — particularly those with ester linkages (PET, Tritan, PC) or ether linkages (POM). Polymers with all-carbon backbones (PP, HDPE, PTFE) have no hydrolysable bonds and are inherently resistant to aqueous chemical attack."
+    },
+    {
       "term": "Molar",
       "definition": "A unit of concentration in chemistry, abbreviated M (or mol/L). One molar means one mole of substance per litre of solution — a mole being 6.02 × 10²³ molecules, a counting unit that makes reactive quantities practical to compare. For acids, molar concentration directly reflects how many acid molecules are present per litre, and therefore how reactive the solution is. It is less intuitive than percentage by mass (which is how most compatibility charts express concentration), but useful for cross-referencing chemical literature. As a scale reference: 85% phosphoric acid (the standard industrial/laboratory grade) is approximately 14.6 M; the dry residue left by StellarSan after a WDC is approximately 5.4 M; cola drinks contain phosphoric acid at roughly 0.05 M."
     }

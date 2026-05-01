@@ -5,9 +5,9 @@ title: Polyketone (POK)
 
 # Polyketone (POK)
 
-| | ABNS | DES | PBW | Beer/wort |
+| | ABNS | DES | Cleaning | Beer/wort |
 |---|---|---|---|---|
-| **Rating** | *A* | *A* | *A* | *A* |
+| **Rating** | A | A | A | A |
 
 POK is the material used in current-generation KegLand DuoTight push-fit fittings (collars and bodies), the RAPT Pill hydrometer body, and other KegLand precision components. It is a relatively recent engineering thermoplastic produced by copolymerisation of carbon monoxide with ethylene and propylene. KegLand's designation for their glass-reinforced grade is GR-POK.
 
@@ -21,15 +21,15 @@ For the full account of the DuoTight failure that prompted the material change, 
 
 POK is [EU Regulation 1935/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R1935-20090807) compliant for food contact applications. EU food contact status for KegLand's specific GR-POK formulation is pending written confirmation from KegLand EU — noted as an open item.
 
-## Compatibility — ABNS: *A*
+## Compatibility — ABNS: A
 
 No susceptibility to the phosphoric acid or DDBSA components at working dilution or WDC-concentrated levels. This was specifically validated by KegLand's internal testing during the DuoTight design revision process.[^1]
 
 :::note WDC accumulation charts
-Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are a planned addition to this register.
+Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are in preparation and will be added to this register.
 :::
 
-## Compatibility — DES / PBW / beer/wort: *A*
+## Compatibility — DES / Cleaning / beer/wort: A
 
 No concern across all three environments.
 

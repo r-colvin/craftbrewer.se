@@ -5,9 +5,9 @@ title: Silicone (platinum-cured)
 
 # Silicone (platinum-cured)
 
-| | ABNS | DES | PBW | Beer/wort |
+| | ABNS | DES | Cleaning | Beer/wort |
 |---|---|---|---|---|
-| **Rating** | *B* | *A* | *A* | *A* |
+| **Rating** | B | A | A | A |
 
 Food-grade silicone is polydimethylsiloxane (PDMS) — a synthetic polymer with a silicon-oxygen backbone rather than the carbon-carbon backbone of hydrocarbon rubbers. This structural difference gives silicone its combination of wide temperature range (−50 °C to +200 °C continuous), chemical inertness, and flexibility at low temperatures.
 
@@ -29,23 +29,27 @@ Silicone is not covered by a harmonised EU regulation in the way plastics are un
 
 **A regulatory flag worth monitoring:** The cyclic siloxanes D4 and D5 are listed as SVHC (Substances of Very High Concern) under [REACH Regulation (EC) 1907/2006](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R1907-20240202). Both are present at low levels in silicone food contact articles and migrate into contact media at detectable but low concentrations. Current regulatory assessment indicates migration levels from compliant silicone articles are within acceptable limits, but the regulatory status of D4/D5 is evolving. This is a flag for monitoring, not an immediate practical concern.
 
-## Compatibility — ABNS: *B*
+## Compatibility — ABNS: B
 
-The Si-O backbone has no susceptibility to acid hydrolysis and silicone is inert to phosphoric acid. For DDBSA, silicone rates better than EPDM — the ISM elastomers compatibility chart rates silicone as *B* (minor effect) versus EPDM's *U* for benzenesulfonic acid equivalents.[^1] The non-polar hydrocarbon portion of DDBSA interacts with the PDMS matrix to some extent, causing minor swelling that is largely reversible after contact. At WDC-concentrated levels, this interaction increases but remains below the threshold of structural concern for short contact durations.
+The Si-O backbone has no susceptibility to acid hydrolysis and silicone is inert to phosphoric acid. For DDBSA, silicone rates better than EPDM — the ISM elastomers compatibility chart rates silicone as **B** (minor effect) versus EPDM's **U** for benzenesulfonic acid equivalents.[^1] The non-polar hydrocarbon portion of DDBSA interacts with the PDMS matrix to some extent, causing minor swelling that is largely reversible after contact. At WDC-concentrated levels, this interaction increases but remains below the threshold of structural concern for short contact durations.
 
-Silicone is the best readily available elastomer for tap washers and grommets in ABNS contact. Its *B* rating against DDBSA is meaningfully better than EPDM's *U*.
+Silicone is the best readily available elastomer for tap washers and grommets in ABNS contact. Its **B** rating against DDBSA is meaningfully better than EPDM's **U**.
 
 An outstanding sourcing note: no confirmed food-grade silicone flat grommet in the correct geometry for standard bucket fermenter lids has been identified in the Swedish or EU market as of April 2026. Until one is confirmed and available, EPDM remains the practical grommet material for this application, with silicone as the preferred specification if sourcing is resolved.
 
-## Compatibility — DES: *A*
+:::note WDC accumulation charts
+Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are in preparation and will be added to this register.
+:::
 
-*A* for brew-day spray-and-drain sanitisation. A note for specific applications: at 70–80% ethanol in prolonged immersion (silicone bung used as an ethanol-fill airlock fluid reservoir), silicone shows moderate swelling — rated *B–C* for sustained contact. For standard DES use, *A*.
+## Compatibility — DES: A
 
-## Compatibility — PBW: *A*
+**A** for brew-day spray-and-drain sanitisation. A note for specific applications: at 70–80% ethanol in prolonged immersion (silicone bung used as an ethanol-fill airlock fluid reservoir), silicone shows moderate swelling — rated **B–C** for sustained contact. For standard DES use, **A**.
+
+## Compatibility — Cleaning: A
 
 No concern.
 
-## Compatibility — beer/wort: *A*
+## Compatibility — beer/wort: A
 
 Silicone is suitable for sour beer contact — the Si-O backbone is more acid-stable than EPDM at low pH for extended conditioning durations.
 

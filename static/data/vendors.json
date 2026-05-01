@@ -89,5 +89,19 @@
     "homepage": "https://www.kegland.com.au",
     "markets": ["AU"],
     "notes": "Australian source. Origin of StellarClean and StellarSan. AU-market SDSs in Australian NOHSC format."
+  },
+  {
+    "id": "bryggbolaget",
+    "name": "Bryggbolaget",
+    "homepage": "https://www.bryggbolaget.se",
+    "markets": ["SE"],
+    "notes": "Swedish homebrewing retailer. Stocks general homebrew equipment. No Declaration of Conformity found for their own-label PP fermenter bucket despite repeated attempts."
+  },
+  {
+    "id": "plast-box",
+    "name": "Plast-Box S.A.",
+    "homepage": "https://www.plast-box.com",
+    "markets": ["EU"],
+    "notes": "Polish manufacturer of Witre food-grade PP buckets. DoC issued April 2015, accredited migration testing by J.S. Hamilton Poland Ltd. (PCA No. AB 079). Products sold through KegLand EU in the homebrew market."
   }
 ]

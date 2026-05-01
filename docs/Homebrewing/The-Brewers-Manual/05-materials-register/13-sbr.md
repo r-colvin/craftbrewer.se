@@ -5,9 +5,9 @@ title: Styrene-butadiene rubber (SBR)
 
 # Styrene-butadiene rubber (SBR)
 
-| | ABNS | DES | PBW | Beer/wort |
+| | ABNS | DES | Cleaning | Beer/wort |
 |---|---|---|---|---|
-| **Rating** | *D* | *C–D* | — | *D* |
+| **Rating** | D | C–D | — | D |
 
 :::danger Replace immediately
 SBR shares every concern noted for natural rubber (NR). Replace with EPDM immediately.

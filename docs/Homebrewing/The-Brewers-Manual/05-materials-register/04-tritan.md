@@ -5,34 +5,34 @@ title: Tritan copolyester
 
 # Tritan copolyester
 
-| | ABNS | DES | PBW | Beer/wort |
+| | ABNS | DES | Cleaning | Beer/wort |
 |---|---|---|---|---|
-| **Rating** | *B* | *A* | *A* | *A* |
+| **Rating** | B | A | A | A |
 
 Tritan is an Eastman-developed copolyester used in the FermZilla Tri-Conical collection container. It is a BPA-free alternative to polycarbonate with similar optical clarity and impact resistance. Its comonomers include 2,2,4,4-tetramethyl-1,3-cyclobutanediol (TMCD), which provides greater hydrolytic stability than standard PET through increased steric hindrance around the ester linkage.
 
 ## Food contact status
 
-*A*. FDA-approved, [EU Regulation 10/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923) compliant, confirmed free of oestrogenic activity by independent testing. Used in baby bottles and food storage applications.
+**A**. FDA-approved, [EU Regulation 10/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923) compliant, confirmed free of oestrogenic activity by independent testing. Used in baby bottles and food storage applications.
 
-## Compatibility — ABNS: *B*
+## Compatibility — ABNS: B
 
-The ester linkage is more resistant than standard PET due to the TMCD comonomer structure, but brief ABNS contact carries modest hydrolytic risk over repeated cycles. Rated *B* rather than *A* as a precaution — the TMCD structure provides improvement over PET but has less accumulated real-world contact data at the concentrations of concern. The [WDC model](../04-wdc-model.md) applies: rinsing or cleaning between uses prevents residue accumulation on Tritan surfaces.
+The ester linkage is more resistant than standard PET due to the TMCD comonomer structure, but a standard sanitise-and-drain cycle carries modest hydrolytic risk over many repeated cycles. Rated **B** rather than **A** as a precaution — the TMCD structure provides improvement over PET but has less accumulated real-world contact data at the concentrations of concern. The [WDC model](../04-wdc-model.md) applies: rinsing or cleaning between uses prevents residue accumulation on Tritan surfaces.
 
-Appropriate for the collection container role, where ABNS contact is brief and brew-day-limited. The heat resistance advantage over PET (Tritan handles contact up to 100 °C, which PET cannot) makes it a materially better choice for a component that may receive hot water cleaning.
+Appropriate for the collection container role, where ABNS contact is limited to brew-day sanitisation. The heat resistance advantage over PET (Tritan handles contact up to 100 °C, which PET cannot) makes it a materially better choice for a component that may receive hot water cleaning.
 
 :::note WDC accumulation charts
-Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are a planned addition to this register.
+Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are in preparation and will be added to this register.
 :::
 
-## Compatibility — DES: *A*
+## Compatibility — DES: A
 
 No concern.
 
-## Compatibility — PBW: *A*
+## Compatibility — Cleaning: A
 
 No concern at homebrewing concentrations and temperatures.
 
-## Compatibility — beer/wort: *A*
+## Compatibility — beer/wort: A
 
 No concern.

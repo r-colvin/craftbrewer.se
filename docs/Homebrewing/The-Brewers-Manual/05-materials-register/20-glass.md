@@ -5,9 +5,9 @@ title: Glass
 
 # Glass
 
-| | ABNS | DES | PBW | Beer/wort |
+| | ABNS | DES | Cleaning | Beer/wort |
 |---|---|---|---|---|
-| **Rating** | *A* | *A* | *A* | *A* |
+| **Rating** | A | A | A | A |
 
 Glass (borosilicate and soda-lime) is chemically inert to all homebrewing chemicals at ambient temperature and normal concentrations. It is the reference material against which food contact safety testing is calibrated — EU food contact simulant A is distilled water; simulant B is acetic acid solution — both chosen to simulate conditions that glass vessels already handle without concern.
 
@@ -17,7 +17,7 @@ Glass appears in homebrewing as airlocks, test jars, hydrometer cylinders, ferme
 
 Glass is listed under [EU Regulation 1935/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R1935-20090807) as a permitted food contact material. No migration limits apply under normal use conditions — the basis of glass food contact compliance is its chemical inertness rather than a specific migration limit framework.
 
-## Compatibility — ABNS / DES / PBW / beer/wort: *A*
+## Compatibility — ABNS / DES / Cleaning / beer/wort: A
 
 No compatibility concern in any homebrewing chemical environment. Glass is the one material in this register that carries no caveats.
 

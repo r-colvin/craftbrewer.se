@@ -34,3 +34,11 @@
   scroll-margin-top: calc(var(--ifm-navbar-height) + 1rem);
 }
 
+/* Centre-align rating cells in materials register compatibility tables.
+   Targets td elements that contain only a short rating (A, B, C, D, X,
+   or combinations like D–X, A–B) with no child elements.
+   We target the 3rd column onward (skipping Material and Common usage). */
+.markdown table td:nth-child(n+3) {
+  text-align: center;
+}
+

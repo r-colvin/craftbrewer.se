@@ -591,5 +591,138 @@
       {"size": "400 g"},
       {"size": "1 kg"}
     ]
+  },
+
+  {
+    "id": "witre-20l-bucket",
+    "name": "Witre 20 L PP Bucket with Lid",
+    "category": "equipment",
+    "subcategory": "fermenter-vessel",
+    "manufacturer": {
+      "name": "Plast-Box S.A.",
+      "homepage": "https://www.plast-box.com",
+      "product_url": "https://kegland.eu/products/witre-20l-pp-bucket-with-lid"
+    },
+    "materials": {
+      "body": "pp",
+      "lid": "pp"
+    },
+    "specs": {
+      "capacity_L": 20,
+      "temp_continuous_max_C": 45,
+      "temp_hot_fill_max_C": 95,
+      "resin_code": 5,
+      "notes": "General-purpose food container. Not tested or certified for repeated fermentation use. Suitable for bucket-to-fermenter conversion with tap, grommet, and airlock."
+    },
+    "documentation": [
+      {
+        "label": "Plast-Box Declaration of Conformity (April 2015)",
+        "type": "doc",
+        "url": null,
+        "archived_path": null,
+        "notes": "Declares compliance with Regulation 1935/2004, 10/2011, and 2023/2006. Migration testing by J.S. Hamilton Poland Ltd., Gdynia (PCA No. AB 079) against PN-EN 1186. All simulants within 10 mg/dm\u00b2 OML. Continuous use +5\u00b0C to +45\u00b0C; hot-fill max 95\u00b0C."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "kegland-eu", "url": "https://kegland.eu/products/witre-20l-pp-bucket-with-lid", "market": "EU"}
+    ],
+    "image": {
+      "local": null,
+      "remote": null
+    }
+  },
+
+  {
+    "id": "mr-malt-5l-bucket",
+    "name": "Mr-Malt 5 L PP Pail with Lid",
+    "category": "equipment",
+    "subcategory": "fermenter-vessel",
+    "manufacturer": {
+      "name": "Mr-Malt",
+      "homepage": "https://www.mr-malt.se",
+      "product_url": "https://www.mr-malt.se/"
+    },
+    "materials": {
+      "body": "pp",
+      "lid": "pp"
+    },
+    "specs": {
+      "capacity_L": 5,
+      "resin_code": 5,
+      "notes": "DoC explicitly states single-use food contact compliance only \u2014 not certified for repeated use. PP confirmed by Q&A with retailer."
+    },
+    "documentation": [
+      {
+        "label": "Mr-Malt Declaration of Conformity (available on request)",
+        "type": "doc",
+        "url": null,
+        "archived_path": null,
+        "notes": "Not proactively published. States single-use compliance only. Repeated fermentation use is not covered."
+      }
+    ],
+    "retailers": [
+      {"vendor_id": "mr-malt", "url": "https://www.mr-malt.se/", "market": "SE"}
+    ],
+    "image": {
+      "local": null,
+      "remote": null
+    }
+  },
+
+  {
+    "id": "bryggbolaget-15l-bucket",
+    "name": "Bryggbolaget 15 L PP Fermenter Bucket",
+    "category": "equipment",
+    "subcategory": "fermenter-vessel",
+    "manufacturer": {
+      "name": "Bryggbolaget",
+      "homepage": "https://www.bryggbolaget.se",
+      "product_url": "https://www.bryggbolaget.se/"
+    },
+    "materials": {
+      "body": "pp",
+      "lid": "pp"
+    },
+    "specs": {
+      "capacity_L": 15,
+      "resin_code": 5,
+      "notes": "PP confirmed by resin identification code 5 on article base. No food contact documentation found."
+    },
+    "documentation": [],
+    "documentation_status": "none",
+    "documentation_notes": "No Declaration of Conformity or food contact documentation found despite repeated attempts. See the documentation problem page.",
+    "retailers": [
+      {"vendor_id": "bryggbolaget", "url": "https://www.bryggbolaget.se/", "market": "SE"}
+    ],
+    "image": {
+      "local": null,
+      "remote": null
+    }
+  },
+
+  {
+    "id": "kl01595-airlock",
+    "name": "KegLand 3-Piece Airlock (KL01595)",
+    "category": "equipment",
+    "subcategory": "airlock",
+    "manufacturer": {
+      "name": "KegLand",
+      "homepage": "https://www.kegland.eu",
+      "product_url": "https://kegland.eu/products/kl01595"
+    },
+    "materials": {
+      "body": "pp"
+    },
+    "specs": {
+      "notes": "Confirmed PP body. Marketed as dishwasher safe and compatible with all standard homebrewing sanitisers including ABNS and ethanol. Recommended fill liquid: ethanol (ChemiPro DES) to avoid WDC residue."
+    },
+    "documentation": [],
+    "retailers": [
+      {"vendor_id": "kegland-eu", "url": "https://kegland.eu/products/kl01595", "market": "EU"}
+    ],
+    "image": {
+      "local": null,
+      "remote": null
+    }
   }
 ]

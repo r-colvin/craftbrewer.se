@@ -1,0 +1,39 @@
+[
+  {
+    "product_id": "witre-20l-bucket",
+    "owner": "robert",
+    "status": "active",
+    "quantity": 1,
+    "purchased": "2024",
+    "notes": "Primary fermentation vessel. Fitted with KegLand HDPE tap, KL01625 grommet (EPDM assumed), KL01595 airlock."
+  },
+  {
+    "product_id": "kl01595-airlock",
+    "owner": "robert",
+    "status": "active",
+    "quantity": 2,
+    "purchased": "2024",
+    "notes": "One per fermenter. Filled with ChemiPro DES at working dilution."
+  },
+  {
+    "product_id": "stellarsan",
+    "owner": "robert",
+    "status": "active",
+    "purchased": "2024",
+    "notes": "Primary ABNS sanitiser. 1.5 mL/L working dilution."
+  },
+  {
+    "product_id": "chemipro-des",
+    "owner": "robert",
+    "status": "active",
+    "purchased": "2024",
+    "notes": "Primary DES sanitiser. Used for airlock fill, tap spot sanitisation, and surface wipe."
+  },
+  {
+    "product_id": "stellarclean",
+    "owner": "robert",
+    "status": "active",
+    "purchased": "2024",
+    "notes": "Primary alkaline cleaner."
+  }
+]
