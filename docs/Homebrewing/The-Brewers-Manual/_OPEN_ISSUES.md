@@ -393,3 +393,151 @@ The full mechanism (acid hydrolysis → chain-unzipping → dimensional change �
 **Research available:** Full quantified analysis is in the project knowledge (conversation-part-e.md and 20260404072014-material-compatibility-in-brewery-cleaning-and-sanitation.md). The case study can be written directly from these sources.
 
 **Label:** content, case-studies, wdc-model, materials-register
+
+---
+
+## New material pages required
+
+### PBT (Polybutylene terephthalate)
+PBT is a semi-crystalline polyester used in engineering components — connectors, valve bodies, some tap internals. It has better chemical resistance than PET but still has ester linkages susceptible to acid hydrolysis and alkaline degradation under WDC conditions. Not yet covered in the materials register.
+
+**Research needed before writing:**
+- Confirm which homebrewing products use PBT (specific components to identify)
+- ISM or manufacturer chemical compatibility data for phosphoric acid, DDBSA, alkaline cleaners
+- EU food contact status and any available DoC
+- Temperature limits vs PET comparison
+
+**Label:** content, materials-register, new-material
+
+### ABS (Acrylonitrile butadiene styrene)
+ABS is a common engineering thermoplastic used in tap handles, some equipment housings, and accessories. The styrene and acrylonitrile components give it different chemical resistance characteristics from pure polyolefins. Susceptibility to DDBSA (aromatic ring in the styrene component) may be a concern under WDC conditions.
+
+**Research needed before writing:**
+- Confirm which homebrewing products use ABS
+- ISM chemical compatibility data
+- Food contact status — ABS is not straightforwardly food grade; additive package matters significantly
+- ESC susceptibility under ABNS conditions
+
+**Label:** content, materials-register, new-material
+
+---
+
+## Images — PP material page
+
+The Identifying PP section has an admonition placeholder for the following images. All should go in `static/images/materials/pp/`.
+
+**To photograph (equipment in hand):**
+- Base of a PP bucket showing RIC 5 code — macro shot, sharp focus on the embossed code
+- Base of a food-grade bucket showing the fork-and-glass symbol (if present on your equipment)
+- KL01595 airlock — overall shot showing PP construction, absence of resin marking
+- Generic 3-piece airlock alongside KL01595 — visual comparison
+- PP vs PET colour comparison — PP bucket lid or body next to a PET bottle or FermZilla section
+
+**From vendor pages (check licence before use — most are ©):**
+- Witre bucket product image — best to photograph your own rather than embed a vendor image
+- Bryggbolaget bucket — photograph your own
+
+**Format:** JPEG or WebP, 800px wide max, under 150KB. Descriptive filenames. Alt text should describe what to look for, not just label the object.
+
+Once images are in place: replace the `:::note Images` admonition in the Identifying PP section with actual `![alt](/images/materials/pp/filename.jpg)` tags.
+
+**Label:** images, materials-register, pp
+
+---
+
+## Regulatory image folder cleanup
+
+The dark-mode-adapted regulatory SVGs exist in two locations:
+- `static/images/` (original location, now stale — components no longer reference these)
+- `static/images/regulatory/` (current location, referenced by FoodContactSymbol and ResinCode components)
+
+The following files in `static/images/` can be deleted once confirmed the build is clean:
+- `EU_food_contact_material_symbol.svg` (original, unmodified)
+- `EU_food_contact_material_symbol_dark.svg` (dark-adapted, now in regulatory/)
+- `Plastic_Recycling_Code_05_PP.svg` (original, unmodified)
+- `Plastic_Recycling_Code_05_PP_dark.svg` (dark-adapted, now in regulatory/)
+
+Keep the originals as archive references if desired; the `_dark.svg` versions in `static/images/` are superseded.
+
+**Label:** cleanup, images, infrastructure
+
+---
+
+## PP page as editorial standard for materials register
+
+The PP page (`01-pp.md`) as committed represents the expected standard for all subsequent material pages. The structure below should be followed for consistency, adapted where the material demands it (e.g. simpler food grade section for materials with less regulatory complexity, different chart types where WDC accumulation differs).
+
+### Page structure
+
+```
+frontmatter (sidebar_position, title)
+imports (WDCChart components, ResinCode/FoodContactSymbol as needed)
+
+# Material Name (Abbreviation)
+
+:::tip Summary
+One-paragraph plain-language verdict: safe / use with caution / avoid.
+Key limits in bold. Pointer to summary table at bottom.
+:::
+
+Summary table: ABNS | DES | Cleaning | Beer/wort
+*Note on Cleaning column aggregation, pointer to cleaning section*
+
+Opening paragraph: where it appears in homebrewing, named examples
+Material chemistry: one paragraph on what it is and why it behaves as it does
+
+## Identifying [Material]
+RIC/marking guidance, symbol if applicable
+Image placeholder admonition (or actual images when available)
+
+## Food grade status
+### What makes a [material] article food grade?
+### What the EU compliance testing actually covers (simulant table)
+### What a DoC covers — and what it doesn’t
+### Repeated use
+### What if you don’t have a DoC?
+:::note Food grade compliance across all materials (cross-reference to PP page):::
+
+## Temperature limits
+Material limits vs article limits
+Specific documented examples (e.g. Witre DoC)
+Failure modes (structural / migration)
+No-chill verdict if relevant
+
+## Compatibility — ABNS: [Rating]
+Why (mechanism, not just rating)
+WDC analysis: per-cycle deposit, accumulation chart, honest threshold statement
+Zone classification table
+
+## Compatibility — DES: [Rating]
+
+## Compatibility — cleaning: [Rating]
+Three categories: alkaline percarbonate | phosphate-based | oxidising
+Caustic out of scope
+
+## Compatibility — beer/wort: [Rating]
+Five scenarios: wort | standard beer | high-ABV | sour | no-chill pointer
+
+## Summary by article type
+Table: Article | Food grade | Temp limits | ABNS WDC | DES | Cleaning
+
+---
+Footnotes
+```
+
+### Established editorial principles
+
+- **Rating letters in prose must be bold** (`**A**`, `**D**`) everywhere except table cells
+- **Cleaning column** in the summary table is always labelled “Cleaning” and aggregates all three cleaner categories; a note below the table explains this and points to the cleaning section
+- **No WhereToBuy or ProductCard components on material pages** — materials pages describe material behaviour; product discovery belongs in sanitising/cleaning guides and equipment guides
+- **WDC analysis is chemistry-first, not threshold-first** — if no published threshold exists, say so and make the chemistry-based case; never fabricate a threshold
+- **Honest about uncertainty** — explicitly flag where data is absent, extrapolated, or limited to accessible sources (not a comprehensive survey)
+- **Two charts on PP page as templates:**
+  - `PPZoneAChart.jsx` — dual-compound (DDBSA + H3PO4) line chart showing accumulation with/without cleaning; adapt for other materials
+  - `WortCoolingChart.jsx` — Newton’s Law cooling curve; shared wherever no-chill is discussed
+- **Temperature section** always distinguishes: (a) PP/material limits vs (b) article limits; the Witre DoC split (40 °C continuous / 95 °C hot-fill) is the model for how to present two-limit documentation
+- **Food grade section** is written once in full on the PP page; subsequent plastic pages use a shorter version and cross-reference the PP page for the framework
+- **Case studies** belong in `case-studies/` subdirectory, not embedded in material pages; material pages link to them
+- **Summary tip admonition** at the top gives the plain-language verdict; a summary table at the bottom gives article-type-specific breakdown
+
+**Label:** architecture, editorial-standard, materials-register
