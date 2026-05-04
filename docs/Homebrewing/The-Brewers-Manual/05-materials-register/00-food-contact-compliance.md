@@ -18,7 +18,7 @@ For plastics and elastomers, the polymer backbone itself is rarely the concern. 
 
 All commercial thermoplastics contain additives: antioxidants to prevent degradation during moulding, processing stabilisers, slip agents to improve mould release, pigments, and sometimes fillers or flame retardants. These additives are not optional — without them, polymers would degrade during processing and fail prematurely in service. The question is which additives are used.
 
-In food grade articles, the additive package must be drawn entirely from the approved substances list in [EU Regulation 10/2011 Annex I](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923), and the migration of each substance into food simulants must stay within its specific migration limit ([SML](/glossary#sml)). Industrial grade versions of the same polymer may use additives not on that list — effective for industrial applications, not assessed for food contact. They are not necessarily harmful; they simply have not been evaluated.
+In food grade articles, the additive package must be drawn entirely from the approved substances list in [EU Regulation 10/2011 Annex I](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923), and the migration of each substance into food simulants must stay within its specific migration limit (<GlossaryTerm term="SML">SML</GlossaryTerm>). Industrial grade versions of the same polymer may use additives not on that list — effective for industrial applications, not assessed for food contact. They are not necessarily harmful; they simply have not been evaluated.
 
 There is also a manufacturing chain requirement. Food grade articles must be produced under [<GlossaryTerm term="GMP">Good Manufacturing Practice</GlossaryTerm> (Regulation 2023/2006)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2006), which requires controlled production environments free from contamination by non-food substances. The same resin grade, processed in a factory that also handles industrial compounds, may not satisfy GMP even if the resin itself is approved.
 
@@ -47,7 +47,7 @@ A food storage container or water jerry can from a catering supply chain may rea
 
 Marking is evidence of intent; its absence is not conclusive evidence of unsuitability. But for small components — particularly elastomers such as grommets and gaskets — the burden of establishing food contact suitability falls more heavily on other sources of evidence: the product page, a DoC, or a direct manufacturer confirmation.
 
-The correct standard of evidence is a Declaration of Conformity ([DoC](/glossary#doc)), not the symbol alone.
+The correct standard of evidence is a Declaration of Conformity (<GlossaryTerm term="DoC">DoC</GlossaryTerm>), not the symbol alone.
 
 ## "Food safe plastic" — what it means and what it doesn't
 
@@ -90,7 +90,7 @@ A DoC under EU Regulation 10/2011 certifies migration testing against five stand
 | 50% ethanol | Alcoholic products above 20% ABV | 10 days, 40 °C |
 | Isooctane | Fatty foods — oils, dairy | 2 days, 20 °C |
 
-The overall migration limit ([OML](/glossary#oml)) across all simulants is 10 mg/dm² of contact surface. Individual substances also have their own specific migration limits (SMLs) set in Annex I.
+The overall migration limit (<GlossaryTerm term="OML">OML</GlossaryTerm>) across all simulants is 10 mg/dm² of contact surface. Individual substances also have their own specific migration limits (SMLs) set in Annex I.
 
 **The 40 °C test temperature** is deliberately conservative — migration accelerates with temperature, so testing at 40 °C rather than typical fermentation temperatures builds in a margin. That margin narrows for high-temperature fermentation: Kveik strains running at 37–40 °C are near the test temperature, and the conservatism becomes minimal. For standard ale fermentation at 18–22 °C or lager at 8–12 °C, the margin is substantial.
 
