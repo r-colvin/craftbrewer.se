@@ -16,7 +16,10 @@
     },
     {
       "term": "Mashing",
-      "aliases": ["mash", "mashed"],
+      "aliases": [
+        "mash",
+        "mashed"
+      ],
       "definition": "Soaking crushed malted grain in hot water at a controlled temperature to convert starches to fermentable sugars."
     },
     {
@@ -50,9 +53,19 @@
       "definition": "A manufacturer's written statement that a food contact material or article complies with the applicable EU regulations (primarily 1935/2004 and 10/2011). Required at each stage of the commercial supply chain, but not legally required to be provided to end consumers at retail."
     },
     {
+      "term": "GMP",
+      "abbreviation": "Good Manufacturing Practice",
+      "definition": "A set of regulated manufacturing requirements under EU Regulation 2023/2006 that food contact material producers must comply with. GMP covers controlled production environments, quality management systems, and traceability — ensuring that a food-approved resin is also processed in conditions that prevent contamination from non-food substances. A material can use an approved additive package and still fail GMP requirements if it is produced in a facility that also processes industrial compounds without adequate separation."
+    },
+    {
       "term": "PP",
       "abbreviation": "Polypropylene",
       "definition": "A semi-crystalline polyolefin plastic widely used in fermenter buckets, lids, taps, and airlocks. Excellent chemical resistance across all homebrewing chemical environments. EU Regulation 10/2011 compliant."
+    },
+    {
+      "term": "RIC",
+      "abbreviation": "Resin Identification Code",
+      "definition": "A numerical code moulded into the base of plastic articles to identify the polymer type, introduced by the Society of the Plastics Industry (now PLASTICS) in 1988 and represented by three chasing arrows forming a triangle with the number inside. Codes 1–7 cover the most common polymer families: 1 = PET, 2 = HDPE, 3 = PVC, 4 = LDPE, 5 = PP, 6 = PS, 7 = other. The RIC identifies the polymer backbone only — it says nothing about the additive package, food grade status, or GMP compliance. Food grade and industrial grade articles of the same polymer carry the same RIC code."
     },
     {
       "term": "HDPE",
@@ -100,6 +113,11 @@
       "term": "SML",
       "abbreviation": "Specific Migration Limit",
       "definition": "The maximum permitted amount of a substance that may migrate from a food contact material into food or a food simulant, set by EU Regulation 10/2011. Expressed in mg/kg of food."
+    },
+    {
+      "term": "OML",
+      "abbreviation": "Overall Migration Limit",
+      "definition": "The maximum total amount of all substances that may migrate from a food contact material into food or a food simulant under EU Regulation 10/2011, set at 10 mg/dm² of contact surface (or 60 mg/kg of food for articles where dm² is impractical to measure). The OML is a ceiling on total migration; individual substances also have their own Specific Migration Limits (SMLs) which may be more restrictive. A DoC that shows overall migration within 10 mg/dm² confirms OML compliance but does not reveal how close individual additives are to their own SMLs."
     },
     {
       "term": "FKM",
@@ -153,7 +171,11 @@
     },
     {
       "term": "Saponify",
-      "aliases": ["saponifies", "saponifiable", "saponification"],
+      "aliases": [
+        "saponifies",
+        "saponifiable",
+        "saponification"
+      ],
       "definition": "The chemical reaction between a fatty acid and an alkali to form soap (a soluble salt of the fatty acid) and glycerol. In brewing cleaning, alkaline cleaners saponify the lipid components of yeast cell walls and hop resins, converting them into water-soluble compounds that can be rinsed away."
     },
     {
@@ -163,22 +185,40 @@
     },
     {
       "term": "Chelating agent",
-      "aliases": ["chelation", "chelate", "chelates", "chelated"],
+      "aliases": [
+        "chelation",
+        "chelate",
+        "chelates",
+        "chelated"
+      ],
       "definition": "A molecule that binds to metal ions (such as calcium and magnesium) at multiple points, forming a stable ring-like complex that holds the ion in solution and prevents it from precipitating or redepositing. In brewing cleaners, chelating agents dissolve beer stone and prevent scale from reforming on surfaces after cleaning. Common chelating agents in brewing cleaners include EDTA (ethylenediaminetetraacetic acid) and TKPP (tetrapotassium pyrophosphate)."
     },
     {
       "term": "Sequester",
-      "aliases": ["sequestering", "sequestration", "sequesters", "sequestered"],
+      "aliases": [
+        "sequestering",
+        "sequestration",
+        "sequesters",
+        "sequestered"
+      ],
       "definition": "To chemically bind and effectively remove an ion from active participation in solution, typically by chelation. Sequestering agents in cleaning products prevent calcium and magnesium ions from causing scale deposits or interfering with the cleaning chemistry. In brewing, sequestration is the primary mechanism by which chelating agents prevent beer stone redeposition."
     },
     {
       "term": "Polyolefin",
-      "aliases": ["polyolefins"],
+      "aliases": [
+        "polyolefins"
+      ],
       "definition": "A class of polymers made by polymerising simple alkene (olefin) monomers — propylene for polypropylene, ethylene for polyethylene. The resulting polymer has an all-carbon backbone with no functional groups susceptible to hydrolysis, which is the primary reason polyolefins have excellent resistance to acids, alkalis, and aqueous environments. PP and HDPE are both polyolefins."
     },
     {
       "term": "Hydrolysis",
-      "aliases": ["hydrolysed", "hydrolyse", "hydrolysable", "hydrolyses", "hydrolytic"],
+      "aliases": [
+        "hydrolysed",
+        "hydrolyse",
+        "hydrolysable",
+        "hydrolyses",
+        "hydrolytic"
+      ],
       "definition": "The chemical reaction in which a molecule is split by water, typically at a bond that connects two parts of the molecule. In food contact materials, hydrolysis is the primary mechanism by which acid or alkaline cleaning solutions attack susceptible polymers — particularly those with ester linkages (PET, Tritan, PC) or ether linkages (POM). Polymers with all-carbon backbones (PP, HDPE, PTFE) have no hydrolysable bonds and are inherently resistant to aqueous chemical attack."
     },
     {
