@@ -73,6 +73,11 @@
       "definition": "A polyolefin plastic used in fermenter taps and spray bottles. Slightly better chemical barrier properties than PP. EU Regulation 10/2011 compliant."
     },
     {
+      "term": "HDT",
+      "abbreviation": "Heat Deflection Temperature",
+      "definition": "The temperature at which a polymer specimen deflects by a defined amount under a specified load, measured under standardised test conditions (ASTM D648 or ISO 75). HDT is a practical indicator of the upper service temperature for a structural plastic article under mechanical stress — above it, the material creeps and deforms rather than returning to its original shape. HDT varies substantially between polymer grades, wall thickness, and geometry, so a material's published HDT range is a guide; the specific article's rated service temperature from its manufacturer is the correct reference for any given use."
+    },
+    {
       "term": "PET",
       "abbreviation": "Polyethylene terephthalate",
       "definition": "The plastic used in the FermZilla All Rounder, Oxebar mini keg, and PET bottles. Recycling code ♻️1. Extensively tested for food contact with carbonated beverages. Do not exceed 40 °C when cleaning."

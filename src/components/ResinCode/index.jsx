@@ -2,13 +2,19 @@
  * ResinCode — resin identification code (RIC) symbol.
  *
  * For code=5 abbr="PP", uses the archived Wikimedia Commons SVG:
- *   static/images/Plastic_Recycling_Code_05_PP_dark.svg
+ *   static/images/regulatory/Plastic_Recycling_Code_05_PP_dark.svg
  *   Original: By Anton Poliakov — Own work, CC BY-SA 4.0
  *   https://commons.wikimedia.org/w/index.php?curid=82815780
  *   Modified: fill="black" → fill="currentColor" for dark-mode compatibility.
  *
+ * For code=2 abbr="HDPE", uses the archived Wikimedia Commons SVG:
+ *   static/images/regulatory/Plastic_Recycling_Code_02_HDPE_dark.svg
+ *   Original: By Anton Poliakov — Own work, CC BY-SA 4.0
+ *   https://commons.wikimedia.org/w/index.php?curid=82815776
+ *   Modified: fill="black" → fill="currentColor"; role/aria attributes added.
+ *
  * For other codes, falls back to a hand-drawn SVG approximation until
- * the corresponding archived SVGs are added to static/images/.
+ * the corresponding archived SVGs are added to static/images/regulatory/.
  *
  * Usage in MDX:
  *   import ResinCode from '@site/src/components/ResinCode';
@@ -25,6 +31,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const ARCHIVED = {
 '5-PP': '/images/regulatory/Plastic_Recycling_Code_05_PP_dark.svg',
+'2-HDPE': '/images/regulatory/Plastic_Recycling_Code_02_HDPE_dark.svg',
 };
 
 function FallbackRIC({ code, abbr, size }) {

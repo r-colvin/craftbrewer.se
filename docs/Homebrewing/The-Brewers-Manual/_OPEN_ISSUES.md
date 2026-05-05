@@ -75,6 +75,18 @@ A step-by-step cleaning process guide is planned in `Processes/`. Key scenario t
 **Action:** Write `Processes/01-cleaning.md` covering equipment-specific sequences. Integrate material constraints from the materials register (do not duplicate them).
 **Label:** content, processes
 
+### `02-sanitising.md` — peracetic acid (PAA)
+Peracetic acid (also peroxyacetic acid; abbreviation PAA) is widely used as a no-rinse sanitiser in professional and commercial brewing. Broad-spectrum antimicrobial, effective at low concentrations (typically 50–200 ppm), active across a wide temperature range, and breaks down to acetic acid and water — no problematic residue. Common products include Five Star Saniclean PAA and various commercial-grade formulations. Less common in the homebrew market than ABNS but used by more technically-minded homebrewers and relevant to anyone scaling up or using commercial-grade chemistry.
+
+**Research needed before writing:**
+- Confirm EU/Swedish market availability of PAA sanitiser products at homebrew scale
+- SDS for at least one named product (Five Star or equivalent)
+- Materials compatibility: PAA is an oxidising acid — compatibility with PET, PP, EPDM, silicone, and elastomers may differ from ABNS
+- No-rinse approval status under EU food contact regulations
+- WDC residue profile: PAA decomposes to acetic acid and water — residue behaviour differs fundamentally from DDBSA-based ABNS
+
+**Label:** content, sanitising
+
 ### `02-sanitising.md` — bleach as historical sanitiser
 Brief treatment warranted: effective at ~50–100 ppm free chlorine, requires thorough rinsing, chlorophenol off-flavour risk, chlorine gas hazard with ABNS. Not recommended when ABNS available.
 **Label:** content, sanitising
@@ -320,25 +332,83 @@ Content exists but deferred. Three options: ethanol flush, ABNS flow-through, bo
 
 ---
 
-## Food contact compliance — consider extracting to standalone page
+## Food contact compliance — ✅ extracted to standalone page
 
-The PP page now contains a detailed treatment of:
-- What makes an article food-grade (additive package, not polymer backbone)
-- EU GMP requirements (Regulation 2023/2006)
-- The EU simulant framework (Annex III simulants, test conditions, what they cover and don't cover)
-- The distinction between single-use and repeated-use compliance (Annex V)
+✅ **Resolved 2026-05-04.** `05-materials-register/00-food-contact-compliance.md` written and live. Individual material pages now refer here for the EU framework; material-specific details (additive packages, SMLs, DoC data) remain on individual pages. The Witre/Plast-Box and Mr-Malt DoC examples are documented centrally on the compliance page.
 
-This content is cross-cutting — it applies equally to HDPE, PET, Tritan, PC, silicone, and all other food-contact materials. Currently it lives in full on the PP page with a callout admonition noting that the framework applies to all materials.
+## Materials register — epistemic foundations and source documentation
 
-When the register is more mature, consider extracting this to a dedicated page (e.g., `00-food-contact-compliance.md`) that individual material pages link to. Individual pages would then contain only material-specific details (particular additives, SMLs, specific migration data, relevant DoC references) rather than re-explaining the framework.
+Three related tasks arising from a review of the polymer science claims in the register:
 
-**Decision needed:** extract now, or wait until 3+ more material pages have been updated to the same standard and the duplication becomes more apparent?
+### 1. Reference works section
 
-**Label:** architecture, materials-register
+Add a section to the materials register introduction (or a dedicated `references.md` entry) naming the primary reference works used as the basis for polymer science claims throughout the register. Candidates:
+- *Polymer Handbook* (Brandrup, Immergut & Grulke) — standard reference for polymer properties, solubility parameters, permeability data
+- *Chemical Resistance of Thermoplastics* (Wypych) — specific reference for compatibility claims
+- ISM and Cole-Parmer chemical compatibility charts — already cited on individual pages; name as a class of source here
+- EU Regulation 10/2011 and annexes — already cited inline; centralise the reference
+
+Verify these are the actual sources used before committing them. The intent is that anyone wishing to independently verify "well-established polymer science" claims has a named starting point, without inline citations cluttering every paragraph.
+
+### 2. Epistemic status statement on register introduction page
+
+The register introduction should state explicitly:
+- What "well-established polymer science" means in this context (molecular structure and bonding chemistry, not in dispute, verifiable via the named reference works)
+- That where the guide reasons from principles to homebrewing-specific scenarios (WDC model, Zone B geometry, material-specific compatibility conclusions), that reasoning is original and presented as such — it has not been peer-reviewed
+- That the register is under review by a materials scientist; a note confirming this and crediting the reviewer should be added once the review is complete
+
+### 3. Audit Tier 2 claims for epistemic markers
+
+Review the register pages for "applied inference" claims presented with the same confidence as established science. Where a claim is reasoned from principles rather than directly cited, soften the language: "this suggests," "consistent with," "the likely mechanism" rather than flat assertions. Known candidate for removal rather than softening: "HDPE's lower additive burden gives it a slight edge" in `02-hdpe.md` — cut this, it is uncited and the practical conclusion does not depend on it.
+
+**Label:** content, materials-register, editorial-standards
+
+### 4. Materials scientist review — how to approach it
+
+**What you need from the review.** Not line-by-line verification of every claim — that would take weeks and is not necessary. Two specific questions:
+
+1. **Are any claims in the register factually wrong?** Incorrect descriptions of polymer structure, wrong mechanisms, errors in the chemistry.
+2. **Are any claims overstated relative to the evidence?** Places where the confidence level in the prose exceeds what the underlying science actually supports — particularly in the Tier 2 "applied inference" category (reasoning from established principles to homebrewing-specific scenarios).
+
+**How to approach a materials scientist.** A few routes:
+- University polymer science or materials engineering departments — a PhD student or postdoc working on polymer chemistry or food contact materials is a better fit than a professor, more likely to have time, and the work is well within their competence
+- LinkedIn: search "polymer scientist" or "materials engineer" + Sweden/EU; frame it as a short voluntary review of a free public resource for homebrewers
+- The Homebrew Talk or homebrewing subreddit communities occasionally have members with relevant qualifications — worth posting
+- If approaching professionally: the scope is a review of the polymer chemistry claims in a ~10-page materials register for a homebrewing guide; estimated time 2–4 hours; unpaid but credited publicly
+
+**What to send them.** The materials register pages as a PDF or link, plus a short brief:
+- This is a homebrewing guide covering chemical compatibility of plastic and elastomeric equipment with cleaning and sanitising chemistry
+- The polymer science draws on established material science principles applied to a non-standard context (homebrewing WDC conditions)
+- You are not asking them to validate the homebrewing conclusions — just to flag any polymer chemistry that is wrong or overstated
+- A brief written note after review (“reviewed by [name], [qualification], [date]; no factual errors identified” or similar) would be credited on the register introduction page
+
+**What to do with the output.** Any corrections go directly into the affected material pages. Any "overstated" flags get softened using the epistemic marker language from task 3 above. The reviewer credit goes on the register introduction page.
+
+**Label:** content, materials-register, editorial-standards, review
 
 ---
 
-## Standalone page: no-chill brewing
+### ⏳ PP page — update food grade section + Zone cross-references
+
+Two tasks pending on `01-pp.md`:
+
+1. **Food grade section** — restructure to match the HDPE pattern. Remove the full framework treatment (additive packages, GMP, simulant conditions, DoC structure, repeated-use, what to do without a DoC) and replace with a cross-reference to `00-food-contact-compliance.md`. Content to retain on the PP page: PP-specific additive notes, the Witre/Plast-Box DoC as a named example with migration results, the Mr-Malt repeated-use gap, and the Bryggbolaget undocumented case. Remove the `:::note Food grade compliance across all materials` admonition if still present. Convert any `[SML](/glossary#sml)`, `[DoC](/glossary#doc)` and similar Markdown glossary links to `<GlossaryTerm>` components.
+
+2. **Zone A/B/C cross-references** — audit every mention of Zone A, B, and C on the PP page. Each should link to the corresponding anchor on the WDC model page using the correct format: `#zone-a-open-surfaces`, `#zone-b-confined-geometry`, `#zone-c-compressed-contact-under-sustained-stress`.
+
+**Label:** content, materials-register, pp
+
+### `00-food-contact-compliance.md` — add hot-fill section
+
+The EU food contact simulant framework tests migration at 40 °C over 10 days. No-chill brewing and hot-fill storage expose vessels to 95–100 °C for many hours — a scenario the framework does not directly address. This gap applies to any hot-fill vessel regardless of material (HDPE cube, PE/nylon bladder, stainless steel excluded as inert). A short section on the food contact compliance page should:
+- Note the simulant framework's temperature limitation explicitly
+- State that no DoC has been retrieved for any hot-fill vessel in this guide
+- Cross-reference the no-chill process page and the HDPE temperature section
+- Note the KegLand hot-fill bladder as a non-HDPE alternative (PE/nylon laminate, irradiated)
+
+**Label:** content, food-contact, no-chill
+
+
 
 The PP page now contains a detailed treatment of no-chill brewing and why PP buckets are not appropriate for it (Witre max use temp 40 °C, wort stays above 40°C for 12–14 hours). The WortCoolingChart component supports this with data.
 
