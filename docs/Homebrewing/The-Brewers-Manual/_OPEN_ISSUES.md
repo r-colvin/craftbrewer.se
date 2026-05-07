@@ -398,13 +398,25 @@ Two tasks pending on `01-pp.md`:
 
 **Label:** content, materials-register, pp
 
-### `00-food-contact-compliance.md` — add hot-fill section
+### Equipment guides — fermenter tap sanitisation protocol
 
-The EU food contact simulant framework tests migration at 40 °C over 10 days. No-chill brewing and hot-fill storage expose vessels to 95–100 °C for many hours — a scenario the framework does not directly address. This gap applies to any hot-fill vessel regardless of material (HDPE cube, PE/nylon bladder, stainless steel excluded as inert). A short section on the food contact compliance page should:
+The HDPE page references the equipment guides for a fuller discussion of tap sanitisation, specifically:
+- Why tap thread geometry represents a higher infection risk than open fermenter surfaces (Zone B — hard to reach, hard to drain, hard to inspect)
+- The case for boiling vs ABNS soak as sanitisation options for the tap body (KegLand recommend boiling — demonstrated in https://youtu.be/UTrkRspm7UY?t=1050 at ~17:30)
+- Whether disassembly before every brew is necessary or recommended
+- Practical protocol: disassemble, clean, sanitise, reassemble
+
+This may also belong partly on the no-chill process page if the tap is involved in wort transfer from a hot-fill vessel.
+
+**Label:** content, equipment, tap
+
+
+
+The EU food contact simulant framework tests migration at 40 °C over 10 days. No-chill brewing and hot-fill storage expose vessels to 95–100 °C for many hours — a scenario the framework does not directly address. This gap applies to any hot-fill vessel regardless of material (HDPE cube, PP vessel if rated, PE/nylon bladder; stainless steel excluded as inert). A short section on the food contact compliance page should:
 - Note the simulant framework's temperature limitation explicitly
 - State that no DoC has been retrieved for any hot-fill vessel in this guide
 - Cross-reference the no-chill process page and the HDPE temperature section
-- Note the KegLand hot-fill bladder as a non-HDPE alternative (PE/nylon laminate, irradiated)
+- Note the KegLand hot-fill bladder (PE/nylon laminate, irradiated) as a non-HDPE alternative; the bladder also needs a dedicated equipment page (it is not a material and does not belong on the HDPE page)
 
 **Label:** content, food-contact, no-chill
 
