@@ -2,9 +2,3 @@
 node_modules
 build
 .DS_Store
-
-# Internal tracking — not for public repo
-docs/**/_OPEN_ISSUES.md
-docs/**/_POST_PROJECT_CHECKLIST.md
-docs/**/_IMAGE_SOURCING.md
-RESEARCH_MASTER.md

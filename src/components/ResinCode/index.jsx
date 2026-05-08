@@ -13,6 +13,30 @@
  *   https://commons.wikimedia.org/w/index.php?curid=82815776
  *   Modified: fill="black" → fill="currentColor"; role/aria attributes added.
  *
+ * For code=1 abbr="PET", uses the archived Wikimedia Commons SVG:
+ *   static/images/regulatory/Plastic_Recycling_Code_01_PET_dark.svg
+ *   Original: By Anton Poliakov — Own work, CC BY-SA 4.0
+ *   https://commons.wikimedia.org/w/index.php?curid=82815775
+ *   Modified: fill="black" → fill="currentColor"; role/aria attributes added.
+ *
+ * For code=6 abbr="PS", uses the archived Wikimedia Commons SVG:
+ *   static/images/regulatory/Plastic_Recycling_Code_06_PS_dark.svg
+ *   Original: By Anton Poliakov — Own work, CC BY-SA 4.0
+ *   https://commons.wikimedia.org/w/index.php?curid=82815783
+ *   Modified: fill="black" → fill="currentColor"; role/aria attributes added.
+ *
+ * For abbr="ABS", uses the archived SVG:
+ *   static/images/regulatory/Plastic-recyc-abs_dark.svg
+ *   Original: By Inc ru — Own work, CC BY-SA 3.0
+ *   https://commons.wikimedia.org/w/index.php?curid=16851928
+ *   Modified: fill/stroke → currentColor; role/aria attributes added.
+ *
+ * For abbr="PA", uses the archived SVG:
+ *   static/images/regulatory/Plastic-recyc-pa_dark.svg
+ *   Original: By Mingosan — Own work, Public Domain
+ *   https://commons.wikimedia.org/w/index.php?curid=87354976
+ *   Modified: fill/stroke → currentColor; role/aria attributes added.
+ *
  * For other codes, falls back to a hand-drawn SVG approximation until
  * the corresponding archived SVGs are added to static/images/regulatory/.
  *
@@ -30,8 +54,12 @@ import React from 'react';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 const ARCHIVED = {
-'5-PP': '/images/regulatory/Plastic_Recycling_Code_05_PP_dark.svg',
+'5-PP':   '/images/regulatory/Plastic_Recycling_Code_05_PP_dark.svg',
 '2-HDPE': '/images/regulatory/Plastic_Recycling_Code_02_HDPE_dark.svg',
+'1-PET':  '/images/regulatory/Plastic_Recycling_Code_01_PET_dark.svg',
+'6-PS':   '/images/regulatory/Plastic_Recycling_Code_06_PS_dark.svg',
+'0-ABS':  '/images/regulatory/Plastic-recyc-abs_dark.svg',
+'0-PA':   '/images/regulatory/Plastic-recyc-pa_dark.svg',
 };
 
 function FallbackRIC({ code, abbr, size }) {
