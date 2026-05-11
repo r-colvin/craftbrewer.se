@@ -71,7 +71,7 @@ Temperature is the defining operational constraint for PET, and the one that mos
 
 ### Continuous use
 
-PET performs well across the full range of fermentation and conditioning temperatures. Standard ale and lager fermentation (8–22 °C) presents no concern. High-temperature fermentation with Kveik and other thermophilic yeasts nominally runs up to 38–40 °C, which is at the material’s limit rather than comfortably within it. Two practical considerations apply: active fermentation generates heat above ambient, so the vessel wall temperature can exceed the ambient temperature you’re targeting; and heat sources applied directly to the vessel — heat belts, heat mats, or heat pads in contact with the PET body — are not recommended, as they can create localised hot spots above the bulk temperature. If you’re fermenting warm with Kveik, consider whether a glass, HDPE, or stainless vessel is the better choice. Rated **A** for standard fermentation and conditioning temperatures; approach the upper limit with awareness.
+PET performs well across the full range of fermentation and conditioning temperatures. Standard ale and lager fermentation (8–22 °C) presents no concern. High-temperature fermentation with Kveik and other thermophilic yeasts nominally runs up to 38–40 °C, which is at the material's limit rather than comfortably within it. Two practical considerations apply: active fermentation generates heat above ambient, so the vessel wall temperature can exceed the ambient temperature you're targeting; and heat sources applied directly to the vessel — heat belts, heat mats, or heat pads in contact with the PET body — are not recommended, as they can create localised hot spots above the bulk temperature. If you're fermenting warm with Kveik, consider whether a glass, HDPE, or stainless vessel is the better choice. Rated **A** for standard fermentation and conditioning temperatures; approach the upper limit with awareness.
 
 ### Cleaning
 
@@ -103,7 +103,7 @@ Working-dilution ABNS sanitiser (StellarSan, Star San, Sanipro Rinse, and equiva
 
 This interaction is the same in family as the mechanism that makes polystyrene significantly more vulnerable to <GlossaryTerm term="DDBSA">DDBSA</GlossaryTerm> — covered in detail on the [PS/SAN page](./05-ps-san.md). PET's susceptibility is substantially lower than PS for two reasons: the terephthalate rings are incorporated into the main chain (more sterically hindered than PS's pendant phenyl groups), and PET's semi-crystalline structure limits access to the susceptible amorphous regions.
 
-Despite this, at working dilution and brief contact (30–60 second sanitisation): the interaction is minor and reversible. No structural consequence, no concern.
+At working dilution in a sealed vessel — whether for a 60-second sanitisation cycle or stored dilute ABNS left in the tank between sessions — the interaction is minor and reversible. The key point is concentration: at working dilution, DDBSA remains at approximately 300 ppm and pH stays around 3.0–3.5, conditions under which ester hydrolysis is negligible and pi–pi stacking interaction is minimal. No structural consequence, no concern.
 
 Under <GlossaryTerm term="WDC">WDC</GlossaryTerm> cycling — where ABNS residue concentrates progressively on surfaces that dry between uses — the concern is real but modest at [Zone A — open surfaces](../04-wdc-model.md#zone-a--open-surfaces) (fermenter interior walls, bottle interior). At [Zone B — confined geometry](../04-wdc-model.md#zone-b--confined-geometry) (thread roots, lid seal channels, tap fittings), concentrated DDBSA residue has sustained contact with the surface at an elevated effective concentration, which warrants periodic inspection for surface cloudiness or micro-crazing.
 
@@ -113,7 +113,7 @@ The <GlossaryTerm term="WDC">WDC</GlossaryTerm> model and zone definitions are s
 A quantified WDC cycle analysis for PET — showing DDBSA and phosphoric acid accumulation by zone against the concern threshold, equivalent to the PP page chart — is planned for this section. This requires confirming PET-specific ESC threshold data.
 :::
 
-**Practical guidance.** Use ABNS for PET sanitisation as intended — fill or coat, maintain contact time, drain. Rinse any spills from external surfaces promptly; dried ABNS residue on exterior threads and fittings contributes to WDC accumulation. Clean the vessel after use to reset the WDC cycle before the next brew. Make fresh sanitiser solution when you need it and dispose of it after use — this avoids any question of whether stored dilute ABNS remains effective, and eliminates the need to manage stored liquid in your vessel between brews. Sanitise, drain, and store dry.
+**Practical guidance.** Use ABNS for PET sanitisation as intended — fill or coat, maintain contact time, drain. Rinse any spills from external surfaces promptly; dried ABNS residue on exterior threads and fittings contributes to WDC accumulation. Clean the vessel after use to reset the WDC cycle before the next brew. Stored dilute ABNS in a sealed vessel does not create WDC conditions — concentration stays at working dilution without evaporation — so leaving StellarSan in the tank between sessions is chemically safe for the PET. The better argument for making fresh solution each time is efficacy: dilute ABNS loses sanitising effectiveness as the peroxy equilibrium shifts over days. Make what you need, when you need it.
 
 ## Compatibility — DES: A
 
@@ -129,6 +129,8 @@ The sequence is always **clean first, then sanitise**. Rinse cleaning solution t
 
 [KegLand explicitly recommends StellarOxy](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-all-rounder-30l-and-60l-or-user-guide/cleaning)[^kl-fermzilla-cleaning] as the primary cleaner for FermZilla PET fermenters, and it is the **preferred cleaning choice for PET** across all vessel types. Pure oxidising cleaners based on sodium percarbonate (StellarOxy, ChemiPro OXI) work through an oxidative mechanism that does not attack ester linkages preferentially. Effective on beer residues at cold and warm water temperatures, with no contact time restriction beyond the 40 °C maximum that applies to all PET cleaning.
 
+For standard fermentation soiling — yeast cake, beer film, light protein deposits — extending the StellarOxy soak to 30–60 minutes with agitation is more effective than the default 15–20 minutes. For very heavy soiling, a second fresh solution is more effective than extending a single soak beyond 60 minutes, as the active hydrogen peroxide is consumed and the remaining solution is weakly alkaline sodium carbonate with little oxidative activity. For heavy hop resin accumulation specifically — which requires alkaline saponification rather than oxidation — StellarClean (with the 30-minute PET time limit) is genuinely the better tool; extended StellarOxy does not fully substitute.
+
 ### High-metasilicate alkaline cleaners (StellarClean, ChemiPro Wash, ChemClean) — **A\***
 
 Alkaline cleaners containing significant sodium metasilicate — StellarClean, ChemiPro Wash, ChemClean — are conditionally suitable for PET at cold or warm water temperatures (≤40 °C), with a **30-minute maximum contact time** and immediate, thorough rinsing afterwards.
@@ -139,25 +141,25 @@ The 30-minute limit applies at ambient temperature. Do not use these cleaners ho
 
 *\* A within stated limits only. Exceeding the contact time or temperature degrades this rating rapidly.*
 
-### Five Star PBW — **C**
+### Five Star PBW — **A\***
 
 :::info PBW — a product name used by two different manufacturers
 KegLand markets StellarClean as *"Powerful Brewery Wash (PBW)"* on its product pages. Five Star makes a separate product called *PBW* (Powdered Brewery Wash). Both use the abbreviation. **In this section PBW means Five Star's product.** StellarClean is rated separately above.
 :::
 
-KegLand's [FermZilla cleaning guide](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-all-rounder-30l-and-60l-or-user-guide/cleaning)[^kl-fermzilla-cleaning] lists only StellarOxy and StellarClean as recommended cleaners — Five Star PBW is not mentioned. PBW's formulation (sodium metasilicate 1–3%, sodium carbonate 30–60%, sodium percarbonate 10–30%, chelating EDTA 10–30%; working pH approximately 11.5) places it in the same alkaline category as StellarClean. If used on PET, the same 30-minute contact limit and cold-water discipline that applies to StellarClean would apply as a minimum. However, with StellarOxy available as an unrestricted alternative and StellarClean as a named and tested option for heavier soiling, there is no practical reason to reach for Five Star PBW on PET vessels. **C** — no manufacturer endorsement for PET use.
+Five Star PBW is a high-metasilicate alkaline cleaner in the same category as StellarClean. KegLand's cleaning guide does not list it — but KegLand recommends their own products throughout their documentation, and the absence of a mention is not a recommendation against. PBW's formulation varies by market: EU-market labels show sodium metasilicate at 20–35%, which is comparable to or higher than StellarClean. It should be treated identically: **A\*** with the same 30-minute contact time limit on PET, cold water, immediate rinsing. The same logic applies as to StellarClean — effective for heavy soiling, but StellarOxy is the lower-risk default for routine cleaning.
 
 ---
 
-:::info Cleaning PET — which cleaner to use
-Use **StellarOxy** (or ChemiPro OXI) as the first-choice cleaner for all PET vessels — unrestricted, no time limit, effective on beer residues. For heavy soiling where percarbonate is insufficient, use **StellarClean** (or ChemiPro Wash) with a strict 30-minute limit and cold water, followed by immediate rinsing. Avoid **Five Star PBW** — it is not listed by KegLand for PET use and StellarOxy is a better alternative.
+:::info StellarOxy as a single cleaner for mixed PET and polyolefin equipment
+If your brewery uses both PET vessels (FermZilla, Oxebar, PET bottles) and polyolefin vessels (PP buckets, HDPE cubes), **StellarOxy is the better single-cleaner choice** for the whole fleet. It is unrestricted on all of them. StellarClean and Five Star PBW are more powerful on heavy protein and hop soiling but introduce PET-specific time discipline and the risk of forgetting which vessel you are cleaning. StellarOxy handles standard beer residue effectively for most homebrewing scenarios; for sessions with heavy trub or hop matter, 15–20 minutes with agitation is usually sufficient. The only scenario where a metasilicate cleaner adds meaningful value is persistent soiling that percarbonate genuinely cannot shift — and even then, switching for that specific clean (with discipline) is preferable to using it routinely on PET.
 :::
 
 :::info Why three cleaner categories behave differently on PET
-Pure percarbonate cleaners work oxidatively with minimal ester hydrolysis risk. High-metasilicate cleaners add a strong alkaline component that begins attacking ester linkages — hence the time limit. Five Star PBW sits at a similar alkalinity to StellarClean. KegLand's cleaning guide does not list it as a recommended option for PET — and with StellarOxy available as an unrestricted choice, there is no reason to use it.
+Pure percarbonate cleaners work oxidatively with minimal ester hydrolysis risk. High-metasilicate cleaners — StellarClean, ChemiPro Wash, Five Star PBW — add a strong alkaline component that begins attacking ester linkages above the 30-minute threshold. The mechanism is the same across all three; the time limit applies equally.
 :::
 
-*† PET cleaning: A for oxidising cleaners without restriction. A for high-metasilicate alkaline cleaners within a 30-minute contact limit at ≤40 °C. Five Star PBW not listed for PET use — use StellarOxy instead.*
+*† PET cleaning: A for oxidising cleaners without restriction. A* for high-metasilicate alkaline cleaners (StellarClean, ChemiPro Wash, Five Star PBW) within a 30-minute contact limit at ≤40 °C.*
 
 ## Compatibility — beer/wort: A
 
@@ -177,23 +179,29 @@ Wort at pitching temperature (18–22 °C, or up to 38–40 °C for Kveik) conta
 
 Oxygen ingress through the PET wall is a material property, not a compatibility issue. It is relevant because it sets a practical shelf-life ceiling for certain styles packaged in standard PET.
 
-For a 500 mL bottle, the oxygen transmission rate (OTR) is approximately 0.04–0.08 mL O₂/day at ambient conditions — approximately 1.1–2.2 mL over four weeks of bottle conditioning. Robust stouts, strong ales, and malt-forward styles tolerate this level of ingress; residual yeast activity and the beer's own reducing chemistry partially compensate. Hop-forward styles — IPAs, pale ales — are sensitive to oxidation at this scale, and standard PET bottle conditioning imposes a practical shelf-life limitation for those beers regardless of packaging hygiene.
+For a 500 mL standard PET bottle, the oxygen transmission rate (OTR) is approximately 0.04–0.08 mL O₂/day at ambient conditions — approximately 1.1–2.2 mL cumulative over four weeks of bottle conditioning. Robust stouts, strong ales, and malt-forward styles tolerate this level of ingress; residual yeast activity and the beer's own reducing chemistry partially compensate. Hop-forward styles — IPAs, pale ales — are sensitive to oxidation at this scale, and standard PET bottle conditioning imposes a practical shelf-life limitation for those beers regardless of packaging hygiene.
 
-This is not solved by different sanitisation or cleaning practice. Multilayer PET (Oxebar) significantly reduces oxygen ingress through the EVOH barrier layer — see [Multilayer PET — Oxebar](#multilayer-pet--oxebar). Choosing the right packaging vessel for your beer style — standard PET, multilayer PET, or stainless — is covered in the packaging and bottling guide (planned; tracked in `_OPEN_ISSUES.md`).
+This is not solved by different sanitisation or cleaning practice. It is a consequence of the wall material itself.
+
+### Oxebar — multilayer PET as a packaging solution
+
+The [Oxebar range](../Equipment/03-oxebar-mini-keg.md) from KegLand addresses oxygen ingress directly through the material construction. Both Oxebar variants offer substantially better barrier performance than standard PET:[^kl-oxebar-multilayer]
+
+**[Oxebar Mono](https://kegland.com.au/products/4l-oxebar-mono-keg-with-cap-and-handle-pco38)** — a single-layer PET polymer blend with barrier additives mixed into the matrix. Approximately 3× better oxygen barrier than standard PET. Suitable for storage up to 3–4 months. A meaningful improvement for styles where shelf life matters.
+
+**[Oxebar Multi-Layer](https://kegland.com.au/products/4l-oxebar-multilayer-keg-with-cap-and-handle-pco38)** — a tri-layer construction (outer PET / EVOH oxygen barrier layer / inner PET). EVOH provides dramatically superior oxygen barrier performance. Suitable for storage up to 10–12 months — comparable to a well-sealed glass bottle or stainless keg for most styles.
+
+For hop-forward styles or any beer where oxidation is the primary quality risk, the Oxebar Multi-Layer is the correct PET packaging choice. Standard PET bottles remain appropriate for styles with low oxidation sensitivity and short planned conditioning times.
+
+Choosing between packaging options — standard PET, Oxebar Mono, Oxebar Multi-Layer, glass, or stainless keg — is covered in the packaging and bottling guide (planned).
 
 ## Multilayer PET — Oxebar {#multilayer-pet--oxebar}
 
-Not all PET articles are structurally equivalent. Multilayer PET constructions differ from plain PET in ways that are material to both performance and cleaning compatibility.
+The Oxebar construction and its implications for cleaning compatibility are covered here. Barrier performance and packaging choice are discussed under [Oxygen ingress](#oxygen-ingress) above.
 
-### What multilayer PET is
+### Construction
 
-KegLand's Oxebar keg range includes two distinct PET constructions:[^kl-oxebar-multilayer]
-
-**Oxebar Mono** — a single-layer PET polymer blend with oxygen barrier additives mixed into the matrix. Approximately 3× better oxygen barrier than standard PET. Suitable for storage up to 3–4 months.
-
-**Oxebar Multi-Layer** — a tri-layer construction: outer PET / EVOH oxygen barrier layer / inner PET. The EVOH (ethylene-vinyl alcohol copolymer) layer provides substantially superior oxygen barrier performance. Suitable for storage up to 10–12 months.
-
-These are categorically different products. Multilayer PET is not simply better PET — it is a laminated composite in which a high-performance but moisture-sensitive barrier layer (EVOH loses its barrier properties when wet) is protected on both sides by PET skins. In the laminated construction, EVOH is never directly exposed to liquid; the inner PET layer is the contact surface throughout.
+Both Oxebar variants are laminated composites in which the moisture-sensitive EVOH barrier layer is protected on both sides by PET skins. EVOH loses its barrier properties when wet; in the laminated construction it is never directly exposed to liquid. The inner PET layer is the food contact surface throughout.
 
 ### Chemical compatibility
 
@@ -203,11 +211,27 @@ The food contact surface in any Oxebar vessel is the inner PET layer. Chemical c
 
 The bond between PET and EVOH is thermally sensitive. Elevated cleaning temperatures risk delamination — which compromises both structural integrity and the oxygen barrier function that defines the product's purpose. This is an additional, independent reason to hold strictly to 40 °C maximum for Oxebar cleaning, separate from the plain-PET hydrolysis concern. KegLand's stated 45 °C maximum[^kl-oxebar] is a ceiling, not a target.
 
-### ESC considerations under pressure
+### ESC and pressure — structural failure risk {#esc-and-pressure}
 
-PET pressure vessels — fermenters and kegs used under CO₂ carbonation pressure — add a dimension not present in plain bottles. <GlossaryTerm term="ESC">Environmental stress cracking</GlossaryTerm> requires both a susceptible material and sustained mechanical stress. PET under carbonation pressure, combined with DDBSA residue accumulation at [Zone B — confined geometry](../04-wdc-model.md#zone-b--confined-geometry) interfaces (O-ring seats, lid threads under torque), and at [Zone C — compressed contact under sustained stress](../04-wdc-model.md#zone-c--compressed-contact-under-sustained-stress) geometries, warrants active inspection attention.
+PET pressure vessels used under CO₂ introduce a structural failure risk not present in atmospheric-use articles. This distinction matters: **structural failure in a pressurised vessel is a physical safety concern, not just a material or flavour concern.** A cracked or burst PET pressure vessel under carbonation pressure can cause injury.
 
-The practical implication: inspect PET pressure vessel surfaces — and in particular thread interfaces, lid seals, and O-ring seats — for cloudiness, crazing, or micro-cracking at each brew. Retire any vessel showing visible surface degradation at a stressed interface. Replace O-rings and lid seals on the manufacturer's schedule, not at first leakage.
+<GlossaryTerm term="ESC">Environmental stress cracking</GlossaryTerm> requires both a susceptible material and sustained mechanical stress. The pressure level varies significantly by vessel type and filling method — and not always in the direction you might expect:
+
+- **Force-carbonated keg:** regulated pressure, typically 10–15 PSI at serving temperature. Constant and controlled by the regulator.
+- **Pressure-fermented FermZilla:** CO₂ generated by fermentation, bounded by the PRV setting (typically 10–15 PSI). Controlled upper limit.
+- **Bottle filled from keg:** same dissolved CO₂ as the keg, but once sealed the pressure is unregulated — determined by headspace volume and temperature.
+- **Bottle-conditioned PET bottle:** priming sugar generates CO₂ with no pressure relief. Pressure is determined entirely by the amount of fermentable extract, temperature, and headspace. This is where the highest and least controlled pressures occur in homebrewing, and where ESC risk is greatest for PET specifically. Over-primed or warm bottle-conditioned PET bottles are a more acute risk scenario than a regulated-pressure keg or fermenter.
+
+Chemical stress compounds mechanical stress. DDBSA residue accumulation at [Zone B — confined geometry](../04-wdc-model.md#zone-b--confined-geometry) interfaces (O-ring seats, lid threads under torque) and [Zone C — compressed contact under sustained stress](../04-wdc-model.md#zone-c--compressed-contact-under-sustained-stress) geometries adds chemical susceptibility on top of mechanical load.
+
+**Hydrostatic testing.** KegLand requires periodic hydrostatic testing of both [Oxebar kegs](https://kegland.com.au/products/4l-oxebar-multilayer-keg-with-cap-and-handle-pco38)[^kl-oxebar] and FermZilla pressure fermenters — every two years, with instructions provided on their product pages. This is the manufacturer's recognition that PET pressure vessels degrade under sustained stress and require periodic structural validation. Follow this schedule.
+
+**Practical implications:**
+- Inspect thread interfaces, lid seals, and O-ring seats for cloudiness, crazing, or micro-cracking at each brew
+- Retire any vessel showing visible surface degradation at a stressed interface — if you see cloudiness, crazing, or deformation, replace it. The compliance testing was done on undamaged material; for damaged PET the migration risk is low (the products are terephthalic acid and ethylene glycol, both with established SMLs) but unquantified. When in doubt, replace rather than continue using.
+- Replace O-rings and lid seals on the manufacturer's schedule, not at first leakage
+- Follow KegLand's two-year hydrostatic test schedule for Oxebar kegs and FermZilla fermenters
+- For bottle-conditioned PET bottles: accurate priming calculations, consistent fermentation temperature, and conservative headspace reduce pressure uncertainty
 
 ## PET in homebrewing — the practical picture
 
@@ -223,7 +247,7 @@ PET is a well-founded fermentation and packaging material within its operational
 
 | Scenario | Rating | Conditions |
 |---|---|---|
-| Beer contact (fermentation / storage, 0–22 °C) | **A** | No restriction — commercial beverage standard |
+| Beer contact (fermentation / storage, 0–40 °C) | **A** | No restriction — commercial beverage standard |
 | Wort at pitching temperature (18–22 °C) | **A** | No concern |
 | Hot wort or any liquid >40 °C | **X** | Never — HDT, hydrolysis, deformation risk |
 | No-chill wort transfer | **X** | Not compatible with PET — see the [no-chill process page](../Processes/02-no-chill.md) |
@@ -232,8 +256,7 @@ PET is a well-founded fermentation and packaging material within its operational
 | ABNS — Zone B confined geometry, WDC cycling | **B** | Pi–pi stacking mechanism; monitor for surface change at threads and seal grooves |
 | DES (70–80% ethanol) | **A** | No restriction at typical contact times |
 | Oxidising cleaner (StellarOxy, ChemiPro OXI) | **A** | Preferred cleaner; no time restriction at ≤40 °C |
-| High-metasilicate alkaline cleaner (StellarClean, ChemiPro Wash, ChemClean) | **A\*** | 30-minute hard limit; ≤40 °C; rinse immediately |
-| Five Star PBW | **C** | Not listed by KegLand for PET use; no manufacturer endorsement; use StellarOxy |
+| High-metasilicate alkaline cleaner (StellarClean, ChemiPro Wash, Five Star PBW) | **A\*** | 30-minute hard limit; ≤40 °C; rinse immediately |
 | Sour beer (pH 3.2–3.8, lactic / acetic dominant) | **A** | No restriction |
 
 *\* A within stated conditions. Exceeding the contact time or temperature degrades this rating significantly.*
@@ -247,7 +270,7 @@ PET is a well-founded fermentation and packaging material within its operational
 | Article | Food grade | Temp limits | ABNS WDC | Cleaning |
 |---|---|---|---|---|
 | **[PET beer bottles](../Equipment/04-bottles-and-bottling.md)** | RIC 1 confirmed. DoC obtainable from packaging supply chains. | 40 °C max cleaning; no hot wort or hot fill. | [Zone A](../04-wdc-model.md#zone-a--open-surfaces) — low concern at interior surfaces. | StellarOxy preferred; StellarClean ≤30 min; no PBW. |
-| **[PET pressure fermenter (FermZilla All-Rounder)](../Equipment/02-fermzilla-all-rounder.md)** | Food grade PET confirmed by manufacturer. No DoC publicly retrieved. | 40 °C max cleaning hard limit; no hot wort. | [Zone B](../04-wdc-model.md#zone-b--confined-geometry) at thread interfaces — inspect for surface change. ESC risk under pressure requires active monitoring. | StellarOxy preferred; StellarClean ≤30 min; Five Star PBW not listed by KegLand for PET use. |
+| **[PET pressure fermenter (FermZilla All-Rounder)](../Equipment/02-fermzilla-all-rounder.md)** | Food grade PET confirmed by manufacturer. No DoC publicly retrieved. | 40 °C max cleaning hard limit; no hot wort. | [Zone B](../04-wdc-model.md#zone-b--confined-geometry) at thread interfaces — inspect for surface change. ESC risk under pressure; follow hydrostatic test schedule. | StellarOxy preferred; StellarClean ≤30 min; Five Star PBW not listed by KegLand for PET use. |
 | **[Oxebar Mono keg](../Equipment/03-oxebar-mini-keg.md)** | PET polymer blend; food grade claim by manufacturer. | 40 °C max. | [Zone B](../04-wdc-model.md#zone-b--confined-geometry) at fittings; same as fermenter. | Same as PET fermenter. |
 | **[Oxebar Multi-Layer keg](../Equipment/03-oxebar-mini-keg.md)** | Inner PET surface governs food contact. | 40 °C max — inter-layer bond adds a second reason to hold this limit strictly. | [Zone B](../04-wdc-model.md#zone-b--confined-geometry) at fittings; same as fermenter. | Same as PET fermenter. KegLand video guidance: 15 min max soak.[^kl-oxebar-video] |
 | **PET sanitiser reservoir / spray bottle** | Functional use only — not beer contact. | Ambient use. | N/A | N/A |
@@ -256,7 +279,7 @@ PET is a well-founded fermentation and packaging material within its operational
 
 [^kl-fermzilla-cleaning]: KegLand, [*FermZilla All-Rounder User Guide / Cleaning*](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-all-rounder-30l-and-60l-or-user-guide/cleaning). Accessed May 2026. Direct quotes: *"If using StellarClean it is important to limit contact time to 30 minutes"*; *"Do not leave StellarClean in the vessel for longer than 30 minutes as this can damage the tank"*; for heavy soiling, overnight soak with StellarOxy only. Water temperature limit: less than 40 °C.
 
-[^kl-oxebar]: KegLand, [*4L Oxebar Multilayer Keg with Cap and Handle (PCO38)*](https://kegland.com.au/products/4l-oxebar-multilayer-keg-with-cap-and-handle-pco38). Accessed April 2026. Confirms: do not exceed 45 °C.
+[^kl-oxebar]: KegLand, [*4L Oxebar Multilayer Keg with Cap and Handle (PCO38)*](https://kegland.com.au/products/4l-oxebar-multilayer-keg-with-cap-and-handle-pco38). Accessed April 2026. Confirms: do not exceed 45 °C; two-year hydrostatic testing required.
 
 [^kl-oxebar-multilayer]: KegLand, [*4L Oxebar Multilayer Keg — Ball Lock Tapping Draught Pack*](https://kegland.com.au/products/4l-oxebar-multilayer-keg-ball-lock-tapping-draught-pack-pco38). Accessed April 2026. Confirms: triple-layer PET and oxygen barrier construction; up to 10–12 months storage recommended.
 
