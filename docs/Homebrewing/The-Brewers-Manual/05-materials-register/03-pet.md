@@ -14,7 +14,7 @@ import GlossaryTerm from '@theme/GlossaryTerm';
 
 *The Cleaning column aggregates all cleaning product categories at working concentrations. PET has the most differentiated cleaning profile in this register — see the [Cleaning compatibility section](#compatibility--cleaning-a) for a full breakdown by cleaner type.*
 
-PET is a semi-crystalline thermoplastic polyester. It is the material of carbonated soft drink and soda bottles, and appears in homebrewing as pressure fermenters ([FermZilla All-Rounder](../Equipment/02-fermzilla-all-rounder.md)), mini kegs ([Oxebar](../Equipment/03-oxebar-mini-keg.md)), and [beer bottles](../Equipment/04-bottles-and-bottling.md). Its backbone consists of alternating terephthalate aromatic rings and ethylene glycol units connected by ester linkages (–CO–O–). Those ester linkages are the material's primary chemical vulnerability: both acid and alkaline conditions attack the ester bond through hydrolysis, regenerating terephthalic acid and ethylene glycol. The rate of hydrolysis depends strongly on pH, temperature, and contact duration — and PET's temperature sensitivity is substantially greater than that of the polyolefins (PP, HDPE) elsewhere in this register.
+PET is a semi-crystalline thermoplastic polyester. It is the material of carbonated soft drink and soda bottles, and appears in homebrewing as pressure fermenters ([FermZilla All-Rounder](../Equipment/02-fermzilla-all-rounder.md)), carboys and atmospheric fermenters, mini kegs ([Oxebar](../Equipment/03-oxebar-mini-keg.md)), [beer bottles](../Equipment/04-bottles-and-bottling.md), and accessories such as carbonation caps and spray bottles. Its backbone consists of alternating terephthalate aromatic rings and ethylene glycol units connected by ester linkages (–CO–O–). Those ester linkages are the material's primary chemical vulnerability: both acid and alkaline conditions attack the ester bond through hydrolysis, regenerating terephthalic acid and ethylene glycol. The rate of hydrolysis depends strongly on pH, temperature, and contact duration — and PET's temperature sensitivity is substantially greater than that of the polyolefins (PP, HDPE) elsewhere in this register.
 
 **This page is about PET the material, not about specific products.** The FermZilla All-Rounder, Oxebar kegs, and PET beer bottles are cited as evidence for material behaviour and as sources for manufacturer cleaning guidance. The conclusions apply to PET articles generally. Barrier PET constructions (Oxebar) differ from plain PET in ways that matter — that distinction is set out in [Barrier PET — Oxebar construction and cleaning](#multilayer-pet--oxebar) and maintained throughout.
 
@@ -38,7 +38,7 @@ Look for the <GlossaryTerm term="RIC">Resin Identification Code</GlossaryTerm> m
 PET is clear and colourless at typical wall thicknesses, or amber-tinted where UV protection is added. It is rigid, glossy, and fractures cleanly under impact rather than yielding. The RIC 1 code is the most reliable identifier; in practice, any transparent, lightweight, rigid brewing vessel with a ♺1 marking on the base is almost certainly PET.
 
 :::note Images
-*Images showing typical PET articles in a homebrewing context — a FermZilla pressure fermenter body, an Oxebar keg, a PET beer bottle, and the RIC 1 marking — are planned for this section.*
+*Images showing typical PET articles in a homebrewing context — a FermZilla pressure fermenter body, a PET carboy, an Oxebar keg, a PET beer bottle, and the RIC 1 marking — are planned for this section.*
 :::
 
 ## Food grade status
@@ -111,7 +111,7 @@ The <GlossaryTerm term="WDC">WDC</GlossaryTerm> model and zone definitions are s
 A quantified WDC cycle analysis for PET — showing DDBSA and phosphoric acid accumulation by zone against the concern threshold, equivalent to the PP page chart — is planned for this section. This requires confirming PET-specific ESC threshold data.
 :::
 
-**Practical guidance.** Use ABNS for PET sanitisation as intended — fill or coat, maintain contact time, drain. Rinse any spills from external surfaces promptly; dried ABNS residue on exterior threads and fittings contributes to WDC accumulation. Clean the vessel after use to reset the WDC cycle before the next brew. Stored dilute ABNS in a sealed vessel does not create WDC conditions — concentration stays at working dilution without evaporation — so leaving StellarSan in the tank between sessions is chemically safe for the PET. The better argument for making fresh solution each time is efficacy: dilute ABNS loses sanitising effectiveness as the peroxy equilibrium shifts over days. Make what you need, when you need it.
+**Practical guidance.** Use ABNS for PET sanitisation as intended — fill or coat, maintain contact time, drain. Rinse any spills from external surfaces promptly; dried ABNS residue on exterior threads and fittings contributes to WDC accumulation. Clean the vessel after use to reset the WDC cycle before the next brew. Stored dilute ABNS in a sealed vessel does not create WDC conditions — concentration stays at working dilution without evaporation — so leaving dilute ABNS in the tank between sessions is chemically safe for the PET. The better argument for making fresh solution each time is efficacy: dilute ABNS loses sanitising effectiveness as the peroxy equilibrium shifts over days. Make what you need, when you need it.
 
 ## Compatibility — DES: A
 
@@ -125,7 +125,7 @@ The sequence is always **clean first, then sanitise**. Rinse cleaning solution t
 
 ### Oxidising cleaners (StellarOxy, ChemiPro OXI) — **A**
 
-[KegLand explicitly recommends StellarOxy](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-all-rounder-30l-and-60l-or-user-guide/cleaning)[^kl-fermzilla-cleaning] as the primary cleaner for FermZilla PET fermenters, and it is the **preferred cleaning choice for PET** across all vessel types. Pure oxidising cleaners based on sodium percarbonate (StellarOxy, ChemiPro OXI) work through an oxidative mechanism that does not attack ester linkages preferentially. Effective on beer residues at cold and warm water temperatures, with no contact time restriction beyond the 40 °C maximum that applies to all PET cleaning.
+[KegLand explicitly recommends StellarOxy](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-all-rounder-30l-and-60l-or-user-guide/cleaning)[^kl-fermzilla-cleaning] as the primary cleaner for FermZilla PET fermenters, and oxidising percarbonate cleaners (StellarOxy, ChemiPro OXI) are the **preferred cleaning choice for PET** across all vessel types. They work through an oxidative mechanism that does not attack ester linkages preferentially, and are effective on beer residues at cold and warm water temperatures with no contact time restriction beyond the 40 °C maximum that applies to all PET cleaning.
 
 For standard fermentation soiling — yeast cake, beer film, light protein deposits — extending the StellarOxy soak to 30–60 minutes with agitation is more effective than the default 15–20 minutes. For very heavy soiling, a second fresh solution is more effective than extending a single soak beyond 60 minutes, as the active hydrogen peroxide is consumed and the remaining solution is weakly alkaline sodium carbonate with little oxidative activity. For heavy hop resin accumulation specifically — which requires alkaline saponification rather than oxidation — StellarClean (with the 30-minute PET time limit) is genuinely the better tool; extended StellarOxy does not fully substitute.
 
@@ -137,7 +137,7 @@ Alkaline cleaners containing significant sodium metasilicate — StellarClean, C
 
 The 30-minute limit applies at ambient temperature. Do not use these cleaners hot on PET: the combination of pH >12 and elevated temperature accelerates hydrolysis significantly beyond what the time limit provides protection against.
 
-*\* A within stated limits only. Exceeding the contact time or temperature degrades this rating rapidly.*
+*Within stated limits only — exceeding the contact time or temperature degrades this rating rapidly.*
 
 ### Five Star PBW — **A\***
 
@@ -157,7 +157,7 @@ If your brewery uses both PET vessels (FermZilla, Oxebar, PET bottles) and polyo
 Pure percarbonate cleaners work oxidatively with minimal ester hydrolysis risk. High-metasilicate cleaners — StellarClean, ChemiPro Wash, Five Star PBW — add a strong alkaline component that begins attacking ester linkages above the 30-minute threshold. The mechanism is the same across all three; the time limit applies equally.
 :::
 
-*† PET cleaning: A for oxidising cleaners without restriction. A\* for high-metasilicate alkaline cleaners (StellarClean, ChemiPro Wash, Five Star PBW) within a 30-minute contact limit at ≤40 °C.*
+*† PET cleaning: unrestricted (**A**) for oxidising cleaners. Conditional (**A\***) for high-metasilicate alkaline cleaners (StellarClean, ChemiPro Wash, Five Star PBW) within a 30-minute contact limit at ≤40 °C.*
 
 ## Compatibility — beer/wort: A
 
