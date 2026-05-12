@@ -12,7 +12,13 @@
     {
       "term": "IPA",
       "abbreviation": "Isopropyl Alcohol",
+      "autoLink": false,
       "definition": "A common solvent and disinfectant alcohol (propan-2-ol). Occasionally referenced in chemical compatibility contexts. Not used as a primary sanitiser in homebrewing. Note: the abbreviation IPA also refers to India Pale Ale in brewing contexts — spell out India Pale Ale in full throughout this guide to avoid ambiguity."
+    },
+    {
+      "term": "NEIPA",
+      "abbreviation": "New England India Pale Ale",
+      "definition": "A hazy, hop-forward IPA style characterised by high dry hop additions, soft bitterness, and haze from hop oils and proteins. Among the most oxidation-sensitive styles in common homebrewing — oxygen exposure causes rapid flavour degradation. PET bottle conditioning imposes a meaningful shelf-life limitation for NEIPA; Oxebar barrier PET or stainless kegging is strongly preferred for extended storage."
     },
     {
       "term": "Mashing",

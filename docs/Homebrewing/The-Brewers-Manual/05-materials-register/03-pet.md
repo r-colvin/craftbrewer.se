@@ -49,7 +49,7 @@ Under [EU Regulation 10/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?ur
 
 The compliance testing context carries important practical weight. PET beverage bottles contact phosphoric acid (pH 2.5 in cola), citric and ascorbic acid (pH 2.0–2.5 in lemon and lime juice), citric acid (pH 2.5–3.5 in citrus drinks), and carbonic acid for weeks to months on retail shelves, often at temperatures above fermentation cellar conditions. That is a more aggressive contact scenario than any sanitiser or beer contact in homebrewing. Commercial producers obtain <GlossaryTerm term="DoC">Declarations of Conformity</GlossaryTerm> for their PET packaging under 10/2011 routinely — and homebrewers benefit indirectly from that compliance infrastructure when sourcing bottles and vessels from the same supply chains.
 
-For Oxebar barrier PET, the food contact surface is PET throughout — the nylon (PA) barrier component is dispersed within the PET matrix and not independently in food contact.
+For Oxebar barrier PET, the food contact surface is PET throughout — the barrier polymer component is dispersed within the PET matrix and not independently in food contact.
 
 The full food contact compliance framework — what makes an article food grade, <GlossaryTerm term="GMP">GMP</GlossaryTerm> requirements, EU simulant testing, <GlossaryTerm term="DoC">DoC</GlossaryTerm> structure, and what to do without one — is covered on the [Food contact compliance](./00-food-contact-compliance.md) page. The sections below cover only what is specific to PET.
 
@@ -177,27 +177,35 @@ Wort at pitching temperature (18–22 °C, or up to 38–40 °C for Kveik) conta
 
 Oxygen ingress through the PET wall is a material property, not a compatibility issue. It is relevant because it sets a practical shelf-life ceiling for certain styles packaged in standard PET.
 
-For a 500 mL standard PET bottle, the oxygen transmission rate (OTR) is approximately 0.04–0.08 mL O₂/day at ambient conditions — approximately 1.1–2.2 mL cumulative over four weeks of bottle conditioning. Robust stouts, strong ales, and malt-forward styles tolerate this level of ingress; residual yeast activity and the beer's own reducing chemistry partially compensate. Hop-forward styles — IPAs, pale ales — are sensitive to oxidation at this scale, and standard PET bottle conditioning imposes a practical shelf-life limitation for those beers regardless of packaging hygiene.
+For a 500 mL standard PET bottle, the oxygen transmission rate (OTR) is approximately 0.04–0.08 mL O₂/day at ambient conditions — approximately 1.1–2.2 mL cumulative over four weeks of bottle conditioning. Robust stouts, strong ales, and malt-forward styles tolerate this level of ingress; residual yeast activity and the beer's own reducing chemistry partially compensate. Hop-forward and haze-forward styles — IPAs, pale ales, and especially New England IPAs (NEIPAs) — are sensitive to oxidation at this scale. NEIPAs are arguably the most susceptible style in common homebrewing: high dry hop load, haze-forming proteins that interact readily with oxygen, low bitterness that masks nothing, and typically consumed young when any oxidation damage is immediately apparent. Standard PET bottle conditioning imposes a practical shelf-life limitation for these beers regardless of packaging hygiene.
 
-This is not solved by different sanitisation or cleaning practice. It is a consequence of the wall material itself.
+### UV transparency and skunking
+
+Standard PET is UV-transparent. This has two practical consequences:
+
+**For fermenters (pro):** optical clarity lets you observe fermentation activity, yeast settlement, and clarity development without opening the vessel. This is a genuine advantage over opaque PP or HDPE fermenters.
+
+**For packaging (con):** UV and short-wavelength visible light (350–500 nm) degrades iso-alpha acids in hopped beer through a radical reaction, producing 3-methyl-2-butene-1-thiol (3-MBT) — the compound responsible for the "skunked" off-flavour. 3-MBT has a detection threshold of approximately 4 parts per trillion; even brief light exposure is enough to cause detectable damage in sensitive styles. Clear PET bottles offer no protection against this mechanism. Lager, pale ale, and NEIPA are the most susceptible styles; dark beers with low iso-alpha acid content are less affected.
+
+Amber-tinted PET — used in the [20L Oxebar](https://kegland.com.au/products/oxebar-20l-amber-pet-keg-pressure-fermenter-tank) — absorbs the damaging wavelengths and provides meaningful light protection. If using clear PET bottles or kegs for light-sensitive styles, store them in darkness or use opaque sleeves.
+
+**UV degradation of PET itself:** UV also degrades the PET material over time through photo-oxidation, causing yellowing and embrittlement. KegLand explicitly note that keeping FermZilla vessels out of direct sunlight is essential.[^kl-fermzilla-product] This is a separate concern from skunking — the vessel itself is being damaged, not just the beer. Store all PET fermenters and kegs away from direct sunlight as a matter of routine.
 
 ### Oxebar — barrier PET as a packaging solution
 
 :::info Oxebar naming — the same material, several names
 **Oxebar** was originally a separate Australian company ([Oxebar Australia](https://www.beerandbrewer.com/oxebar-updates-one-way-keg-technology/)) specialising in polymer containers and oxygen barrier packaging technology. The brand and technology were absorbed into KegLand, and "Oxebar" is now KegLand's product line name for their barrier PET keg range.
 
-All current Oxebar keg products — [4L](https://kegland.com.au/products/4l-oxebar-multilayer-keg-with-cap-and-handle-pco38), [8L](https://kegland.com.au/products/8l-oxebar-mono-polymer-keg-with-cap-and-handle), and [20L](https://kegland.com.au/products/oxebar-20l-amber-pet-keg-pressure-fermenter-tank) — appear to use the same construction: PET blended with nylon (polyamide) to improve gas barrier properties, claimed to give approximately 3× better oxygen barrier than standard PET.[^kl-oxebar][^kl-oxebar-keg-video] KegLand use at least three names for this across their product pages: **Oxebar Mono**, **Oxebar Monolayer**, and **Mono Barrier PET Polymer Matrix**. All three appear to describe the same material. Confirmation from KegLand that these names describe an identical construction would be welcome.
-
-The [4L ball lock draught pack](https://kegland.com.au/products/4l-oxebar-multilayer-keg-ball-lock-tapping-draught-pack-pco38) carries **Oxebar Multi-Layer** in its URL and title, but its product description makes no mention of any distinct construction — it carries the same 3× barrier claim as all other Oxebar products.[^kl-oxebar-multilayer] Claims of 10–12 month storage for this product appear to originate from third-party retailers or customer reviews, not from KegLand's own documentation. Until KegLand confirm otherwise, treat it as Oxebar Mono in a different form factor.
+All current Oxebar keg products — [4L](https://kegland.com.au/products/4l-oxebar-multilayer-keg-with-cap-and-handle-pco38), [8L](https://kegland.com.au/products/8l-oxebar-mono-polymer-keg-with-cap-and-handle), and [20L](https://kegland.com.au/products/oxebar-20l-amber-pet-keg-pressure-fermenter-tank) — appear to use the same construction: a PET polymer blend with barrier properties, claimed by KegLand to give approximately 3× better oxygen barrier than standard PET.[^kl-oxebar][^kl-oxebar-keg-video] KegLand use at least three names for this across their product pages: **Oxebar Mono**, **Oxebar Monolayer**, and **Mono Barrier PET Polymer Matrix**. All three appear to describe the same material. The [4L ball lock tapping draught pack](https://kegland.com.au/products/4l-oxebar-multilayer-keg-ball-lock-tapping-draught-pack-pco38) is the same keg bundled with a tapping head — the vessel itself is identical. Confirmation from KegLand of the barrier polymer composition would be welcome.
 :::
 
-The [Oxebar range](../Equipment/03-oxebar-mini-keg.md) from KegLand addresses oxygen ingress directly through the material construction. All Oxebar products carry KegLand's claim of 3× better oxygen barrier than standard PET.[^kl-oxebar][^kl-oxebar-multilayer] Recommended storage duration varies by beer style and storage temperature:[^kl-oxebar]
+The [Oxebar range](../Equipment/03-oxebar-mini-keg.md) is the practical homebrewing answer to PET oxygen ingress. The table below compares recommended storage duration for Oxebar (Mono/Monolayer) against estimated shelf life for standard PET bottles, by style and storage temperature. Oxebar figures are from KegLand's product documentation.[^kl-oxebar] Standard PET estimates are derived from the OTR data above and are not from a manufacturer source.
 
-| Beer style | Cold storage (2 °C) | Ambient storage (25 °C) |
-|---|---|---|
-| Light coloured, hazy, hoppy beers | 6 months | 2 months |
-| Amber beers, porters, summer ales | 9 months | 3 months |
-| Dark beers, stouts, triples | 15 months | 5 months |
+| Beer style | Standard PET — cold (2 °C) | Standard PET — ambient (25 °C) | Oxebar Mono — cold (2 °C) | Oxebar Mono — ambient (25 °C) |
+|---|---|---|---|---|
+| Light coloured, hazy, hoppy (incl. NEIPA) | ~3–4 weeks | ~1–2 weeks | 6 months | 2 months |
+| Amber beers, porters, summer ales | ~6–8 weeks | ~2–3 weeks | 9 months | 3 months |
+| Dark beers, stouts, triples | ~3–4 months | ~4–6 weeks | 15 months | 5 months |
 
 Choosing between packaging options — standard PET, Oxebar, glass, or stainless keg — is covered in the packaging and bottling guide (planned).
 
@@ -213,15 +221,15 @@ The Oxebar construction variants and their implications for cleaning compatibili
 
 ### Construction
 
-All Oxebar products use a single-layer construction: PET blended with nylon (polyamide, PA) dispersed through the matrix.[^kl-oxebar-keg-video] The PA component acts as a gas barrier by creating a tortuous diffusion path for O₂ and CO₂ molecules passing through the wall. KegLand describe this variously as a "Mono Barrier PET Polymer Matrix", "Oxebar Mono", and "Oxebar Monolayer" across different product pages. The food contact surface is PET throughout — the blended PA is within the matrix, not a distinct inner layer.
+KegLand describe Oxebar as a PET polymer blend — their [PCO38 kegs video](https://www.youtube.com/watch?v=LSBsZ6VvmOM)[^kl-oxebar-keg-video] refers to PET and nylon being blended together, though this is a simplified marketing description rather than a technical specification. The specific barrier polymer, its grade, and the precise blend composition have not been confirmed by KegLand in formal documentation. What is confirmed from KegLand's own sources is that Oxebar is a single-layer polymer blend (not a laminate), and that the food contact surface is PET throughout.
 
 ### Chemical compatibility
 
-Chemical compatibility analysis is identical to plain PET for all Oxebar constructions: the same 40 °C temperature limit, the same cleaner ratings, the same ABNS profile. The nylon (PA) component is within the PET matrix and not independently in food contact. Nylon has good general chemical resistance at the concentrations encountered in homebrewing — no additional compatibility concern arises from the blend.
+Chemical compatibility analysis is identical to plain PET for all Oxebar constructions: the same 40 °C temperature limit, the same cleaner ratings, the same ABNS profile. The barrier polymer component is within the PET matrix and not independently in food contact. Based on available information, the blend has good general chemical resistance at homebrewing concentrations — no additional compatibility concern has been identified, but KegLand confirmation of the specific barrier polymer would allow this to be stated with more precision.
 
 ### The additional constraint for Oxebar
 
-The nylon component in the PET/PA blend may respond differently to elevated temperature or sustained alkaline exposure than plain PET. This is an additional reason to hold strictly to 40 °C maximum for Oxebar cleaning, separate from the plain-PET hydrolysis concern. KegLand's stated 45 °C maximum[^kl-oxebar] is a ceiling, not a target.
+The barrier polymer component in the Oxebar blend may respond differently to elevated temperature or sustained alkaline exposure than plain PET. This is an additional reason to hold strictly to 40 °C maximum for Oxebar cleaning, separate from the plain-PET hydrolysis concern. KegLand's stated 45 °C maximum[^kl-oxebar] is a ceiling, not a target.
 
 ### ESC and pressure — structural failure risk {#esc-and-pressure}
 
@@ -292,7 +300,7 @@ PET is a well-founded fermentation and packaging material within its operational
 
 [^kl-oxebar]: KegLand, [*4L Oxebar Keg with Cap and Handle (PCO38)*](https://kegland.com.au/products/4l-oxebar-multilayer-keg-with-cap-and-handle-pco38). Accessed May 2026. Confirms: do not exceed 45 °C; two-year hydrostatic testing required. Product described as Oxebar Mono/Monolayer in product text despite "multilayer" in URL.
 
-[^kl-oxebar-multilayer]: KegLand, [*4L Oxebar Keg — Ball Lock Tapping Draught Pack*](https://kegland.com.au/products/4l-oxebar-multilayer-keg-ball-lock-tapping-draught-pack-pco38). Accessed May 2026. Product description states 3× better gas transmission than traditional PET grades; does not mention EVOH, triple-layer construction, or storage beyond 6 months. Claims of 10–12 month storage for this product appear in third-party retailer listings and customer reviews, not in KegLand's own documentation.
+[^kl-oxebar-multilayer]: KegLand, [*4L Oxebar Keg — Ball Lock Tapping Draught Pack*](https://kegland.com.au/products/4l-oxebar-multilayer-keg-ball-lock-tapping-draught-pack-pco38). Accessed May 2026. Product description states 3× better gas transmission than traditional PET grades; does not separately describe any distinct construction from the other Oxebar products. Claims of 10–12 month storage appear in third-party retailer listings and customer reviews, not in KegLand's own documentation. This product is the same vessel as the 4L cap-and-handle keg, bundled with a tapping head.
 
 [^kl-oxebar-keg-video]: KegLand, [*Best Value Kegs System EVER — PCO38 Kegs*](https://www.youtube.com/watch?v=LSBsZ6VvmOM) (YouTube, 2022). Describes Oxebar construction as "PET and Nylon that is blended together" to reduce oxygen and CO₂ transmission rate. Also describes the nylon as distributed within the PET ("bits of nylon distributed within the PET"; "layered nylon PET"). Confirms oxygen diffuses through the wall regardless of internal pressure.
 
