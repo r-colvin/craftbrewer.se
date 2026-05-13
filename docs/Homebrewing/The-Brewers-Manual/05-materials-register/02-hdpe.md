@@ -4,7 +4,6 @@ title: High-density polyethylene (HDPE)
 ---
 
 import ResinCode from '@site/src/components/ResinCode';
-import FoodContactSymbol from '@site/src/components/FoodContactSymbol';
 import GlossaryTerm from '@theme/GlossaryTerm';
 
 # High-density polyethylene (HDPE)
