@@ -145,8 +145,8 @@ The 30-minute limit applies at ambient temperature. Do not use these cleaners ho
 
 ### Five Star PBW — **A\***
 
-:::note PBW — a product name used by two different manufacturers
-KegLand markets StellarClean as *"Powerful Brewery Wash (PBW)"* on its product pages. Five Star makes a separate product called *PBW* (Powdered Brewery Wash). Both use the abbreviation. **In this section PBW means Five Star's product.** StellarClean is rated separately above.
+:::note KegLand StellarClean and Five Star PBW
+KegLand markets StellarClean as *Powerful Brewery Wash (PBW)*; Five Star makes a separate product, *Powdered Brewery Wash*. Both use the abbreviation — **in this section PBW means Five Star's product.** StellarClean is rated separately above.
 :::
 
 Five Star PBW is a high-metasilicate alkaline cleaner in the same category as StellarClean. KegLand's cleaning guide does not list it — but KegLand recommends their own products throughout their documentation, and the absence of a mention is not a recommendation against. PBW's formulation varies by market: EU-market labels show sodium metasilicate at 20–35%, which is comparable to or higher than StellarClean. It should be treated identically: **A\*** with the same 30-minute contact time limit on PET, cold water, immediate rinsing. The same logic applies as to StellarClean — effective for heavy soiling, but StellarOxy is the lower-risk default for routine cleaning.
