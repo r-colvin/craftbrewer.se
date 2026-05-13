@@ -110,7 +110,6 @@ Both are commonly called "PBW." KegLand markets StellarClean as *Powerful Brewer
 :::
 
 **[Alkaline percarbonate cleaners](../03-cleaning.md#alkaline-percarbonate-cleaners) (Five Star PBW, StellarClean, ChemClean, ChemiPro Wash, Enzybrew 10):** HDPE's all-carbon backbone has no susceptibility to oxidation or alkaline hydrolysis across the full range of alkaline percarbonate cleaner formulations. From Five Star PBW at pH 11.5 to StellarClean and ChemClean's high-metasilicate pH above 12, HDPE is inert to all components of these formulations. The metasilicate component in higher-alkalinity formulations warrants a note: concentrated sodium metasilicate at elevated temperature can etch some polymer surfaces over prolonged contact. At homebrewing concentrations and ambient temperature, this is not a concern for HDPE — the material is chemically inert to all components of these formulations. Rating: **A**.
-
 **Phosphate-based alkaline cleaners (Grainfather High Performance Cleaner):** STPP (sodium tripolyphosphate) and phosphate-based formulations present no concern for HDPE. Rating: **A**.
 
 **Oxidising cleaners (ChemiPro OXI, StellarOxy):** No susceptibility to oxidation at homebrewing conditions. Rating: **A**.

@@ -145,7 +145,7 @@ The 30-minute limit applies at ambient temperature. Do not use these cleaners ho
 
 ### Five Star PBW — **A\***
 
-:::info PBW — a product name used by two different manufacturers
+:::note PBW — a product name used by two different manufacturers
 KegLand markets StellarClean as *"Powerful Brewery Wash (PBW)"* on its product pages. Five Star makes a separate product called *PBW* (Powdered Brewery Wash). Both use the abbreviation. **In this section PBW means Five Star's product.** StellarClean is rated separately above.
 :::
 
