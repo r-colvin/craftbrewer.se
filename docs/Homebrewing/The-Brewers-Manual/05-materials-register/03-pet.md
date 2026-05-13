@@ -95,7 +95,7 @@ PP and HDPE tolerate hot wort and hot cleaning solutions that are entirely off-l
 
 Working-dilution ABNS sanitiser (StellarSan, Star San, Sanipro Rinse, and equivalents) is compatible with PET. Both active components are considered separately.
 
-**Phosphoric acid component.** PET rates **A** for dilute phosphoric acid at ambient temperature. At pH 3.0–3.5 and 20 °C, the ester hydrolysis rate is negligible in any brewing-relevant timeframe. The commercial context confirms this: PET beverage bottles contact phosphoric acid (pH 2.5 in cola) for weeks to months at retail without degradation. Working-dilution ABNS at pH 3.0–3.5 for 30–60 seconds contact is a far less demanding scenario.
+**Phosphoric acid component.** PET rates **A** for dilute phosphoric acid at ambient temperature. At pH 3.0–3.5 and 20 °C, the ester hydrolysis rate is negligible in any brewing-relevant timeframe. The commercial context confirms this: PET beverage bottles contact phosphoric acid (pH 2.5 in cola) for weeks to months at retail without degradation. Working-dilution ABNS at pH 3.0–3.5 for 30–60 seconds contact is a far less demanding scenario. The [ISM chemical compatibility chart](https://www.industrialspec.com/images/files/polyethylene-terephthalate-chemical-compatibility-chart-from-ism.pdf) rates PET as **A** for phosphoric acid, consistent with this.[^ism-pet]
 
 **DDBSA component.** <GlossaryTerm term="DDBSA">DDBSA</GlossaryTerm> (the anionic surfactant in ABNS products) interacts with PET through a mechanism specific to PET among the polyolefins: **pi–pi stacking between DDBSA's aromatic ring and the terephthalate rings in the PET backbone.** Unlike PP and HDPE — which contain no aromatic rings and resist DDBSA through their crystalline structure alone — PET's terephthalate rings can participate in weak non-covalent pi–pi interactions with the dodecylbenzene component of DDBSA.
 
@@ -325,6 +325,8 @@ PET vessels are transparent, which is a genuine advantage — surface condition,
 | **PET sanitiser reservoir / spray bottle** | Functional use only — not beer contact. | Ambient use. | N/A | N/A |
 
 ---
+
+[^ism-pet]: ISM Industrial, [*Chemical Compatibility Chart — Polyethylene Terephthalate (PET)*](https://www.industrialspec.com/images/files/polyethylene-terephthalate-chemical-compatibility-chart-from-ism.pdf). ISM's scale: A = Excellent, B = Good/minor effect, F = Fair, D = Severe effect — their A maps to this guide's A, their D to this guide's X. Rates PET as A for phosphoric acid. Covers bulk chemical exposure and does not distinguish Zone A, B, and C conditions as defined in the [WDC model](../04-wdc-model.md).
 
 [^kl-fermzilla-cleaning]: KegLand, [*FermZilla All-Rounder User Guide / Cleaning*](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-all-rounder-30l-and-60l-or-user-guide/cleaning). Accessed May 2026. Direct quotes: *"If using StellarClean it is important to limit contact time to 30 minutes"*; *"Do not leave StellarClean in the vessel for longer than 30 minutes as this can damage the tank"*; for heavy soiling, overnight soak with StellarOxy only. Water temperature limit: less than 40 °C.
 
