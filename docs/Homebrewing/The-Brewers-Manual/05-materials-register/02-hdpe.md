@@ -113,7 +113,7 @@ Both are commonly called "PBW." KegLand markets StellarClean as *Powerful Brewer
 
 HDPE is also rated for concentrated acids and alkalis far beyond anything encountered in homebrewing cleaning — this is why it is used for industrial chemical storage. Caustic cleaners (NaOH-based — VWP and equivalents) are out of scope for this guide; see the [Cleaning](../03-cleaning.md) page. HDPE is compatible with NaOH at homebrewing concentrations, but that is not a reason to use caustic cleaners at home.
 
-**Note on cleaning HDPE hot-fill vessels:** after hot liquid contact, the vessel will have been in contact with wort at elevated temperature for an extended period. Cleaning should be done promptly after use, before proteins and carbohydrates set on the surface. Five Star PBW or any alkaline percarbonate cleaner at ambient or warm temperature is appropriate; hot water cleaning is fine for a rated hot-fill vessel.
+**Note on cleaning HDPE hot-fill vessels:** after hot liquid contact, the vessel will have been in contact with wort at elevated temperature for an extended period. Cleaning should be done promptly after use, before proteins and carbohydrates set on the surface. Five Star PBW or [any alkaline percarbonate cleaner](../03-cleaning.md#products-available-in-the-swedish-market) at ambient or warm temperature is appropriate. Hot water cleaning adds no meaningful benefit over ambient-temperature cleaning for a vessel that has already held hot wort, and is best avoided — alkaline percarbonate vapour at elevated temperature is an irritant and there is no cleaning gain that justifies it.
 
 ## Compatibility — beer/wort: A
 
