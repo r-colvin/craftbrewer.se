@@ -108,8 +108,12 @@ Under <GlossaryTerm term="WDC">WDC</GlossaryTerm> cycling — where ABNS residue
 The <GlossaryTerm term="WDC">WDC</GlossaryTerm> model and zone definitions are set out on the [WDC model page](../04-wdc-model.md). For PET pressure vessels with fittings, Zone B is the primary location to monitor over service life.
 
 :::note WDC accumulation chart — planned
-A quantified WDC cycle analysis for PET — showing DDBSA and phosphoric acid accumulation by zone against the concern threshold, equivalent to the PP page chart — is planned for this section. This requires confirming PET-specific ESC threshold data.
+A quantified WDC cycle analysis for PET — showing DDBSA and phosphoric acid accumulation by zone against the concern threshold, equivalent to the PP page chart — is planned for this section. This requires confirming PET-specific ESC threshold data. Tracked in `_OPEN_ISSUES.md` under "Materials register — WDC accumulation charts for HDPE and PET".
 :::
+
+**Structural vs migration.** These are distinct concerns. The WDC-driven DDBSA accumulation at Zone B is a **structural** concern — concentrated surfactant at a mechanically stressed interface risks ESC, not a migration event. Migration of PET monomers into beer is a separate question governed by the food contact compliance framework: at homebrewing temperatures and contact times, migration from compliant undamaged PET is a fraction of the conservative EU simulant test conditions. A damaged PET surface — one showing cloudiness, crazing, or dimensional change — has an unknown, not necessarily elevated, migration profile, and should be retired.
+
+The DuoTight case study — in which DDBSA WDC accumulation caused progressive structural failure in POM fittings — illustrates the structural failure mechanism. POM and PET fail through different chemical routes, but the structural concern (Zone B geometry, concentrated residue, mechanical load) is the same in family. See the [DuoTight case study](../case-studies/duotight.md) for the worked WDC failure analysis.
 
 **Practical guidance.** Use ABNS for PET sanitisation as intended — fill or coat, maintain contact time, drain. Rinse any spills from external surfaces promptly; dried ABNS residue on exterior threads and fittings contributes to WDC accumulation. Clean the vessel after use to reset the WDC cycle before the next brew. Stored dilute ABNS in a sealed vessel does not create WDC conditions — concentration stays at working dilution without evaporation — so leaving dilute ABNS in the tank between sessions is chemically safe for the PET. The better argument for making fresh solution each time is efficacy: dilute ABNS loses sanitising effectiveness as the peroxy equilibrium shifts over days. Make what you need, when you need it.
 
@@ -263,11 +267,29 @@ PET is a well-founded fermentation and packaging material within its operational
 
 **Where PET excels.** Packaging: PET beer bottles are the standard alternative to glass at homebrew scale — lighter, shatterproof, and food contact compliant from well-documented supply chains. PET pressure fermenters: optically clear, lightweight, and chemically compatible with the full brewing process within temperature limits. Oxebar barrier PET kegs: the improved barrier matrix meaningfully extends shelf life for sensitive styles versus standard PET bottles.
 
+**Migration.** PET's monomers — terephthalic acid (<GlossaryTerm term="SML">SML</GlossaryTerm> 7.5 mg/kg) and ethylene glycol (SML 30 mg/kg) — are among the best-characterised food contact migration products in the plastics register. Both limits are set accepting low-level migration and routinely met by compliant PET packaging. EU 10/2011 simulant testing is conducted at 60 °C over 10 days — conditions more aggressive than any homebrewing scenario. At fermentation temperatures and conditioning periods, actual migration from undamaged, compliant PET is a fraction of those test-condition figures. The open question — as with all plastics — is whether repeated cleaning and sanitising contact slowly depletes or alters the additive package over many cycles; this has not been characterised for homebrewing conditions. If the vessel is visibly undamaged and sourced from a food-contact supply chain, migration is not a meaningful concern. If it shows visible damage — cloudiness, crazing, deformation — retire it. The compliance data no longer applies to a damaged surface.
+
 **Where the constraints bind.** The 40 °C temperature ceiling is a hard limit. No hot wort, no hot cleaning solutions, no no-chill. For any brewing practice that requires hot liquid contact with the vessel, stainless steel or rated HDPE is the correct choice. The cleaning protocol — StellarOxy as default, metasilicate cleaners with 30-minute discipline for heavy soiling — requires more attention than the single-cleaner approach appropriate for polyolefins or stainless. Oxygen ingress limits standard PET's suitability for long-term storage of sensitive styles; Oxebar barrier PET addresses this.
 
 **Cleaning and sanitising PET in practice.** Use StellarOxy (or ChemiPro OXI) as the routine cleaner. Fill to coverage, agitate, allow 15–20 minutes, drain and rinse thoroughly. Apply ABNS after rinsing; fill the vessel, allow 1 minute contact, drain (no rinse needed for no-rinse formulations at label dilution). Store dry between uses.
 
-## Summary table {#summary-table}
+## Assessing and retiring equipment
+
+PET vessels are transparent, which is a genuine advantage — surface condition, scratching, and early damage are all visible in a way they are not on opaque HDPE or PP. Use that visibility actively: inspect at each brew, not just when something looks wrong.
+
+**Ester hydrolysis cloudiness.** The most PET-specific failure signal. Alkaline cleaner overexposure or hot liquid contact causes ester hydrolysis at the PET surface, which presents as a persistent milky cloudiness or loss of optical clarity in the affected area. Unlike hard water scale or beerstone, it cannot be removed by acid rinsing — it is a structural surface change, not a deposit. It typically appears first in the areas of greatest chemical exposure: base of the vessel (where cleaning solution pools), and around threaded ports. If cloudiness is present and does not clear after a thorough rinse, the surface has been chemically degraded. Retire the vessel.
+
+**ESC crazing at Zone B and C interfaces.** Thread roots, O-ring seats, and lid thread grooves are the locations to look most carefully. Early ESC presents as a fine network of surface cracks or a faint haze — similar to the ester hydrolysis cloudiness but localised to geometrically stressed areas. Inspect with a torch held at a low angle to the surface — oblique lighting reveals fine cracks that are invisible under flat overhead light. At Zone C (compressed O-ring interfaces), look for deformation of the groove geometry. Any visible crazing, cracking, or dimensional change at a stressed interface means the vessel should not be used under CO₂ pressure. Retire it.
+
+**Mechanical scratching.** Clean PET with a soft cloth or sponge only — no brushes, no abrasive pads. PET scratches more readily than HDPE. Scratches create surface texture that traps biofilm and is not reliably reached by sanitising chemistry. A scratched interior that cannot be restored to a clean, smooth finish after a thorough cleaning soak has exceeded its useful service life.
+
+**UV embrittlement.** KegLand explicitly note that FermZilla vessels must be kept out of direct sunlight. UV degrades PET progressively through photo-oxidation: the surface yellows, becomes brittle, and loses mechanical strength. A yellowed or brittle PET vessel stored in direct sunlight should not be used under pressure. Amber-tinted PET (Oxebar 20L) has better UV resistance — but the same principle applies: store all PET equipment away from direct sunlight as a matter of routine.
+
+**Warping or deformation.** Any distortion of a lid, base, or vessel wall that prevents correct seating, alignment, or sealing. Usually caused by hot liquid contact or sustained mechanical load above the temperature limit. Retire immediately — deformed PET is a structural failure risk under pressure.
+
+**Pressure vessel principle.** The compliance testing on which food contact safety is based was conducted on undamaged, GMP-manufactured PET at defined conditions. Once a vessel shows visible damage — cloudiness, crazing, cracking, deformation — the compliance data no longer applies. The risk is not necessarily elevated; it is unknown. For pressure fermenters and mini kegs, the structural failure consequence of unknown is serious enough to warrant immediate retirement. PET Oxebar kegs are not expensive relative to the cost of a batch, and FermZilla tanks less so.
+
+## Summary by article type — scenarios {#summary-table}
 
 | Scenario | Rating | Conditions |
 |---|---|---|
