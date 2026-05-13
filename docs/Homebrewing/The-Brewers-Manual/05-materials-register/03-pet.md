@@ -108,7 +108,7 @@ Under <GlossaryTerm term="WDC">WDC</GlossaryTerm> cycling — where ABNS residue
 The <GlossaryTerm term="WDC">WDC</GlossaryTerm> model and zone definitions are set out on the [WDC model page](../04-wdc-model.md). For PET pressure vessels with fittings, Zone B is the primary location to monitor over service life.
 
 :::note WDC accumulation chart — planned
-A quantified WDC cycle analysis for PET — showing DDBSA and phosphoric acid accumulation by zone against the concern threshold, equivalent to the PP page chart — is planned for this section. This requires confirming PET-specific ESC threshold data. Tracked in `_OPEN_ISSUES.md` under "Materials register — WDC accumulation charts for HDPE and PET".
+A quantified WDC cycle analysis for PET — showing DDBSA and phosphoric acid accumulation by zone against the concern threshold, equivalent to the PP page chart — is planned for this section. This requires confirming PET-specific ESC threshold data.
 :::
 
 **Structural vs migration.** These are distinct concerns. The WDC-driven DDBSA accumulation at Zone B is a **structural** concern — concentrated surfactant at a mechanically stressed interface risks ESC, not a migration event. Migration of PET monomers into beer is a separate question governed by the food contact compliance framework: at homebrewing temperatures and contact times, migration from compliant undamaged PET is a fraction of the conservative EU simulant test conditions. A damaged PET surface — one showing cloudiness, crazing, or dimensional change — has an unknown, not necessarily elevated, migration profile, and should be retired.
@@ -287,7 +287,7 @@ PET vessels are transparent, which is a genuine advantage — surface condition,
 
 **Warping or deformation.** Any distortion of a lid, base, or vessel wall that prevents correct seating, alignment, or sealing. Usually caused by hot liquid contact or sustained mechanical load above the temperature limit. Retire immediately — deformed PET is a structural failure risk under pressure.
 
-**Pressure vessel principle.** The compliance testing on which food contact safety is based was conducted on undamaged, GMP-manufactured PET at defined conditions. Once a vessel shows visible damage — cloudiness, crazing, cracking, deformation — the compliance data no longer applies. The risk is not necessarily elevated; it is unknown. For pressure fermenters and mini kegs, the structural failure consequence of unknown is serious enough to warrant immediate retirement. PET Oxebar kegs are not expensive relative to the cost of a batch, and FermZilla tanks less so.
+**Pressure vessel principle.** The compliance testing on which food contact safety is based was conducted on undamaged, GMP-manufactured PET at defined conditions. Once a vessel shows visible damage — cloudiness, crazing, cracking, deformation — the compliance data no longer applies. The risk is not necessarily elevated; it is unknown. For pressure fermenters and mini kegs, a vessel with unknown structural integrity is a safety risk — CO₂ pressure failure can cause serious injury. Retire it. The cost of an Oxebar keg or FermZilla tank is not the cost of that consequence.
 
 ## Summary by article type — scenarios {#summary-table}
 
