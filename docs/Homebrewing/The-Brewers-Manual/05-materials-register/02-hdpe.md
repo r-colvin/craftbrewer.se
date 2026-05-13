@@ -53,7 +53,7 @@ The full food contact compliance framework — what makes an article food grade,
 
 As with all thermoplastics, the polymer backbone is not the concern — the distinction between food grade and industrial grade HDPE lies in the **additive package**. Food grade HDPE uses EU 10/2011-approved antioxidants, slip agents, and processing stabilisers; industrial grade may use compounds outside that approved list. The RIC 2 code identifies the polymer type, not the additive package or GMP compliance.
 
-HDPE's additive loadings are often lower than for PP. The higher inherent oxidation resistance of HDPE's linear chain structure — a consequence of its high crystallinity — means less antioxidant is needed during processing. Lower additive loading means, all else being equal, lower migration potential. Both materials comfortably pass EU 10/2011 limits when properly formulated.
+HDPE's additive loadings are often lower than for PP. The higher inherent oxidation resistance of HDPE's linear chain structure — a consequence of its high crystallinity — means less antioxidant is needed during processing. HDPE comfortably passes EU 10/2011 limits when properly formulated.
 
 ### DoC availability for HDPE articles
 
