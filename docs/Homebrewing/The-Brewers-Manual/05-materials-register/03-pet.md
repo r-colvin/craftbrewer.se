@@ -143,6 +143,10 @@ The 30-minute limit applies at ambient temperature. Do not use these cleaners ho
 
 *Within stated limits only — exceeding the contact time or temperature degrades this rating rapidly.*
 
+### Phosphate-based alkaline cleaners (Grainfather High Performance Cleaner) — **A**
+
+Grainfather High Performance Cleaner uses sodium tripolyphosphate (STPP) as its primary alkaline agent rather than sodium metasilicate. STPP is a milder alkaline agent than metasilicate at equivalent concentration, and the phosphate-based formulation presents no ester hydrolysis concern for PET at homebrewing concentrations and contact times. Rating: **A**, no contact time restriction beyond the 40 °C maximum that applies to all PET cleaning.
+
 ### Five Star PBW — **A\***
 
 :::note KegLand StellarClean and Five Star PBW
