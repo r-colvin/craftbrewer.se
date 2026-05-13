@@ -101,7 +101,11 @@ Ethanol at 70–80% has no meaningful interaction with HDPE. ISM rates HDPE as *
 
 HDPE is resistant to all dedicated cleaning products used in homebrewing at the concentrations and contact times involved.
 
-**Alkaline percarbonate cleaners (Five Star PBW, StellarClean, ChemClean, ChemiPro Wash, Enzybrew 10):** HDPE's all-carbon backbone has no susceptibility to oxidation or alkaline hydrolysis across the full range of percarbonate cleaner formulations. Note that KegLand markets StellarClean as "PBW" (Powerful Brewery Wash) — these are different products with different formulations; both rate **A** for HDPE with no contact time limit. From Five Star PBW at pH 11.5 to StellarClean and ChemClean's high-metasilicate pH above 12, HDPE is inert to all components of these formulations. The metasilicate component in higher-alkalinity formulations warrants a note: concentrated sodium metasilicate at elevated temperature can etch some polymer surfaces over prolonged contact. At homebrewing concentrations and ambient temperature, this is not a concern for HDPE — the material is chemically inert to all components of these formulations. Rating: **A**.
+:::note KegLand StellarClean and Five Star PBW
+Both are commonly called "PBW." KegLand markets StellarClean as *Powerful Brewery Wash*; Five Star makes a separate product, *Powdered Brewery Wash*. Different products, different formulations — but both rate **A** for HDPE with no contact time limit. The guidance below applies equally to either product.
+:::
+
+**[Alkaline percarbonate cleaners](../03-cleaning.md#alkaline-percarbonate-cleaners) (Five Star PBW, StellarClean, ChemClean, ChemiPro Wash, Enzybrew 10):** HDPE's all-carbon backbone has no susceptibility to oxidation or alkaline hydrolysis across the full range of alkaline percarbonate cleaner formulations. From Five Star PBW at pH 11.5 to StellarClean and ChemClean's high-metasilicate pH above 12, HDPE is inert to all components of these formulations. The metasilicate component in higher-alkalinity formulations warrants a note: concentrated sodium metasilicate at elevated temperature can etch some polymer surfaces over prolonged contact. At homebrewing concentrations and ambient temperature, this is not a concern for HDPE — the material is chemically inert to all components of these formulations. Rating: **A**.
 
 **Phosphate-based alkaline cleaners (Grainfather High Performance Cleaner):** STPP (sodium tripolyphosphate) and phosphate-based formulations present no concern for HDPE. Rating: **A**.
 
@@ -109,7 +113,7 @@ HDPE is resistant to all dedicated cleaning products used in homebrewing at the 
 
 HDPE is also rated for concentrated acids and alkalis far beyond anything encountered in homebrewing cleaning — this is why it is used for industrial chemical storage. Caustic cleaners (NaOH-based — VWP and equivalents) are out of scope for this guide; see the [Cleaning](../03-cleaning.md) page. HDPE is compatible with NaOH at homebrewing concentrations, but that is not a reason to use caustic cleaners at home.
 
-**Note on cleaning HDPE hot-fill vessels:** after hot liquid contact, the vessel will have been in contact with wort at elevated temperature for an extended period. Cleaning should be done promptly after use, before proteins and carbohydrates set on the surface. Five Star PBW or any percarbonate cleaner at ambient temperature is appropriate; there is no need to clean at elevated temperature, and check the specific container's temperature rating before using hot water if you choose to.
+**Note on cleaning HDPE hot-fill vessels:** after hot liquid contact, the vessel will have been in contact with wort at elevated temperature for an extended period. Cleaning should be done promptly after use, before proteins and carbohydrates set on the surface. Five Star PBW or any alkaline percarbonate cleaner at ambient or warm temperature is appropriate; hot water cleaning is fine for a rated hot-fill vessel.
 
 ## Compatibility — beer/wort: A
 
@@ -183,4 +187,4 @@ HDPE rates **A** across all compatibility columns. The practical picture varies 
 
 [^4]: Pi–pi stacking: a non-covalent interaction between aromatic ring systems. The benzene ring in DDBSA's sulfonate head group can interact with aromatic rings in a polymer backbone through overlapping pi electron clouds. This interaction is why DDBSA is significantly more aggressive towards polystyrene (aromatic backbone) than towards polyolefins (no aromatic rings). PP and HDPE have no aromatic rings in their backbone, so pi–pi stacking is not a relevant mechanism for either material.
 
-[^5]: Speidel, [*Plastic Storage Tank — FAQ*](https://brewmasterwholesale.com/products/speidel-plastic-storage-tank-12l-32-gal.html) (accessed May 2026 via Brewmaster Wholesale product page). FAQ states: material is HDPE; continuous use temperature up to 60 °C; short-period use up to 80 °C; no upper limit on alcohol content in principle, though higher ABV accelerates seal wear. No Declaration of Conformity retrieved.
+[^5]: Speidel, [*Plastic Storage Tank — FAQ*](https://brewmasterwholesale.com/products/speidel-plastic-storage-tank-12l-32-gal.html) (accessed May 2026 via Brewmaster Wholesale product page — a reseller; the Speidel manufacturer page at speidels-braumeister.de does not carry this specification in English). FAQ states: material is HDPE; continuous use temperature up to 60 °C; short-period use up to 80 °C; no upper limit on alcohol content in principle, though higher ABV accelerates seal wear. No Declaration of Conformity retrieved.
