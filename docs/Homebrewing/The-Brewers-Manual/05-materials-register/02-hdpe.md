@@ -100,7 +100,11 @@ Ethanol at 70–80% has no meaningful interaction with HDPE. ISM rates HDPE as *
 
 HDPE is resistant to all dedicated cleaning products used in homebrewing at the concentrations and contact times involved.
 
-**Alkaline percarbonate cleaners (PBW, StellarClean, ChemClean, ChemiPro Wash, Enzybrew 10):** HDPE's all-carbon backbone has no susceptibility to oxidation or alkaline hydrolysis across the full range of percarbonate cleaner formulations, from PBW at pH 11.5 to StellarClean and ChemClean's high-metasilicate pH above 12. The metasilicate component in higher-alkalinity formulations warrants a note: concentrated sodium metasilicate at elevated temperature can etch some polymer surfaces over prolonged contact. At homebrewing concentrations and ambient temperature, this is not a concern for HDPE — the material is chemically inert to all components of these formulations. Rating: **A**.
+:::note KegLand StellarClean and Five Star PBW
+Both are commonly called "PBW." KegLand markets StellarClean as *Powerful Brewery Wash*; Five Star makes a separate product, *Powdered Brewery Wash*. Different products, different formulations — but both rate **A** for HDPE with no contact time limit. The guidance below applies equally to either product.
+:::
+
+**[Alkaline percarbonate cleaners](../03-cleaning.md#alkaline-percarbonate-cleaners) (Five Star PBW, StellarClean, ChemClean, ChemiPro Wash, Enzybrew 10):** HDPE's all-carbon backbone has no susceptibility to oxidation or alkaline hydrolysis across the full range of percarbonate cleaner formulations, from Five Star PBW at pH 11.5 to StellarClean and ChemClean's high-metasilicate pH above 12. The metasilicate component in higher-alkalinity formulations warrants a note: concentrated sodium metasilicate at elevated temperature can etch some polymer surfaces over prolonged contact. At homebrewing concentrations and ambient temperature, this is not a concern for HDPE — the material is chemically inert to all components of these formulations. Rating: **A**.
 
 **Phosphate-based alkaline cleaners (Grainfather High Performance Cleaner):** STPP (sodium tripolyphosphate) and phosphate-based formulations present no concern for HDPE. Rating: **A**.
 
