@@ -59,7 +59,7 @@ HDPE's additive loadings are often lower than for PP. The higher inherent oxidat
 
 For homebrewing-specific HDPE articles, the documentation picture is consistently sparse: the material is named, the food grade claim is made, and no DoC is publicly available. This applies across the category — the [KegLand fermenter tap](https://kegland.com.au/products/fermenter-tap-adjustable-spout-with-bulkhead-24mm-hole), the [KegLand 20 L hot cube](https://kegland.com.au/products/20l-cube-for-hot-cube-wort-storage-low-wines-stripping-run), and the [Speidel fermenter range](https://www.speidels-braumeister.de/en/products/fermentation-tanks/) are all described as HDPE with food grade claims and no retrievable DoC.[^1] This is the norm across homebrewing equipment, not an exception specific to any one product or manufacturer.
 
-HDPE food storage containers from catering and food packaging supply chains are better documented — DoCs are obtainable for many such products from the manufacturer or distributor. If sourcing HDPE vessels from a food contact supply chain rather than a homebrew retailer, a DoC is more likely to be available on request.
+HDPE food storage containers from catering and food packaging supply chains are better documented — DoCs are obtainable for many such products from the manufacturer or distributor. If sourcing HDPE vessels from a food contact supply chain rather than a homebrew retailer, a DoC is more likely to be available on request. For examples of what a DoC covers and does not cover in practice, see the [PP page](./01-pp.md#food-grade-status).
 
 ## Temperature limits
 
