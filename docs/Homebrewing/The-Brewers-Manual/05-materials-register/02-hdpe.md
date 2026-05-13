@@ -141,6 +141,22 @@ HDPE is as chemically inert as PP to everything a brewer uses — the all-carbon
 
 **Temperature.** HDPE's higher HDT versus PP is real and meaningful — it is the correct plastic choice for any vessel that will receive hot liquid in sustained contact. Stainless steel is the better choice still where practical. The specific article sets the limit: check the rated temperature before using any undocumented container for hot-fill applications, and treat 60 °C as the conservative working limit for undocumented HDPE containers.
 
+## Assessing and retiring equipment
+
+HDPE is durable and chemically inert, but it is not indefinite. The signals that indicate an article should be replaced rather than cleaned:
+
+**Mechanical scratching.** Clean HDPE with a soft cloth or sponge only — never a brush or abrasive pad. Scratches create surface texture that traps biofilm and cannot be reliably reached by sanitising chemistry. A visibly scratched fermenter interior or tap bore that cannot be restored to a clean, consistent finish after a thorough cleaning soak has exceeded its useful service life.
+
+**Whitening or surface cloudiness.** Localised whitening, particularly around fittings, thread roots, or the base of a vessel, can indicate the early stages of stress-related surface change or chemical interaction. If it is accompanied by dimensional change — a fitting that has become loose, a lid that no longer seats correctly — retire the article.
+
+**Warping or deformation.** Any distortion that prevents a lid from seating, causes a vessel to rock on a flat surface, or means a fitting is no longer secure. Deformed HDPE is a structural and hygiene problem.
+
+**Persistent staining.** If a thorough percarbonate cleaner soak and rinse does not restore a visually clean surface, the article surface is too degraded for reliable sanitation.
+
+**UV damage.** A chalky, brittle surface on equipment stored in direct sunlight. UV-degraded HDPE loses mechanical strength progressively; do not use visibly UV-degraded equipment as a fermenter or hot-fill vessel.
+
+The principle across all these signals is the same: compliance testing is conducted on undamaged, GMP-manufactured equipment. Once visible damage is present, the compliance data does not apply — not because the risk is known to be elevated, but because it is unknown. HDPE hot-fill cubes and fermenter vessels are not expensive relative to the cost of a batch.
+
 ## Summary by article type
 
 HDPE rates **A** across all compatibility columns. The practical picture varies by article type, particularly around temperature and use case.
