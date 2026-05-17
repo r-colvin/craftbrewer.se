@@ -8,13 +8,15 @@ slug: /homebrewing/brewers-manual/materials-register
 
 Homebrewing equipment is made from a surprisingly wide range of materials. A single fermenter setup may contain five or six distinct plastics, two or three elastomers, and one or more metals — each with its own chemical resistance profile, its own food contact regulatory history, and its own failure mode under the chemicals applied to it.
 
-This register catalogues all of them. Each material has its own page covering what it is, where it appears in homebrewing equipment, its food contact regulatory status, and its compatibility with the chemical environments it is likely to encounter.
+This register catalogues as many as possible. Each material has its own page covering what it is, where it appears in homebrewing equipment, its food contact regulatory status, and its compatibility with the chemical environments it is likely to encounter.
 
 Before reading the individual pages, the framework pages earlier in this section are worth having in hand:
 
+- The EU food contact compliance framework — what makes a material food grade, how to read a Declaration of Conformity, and what to do when documentation is absent — is in [Food contact compliance](./00-food-contact-compliance.md).
 - The sanitisers and cleaners these ratings apply to are described in [Sanitising](../02-sanitising.md) and [Cleaning](../03-cleaning.md).
 - The wet-dry cycle (WDC) model — which explains why a material rating at working dilution can be different from its rating under concentrated dry-residue conditions — is in [The wet-dry cycle model](../04-wdc-model.md).
 - Toxicology implications for specific materials are in [Toxicology and migration](../06-toxicology.md).
+- A worked example of how cleaning and sanitising chemistry failures play out in real equipment is in the [DuoTight case study](../case-studies/duotight.md).
 
 ## Rating system
 
@@ -30,13 +32,13 @@ Where a rating carries important qualifications — and many do — those qualif
 
 ## Reading the columns
 
-**ABNS** — acid-based no-rinse sanitiser (Star San, StellarSan, Sanipro Rinse, Chemsan, ChemiPro San). Ratings reflect a standard sanitise-and-drain cycle at working dilution — sanitiser applied for the label contact time (typically 1–2 minutes) and drained, without being allowed to dry on the surface. This is the CF=1 scenario in the [WDC model](../04-wdc-model.md). Where the rating changes under WDC conditions — one or more wet-dry cycles in which the sanitiser evaporates rather than drains — this is flagged in the individual page and in the footnotes below.
+**ABNS** — acid-based no-rinse sanitiser (Star San, StellarSan, Sanipro Rinse, Chemsan, ChemiPro San). Ratings reflect a standard sanitise-and-drain cycle at working dilution — sanitiser applied for the label contact time (typically 1–2 minutes) and drained, without drying on the surface. This is the CF=1 scenario in the [WDC model](../04-wdc-model.md). Where the rating changes under WDC conditions — wet-dry cycles in which the sanitiser evaporates and concentrates rather than drains, whether a single cycle or accumulated cycles — this is flagged in the individual page and in the footnotes below.
 
 **DES** — disinfectant ethanol sanitiser (ChemiPro DES, food-grade ethanol at 70–80%). Fully volatile — leaves no residue, no WDC risk.
 
 **Cleaning** — covers all dedicated cleaning products used in homebrewing at working concentrations and typical temperatures (ambient to 60 °C). Three categories appear in this register, matching the taxonomy in the [Cleaning guide](../03-cleaning.md):
 
-- **Alkaline percarbonate** (PBW, StellarClean, ChemClean, ChemiPro Wash, Enzybrew 10) — the dominant homebrewing cleaning category; sodium percarbonate releases hydrogen peroxide and sodium carbonate. Formulations vary in their secondary components: metasilicate content (low in PBW, high in StellarClean and ChemClean), chelating agents (EDTA in PBW, TKPP + EDTA in ChemiPro Wash), and surfactants. These differences matter for some materials.
+- **Alkaline percarbonate** (PBW, StellarClean, ChemClean, ChemiPro Wash, Enzybrew 10) — the dominant homebrewing cleaning category; sodium percarbonate releases hydrogen peroxide and sodium carbonate. Formulations vary in their secondary components: metasilicate content (EU-market Five Star PBW carries sodium metasilicate at 20–35%, comparable to StellarClean — the "low in PBW" characterisation was based on US-market data and does not apply to the EU formulation), chelating agents (EDTA in PBW, TKPP + EDTA in ChemiPro Wash), and surfactants. These differences matter for some materials.
 - **Phosphate-based alkaline** (Grainfather High Performance Cleaner) — sodium tripolyphosphate (STPP) as the primary cleaning agent; effective for beer stone and mineral scale.
 - **Oxidising** (ChemiPro OXI, StellarOxy) — sodium percarbonate without significant alkaline boosters; cleaning action is purely oxidative. The most material-benign profile of the three categories.
 
@@ -73,9 +75,9 @@ Where the Cleaning rating carries a dagger (A†, B†), the overall rating appl
 | [Stainless steel 304/316L](./19-stainless.md) | Cornelius kegs, mini kegs, NukaTap body | A | A | A | A |
 | [Glass](./20-glass.md) | Airlocks, test jars, bottles | A | A | A | A |
 | [PTFE](./21-ptfe.md) | Thread seal tape, filter discs, gaskets | A | A | A | A |
-| [Aluminium](./22-aluminium.md) | Foil covers for flask openings; aluminium cans (via internal liner) | B/D§ | A | A | A |
-| [Crown cap body (tinplate)](./23-crown-cap-liners.md) | Crown cap shell | A | A | A | A |
-| [Crown cap liners](./23-crown-cap-liners.md) | O₂-scavenging crown caps | X | X | — | A |
+| [Aluminium](./22-aluminium.md) | Foil covers for flask openings (no direct liquid contact); aluminium cans have an internal polymer liner — the aluminium is not the food-contact surface | B/D§ | A | A | A |
+| [Crown cap body (tinplate or TFS steel)](./23-crown-cap-liners.md) | Crown cap shell | A | A | A | A |
+| [Crown cap liners](./23-crown-cap-liners.md) | PVC-free PE liner (standard caps): A; O₂-scavenging liner: avoid | A / avoid‖ | A | — | A |
 
 *† PET Cleaning: A for oxidising cleaners (ChemiPro OXI) and low-metasilicate percarbonate (PBW, Enzybrew 10). High-metasilicate percarbonate cleaners (StellarClean, ChemClean, ChemiPro Wash) require limited contact time (30 minutes maximum) and should not be used hot. Follow manufacturer guidance for each vessel. See the [PET page](./03-pet.md) for the full analysis.*
 
@@ -83,7 +85,9 @@ Where the Cleaning rating carries a dagger (A†, B†), the overall rating appl
 
 *‡ EPDM rates U (unsatisfactory) against concentrated DDBSA in laboratory compatibility references. Under the bounded WDC conditions typical of homebrewing — one partial wet-dry cycle per brew, arrested by fermentation humidity, reset by post-batch rinsing or cleaning — the practical rating is B. See the [EPDM page](./10-epdm.md) and the [WDC model](../04-wdc-model.md) (grommet as a bounded case) for the full analysis.*
 
-*§ Aluminium: B where ABNS contacts the surface at working dilution and is drained or wiped off before drying (CF=1, no WDC); D where ABNS is allowed to dry on aluminium (WDC condition — concentrated phosphoric acid attacks the oxide layer). See the [Aluminium page](./22-aluminium.md) for the yeast-starter foil scenario and the safety margins.*
+*§ Aluminium: **B** where ABNS contacts the surface at working dilution and is drained or wiped off before drying (CF=1, no WDC). **D** where ABNS is allowed to dry on aluminium — even a single wet-dry cycle concentrates phosphoric acid to ~52% by mass (CF≈667), which is genuinely aggressive toward the aluminium oxide passivation layer. Manufacturer warnings against use on aluminium apply specifically in this scenario. The foil-over-starter-flask case is **B** because there is no direct liquid contact with the sanitiser — see the [Aluminium page](./22-aluminium.md) for the full analysis and safety margins. Other aluminium uses (pots, utensils) should be treated as **D** unless a no-WDC workflow can be confirmed.*
+
+*‖ Crown cap liners: Standard caps use a PVC-free polyethylene liner — **A** for ABNS and all routine sanitising. Oxygen-scavenging caps have a moisture-activated iron-based scavenging layer: any liquid contact (including ABNS) activates and depletes this layer before the cap is applied, destroying the scavenging function. The cap still seals; the O₂ absorption is gone. Do not sanitise O₂-scavenging caps with any liquid. See the [Crown caps page](./23-crown-cap-liners.md) for the correct handling procedure.*
 
 ## Notes on identification
 
