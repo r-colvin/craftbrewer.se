@@ -147,6 +147,22 @@ Tritan is a capable food contact material with a well-documented safety profile 
 
 ## Assessing and retiring equipment
 
+Tritan is tough and chemically resistant, but it is not indefinite. The signals that indicate a Tritan article should be replaced rather than cleaned:
+
+**Cloudiness or loss of clarity.** Tritan's defining characteristic is its glass-like optical clarity. Any localised or general cloudiness — haze, milkiness, or a frosted appearance that was not present when the article was new — is a signal that the surface has been chemically or mechanically compromised. Cloudiness in a clear vessel is the earliest visible sign of surface degradation; a cloudy Tritan article is harder to clean effectively and the compliance basis no longer applies.
+
+**Crazing or surface cracking.** Fine networks of cracks on the surface, particularly around fittings, threaded ports, or areas that have been under mechanical stress. Crazing in Tritan indicates stress-related surface failure — either from mechanical overload, chemical exposure at a stressed surface, or both. A crazed surface cannot be reliably sanitised and should be retired.
+
+**Scratching.** Clean Tritan with a soft cloth only — never a brush or abrasive pad. Scratches destroy the smooth surface that allows sanitising chemistry to work reliably and that makes Tritan's clarity useful for monitoring. A visibly scratched interior surface that cannot be restored to a clean, consistent finish after a thorough cleaning soak has exceeded its useful service life.
+
+**Warping or dimensional change.** Any distortion that prevents a lid from seating correctly, causes a fitting to leak, or means a threaded port no longer accepts a cap at the correct torque. Warped Tritan is a structural and hygiene problem.
+
+**Persistent staining.** If a thorough alkaline percarbonate soak and rinse does not restore a visually clean, clear surface, the article surface is too degraded for reliable sanitation.
+
+**Damage at threaded ports.** The threaded ports on collection containers and similar articles are the highest-stress geometry on the article. Thread roots that show whitening, cracking, or deformation — or ports that have been over-torqued with carbonation caps or fittings — should be assessed carefully. Damaged threads are a Zone B hygiene concern as well as a structural one.
+
+The principle across all these signals is the same: compliance testing is conducted on undamaged, GMP-manufactured equipment. Once visible damage is present, the compliance data does not apply — not because the risk is known to be elevated, but because it is unknown. Tritan collection containers and similar articles are not expensive relative to the cost of a batch.
+
 ## Summary by article type
 
 [^eastman-safety]: Eastman Chemical Company, [*Tritan Safety*](https://www.eastman.com/en/products/brands/tritan/about/safety) (accessed May 2026). States that Tritan is used in "thousands of food contact products around the world, including water bottles, blenders and food storage containers"; is free of BPA, BPS, phthalates, halogens, and chlorine; and has no estrogenic or androgenic activity as confirmed by third-party testing. Cleared for food contact use by the FDA, EFSA, European Commission, Health Canada, and NSF International (NSF 51 and NSF 61).
