@@ -167,6 +167,16 @@ The principle across all these signals is the same: compliance testing is conduc
 
 ## Summary by article type
 
+Tritan rates **A** across DES, Cleaning, and beer/wort columns, and **B** for ABNS. The practical picture varies by article geometry and use pattern. The table below covers the Tritan articles currently in the register; the principles on this page apply to any Tritan article a reader encounters.
+
+| Article | Food grade | Temp limits | ABNS WDC | DES | Cleaning |
+|---|---|---|---|---|---|
+| **Collection container (FermZilla Tri-Conical, 600ml/1000ml)** | KegLand documentation confirms Tritan from Eastman; BPA- and plasticiser-free stated.[^kegland-replacement] No DoC retrieved. See [Food contact compliance](./00-food-contact-compliance.md). | Rated to 100 °C sustained hot liquid contact (KegLand).[^kegland-assembly] Hot water cleaning and sanitisation within limits. Not used for no-chill wort. | [Zone A](../04-wdc-model.md#zone-a--open-surfaces) interior — low WDC risk; drains freely. Threaded ports are [Zone B](../04-wdc-model.md#zone-b--confined-geometry) — monitor if carbonation caps or fittings are regularly attached. Inspect before pressure use; do not use damaged article under pressure. | A | A |
+
+---
+
+*The BrewBuilt 2-inch Tri-Clover Collection Container Kit ([KegLand](https://kegland.com.au/products/brewbuilt-2-inch-tri-clover-collection-container-kit)) is a larger-format Tritan collection vessel in a different geometry. It has not been separately assessed; the principles on this page apply.*
+
 [^eastman-safety]: Eastman Chemical Company, [*Tritan Safety*](https://www.eastman.com/en/products/brands/tritan/about/safety) (accessed May 2026). States that Tritan is used in "thousands of food contact products around the world, including water bottles, blenders and food storage containers"; is free of BPA, BPS, phthalates, halogens, and chlorine; and has no estrogenic or androgenic activity as confirmed by third-party testing. Cleared for food contact use by the FDA, EFSA, European Commission, Health Canada, and NSF International (NSF 51 and NSF 61).
 
 [^kegland-assembly]: KegLand, [*FermZilla Tri-Conical 27L and 55L — User Guide: Assembly*](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-tri-conical-27l-and-55l-or-user-guide/assembly) (accessed May 2026). States: "The FermZilla 600ml Collection Container is made from heat resistant Tritan plastic. This is robust, heat and chemical resistant and can also handle extended contact with hot liquid at 100°C (212°F)."
