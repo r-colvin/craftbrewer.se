@@ -117,10 +117,22 @@ KegLand markets StellarClean as *Powerful Brewery Wash*; Five Star makes a separ
 
 ## Compatibility — beer/wort: A
 
-No concern.
+Tritan presents no compatibility concern for any beer or wort contact encountered in homebrewing. The TMCD-enhanced ester backbone is more resistant to hydrolysis than standard PET across all relevant pH and alcohol ranges, and the ISM compatibility chart rates PET — the conservative benchmark for Tritan — as **A** for all organic acids and ethanol concentrations encountered in brewing.[^ism-pet]
+
+**Standard wort (pre-fermentation):** pH 5.0–5.4, brief contact during transfer. No concern.
+
+**Standard beer (4–8% ABV, pH 4.0–4.4):** Ethanol at these concentrations presents no concern — PET is rated **A** for ethanol at all concentrations per ISM, and Tritan's TMCD structure provides no reason to expect worse performance. No concern.
+
+**High-ABV beer (above 8%):** Tritan remains **A** through the full range of homebrewing alcohol levels. No concern for high-gravity styles.
+
+**Sour beer (pH 3.2–3.5, lactic and acetic acid dominant):** The most chemically demanding beer contact scenario. PET is rated **A** for acetic and lactic acid at homebrewing concentrations; Tritan's improved hydrolytic resistance relative to PET provides additional margin. No concern.
+
+**Hot wort.** Tritan's 100 °C rating means it is structurally capable of receiving hot wort — a scenario that exceeds PET's limits entirely. Whether a specific Tritan article is appropriate for hot wort contact depends on the article's geometry, wall thickness, and the documentation available for that use. For the collection container, hot wort is not the design use case; it collects fermentation byproducts at ambient or fermentation temperature. See the [temperature limits section](#temperature-limits) for the full structural and migration picture.
 
 [^eastman-safety]: Eastman Chemical Company, [*Tritan Safety*](https://www.eastman.com/en/products/brands/tritan/about/safety) (accessed May 2026). States that Tritan is used in "thousands of food contact products around the world, including water bottles, blenders and food storage containers"; is free of BPA, BPS, phthalates, halogens, and chlorine; and has no estrogenic or androgenic activity as confirmed by third-party testing. Cleared for food contact use by the FDA, EFSA, European Commission, Health Canada, and NSF International (NSF 51 and NSF 61).
 
 [^kegland-assembly]: KegLand, [*FermZilla Tri-Conical 27L and 55L — User Guide: Assembly*](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-tri-conical-27l-and-55l-or-user-guide/assembly) (accessed May 2026). States: "The FermZilla 600ml Collection Container is made from heat resistant Tritan plastic. This is robust, heat and chemical resistant and can also handle extended contact with hot liquid at 100°C (212°F)."
 
 [^kegland-replacement]: KegLand, [*FermZilla BrewBuilt Replacement Collection Container 1000ml*](https://kegland.com.au/products/fermzilla-brewbuilt-replacement-collection-container-1000ml) (accessed May 2026). States: "The clear body is made from Tritan from Eastman Plastics. This heat tolerant plastic is BPA, and plasticiser free."
+
+[^ism-pet]: ISM Industrial, [*Chemical Compatibility Chart — Polyethylene Terephthalate (PET)*](https://www.industrialspec.com/images/files/polyethylene-terephthalate-chemical-compatibility-chart-from-ism.pdf). ISM's scale: A = Excellent, B = Good/minor effect, F = Fair, D = Severe effect. Rates PET as A for phosphoric acid, acetic acid, lactic acid, and ethanol at homebrewing concentrations. Used here as the conservative benchmark for Tritan; Tritan's TMCD-enhanced ester stability gives no reason to expect worse performance than PET on any of these substances.
