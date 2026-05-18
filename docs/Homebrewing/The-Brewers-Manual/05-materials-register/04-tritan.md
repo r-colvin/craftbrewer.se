@@ -91,7 +91,11 @@ Per-material accumulation charts — mapping WDC exposure against damage thresho
 
 ## Compatibility — DES: A
 
-No concern.
+<GlossaryTerm term="DES">DES</GlossaryTerm> (ethanol-based sanitiser) at 70–80% has no meaningful interaction with Tritan at typical contact times. Tritan's ester backbone is susceptible in principle to ester hydrolysis, but ethanol alone is not an effective hydrolysis agent — hydrolysis requires either strong acid or strong alkali as the active agent, not a neutral alcohol. The [ISM chemical compatibility chart](https://www.industrialspec.com/images/files/polyethylene-terephthalate-chemical-compatibility-chart-from-ism.pdf) rates PET (the closest-characterised copolyester) as **A** for ethanol at all concentrations; Tritan's TMCD-enhanced ester stability gives no reason to expect worse performance.
+
+For spray application — the standard DES use case — contact is brief and the ethanol evaporates, leaving no residue. No concern.
+
+For sealed sustained contact — storing dilute or concentrated ethanol-based sanitiser in a Tritan vessel for extended periods — slow ethanol permeation through the vessel wall is theoretically possible at high concentrations over weeks to months, as it is for PET and other polyesters. For a collection container or similar article used and emptied between batches, this is not a realistic scenario. If using a Tritan article for long-term DES storage, glass is the more appropriate choice as it is for any high-concentration alcohol storage.
 
 ## Compatibility — Cleaning: A
 
