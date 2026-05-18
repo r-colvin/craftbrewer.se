@@ -1,5 +1,5 @@
 ---
-sidebar_position: 19
+sidebar_position: 16
 title: Stainless steel 304 and 316L
 ---
 

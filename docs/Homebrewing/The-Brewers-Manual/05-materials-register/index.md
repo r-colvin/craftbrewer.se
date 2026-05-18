@@ -55,29 +55,27 @@ Where the Cleaning rating carries a dagger (A†, B†), the overall rating appl
 | [Polypropylene (PP)](./01-pp.md) | Fermenter buckets, lids, taps, airlocks | A | A | A | A |
 | [High-density polyethylene (HDPE)](./02-hdpe.md) | Taps, spray bottles, chemical storage | A | A | A | A |
 | [Polyethylene terephthalate (PET)](./03-pet.md) | FermZilla vessel, Oxebar keg, PET bottles | A | A | A† | A |
-| [Tritan copolyester](./04-tritan.md) | FermZilla Tri-Conical collection container | B | A | A | A |
-| [Polystyrene — GPPS](./05-ps-san.md) | Airlocks (unconfirmed grade) | B | A | A | A |
-| [Styrene-acrylonitrile (SAN)](./05-ps-san.md) | Airlocks (confirmed grade) | A | A | A | A |
-| [Polycarbonate (PC)](./06-pc.md) | Siphons, bottling wands, sight glasses, some airlocks; older carboys | A | A | A | A†† |
-| [Polyketone (POK)](./07-pok.md) | DuoTight fittings, RAPT Pill body | A | A | A | A |
-| [Polyoxymethylene (POM / Acetal)](./08-pom.md) | John Guest fittings, older DuoTight | D–X | A | A | A†† |
-| [Nylon 12](./09-nylon12.md) | Accessories, some sealing components | A | A | A | A |
+| [Polystyrene — GPPS and SAN](./05-ps-san.md) | Airlocks (unconfirmed grade: GPPS; confirmed grade: SAN) | B / A | A | A | A |
 | [EPDM rubber](./10-epdm.md) | Fermenter grommets, tap washers | B‡ | A | A | A |
 | [Silicone (platinum-cured)](./11-silicone.md) | Bungs, hose, tap washers | B | A | A | A |
+| [Polyoxymethylene (POM / Acetal)](./08-pom.md) | John Guest fittings, older DuoTight | D–X | A | A | A†† |
+| [Polyketone (POK)](./07-pok.md) | DuoTight fittings, RAPT Pill body | A | A | A | A |
+| [Nylon 12](./09-nylon12.md) | Accessories, some sealing components | A | A | A | A |
 | [Natural rubber (NR)](./12-nr.md) | Budget grommets and washers — replace | D | C–D | — | D |
 | [Styrene-butadiene rubber (SBR)](./13-sbr.md) | Budget grommets and washers — replace | D | C–D | — | D |
 | [Nitrile rubber (NBR)](./14-nbr.md) | Some bottling wand seals | C | C | A | A |
-| [Viton — peroxide-cured](./15-viton.md) | Spray bottle seals, O-rings | A–B | B | A | A |
-| [Viton — polyamine-cured](./15-viton.md) | Spray bottle seals, O-rings | C | B | A | A |
-| [Santoprene (thermoplastic vulcanisate, TPV)](./16-santoprene.md) | Oxebar Gen2 elbow, NukaTap shuttle | A–B | A | A | A |
-| [LOW2](./17-low2.md) | FermZilla lid O-ring, Corny keg lid O-ring | B | A | A | A |
+| [Polycarbonate (PC)](./06-pc.md) | Siphons, bottling wands, sight glasses, some airlocks; older carboys | A | A | A | A†† |
 | [EVABarrier](./18-evabarrier.md) | Beer line tubing | A | A | A | A |
+| [Santoprene (thermoplastic vulcanisate, TPV)](./16-santoprene.md) | Oxebar Gen2 elbow, NukaTap shuttle | A–B | A | A | A |
 | [Stainless steel 304/316L](./19-stainless.md) | Cornelius kegs, mini kegs, NukaTap body | A | A | A | A |
 | [Glass](./20-glass.md) | Airlocks, test jars, bottles | A | A | A | A |
-| [PTFE](./21-ptfe.md) | Thread seal tape, filter discs, gaskets | A | A | A | A |
 | [Aluminium](./22-aluminium.md) | Foil covers for flask openings (no direct liquid contact); aluminium cans have an internal polymer liner — the aluminium is not the food-contact surface | B/D§ | A | A | A |
 | [Crown cap body (tinplate or TFS steel)](./23-crown-cap-liners.md) | Crown cap shell | A | A | A | A |
-| [Crown cap liners](./23-crown-cap-liners.md) | PVC-free PE liner (standard caps): A; O₂-scavenging liner: avoid | A / avoid‖ | A | — | A |
+| [LOW2](./17-low2.md) | FermZilla lid O-ring, Corny keg lid O-ring | B | A | A | A |
+| [Viton — peroxide-cured](./15-viton.md) | Spray bottle seals, O-rings | A–B | B | A | A |
+| [Viton — polyamine-cured](./15-viton.md) | Spray bottle seals, O-rings | C | B | A | A |
+| [PTFE](./21-ptfe.md) | Thread seal tape, filter discs, gaskets | A | A | A | A |
+| [Tritan copolyester](./04-tritan.md) | FermZilla Tri-Conical collection container | B | A | A | A |
 
 *† PET Cleaning: A for oxidising cleaners (ChemiPro OXI) and low-metasilicate percarbonate (PBW, Enzybrew 10). High-metasilicate percarbonate cleaners (StellarClean, ChemClean, ChemiPro Wash) require limited contact time (30 minutes maximum) and should not be used hot. Follow manufacturer guidance for each vessel. See the [PET page](./03-pet.md) for the full analysis.*
 
