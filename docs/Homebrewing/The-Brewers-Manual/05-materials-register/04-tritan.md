@@ -36,7 +36,7 @@ Tritan has a well-documented food contact safety profile for a relatively young 
 
 Under [EU Regulation 10/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923), the TMCD monomer is approved for repeated-use food contact applications.[^eastman-safety] The key monomers — DMT and CHDM — are established food contact substances under EU and US frameworks. The <GlossaryTerm term="SML">specific migration limits</GlossaryTerm> for Tritan's constituent monomers are not approached in normal use.
 
-The full food contact compliance framework — what makes an article food grade, <GlossaryTerm term="GMP">GMP</GlossaryTerm> requirements, EU simulant testing conditions, DoC structure, repeated-use provisions, and what to do without a DoC — is covered on the [Food contact compliance](./00-food-contact-compliance.md) page. Everything there applies to Tritan. This section covers only what is specific to Tritan.
+The full food contact compliance framework — what makes an article food grade, <GlossaryTerm term="GMP">GMP</GlossaryTerm> requirements, EU simulant testing conditions, DoC structure, repeated-use provisions, and what to do without a DoC — is covered on the [Food contact compliance](./00-food-contact-compliance.md) page. This section covers only what is specific to Tritan.
 
 ### What makes a Tritan article food grade?
 
@@ -46,9 +46,7 @@ For homebrewing purposes, the collection container is the only Tritan article in
 
 ### DoC availability for Tritan articles
 
-No Declaration of Conformity has been retrieved from KegLand for the FermZilla Tri-Conical collection container. This is consistent with the pattern across homebrewing equipment generally — the material is named, BPA-free and food-grade claims are made, and no DoC is publicly available. The absence of a DoC does not indicate non-compliance; it reflects the norm for homebrewing-market articles. For examples of what a DoC covers and does not cover in practice, see the [PP page](./01-pp.md#food-grade-status).
-
-For Tritan articles sourced outside the homebrewing market — reusable water bottles, food storage containers — documentation is more accessible; many manufacturers in the consumer goods market publish DoCs or provide them on request. If building equipment from non-homebrew Tritan articles, a DoC is more likely to be obtainable.
+No Declaration of Conformity has been retrieved from KegLand for the FermZilla Tri-Conical collection container. This is consistent with the pattern across homebrewing equipment generally — the material is named, BPA-free and food-grade claims are made, and no DoC is publicly available. The absence of a DoC does not indicate non-compliance; it reflects the norm for homebrewing-market articles. For the food contact compliance framework — what this means, how to assess undocumented equipment, and examples of what a DoC covers and does not cover — see the [Food contact compliance](./00-food-contact-compliance.md) page.
 
 ## Temperature limits
 
@@ -56,7 +54,7 @@ For Tritan articles sourced outside the homebrewing market — reusable water bo
 
 The ester linkage is more resistant than standard PET due to the TMCD comonomer structure, but a standard sanitise-and-drain cycle carries modest hydrolytic risk over many repeated cycles. Rated **B** rather than **A** as a precaution — the TMCD structure provides improvement over PET but has less accumulated real-world contact data at the concentrations of concern. The [WDC model](../04-wdc-model.md) applies: rinsing or cleaning between uses prevents residue accumulation on Tritan surfaces.
 
-Appropriate for the collection container role, where ABNS contact is limited to brew-day sanitisation. The heat resistance advantage over PET (Tritan handles contact up to 100 °C, which PET cannot) makes it a materially better choice for a component that may receive hot water cleaning.
+Appropriate for the collection container role, where ABNS contact is limited to brew-day sanitisation.
 
 :::note WDC accumulation charts
 Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are in preparation and will be added to this register.
