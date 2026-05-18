@@ -103,11 +103,11 @@ Tritan's suitability for short-term contact with ethanol-based and chemical solu
 
 Tritan is compatible with all [cleaning product categories](../03-cleaning.md) used in homebrewing at working concentrations and temperatures. Throughout this page Tritan is compared to PET where relevant — PET is the closest well-characterised copolyester and the most useful benchmark; Tritan is not a polyolefin and PP or HDPE comparisons are less informative. The TMCD-enhanced ester backbone provides better resistance to alkaline hydrolysis than standard PET, and the heat resistance advantage (100 °C rated) means hot water cleaning is available as an option where it is not for PET articles.
 
-**[Alkaline percarbonate cleaners](../03-cleaning.md#alkaline-percarbonate-cleaners) (StellarClean, Five Star PBW, ChemClean, ChemiPro Wash, and equivalents):** The active cleaning agent is sodium percarbonate, which breaks down to hydrogen peroxide and sodium carbonate in solution. Tritan's ester linkage is susceptible to alkaline hydrolysis in principle, but working-concentration percarbonate solution at homebrewing temperatures (ambient to 40 °C) presents a negligible hydrolysis rate. These cleaners are appropriate for Tritan at standard contact times — a 20–30 minute soak at working concentration. Extended hot soaks (hours at elevated temperature) are not necessary and should be avoided. Rating: **A**.
-
 :::note KegLand StellarClean and Five Star PBW
 KegLand markets StellarClean as *Powerful Brewery Wash*; Five Star makes a separate product, *Powdered Brewery Wash*. Different products, different formulations — but both are alkaline percarbonate cleaners and both rate **A** for Tritan with no contact time limit at working concentration.
 :::
+
+**[Alkaline percarbonate cleaners](../03-cleaning.md#alkaline-percarbonate-cleaners) (StellarClean, Five Star PBW, ChemClean, ChemiPro Wash, and equivalents):** The active cleaning agent is sodium percarbonate, which breaks down to hydrogen peroxide and sodium carbonate in solution. Tritan's ester linkage is susceptible to alkaline hydrolysis in principle, but working-concentration percarbonate solution at homebrewing temperatures (ambient to 40 °C) presents a negligible hydrolysis rate. These cleaners are appropriate for Tritan at standard contact times — a 20–30 minute soak at working concentration. Extended hot soaks (hours at elevated temperature) are not necessary and should be avoided. Rating: **A**.
 
 **Phosphate-based alkaline cleaners (Grainfather High Performance Cleaner, and equivalents):** Sodium tripolyphosphate (STPP) as the primary cleaning agent, with trace metasilicate. Tritan is fully resistant to STPP and phosphate-based formulations at homebrewing concentrations. Rating: **A**.
 
