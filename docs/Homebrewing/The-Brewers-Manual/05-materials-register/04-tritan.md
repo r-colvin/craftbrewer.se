@@ -167,7 +167,7 @@ The principle across all these signals is the same: compliance testing is conduc
 
 ## Summary by article type
 
-Tritan rates **A** across DES, Cleaning, and beer/wort columns, and **B** for ABNS. The practical picture varies by article geometry and use pattern. The table below covers the Tritan articles currently in the register; the principles on this page apply to any Tritan article a reader encounters.
+Tritan rates **A** across DES, Cleaning, and beer/wort columns, and **B** for ABNS. The table below covers the Tritan articles currently in the register. The articles listed here represent known examples; this is not an exhaustive list. A reader with an unlisted Tritan article should use the table as a reference — applying the principles on this page to their specific article and its geometry. The table aims to cover the zone geometries most likely to be encountered for Tritan in homebrewing; a new article in a geometry not listed here should be assessed using the [WDC zone model](../04-wdc-model.md).
 
 | Article | Food grade | Temp limits | ABNS WDC | DES | Cleaning |
 |---|---|---|---|---|---|
