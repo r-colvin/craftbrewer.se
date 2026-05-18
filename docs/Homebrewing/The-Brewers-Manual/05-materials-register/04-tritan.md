@@ -3,17 +3,26 @@ sidebar_position: 4
 title: Tritan copolyester
 ---
 
+import ResinCode from '@site/src/components/ResinCode';
+import GlossaryTerm from '@theme/GlossaryTerm';
+
 # Tritan copolyester
 
 | | ABNS | DES | Cleaning | Beer/wort |
 |---|---|---|---|---|
 | **Rating** | B | A | A | A |
 
-Tritan is an Eastman-developed copolyester used in the FermZilla Tri-Conical collection container. It is a BPA-free alternative to polycarbonate with similar optical clarity and impact resistance. Its comonomers include 2,2,4,4-tetramethyl-1,3-cyclobutanediol (TMCD), which provides greater hydrolytic stability than standard PET through increased steric hindrance around the ester linkage.
+*The Cleaning column aggregates all cleaning product categories used in homebrewing at working concentrations. For a breakdown by cleaner type — alkaline percarbonate, phosphate-based, and oxidising — see the [Cleaning compatibility section](#compatibility--cleaning-a) below.*
 
-## Food contact status
+Tritan is a copolyester developed by Eastman Chemical Company and used in the [KegLand FermZilla Tri-Conical](https://kegland.com.au/products/fermzilla-tri-conical-fermenter) collection container — the clear vessel that collects yeast and trub dumped from the conical base during fermentation. It was developed as a BPA-free alternative to polycarbonate, offering similar optical clarity and impact resistance without the endocrine disruption concerns associated with bisphenol A. Outside brewing, Tritan appears in baby bottles, reusable water bottles, and food storage containers.
 
-**A**. FDA-approved, [EU Regulation 10/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923) compliant, confirmed free of oestrogenic activity by independent testing. Used in baby bottles and food storage applications.
+Chemically, Tritan is a copolymer built from three monomers: dimethyl terephthalate (DMT), 1,4-cyclohexanedimethanol (CHDM), and 2,2,4,4-tetramethyl-1,3-cyclobutanediol (TMCD). The TMCD comonomer is the key structural feature: its bulky cyclobutanediol ring introduces steric hindrance around the ester linkage, slowing the rate of hydrolytic attack compared to standard PET. This gives Tritan meaningfully better acid resistance than PET and dramatically better heat resistance — the collection container is rated for contact up to 100 °C, which PET cannot approach.
+
+## Identifying Tritan
+
+## Food grade status
+
+## Temperature limits
 
 ## Compatibility — ABNS: B
 
