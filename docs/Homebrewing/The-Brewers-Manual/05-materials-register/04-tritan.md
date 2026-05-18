@@ -20,6 +20,16 @@ Chemically, Tritan is a copolymer built from three monomers: dimethyl terephthal
 
 ## Identifying Tritan
 
+Tritan is a proprietary copolyester — it does not have a <GlossaryTerm term="RIC">Resin Identification Code</GlossaryTerm>. The standard resin identification system covers commodity plastics; Tritan falls outside it. No moulded code will be present on a Tritan article, and the absence of a code should not be taken as evidence that the material is unknown or unverified.
+
+For the FermZilla Tri-Conical collection container, material identification rests on manufacturer documentation. The [KegLand assembly guide](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-tri-conical-27l-and-55l-or-user-guide/assembly) explicitly names the collection container as "heat resistant Tritan plastic" and states its 100 °C hot liquid rating.[^kegland-assembly] The [replacement container product page](https://kegland.com.au/products/fermzilla-brewbuilt-replacement-collection-container-1000ml) confirms "Tritan from Eastman Plastics" and its BPA- and plasticiser-free status.[^kegland-replacement] This is the strongest form of material confirmation available for a homebrewing article — named manufacturer, named polymer, and linked documentation.
+
+Visually, Tritan is crystal clear with a glass-like appearance. It is noticeably clearer than PET under typical lighting and has none of the slight blue tint sometimes seen in polycarbonate. The collection container's glass-like transparency is itself a functional feature: it allows the brewer to monitor fermentation activity and assess the volume and composition of collected material without removing the container.
+
+:::note Images
+*Images showing the collection container in situ on the FermZilla Tri-Conical, the glass-like clarity of the Tritan body, and the base of the container confirming the absence of a RIC code are planned for this section.*
+:::
+
 ## Food grade status
 
 ## Temperature limits
@@ -46,4 +56,6 @@ No concern at homebrewing concentrations and temperatures.
 
 No concern.
 
-[^kegland-assembly]: KegLand. *FermZilla Tri-Conical 27L and 55L — User Guide: Assembly*. KegLand Documentation. <https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-tri-conical-27l-and-55l-or-user-guide/assembly>. Retrieved 2026-05-18.
+[^kegland-assembly]: KegLand, [*FermZilla Tri-Conical 27L and 55L — User Guide: Assembly*](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-tri-conical-27l-and-55l-or-user-guide/assembly) (accessed May 2026). States: "The FermZilla 600ml Collection Container is made from heat resistant Tritan plastic. This is robust, heat and chemical resistant and can also handle extended contact with hot liquid at 100°C (212°F)."
+
+[^kegland-replacement]: KegLand, [*FermZilla BrewBuilt Replacement Collection Container 1000ml*](https://kegland.com.au/products/fermzilla-brewbuilt-replacement-collection-container-1000ml) (accessed May 2026). States: "The clear body is made from Tritan from Eastman Plastics. This heat tolerant plastic is BPA, and plasticiser free."
