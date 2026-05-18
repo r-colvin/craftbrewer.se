@@ -14,7 +14,7 @@ import GlossaryTerm from '@theme/GlossaryTerm';
 
 *The Cleaning column aggregates all cleaning product categories used in homebrewing at working concentrations. For a breakdown by cleaner type — alkaline percarbonate, phosphate-based, and oxidising — see the [Cleaning compatibility section](#compatibility--cleaning-a) below.*
 
-Tritan is a copolyester developed by Eastman Chemical Company and used in the FermZilla Tri-Conical collection container — the clear vessel that collects yeast and trub dumped from the conical base during fermentation. It was developed as a BPA-free alternative to [polycarbonate](./06-pc.md), offering similar optical clarity and impact resistance without the endocrine disruption concerns associated with bisphenol A. Outside brewing, Tritan appears in baby bottles, reusable water bottles, and food storage containers.
+[Tritan is a copolyester](https://en.wikipedia.org/wiki/Tritan_copolyester) developed by [Eastman Chemical Company](https://www.eastman.com/en/products/brands/tritan/about/safety) and used in the [FermZilla Tri-Conical collection container](https://kegland.com.au/products/fermzilla-brewbuilt-replacement-collection-container-1000ml) — the clear vessel that collects yeast and trub dumped from the conical base during fermentation. It was developed as a BPA-free alternative to [polycarbonate](./06-pc.md), offering similar optical clarity and impact resistance [without the endocrine disruption concerns associated with bisphenol A](https://www.eastman.com/en/products/brands/tritan/about/faqs).[^eastman-safety] Outside brewing, Tritan appears in baby bottles, reusable water bottles, and food storage containers.[^eastman-safety]
 
 Chemically, Tritan is a copolymer built from three monomers: dimethyl terephthalate (DMT), 1,4-cyclohexanedimethanol (CHDM), and 2,2,4,4-tetramethyl-1,3-cyclobutanediol (TMCD). The TMCD comonomer is the key structural feature: its bulky cyclobutanediol ring introduces steric hindrance around the ester linkage, slowing the rate of hydrolytic attack compared to standard PET. This gives Tritan meaningfully better acid resistance than PET and dramatically better heat resistance — the [KegLand documentation explicitly states](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-tri-conical-27l-and-55l-or-user-guide/assembly) that the collection container can handle extended contact with hot liquid at 100 °C.[^kegland-assembly]
 
@@ -55,6 +55,8 @@ No concern at homebrewing concentrations and temperatures.
 ## Compatibility — beer/wort: A
 
 No concern.
+
+[^eastman-safety]: Eastman Chemical Company, [*Tritan Safety*](https://www.eastman.com/en/products/brands/tritan/about/safety) (accessed May 2026). States that Tritan is used in "thousands of food contact products around the world, including water bottles, blenders and food storage containers"; is free of BPA, BPS, phthalates, halogens, and chlorine; and has no estrogenic or androgenic activity as confirmed by third-party testing. Cleared for food contact use by the FDA, EFSA, European Commission, Health Canada, and NSF International (NSF 51 and NSF 61).
 
 [^kegland-assembly]: KegLand, [*FermZilla Tri-Conical 27L and 55L — User Guide: Assembly*](https://docs.kegland.com.au/products/fermentation-equipment/fermzilla-tri-conical-27l-and-55l-or-user-guide/assembly) (accessed May 2026). States: "The FermZilla 600ml Collection Container is made from heat resistant Tritan plastic. This is robust, heat and chemical resistant and can also handle extended contact with hot liquid at 100°C (212°F)."
 
