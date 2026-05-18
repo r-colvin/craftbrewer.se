@@ -101,7 +101,19 @@ Tritan's suitability for short-term contact with ethanol-based and chemical solu
 
 ## Compatibility — Cleaning: A
 
-No concern at homebrewing concentrations and temperatures.
+Tritan is compatible with all cleaning product categories used in homebrewing at working concentrations and temperatures. The TMCD-enhanced ester backbone provides better resistance to alkaline hydrolysis than standard PET, and the heat resistance advantage (100 °C rated) means hot water cleaning is available as an option where it is not for PET articles.
+
+**[Alkaline percarbonate cleaners](../03-cleaning.md#alkaline-percarbonate-cleaners) (PBW, StellarClean, and equivalents):** The active cleaning agent is sodium percarbonate, which breaks down to hydrogen peroxide and sodium carbonate in solution. Tritan's ester linkage is susceptible to alkaline hydrolysis in principle, but working-concentration percarbonate solution at homebrewing temperatures (ambient to 40 °C) presents a negligible hydrolysis rate. These cleaners are appropriate for Tritan at standard contact times — a 20–30 minute soak at working concentration. Extended hot soaks (hours at elevated temperature) are not necessary and should be avoided. Rating: **A**.
+
+:::note
+StellarClean and PBW are both alkaline percarbonate cleaners — different brand names, same chemistry class.
+:::
+
+**Phosphate-based alkaline cleaners (Five Star PBW, Chemipro Base, and equivalents):** Similar mechanism to percarbonate cleaners; the alkaline component is the relevant factor for Tritan compatibility. At working concentration and ambient to warm temperatures, no concern. Rating: **A**.
+
+**Oxidising cleaners (ChemiPro OXI, StellarOxy, and equivalents):** No oxidative attack mechanism on Tritan's saturated polyester backbone at homebrewing concentrations. Rating: **A**.
+
+**Caustic cleaners (NaOH-based — VWP and equivalents):** Out of scope for this guide; see the [Cleaning](../03-cleaning.md) page for context. Tritan's ester linkage is more resistant to alkaline hydrolysis than standard PET due to the TMCD structure, but concentrated NaOH is not a homebrewing cleaning agent and no verdict is offered here.
 
 ## Compatibility — beer/wort: A
 
