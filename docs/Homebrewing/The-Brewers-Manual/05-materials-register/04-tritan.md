@@ -97,6 +97,8 @@ For spray application — the standard DES use case — contact is brief and the
 
 For sealed sustained contact — storing dilute or concentrated ethanol-based sanitiser in a Tritan vessel for extended periods — slow ethanol permeation through the vessel wall is theoretically possible at high concentrations over weeks to months, as it is for PET and other polyesters. For a collection container or similar article used and emptied between batches, this is not a realistic scenario. If using a Tritan article for long-term DES storage, glass is the more appropriate choice as it is for any high-concentration alcohol storage.
 
+Tritan's suitability for short-term contact with ethanol-based and chemical solutions is further supported by KegLand listing uses for the collection container that include reagent bottle and yeast culturing — both of which presuppose compatibility with sanitising solutions at typical contact times.[^kegland-assembly]
+
 ## Compatibility — Cleaning: A
 
 No concern at homebrewing concentrations and temperatures.
