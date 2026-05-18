@@ -64,9 +64,26 @@ Tritan's headline temperature advantage over standard copolyesters is well-docum
 
 ## Compatibility — ABNS: B
 
-The ester linkage is more resistant than standard PET due to the TMCD comonomer structure, but a standard sanitise-and-drain cycle carries modest hydrolytic risk over many repeated cycles. Rated **B** rather than **A** as a precaution — the TMCD structure provides improvement over PET but has less accumulated real-world contact data at the concentrations of concern. The [WDC model](../04-wdc-model.md) applies: rinsing or cleaning between uses prevents residue accumulation on Tritan surfaces.
+Working-dilution ABNS sanitiser (StellarSan, Star San, Sanipro Rinse, and equivalents) is usable with Tritan at the collection container's exposure level, but is rated **B** rather than **A** — a precautionary rating reflecting Tritan's ester backbone and the relative absence of Tritan-specific compatibility data at ABNS concentrations. Both active components are considered separately.
 
-Appropriate for the collection container role, where ABNS contact is limited to brew-day sanitisation.
+**Phosphoric acid component.** Tritan's ester linkage is meaningfully more resistant to acid hydrolysis than standard PET's, because the TMCD comonomer's bulky cyclobutanediol ring introduces steric hindrance around the ester bond. This slows the rate of hydrolytic attack. At working-dilution ABNS pH (3.0–3.5) and ambient temperature, the ester hydrolysis rate for Tritan is negligible for any single contact event. No concern from phosphoric acid at working dilution.
+
+**<GlossaryTerm term="DDBSA">DDBSA</GlossaryTerm> component.** Tritan contains terephthalate-derived aromatic rings — the same structural feature that gives PET its pi–pi stacking susceptibility to DDBSA. The TMCD comonomer partially disrupts chain regularity and reduces crystallinity compared to standard PET, which may slightly increase the accessible amorphous fraction. The net DDBSA interaction for Tritan versus PET is not characterised to a published threshold — both materials carry aromatic rings susceptible to non-covalent pi–pi interaction with DDBSA's dodecylbenzene group, and Tritan's behaviour under accumulated DDBSA WDC conditions is not known from direct experimental data. At working dilution and a single sanitisation cycle, the interaction is expected to be minor and reversible, as it is for PET.
+
+**No published damage threshold.** No specific published threshold exists for DDBSA-driven damage in Tritan under homebrewing WDC conditions. The B rating reflects this uncertainty — Tritan's chemistry warrants the same caution as PET on DDBSA WDC accumulation, without the benefit of PET's extensive real-world contact data. The conclusion that Tritan is appropriate for the collection container role rests on the chemistry (TMCD steric hindrance, limited single-cycle exposure), on the article's Zone A geometry, and on the low exposure level of the specific role — not on a published Tritan-specific damage threshold.
+
+**Single cycle vs accumulated WDC.** A single sanitisation cycle at working dilution does not create a WDC concern for Tritan. The concern, where it exists, is cumulative: repeated cycles without cleaning between uses allow ABNS residue to concentrate on surfaces that dry between cycles. For the collection container — emptied, rinsed, and typically cleaned after each batch — accumulation is reset at each clean. WDC concern is low under normal use discipline.
+
+**Structural vs migration.** These are distinct concerns. Any WDC-driven chemical interaction at the Tritan surface is a **structural** concern — surface softening, micro-crazing, or ESC at mechanically stressed geometry. Migration of Tritan monomers into beer or sanitiser is a separate question governed by the food contact compliance framework and Eastman's safety data. At homebrewing temperatures and contact times, migration from compliant undamaged Tritan is expected to be well within the conservative EU simulant test conditions. A damaged surface — one showing cloudiness, crazing, or dimensional change — should be retired regardless of the cause, because the compliance data no longer applies.
+
+**Collection container geometry — Zone A.** The collection container interior is [Zone A — open surface](../04-wdc-model.md#zone-a--open-surfaces) geometry. ABNS drains freely from the smooth interior wall; there are no thread roots, confined crevices, or compressed interfaces where residue concentrates. The [DuoTight case study](../case-studies/duotight.md), in which Zone B geometry drove progressive failure, is instructive context: the collection container does not share that geometry. The threaded ports on the collection container lid — if carbonation caps or other fittings are attached — are the only Zone B interfaces present, and ABNS contact at those points follows the same caution as for any threaded fitting.
+
+**Articles by zone:**
+
+| Article | Zone | WDC concern |
+|---|---|---|
+| Collection container interior | A — open surface | Low; drains freely, cleaned between batches |
+| Threaded ports (if fittings attached) | B — confined geometry | Monitor; residue can concentrate at thread roots |
 
 :::note WDC accumulation charts
 Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are in preparation and will be added to this register.
