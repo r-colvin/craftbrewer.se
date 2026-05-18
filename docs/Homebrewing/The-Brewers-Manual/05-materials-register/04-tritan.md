@@ -32,6 +32,24 @@ Visually, Tritan is crystal clear with a glass-like appearance. It is noticeably
 
 ## Food grade status
 
+Tritan has a well-documented food contact safety profile for a relatively young material — a consequence of Eastman's deliberate investment in regulatory clearance as part of its positioning against polycarbonate. It has been cleared for food contact use by the FDA, EFSA, the European Commission, Health Canada, and NSF International (NSF 51 for food equipment materials and NSF 61 for drinking-water system components).[^eastman-safety]
+
+Under [EU Regulation 10/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923), the TMCD monomer is approved for repeated-use food contact applications.[^eastman-safety] The key monomers — DMT and CHDM — are established food contact substances under EU and US frameworks. The <GlossaryTerm term="SML">specific migration limits</GlossaryTerm> for Tritan's constituent monomers are not approached in normal use.
+
+The full food contact compliance framework — what makes an article food grade, <GlossaryTerm term="GMP">GMP</GlossaryTerm> requirements, EU simulant testing conditions, DoC structure, repeated-use provisions, and what to do without a DoC — is covered on the [Food contact compliance](./00-food-contact-compliance.md) page. Everything there applies to Tritan. This section covers only what is specific to Tritan.
+
+### What makes a Tritan article food grade?
+
+As with all thermoplastics, the polymer backbone is not the primary concern — the distinction between food grade and non-food grade Tritan lies in whether the article has been manufactured under <GlossaryTerm term="GMP">GMP</GlossaryTerm> conditions using approved additives and colorants. Tritan itself is free of BPA, BPS, phthalates, halogens, chlorine, and compounds with estrogenic or androgenic activity, as confirmed by third-party testing.[^eastman-safety] The [KegLand replacement container product page](https://kegland.com.au/products/fermzilla-brewbuilt-replacement-collection-container-1000ml) explicitly states it is BPA- and plasticiser-free.[^kegland-replacement]
+
+For homebrewing purposes, the collection container is the only Tritan article in the register. KegLand's product documentation confirms the material and its food contact suitability; no further additive-level documentation has been retrieved.
+
+### DoC availability for Tritan articles
+
+No Declaration of Conformity has been retrieved from KegLand for the FermZilla Tri-Conical collection container. This is consistent with the pattern across homebrewing equipment generally — the material is named, BPA-free and food-grade claims are made, and no DoC is publicly available. The absence of a DoC does not indicate non-compliance; it reflects the norm for homebrewing-market articles. For examples of what a DoC covers and does not cover in practice, see the [PP page](./01-pp.md#food-grade-status).
+
+For Tritan articles sourced outside the homebrewing market — reusable water bottles, food storage containers — documentation is more accessible; many manufacturers in the consumer goods market publish DoCs or provide them on request. If building equipment from non-homebrew Tritan articles, a DoC is more likely to be obtainable.
+
 ## Temperature limits
 
 ## Compatibility — ABNS: B
