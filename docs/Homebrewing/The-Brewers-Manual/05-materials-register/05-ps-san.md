@@ -13,7 +13,7 @@ import GlossaryTerm from '@theme/GlossaryTerm';
 | **GPPS rating** | B (working dilution) / D (WDC) | B | A | A |
 | **SAN rating** | A | A | A | A |
 
-*The Cleaning column aggregates all cleaning product categories used in homebrewing at working concentrations. For a breakdown by cleaner type — alkaline percarbonate, phosphate-based, and oxidising — see the [Cleaning compatibility section](#compatibility-cleaning-gpps-a-san-a) below.*
+*The Cleaning column aggregates all cleaning product categories used in homebrewing at working concentrations. For a breakdown by cleaner type — alkaline percarbonate, phosphate-based, and oxidising — see the Cleaning compatibility section below.*
 
 This page covers two chemically related but practically different materials. Both are styrene-based, both are transparent, and in the homebrewing articles identified so far, both appear primarily in compact airlocks. They look identical in service. The similarity ends at appearance. General-purpose polystyrene (GPPS) is amorphous, brittle, and chemically vulnerable to the surfactant component of ABNS sanitisers. Styrene-acrylonitrile copolymer (SAN) is harder, more chemically resistant, and rates **A** for ABNS where GPPS does not. The page addresses both because the entire practical question is which one you have — and how to find out.
 
