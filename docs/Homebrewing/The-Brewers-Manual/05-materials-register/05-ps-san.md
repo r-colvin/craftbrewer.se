@@ -226,7 +226,7 @@ For an undamaged GPPS airlock at ambient fermentation temperatures, styrene migr
 
 For SAN, the same logic applies to acrylonitrile (SML: not detectable) — undamaged surfaces at ambient temperature are not expected to present a concern; damaged surfaces are untested.
 
-The airlock is not in direct contact with the beer under normal conditions. Suck-back during cold crash is the exception — for a quantified assessment see the [zone ratings section above](#abns-zone-ratings-for-ps-airlock-geometry), and for operational guidance see the [Airlock equipment page](../Equipment/08-airlocks.md). The short version: styrene exposure from a suck-back event is negligible due to the volume ratio; ABNS fill liquid suck-back is a taste concern, not a toxicology concern. Use water fill liquid.
+The airlock is not in direct contact with the beer under normal conditions. Suck-back during cold crash is the exception — for quantified risk and operational guidance see the [Airlock equipment page](../Equipment/08-airlocks.md) and the zone ratings in the ABNS section above. The short version: styrene exposure from a suck-back event is negligible due to the volume ratio; ABNS fill liquid suck-back is a taste concern, not a toxicology concern. Use water fill liquid.
 
 ### Cost and service life
 
