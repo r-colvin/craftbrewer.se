@@ -120,21 +120,44 @@ The contrast between GPPS and chemically robust materials is illustrated most cl
 
 ### ABNS and the Enolandia airlock — the zone analysis
 
-The Enolandia compact airlock has two zones of ABNS contact in normal use:
+:::note Airlock equipment page
+The operational detail behind this zone analysis — installation workflow, sanitisation method, fill liquid choice, washing practicality during fermentation, and the full workflow discussion — is covered on the [Airlock equipment page](../../Equipment/airlocks.md). The analysis here covers the material behaviour; the equipment page covers what to do about it in practice.
+:::
 
-**Outer surfaces (sanitisation contact).** During ABNS sanitisation, the outer body contacts working-dilution ABNS, drains, and dries. This is a [Zone A](../04-wdc-model.md#zone-a--open-surfaces) scenario — open surface, drains freely, residue accumulates per cycle. For GPPS, each sanitise-and-dry event is a WDC: DDBSA concentrates to approximately 200,000 ppm in the dry film at CF≈667 — rated **D**. Repeated cycles accumulate WDC exposure on the outer surface with no reset mechanism except thorough washing.
+A compact PS airlock in normal use goes through several distinct ABNS contact scenarios, each with a different zone classification. The workflow matters: in the typical homebrewing pattern, the airlock is immersed in or sprayed with working-dilution ABNS, inserted directly into the fermenter grommet, and left in place throughout fermentation. It is not rinsed after sanitisation and is not practically washable once installed.
 
-**Liquid trap fill liquid.** The trough of the compact airlock holds fill liquid throughout fermentation — typically one to two weeks. If that liquid is working-dilution ABNS, it is in sustained contact with the inner surfaces at CF=1 (no evaporation, no concentration). For GPPS, sustained immersion at working dilution is rated **B** — the surfactant is present continuously, not episodically. The inner geometry of a compact airlock trap is also partially confined — closer to [Zone B](../04-wdc-model.md#zone-b--confined-geometry) than a flat open surface — meaning any residue does not drain as completely.
+**Outer body and inner surfaces above the fill line.** These surfaces are wetted with ABNS at installation, drain partially, and then dry in place — on the outer body into the air, on the inner upper surfaces into the enclosed airlock space. This is a [Zone A](../04-wdc-model.md#zone-a--open-surfaces) WDC event: DDBSA concentrates to approximately 200,000 ppm in the dry film at CF≈667. For GPPS, this is rated **D**. Critically, this is not a worst-case scenario — it is the normal outcome of a standard installation. The outer body WDC happens at every brew. Each top-up of ABNS fill liquid without first washing the airlock adds another WDC cycle to the inner upper surfaces, accumulating exposure with no reset mechanism.
 
-For SAN, both scenarios rate **A**.
+**Stem at grommet seat.** The stem is wet with ABNS at installation and is then pressed into the grommet under compression, where it remains for the duration of fermentation — typically one to two weeks. DDBSA dries onto the stem surface in the grommet contact zone and is held there under mechanical stress. This is [Zone C](../04-wdc-model.md#zone-c--compressed-contact-under-sustained-stress) — compressed contact with WDC-concentrated residue at a geometry that already carries injection moulding stress. For GPPS, this is the highest ESC risk point on the article. Rated **D**.
 
-| Article | Zone | ABNS — GPPS | ABNS — SAN |
+**Liquid trap fill liquid.** The trough holds fill liquid throughout fermentation at CF=1 (liquid, no concentration). For GPPS with ABNS fill liquid, sustained surfactant contact is rated **B**. If water is used, this zone is no longer a chemical concern.
+
+For SAN, all zones rate **A**.
+
+| Zone | Typical workflow outcome | ABNS — GPPS | ABNS — SAN |
 |---|---|---|---|
-| Airlock outer body (sanitisation) | [Zone A](../04-wdc-model.md#zone-a--open-surfaces) — drains after sanitising | B at working dilution; D at WDC residue | A |
-| Airlock liquid trap (fill liquid) | [Zone B](../04-wdc-model.md#zone-b--confined-geometry) — sustained contact | B (sustained; no WDC concentration) | A |
-| Airlock stem at grommet seat | [Zone B](../04-wdc-model.md#zone-b--confined-geometry)/[C](../04-wdc-model.md#zone-c--compressed-contact-under-sustained-stress) — compressed contact | B–D; highest ESC risk | A |
+| Outer body | WDC at every installation — D is the **normal** outcome, not the edge case | **D** | A |
+| Inner surfaces above fill line | WDC at installation; additional WDC on each ABNS top-up without washing | **D** (accumulates) | A |
+| Liquid trap (ABNS fill liquid) | [Zone B](../04-wdc-model.md#zone-b--confined-geometry) — sustained contact, no concentration | **B** | A |
+| Liquid trap (water fill liquid) | No chemical concern | **A** | A |
+| Stem at grommet seat | [Zone C](../04-wdc-model.md#zone-c--compressed-contact-under-sustained-stress) — WDC residue under compression | **D** | A |
 
-**Structural vs migration — two distinct concerns.** The analysis above addresses structural degradation — crazing, embrittlement, dimensional loss — which is the primary consequence of DDBSA-driven ESC on GPPS. There is a second concern that follows from structural degradation: if the GPPS surface crazes, the degraded surface presents higher accessible area for styrene monomer migration. Migration from an undamaged GPPS surface at ambient temperature is not expected to approach the 0.045 mg/kg SML. Migration from a crazed and degraded surface is not assessed — the compliance basis for the article no longer applies once visible damage is present. Retire and replace any airlock showing crazing or whitening. The cost of an airlock is not the cost of a batch.
+**Structural vs migration — two distinct concerns, different consequences.**
+
+The D ratings above are primarily **structural**: DDBSA-driven ESC causes crazing, embrittlement, and eventual loss of seal integrity at the grommet seat. This is the mechanism that kills the article. It is visible — inspect before each brew and retire at the first sign of crazing or whitening.
+
+Migration is a separate concern that follows from structural degradation. An undamaged GPPS surface at ambient temperature migrates styrene well within the 0.045 mg/kg SML. A crazed surface is untested — the compliance basis no longer applies. However, **the airlock is not in direct contact with the beer under normal conditions** — the fill liquid and the fermenter contents are separated by the airlock body. Migration from the airlock surface is therefore to the fill liquid, not to the beer.
+
+**Suck-back during cold crash.** The exception is suck-back, which is a realistic scenario during cold crash or any significant temperature drop: fermenter pressure drops, fill liquid is drawn into the fermenter. For a compact airlock, the trough volume is approximately 3–5 mL; a realistic suck-back event draws perhaps half of that — roughly 2–3 mL — into a 5 L batch.
+
+The risk can be quantified:
+
+- **DDBSA (if ABNS fill liquid):** 2.5 mL of working-dilution ABNS into 5 L beer delivers approximately 0.15 mg/kg DDBSA to the batch. This is a taste concern at sufficient concentration, not a toxicology concern. The established safe threshold for DDBSA in food is well above this level. The practical consequence of an ABNS suck-back event is: rinse with water, taste when fermentation is complete, rebrew if the beer is soapy or off. Replace the fill liquid with water going forward.
+- **Styrene migration:** Even taking the most conservative scenario — fill liquid in contact with a degraded GPPS surface at the full styrene SML of 0.045 mg/kg — a 2.5 mL suck-back into 5 L delivers a styrene concentration in the beer of approximately 0.00002 mg/kg, which is 0.05% of the SML. The geometry of the situation — tiny fill volume, large fermenter — means that even a worst-case suck-back event does not represent a meaningful styrene exposure via this route.
+
+**In plain terms:** if suck-back has occurred with ABNS fill liquid, the beer may taste soapy (taste the sample before serving). Replace with water fill liquid going forward. If suck-back has occurred with water fill liquid, the consequence is inconsequential. The structural degradation of the airlock over time is the primary concern — not the toxicology of a suck-back event.
+
+**If you are choosing an airlock for a brewery where cold crash is routine or where suck-back is a recurring issue, the correct preventive measure is to use water fill liquid and a material-confirmed airlock — SAN if available, or PP (KegLand airlocks are confirmed PP and carry no ABNS concern). A GPPS airlock with water fill liquid and routine inspection is workable; a GPPS airlock with ABNS fill liquid and cold crash is the combination to avoid.**
 
 :::note WDC accumulation charts
 Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are in preparation and will be added to this register.
@@ -215,11 +238,11 @@ Brief ABNS contact during sanitisation — spray or dip for the manufacturer's r
 
 ### Migration
 
-For an undamaged GPPS airlock at ambient fermentation temperatures, styrene migration into the water fill liquid is expected to be well within the 0.045 mg/kg SML. The concern arises if the surface is crazed or damaged (the compliance basis no longer applies), if the fill liquid is ABNS (which drives surface interaction), or if the airlock is exposed to elevated temperatures.
+For an undamaged GPPS airlock at ambient fermentation temperatures, styrene migration into the water fill liquid is expected to be well within the 0.045 mg/kg SML. The concern arises if the surface is crazed or damaged (the compliance basis no longer applies), if the fill liquid is ABNS (which drives surface interaction), or if the airlock is exposed to elevated temperatures.
 
 For SAN, the same logic applies to acrylonitrile (SML: not detectable) — undamaged surfaces at ambient temperature are not expected to present a concern; damaged surfaces are untested.
 
-The airlock fill liquid volume is small and does not contact the beer under normal conditions. Suck-back of fill liquid into the fermenter is possible under temperature differentials (cold crash, overnight temperature drop). The volume sucked back is small — typically a few millilitres — but it is the scenario where fill liquid choice matters most. Water suck-back into a fermenter: inconsequential. Chemical fill suck-back: introduces whatever is in the fill liquid, concentrated into a small volume. This is the additional practical reason to use water regardless of material.
+The airlock is not in direct contact with the beer under normal conditions. Suck-back during cold crash is the exception — for a quantified assessment of the risk and guidance on what to do if it has occurred, see the [zone analysis](#abns-and-the-enolandia-airlock--the-zone-analysis) in the ABNS compatibility section above. The short version: styrene exposure from a suck-back event is negligible due to the volume ratio; ABNS fill liquid suck-back is a taste concern, not a toxicology concern. Use water fill liquid.
 
 ### Cost and service life
 
