@@ -121,7 +121,7 @@ The contrast between GPPS and chemically robust materials is illustrated most cl
 ### ABNS and the Enolandia airlock — the zone analysis
 
 :::note Airlock equipment page
-The operational detail behind this zone analysis — installation workflow, sanitisation method, fill liquid choice, washing practicality during fermentation, and the full workflow discussion — is covered on the [Airlock equipment page](../../Equipment/airlocks.md). The analysis here covers the material behaviour; the equipment page covers what to do about it in practice.
+The operational detail behind this zone analysis — installation workflow, sanitisation method, fill liquid choice, washing practicality during fermentation, and the full workflow discussion — will be covered on the Airlock equipment page (in preparation). The analysis here covers the material behaviour; the equipment page will cover what to do about it in practice.
 :::
 
 A compact PS airlock in normal use goes through several distinct ABNS contact scenarios, each with a different zone classification. The workflow matters: in the typical homebrewing pattern, the airlock is immersed in or sprayed with working-dilution ABNS, inserted directly into the fermenter grommet, and left in place throughout fermentation. It is not rinsed after sanitisation and is not practically washable once installed.
@@ -242,7 +242,7 @@ For an undamaged GPPS airlock at ambient fermentation temperatures, styrene migr
 
 For SAN, the same logic applies to acrylonitrile (SML: not detectable) — undamaged surfaces at ambient temperature are not expected to present a concern; damaged surfaces are untested.
 
-The airlock is not in direct contact with the beer under normal conditions. Suck-back during cold crash is the exception — for a quantified assessment of the risk and guidance on what to do if it has occurred, see the [zone analysis](#abns-and-the-enolandia-airlock--the-zone-analysis) in the ABNS compatibility section above. The short version: styrene exposure from a suck-back event is negligible due to the volume ratio; ABNS fill liquid suck-back is a taste concern, not a toxicology concern. Use water fill liquid.
+The airlock is not in direct contact with the beer under normal conditions. Suck-back during cold crash is the exception — for a quantified assessment of the risk and guidance on what to do if it has occurred, see the [zone analysis](#abns-and-the-enolandia-airlock-the-zone-analysis) in the ABNS compatibility section above. The short version: styrene exposure from a suck-back event is negligible due to the volume ratio; ABNS fill liquid suck-back is a taste concern, not a toxicology concern. Use water fill liquid.
 
 ### Cost and service life
 
