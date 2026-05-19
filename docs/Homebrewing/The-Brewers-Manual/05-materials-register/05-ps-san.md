@@ -46,6 +46,8 @@ Enolandia's product photograph of the compact airlock shows a distinct bluish ti
 
 SAN also has higher surface hardness than GPPS and slightly different acoustic character when tapped — GPPS gives a higher, sharper ring; SAN is marginally more deadened. These differences are subtle and easily confounded by how the article is held, so they are not reliable as standalone tests. The acetone test is definitive; visual and acoustic inspection are not.
 
+**Primary observation — brief IPA contact.** One minute of 70% IPA contact (towel application to the stem) produced no visible or tactile change on either of two Enolandia airlocks tested (compact 2-piece and bubbler) — no hazing, no crazing, no change in surface feel. This is consistent with the **B** rating for brief DES contact on GPPS and with Enolandia's manufacturer compatibility claim for ethanol. It does not extend to sustained immersion, and it does not resolve the GPPS vs SAN grade question — both materials would survive brief IPA contact at this timescale.
+
 :::note Images
 *Images showing the Enolandia compact airlock, a typical RIC 6 marking on a PS article, and the visual similarity between GPPS and SAN articles — with guidance on where to look for material information — are planned for this section.*
 :::
