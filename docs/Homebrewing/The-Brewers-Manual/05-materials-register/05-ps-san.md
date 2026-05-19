@@ -201,6 +201,8 @@ The practical question is straightforward: **what grade is it?** Enolandia's dir
 
 **Until grade confirmation is received from Enolandia, treat the airlock as GPPS and apply the guidance below.**
 
+That said, the evidence collected to date supports a measured conclusion: used with water fill liquid and brief spray-and-drain sanitisation, these airlocks present no identified structural or toxicological concern under normal homebrewing use. The grade question affects long-term durability — how many seasons before crazing appears at the stem — not immediate safety.
+
 ### What PS airlocks are good for
 
 With the right process, GPPS airlocks are suitable for repeated homebrewing use:
@@ -266,6 +268,6 @@ The table below covers the PS and SAN articles currently in the register. These 
 
 ---
 
-[^1]: Enolandia, direct email correspondence with the author (date to be confirmed when email is retrieved). Enolandia confirmed: "all our products are certified for food contact and all our raw materials as well. BPA free. Compact Airlocks — Materials: Usually polystyrene. Compatible Sanitizers: Again, Star San and ethanol work well. Non-Compatible: Avoid bleach or ammonia-based sanitizers. Cleaners: PBW and StellarClean are suitable; avoid scrubbers or abrasive tools that might damage the surface." Grade (GPPS vs SAN) not specified in the correspondence. The airlock is patented — the patent number is stamped on the airlock body. [Enolandia product page](https://www.enolandia.it/en/prodotto/air-lock-compact-medium-for-container-up-to-60lt-2/) (accessed May 2026).
+[^1]: Enolandia, direct email correspondence with the author, 8 July 2025. Andrea Giannetto, Marketing & Sales, Commercial Department. Enolandia confirmed: "all our products are certified for food contact and all our raw materials as well. BPA free. Compact Airlocks — Materials: Usually polystyrene. Compatible Sanitizers: Again, Star San and ethanol work well. Non-Compatible: Avoid bleach or ammonia-based sanitizers. Cleaners: PBW and StellarClean are suitable; avoid scrubbers or abrasive tools that might damage the surface." Grade (GPPS vs SAN) not specified. The "usually" qualifier in the material statement implies possible production variation — grade confirmation remains outstanding. The airlock is patented — the patent number is stamped on the airlock body. [Enolandia product page](https://www.enolandia.it/en/prodotto/air-lock-compact-medium-for-container-up-to-60lt-2/) (accessed May 2026).
 
 [^2]: ISM Industrial, [*Chemical Compatibility Chart — Polystyrene*](https://www.industrialspec.com/images/files/polypropylene-chemical-compatibility-chart-from-ism.pdf) (September 2021). ISM's scale: A = Excellent, B = Good/minor effect, F = Fair, D = Severe effect. Rates PS as D for dodecylbenzene sulfonate (DDBSA) and D for ethanol at standard engineering concentrations and sustained contact conditions. These ratings reflect bulk chemical exposure — the distinction between brief spray contact and sustained immersion is not made in the chart. Covers general PS; SAN rates significantly better across most categories. Accessed May 2026.
