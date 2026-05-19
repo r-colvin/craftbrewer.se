@@ -15,7 +15,7 @@ import GlossaryTerm from '@theme/GlossaryTerm';
 
 *The Cleaning column aggregates all cleaning product categories used in homebrewing at working concentrations. For a breakdown by cleaner type — alkaline percarbonate, phosphate-based, and oxidising — see the Cleaning compatibility section below.*
 
-This page covers two chemically related but practically different materials. Both are styrene-based, both are transparent, and in the homebrewing articles identified so far, both appear primarily in compact airlocks. They look identical in service. The similarity ends at appearance. General-purpose polystyrene (GPPS) is amorphous, brittle, and chemically vulnerable to the surfactant component of ABNS sanitisers. Styrene-acrylonitrile copolymer (SAN) is harder, more chemically resistant, and rates **A** for ABNS where GPPS does not. The page addresses both because the entire practical question is which one you have — and how to find out.
+This page covers two chemically related but practically different materials. Both are styrene-based and both are transparent. In the homebrewing equipment identified so far, one of them — grade not yet confirmed — is the material used in compact airlocks. They look identical in service. The similarity ends at appearance. General-purpose polystyrene (GPPS) is amorphous, brittle, and chemically vulnerable to the surfactant component of ABNS sanitisers. Styrene-acrylonitrile copolymer (SAN) is harder, more chemically resistant, and rates **A** for ABNS where GPPS does not. The page addresses both because the entire practical question is which one you have — and how to find out.
 
 ## Identifying PS and SAN
 
@@ -91,7 +91,7 @@ This section determines the practical significance of the page. GPPS and SAN hav
 
 ### The mechanism — why GPPS is vulnerable
 
-GPPS is an amorphous polymer with pendant phenyl groups along the chain backbone. DDBSA — the surfactant component of ABNS, present at approximately 300 ppm in working-dilution StellarSan — carries an aromatic benzene ring that interacts with the PS phenyl groups through aromatic π–π stacking. This facilitates DDBSA's penetration into the polymer matrix. The surfactant reduces the surface energy of the polymer and lowers the energy required to propagate a crack from an existing surface defect — the mechanism is <GlossaryTerm term="ESC">environmental stress cracking</GlossaryTerm> (ESC).
+GPPS is an amorphous polymer with pendant phenyl groups along the chain backbone. DDBSA — the surfactant component of ABNS, present at approximately 300 ppm in working-dilution StellarSan — carries an aromatic benzene ring that interacts with the PS phenyl groups through aromatic pi-pi stacking. This facilitates DDBSA's penetration into the polymer matrix. The surfactant reduces the surface energy of the polymer and lowers the energy required to propagate a crack from an existing surface defect — the mechanism is <GlossaryTerm term="ESC">environmental stress cracking</GlossaryTerm> (ESC).
 
 Injection-moulded GPPS articles always carry residual moulding stresses, particularly at the gate, at thin-to-thick transitions, and at geometric stress concentrations — the stem of a compact airlock where it seats in the grommet is a typical example. These stressed zones are where ESC initiates. The crack propagates from the surface inward, visible as **crazing**: a network of fine surface cracks that scatter light, turning the previously clear material white or hazy.
 
@@ -103,14 +103,14 @@ The [ISM chemical compatibility chart](https://www.industrialspec.com/images/fil
 
 SAN introduces acrylonitrile co-monomer into the chain, typically at 20–30% by mass. The acrylonitrile groups are polar — they disrupt the regular aromatic structure that makes GPPS vulnerable. Two effects:
 
-1. **Reduced π–π stacking:** The acrylonitrile groups interrupt the phenyl group spacing along the chain, reducing the regularity of aromatic interactions that facilitate DDBSA penetration.
+1. **Reduced pi-pi stacking:** The acrylonitrile groups interrupt the phenyl group spacing along the chain, reducing the regularity of aromatic interactions that facilitate DDBSA penetration.
 2. **Polar character:** The nitrile group creates dipole interactions that compete with DDBSA's tendency to wet the surface and penetrate the matrix.
 
 The net result is substantially better resistance to anionic surfactants compared to GPPS. SAN rates **A** for ABNS at working dilution and under WDC conditions. The ISM chart is consistent with this rating.[^2]
 
 ### Epistemic honesty — what is known and what is not
 
-No published damage threshold exists for DDBSA on GPPS airlocks specifically. The B and D ratings on this page are chemistry-based assessments derived from ESC literature, ISM chart data, and the mechanism above — not from a measured cycle count at which visible crazing appears. The cycle count before visible damage depends on the stress state of the specific moulding, geometry, residue per cycle, and temperature. What the chemistry establishes is the direction and severity: GPPS is vulnerable; the WDC scenario is the worst case; SAN is not.
+No published damage threshold exists for DDBSA on GPPS generally — or on PS materials as a class. The B and D ratings on this page are chemistry-based assessments derived from ESC literature, ISM chart data, and the mechanism above — not from a measured cycle count at which visible crazing appears. The cycle count before visible damage depends on the stress state of the specific moulding, geometry, residue per cycle, and temperature. What the chemistry establishes is the direction and severity: GPPS is vulnerable; the WDC scenario is the worst case; SAN is not.
 
 Enolandia's manufacturer claim — that Star San and ethanol work well with their PS airlocks — is direct primary evidence that should not be dismissed.[^1] It is probably accurate for the typical use pattern: brief spray-and-drain sanitisation contact. The claim is less clearly supported for the scenario of filling the airlock with working-dilution ABNS as the fermentation fill liquid for two or more weeks, which is the instruction in at least one beginner kit sold with this airlock. Whether Enolandia's claim covers sustained immersion at fermentation temperatures is not stated in the correspondence. The distinction matters and is addressed in the practical section below.
 
