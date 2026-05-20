@@ -71,7 +71,7 @@ A <GlossaryTerm term="RIC">RIC</GlossaryTerm> code — whether 6 or 7 — says n
 
 ### PS and SAN food contact in practice
 
-The Enolandia compact airlock carries the fork-and-glass food contact symbol. Under [EU Regulation 1935/2004](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R1935-20090807), articles bearing this symbol must be accompanied by documentation demonstrating compliance — meaning a DoC should exist. No DoC has been retrieved for this product; a Declaration of Conformity has been formally requested from Enolandia and is outstanding. For the food contact compliance framework — what a DoC covers, how to assess undocumented equipment, and what the fork-and-glass symbol does and does not confirm — see the [Food contact compliance](./00-food-contact-compliance.md) page.
+The Enolandia compact airlock carries the fork-and-glass food contact symbol. A Declaration of Conformity has been formally requested from Enolandia and is outstanding. For what the fork-and-glass symbol does and does not confirm, what a DoC covers, and how to assess undocumented equipment, see the [Food contact compliance](./00-food-contact-compliance.md) page.
 
 ## Temperature limits
 
@@ -143,7 +143,7 @@ For SAN, all zones rate **A**.
 **Suck-back during cold crash** is a realistic scenario: fermenter pressure drops, fill liquid is drawn into the fermenter. For a compact airlock the trough holds approximately 3–5 mL; a realistic suck-back event draws roughly 2–3 mL into a 5 L batch. The risk is quantifiable:
 
 - **If ABNS fill liquid:** approximately 0.15 mg/kg DDBSA delivered to the batch. A taste concern at sufficient concentration, not a toxicology concern. If it has happened: taste before serving; rebrew if the beer is soapy. Use water fill liquid going forward.
-- **Styrene migration:** even assuming fill liquid at the full styrene SML of 0.045 mg/kg, a 2.5 mL suck-back into 5 L delivers approximately 0.00002 mg/kg styrene to the beer — 0.05% of the SML. The volume geometry makes this negligible regardless of surface condition.
+- **Styrene migration:** even assuming fill liquid at the full styrene SML of 0.045 mg/kg, a 2.5 mL suck-back into 5 L delivers approximately 0.00002 mg/kg styrene to the beer — 0.05% of the SML. The volume geometry makes this negligible regardless of surface condition. The Enolandia compact airlock is rated for fermenters up to 30 L; at that batch size the same suck-back delivers approximately six times less concentration — around 0.008% of the SML.
 
 **If cold crash is routine or suck-back is a recurring issue:** use water fill liquid, and consider a confirmed-safe alternative — SAN if grade is confirmed, or a KegLand PP airlock (confirmed PP, no ABNS concern).
 
