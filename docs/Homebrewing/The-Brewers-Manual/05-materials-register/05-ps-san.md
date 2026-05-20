@@ -1,12 +1,12 @@
 ---
 sidebar_position: 4
-title: Polystyrene — GPPS and SAN
+title: Styrene-based plastics — GPPS, SAN, and Styrolux SBC
 ---
 
 import ResinCode from '@site/src/components/ResinCode';
 import GlossaryTerm from '@theme/GlossaryTerm';
 
-# Polystyrene — GPPS and SAN
+# Styrene-based plastics — GPPS, SAN, and Styrolux SBC
 
 | | ABNS | DES | Cleaning | Beer/wort |
 |---|---|---|---|---|
