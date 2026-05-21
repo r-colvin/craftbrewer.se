@@ -12,6 +12,7 @@ import GlossaryTerm from '@theme/GlossaryTerm';
 |---|---|---|---|---|
 | **GPPS rating** | B (working dilution) / D (WDC) | B | A | A |
 | **SAN rating** | A | A | A | A |
+| **Styrolux SBC rating** | Pending | Pending | Pending | A |
 
 *The Cleaning column aggregates all cleaning product categories used in homebrewing at working concentrations. For a breakdown by cleaner type — alkaline percarbonate, phosphate-based, and oxidising — see the Cleaning compatibility section below.*
 
