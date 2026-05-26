@@ -16,7 +16,7 @@ import GlossaryTerm from '@theme/GlossaryTerm';
 
 *The Cleaning column aggregates all cleaning product categories used in homebrewing at working concentrations. For a breakdown by cleaner type — alkaline percarbonate, phosphate-based, and oxidising — see the Cleaning compatibility section below.*
 
-This page covers three chemically related but practically different styrene-based materials. General-purpose polystyrene (GPPS) is an amorphous, rigid, transparent polymer — inexpensive and widely used. Outside brewing it is found in CD jewel cases, disposable cutlery, yoghurt pots, and cheap transparent packaging. Styrene-acrylonitrile copolymer (SAN) is a copolymer of styrene and acrylonitrile — similarly transparent and rigid, but with substantially better chemical resistance. Outside brewing, SAN is used for transparent kitchenware, measuring jugs, mixing bowls, and refrigerator components where that resistance is needed. Styrolux SBC is a styrene-butadiene block copolymer — transparent and impact-resistant, with a different chemical resistance profile from both GPPS and SAN; a full compatibility analysis is in preparation — see the open issues below. All three are visually indistinguishable in service. In homebrewing, two Enolandia airlock types have been confirmed as GPPS by Declaration of Conformity: the [compact 2-piece airlock](https://www.enolandia.it/en/prodotto/air-lock-compact-medium-for-container-up-to-60lt-2/) (cod. 14037/14038) and the [cylindrical fermenter with float](https://www.enolandia.it/en/prodotto/cylindrical-fermenter-with-float/) (cod. 11965). Two further Enolandia airlock types — the [6-bubble airlock](https://www.enolandia.it/en/prodotto/air-lock-6-bubbles-with-cap/) (cod. 13526) and the [spiral airlock](https://www.enolandia.it/en/prodotto/spiral-air-lock-with-gasket/) (cod. 09000) — are confirmed Styrolux SBC. Other styrene-based articles may exist in the homebrew market that have not yet been documented in this register.
+This page covers three chemically related but practically different styrene-based materials. General-purpose polystyrene (GPPS) is an amorphous, rigid, transparent polymer — inexpensive and widely used. Outside brewing it is found in CD jewel cases, disposable cutlery, yoghurt pots, and cheap transparent packaging. Styrene-acrylonitrile copolymer (SAN) is a copolymer of styrene and acrylonitrile — similarly transparent and rigid, but with substantially better chemical resistance. Outside brewing, SAN is used for transparent kitchenware, measuring jugs, mixing bowls, and refrigerator components where that resistance is needed. Styrolux SBC is a styrene-butadiene block copolymer — transparent and impact-resistant. The butadiene rubber phase gives it better impact resistance than GPPS, but also introduces different chemical vulnerabilities; its compatibility profile with homebrewing chemicals has not yet been fully characterised and ratings are pending. All three are visually indistinguishable in service. In homebrewing, two Enolandia airlock types have been confirmed as GPPS by Declaration of Conformity: the [compact 2-piece airlock](https://www.enolandia.it/en/prodotto/air-lock-compact-medium-for-container-up-to-60lt-2/) (cod. 14037/14038) and the [cylindrical fermenter with float](https://www.enolandia.it/en/prodotto/cylindrical-fermenter-with-float/) (cod. 11965). Two further Enolandia airlock types — the [6-bubble airlock](https://www.enolandia.it/en/prodotto/air-lock-6-bubbles-with-cap/) (cod. 13526) and the [spiral airlock](https://www.enolandia.it/en/prodotto/spiral-air-lock-with-gasket/) (cod. 09000) — are confirmed Styrolux SBC. Other styrene-based articles may exist in the homebrew market that have not yet been documented in this register.
 
 ## Identifying styrene-based plastics
 
@@ -41,15 +41,15 @@ Visually, all three styrene-based materials are nearly indistinguishable in prac
 
 The Enolandia compact airlock is confirmed **GPPS** — crystal polystyrene — by Declaration of Conformity (DoC, 19 February 2024, signed Recchia Pietro, Legal Representative).[^1] This covers cod. 14037 (Compact Mini, up to 30 L) and cod. 14038 (Compact Medium, up to 60 L); the grommet variants (14041, 14042) share the same airlock body. The DoC confirms compliance with EU Regulation 1935/2004, GMP Regulation 2023/2006, and EU Regulation 10/2011. The airlock is sold standalone and as part of beginner kits, including the [Mr-Malt 5 L complete fermenting pail](https://mr-malt.se/en/equipment/fermenting/plastic-fermenters/fermenting-pail/complete-fermenting-pail-5-l), the [Georges Beer IPA starter kit](https://mr-malt.se/recept/extrakt/georges-beer-startkit-ipa-5-l), and other Georges Beer kits produced by Enolandia.
 
-Enolandia also produce three other airlock types. The [**cylindrical fermenter with float**](https://www.enolandia.it/en/prodotto/cylindrical-fermenter-with-float/) (cod. 11965) is also confirmed GPPS (DoC, 7 January 2020). The [**6-bubble airlock**](https://www.enolandia.it/en/prodotto/air-lock-6-bubbles-with-cap/) (cod. 13526) and the [**spiral airlock**](https://www.enolandia.it/en/prodotto/spiral-air-lock-with-gasket/) (cod. 09000) are both confirmed **Styrolux SBC** — a styrene-butadiene copolymer, not GPPS or SAN. Styrolux SBC has different chemical resistance from both GPPS and SAN; a full compatibility analysis is in preparation — see the open issues below.
+Enolandia also produce three other airlock types. The [**cylindrical fermenter with float**](https://www.enolandia.it/en/prodotto/cylindrical-fermenter-with-float/) (cod. 11965) is also confirmed GPPS (DoC, 7 January 2020). The [**6-bubble airlock**](https://www.enolandia.it/en/prodotto/air-lock-6-bubbles-with-cap/) (cod. 13526) and the [**spiral airlock**](https://www.enolandia.it/en/prodotto/spiral-air-lock-with-gasket/) (cod. 09000) are both confirmed **Styrolux SBC** — a styrene-butadiene copolymer, not GPPS or SAN. The butadiene rubber phase gives Styrolux SBC different chemical vulnerabilities from both GPPS and SAN, and compatibility with homebrewing chemicals cannot be assumed from the GPPS or SAN data on this page.
 
 Enolandia describe themselves as a manufacturing company producing most of their catalogue in-house, with broad European distribution. Many homebrew retailers stock Enolandia products without manufacturer attribution — the yellow-capped S-type airlock with a "Made in Italy" embossed stamp is a likely Enolandia article. However, field research has identified at least one other upstream manufacturer: Hambleton Bard (UK), whose Better Brew brand produces a red-capped bubbler airlock sold through the same retail channels. Where an airlock carries no manufacturer identification, both the material and the manufacturer are unknown. Cap colour and chamber geometry are partial differentiators but not confirmed as reliable across all retail sources. The only reliable identification route is manufacturer confirmation.
 
-Where a small, injection-moulded homebrewing article such as an airlock is genuinely water-clear and rigid — not translucent, not milky, not flexible — PS (GPPS, SAN, or Styrolux SBC) is the most plausible material. Other transparent rigid plastics exist but are uncommon at this price point and article type. This does not confirm PS; it makes it the reasonable working assumption in the absence of other information. GPPS is the conservative end of the plausible range — if the material turns out to be SAN, PP, PET, or another common transparent rigid polymer, following the GPPS process guidance remains appropriate and in most cases more cautious than strictly necessary. The two exceptions are PC and PMMA: PC has specific concerns around BPA that warrant knowing the material (see the [Polycarbonate page](./06-pc.md)); PMMA (acrylic) is more vulnerable to ethanol than GPPS and the GPPS DES guidance may understate the risk. Neither is a realistic material for a cheap commodity airlock, but both are worth naming as out-of-scope for this working assumption. For confirmed Styrolux SBC articles, do not apply GPPS ratings — await the SBC compatibility analysis.
+Where a small, injection-moulded homebrewing article such as an airlock is genuinely water-clear and rigid — not translucent, not milky, not flexible — PS (GPPS, SAN, or Styrolux SBC) is the most plausible material. Other transparent rigid plastics exist but are uncommon at this price point and article type. This does not confirm PS; it makes it the reasonable working assumption in the absence of other information. GPPS is the conservative end of the plausible range — if the material turns out to be SAN, PP, PET, or another common transparent rigid polymer, following the GPPS process guidance remains appropriate and in most cases more cautious than strictly necessary. The two exceptions are PC and PMMA: PC has specific concerns around BPA that warrant knowing the material (see the [Polycarbonate page](./06-pc.md)); PMMA (acrylic) is more vulnerable to ethanol than GPPS and the GPPS DES guidance may understate the risk. Neither is a realistic material for a cheap commodity airlock, but both are worth naming as out-of-scope for this working assumption. For confirmed Styrolux SBC articles, do not apply GPPS ratings — the butadiene phase introduces different chemical vulnerabilities that have not yet been characterised for this register.
 
 Enolandia's product photograph of the compact airlock shows a distinct bluish tinge. If genuine rather than a photography or lighting artefact, this would be a weak signal toward GPPS — but direct observation of physical Enolandia airlocks (compact 2-piece and 6-bubble) showed neither tint, so the photograph should not be relied upon for identification.
 
-**Field identification — the acetone test.** Where grade confirmation from a manufacturer is unavailable, a sacrificed article can be tested with acetone (nail polish remover). A drop of acetone on GPPS causes rapid surface attack: immediate crazing, softening, or dissolution within seconds to a minute. SAN is substantially more resistant — the surface may show minor whitening under prolonged contact but does not dissolve or craze rapidly. Styrolux SBC is expected to behave differently from both GPPS and SAN due to the butadiene rubber phase, but no direct observation has been made — the acetone test result for SBC is not yet characterised in this register. The test is destructive and should only be performed on an article that will not be reused. A cheap airlock sacrificed to confirm the material grade of a batch of airlocks from the same source is a reasonable trade. Do not use an acetone-tested article for brewing.
+**Field identification — the acetone test.** Where grade confirmation from a manufacturer is unavailable, a sacrificed article can be tested with acetone (nail polish remover). A drop of acetone on GPPS causes rapid surface attack: immediate crazing, softening, or dissolution within seconds to a minute. SAN is substantially more resistant — the surface may show minor whitening under prolonged contact but does not dissolve or craze rapidly. Styrolux SBC is expected to behave differently from both GPPS and SAN due to the butadiene rubber phase, but no direct observation has been made; the acetone response for SBC is not yet characterised in this register. The test is destructive and should only be performed on an article that will not be reused. A cheap airlock sacrificed to confirm the material grade of a batch of airlocks from the same source is a reasonable trade. Do not use an acetone-tested article for brewing.
 
 SAN also has higher surface hardness than GPPS and slightly different acoustic character when tapped — GPPS gives a higher, sharper ring; SAN is marginally more deadened. These differences are subtle and easily confounded by how the article is held, so they are not reliable as standalone tests. The acetone test is the most accessible field test for distinguishing GPPS from SAN; visual and acoustic inspection are not definitive.
 
@@ -61,7 +61,7 @@ SAN also has higher surface hardness than GPPS and slightly different acoustic c
 
 ## Food grade status
 
-The full food contact compliance framework — what makes an article food grade, <GlossaryTerm term="GMP">GMP</GlossaryTerm> requirements, EU simulant testing, <GlossaryTerm term="DoC">DoC</GlossaryTerm> structure, repeated-use provisions, and what to do without a <GlossaryTerm term="DoC">DoC</GlossaryTerm> — is covered on the [Food contact compliance](./00-food-contact-compliance.md) page. This section covers only what is specific to GPPS and SAN.
+The full food contact compliance framework — what makes an article food grade, <GlossaryTerm term="GMP">GMP</GlossaryTerm> requirements, EU simulant testing, <GlossaryTerm term="DoC">DoC</GlossaryTerm> structure, repeated-use provisions, and what to do without a <GlossaryTerm term="DoC">DoC</GlossaryTerm> — is covered on the [Food contact compliance](./00-food-contact-compliance.md) page. This section covers only what is specific to GPPS, SAN, and Styrolux SBC.
 
 ### What makes a PS or SAN article food grade?
 
@@ -71,12 +71,13 @@ However, both monomers carry their own <GlossaryTerm term="SML">SML</GlossaryTer
 
 - **Styrene:** <GlossaryTerm term="SML">SML</GlossaryTerm> 0.045 mg/kg under [EU Regulation 10/2011](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0010-20230923). This is among the stricter limits in the regulation, reflecting styrene's classification as a possible carcinogen (IARC Group 2B) at elevated exposure levels. In a compliant, undamaged food grade PS article under normal cold aqueous contact, migration is well within this limit. The concern rises if the surface is physically degraded — crazing and cracking increase the surface area available for migration and break the compliance basis for the article.
 - **Acrylonitrile (SAN only):** SML of not detectable (&lt;0.010 mg/kg) — the strictest category. The acrylonitrile content of SAN is typically 20–30% by mass, but in finished articles the residual monomer is extremely low. SAN articles meeting EU 10/2011 requirements are assessed as safe; the limit reflects regulatory caution about acrylonitrile as a genotoxic carcinogen, not a practical expectation of significant migration from compliant articles.
+- **Butadiene (Styrolux SBC only):** 1,3-butadiene carries an SML of not detectable (&lt;0.020 mg/kg) under EU 10/2011 — among the strictest limits in the regulation, reflecting its classification as a known human carcinogen (IARC Group 1) at occupational exposure levels. In a finished Styrolux SBC article compliant with EU 10/2011, residual monomer content is expected to be extremely low. The DoC for the Enolandia 6-bubble and spiral airlocks confirms compliance with EU 10/2011 and food contact with wine, vinegar, and beer.[^1] The migration basis depends on the surface remaining undamaged — the same principle as for GPPS and SAN.
 
 A <GlossaryTerm term="RIC">RIC</GlossaryTerm> code — whether 6 or 7 — says nothing about food grade status or GMP compliance. The food contact symbol (fork-and-glass), where present, confirms the article is intended for food contact use; it does not on its own confirm migration testing or DoC documentation.
 
-### PS and SAN food contact in practice
+### Food contact in practice — all four Enolandia articles
 
-The Enolandia compact airlock carries the fork-and-glass food contact symbol. The Declaration of Conformity — received May 2026 — confirms compliance with EU 1935/2004, GMP 2023/2006, and EU 10/2011. For what the fork-and-glass symbol does and does not confirm, what a DoC covers, and how to assess undocumented equipment, see the [Food contact compliance](./00-food-contact-compliance.md) page.
+All four Enolandia airlock types covered in this register have received Declarations of Conformity confirming compliance with EU 1935/2004, GMP Regulation 2023/2006, and EU 10/2011, for contact with wine, vinegar, and beer.[^1] The DoCs were received in May 2026 following direct correspondence with Enolandia. For what a DoC covers and how to assess undocumented equipment, see the [Food contact compliance](./00-food-contact-compliance.md) page.
 
 ## Temperature limits
 
@@ -86,17 +87,19 @@ GPPS and SAN both have relatively modest temperature limits by the standards of 
 
 **SAN** has a slightly higher HDT, typically 85–100 °C, with better thermal shock resistance than GPPS due to the acrylonitrile co-monomer stiffening the chain. SAN is used for transparent kitchenware — measuring jugs, mixing bowls, food storage lids — that is expected to handle warm but not boiling liquids. Like GPPS, it is not suitable for dishwasher use.
 
+**Styrolux SBC** — temperature limits are not yet characterised for this register. The butadiene rubber phase lowers the HDT relative to GPPS; Styrolux SBC is generally considered less temperature-resistant than GPPS, though specific values for the grades used in Enolandia articles are not confirmed. Treat as at least as temperature-sensitive as GPPS until confirmed otherwise — no hot liquid contact, no dishwasher use.
+
 For airlocks specifically, temperature limits are rarely the operative constraint — airlocks are small, low-stress components operating at ambient fermentation temperatures. The relevant temperature concern is during sanitisation and cleaning:
 
-- **Hot water sanitisation:** Not appropriate for PS or SAN airlocks. Use ABNS or DES at ambient temperature.
-- **Hot liquid contact:** PS and SAN are not appropriate for contact with wort or liquid above approximately 40 °C. Airlocks are fitted after the fermenter is sealed and the wort has cooled — this is not a concern in normal practice, but if an airlock is accidentally exposed to hot steam or condensate, inspect it before reuse.
+- **Hot water sanitisation:** Not appropriate for PS, SAN, or SBC airlocks. Use ABNS or DES at ambient temperature.
+- **Hot liquid contact:** Not appropriate for contact with wort or liquid above approximately 40 °C. Airlocks are fitted after the fermenter is sealed and the wort has cooled — not a concern in normal practice, but if an airlock is accidentally exposed to hot steam or condensate, inspect it before reuse.
 - **Cleaning temperature:** Always clean at ambient temperature.
 
-**Migration at elevated temperature.** The styrene SML of 0.045 mg/kg is established for standard test conditions. Elevated temperature accelerates monomer migration from PS significantly. For an undamaged article at ambient fermentation temperature (16–22 °C), migration is expected to be well within limits. For a damaged or crazed article, or for any exposure above ambient, the compliance basis no longer applies.
+**Migration at elevated temperature.** The styrene SML of 0.045 mg/kg is established for standard test conditions. Elevated temperature accelerates monomer migration from PS significantly. For an undamaged article at ambient fermentation temperature (16–22 °C), migration is expected to be well within limits. For a damaged or crazed article, or for any exposure above ambient, the compliance basis no longer applies. The same principle applies to acrylonitrile in SAN and butadiene in Styrolux SBC.
 
-## Compatibility — ABNS: GPPS B/D, SAN A
+## Compatibility — ABNS: GPPS B/D, SAN A, Styrolux SBC Pending
 
-This section determines the practical significance of the page. GPPS and SAN have fundamentally different ABNS compatibility profiles, and the mechanism explains why.
+GPPS and SAN have fundamentally different ABNS compatibility profiles, and the mechanism explains why. For Styrolux SBC, the mechanism is different again — and the rating is not yet established.
 
 ### The mechanism — why GPPS is vulnerable
 
@@ -117,6 +120,10 @@ SAN introduces acrylonitrile co-monomer into the chain, typically at 20–30% by
 
 The net result is substantially better resistance to anionic surfactants compared to GPPS. SAN rates **A** for ABNS at working dilution and under WDC conditions. The ISM chart is consistent with this rating.[^2]
 
+### Why Styrolux SBC cannot be assumed to follow either profile
+
+Styrolux SBC has the same styrene-based matrix as GPPS, which suggests it shares GPPS's pi-pi stacking vulnerability to DDBSA. However, the butadiene rubber phase — the blocks that give SBC its impact resistance — introduces a soft, elastomeric component within the rigid matrix. How this phase behaves under DDBSA contact is not straightforward: the butadiene phase may swell differently from the styrene phase, and the block structure may change how ESC propagates. The ISM chart does not specifically rate SBS or SBC-type block copolymers. Until direct data or a specific ISM-equivalent reference is identified for this material class, the rating remains **Pending**. Do not assume GPPS ratings apply to confirmed SBC articles.
+
 ### Epistemic honesty — what is known and what is not
 
 No published damage threshold exists for DDBSA on GPPS generally — or on PS materials as a class. The B and D ratings on this page are chemistry-based assessments derived from ESC literature, ISM chart data, and the mechanism above — not from a measured cycle count at which visible crazing appears. The cycle count before visible damage depends on the stress state of the specific moulding, geometry, residue per cycle, and temperature. What the chemistry establishes is this: GPPS is vulnerable to DDBSA-driven surface attack, and that vulnerability increases with each wet-dry cycle as DDBSA concentrates in the residue. SAN resists ABNS across all realistic homebrewing contact scenarios — working dilution, WDC-concentrated residue, and sustained contact. The ratings reflect the mechanism, not a measured failure point.
@@ -133,7 +140,7 @@ The zone model produces different ratings for different parts of a PS airlock, b
 
 In normal use, a compact PS airlock installed with ABNS sanitiser goes through a WDC event on its outer body and stem at every installation: sanitiser is applied, drains partially, and dries in place. This is not a worst-case scenario — it is the normal outcome. The stem then sits in compressed contact with the grommet under load for the duration of fermentation, with dried DDBSA residue trapped at the contact zone. The fill liquid trough is the one zone where the brewer has control: ABNS fill liquid means sustained surfactant contact; water means no chemical concern at that zone.
 
-For SAN, all zones rate **A**.
+For SAN, all zones rate **A**. For Styrolux SBC, zone ratings are pending — do not apply GPPS zone ratings to confirmed SBC articles.
 
 | Zone | ABNS — GPPS | ABNS — SAN |
 |---|---|---|
@@ -156,7 +163,7 @@ For SAN, all zones rate **A**.
 Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are in preparation and will be added to this register.
 :::
 
-## Compatibility — DES: GPPS B, SAN A
+## Compatibility — DES: GPPS B, SAN A, Styrolux SBC Pending
 
 GPPS and SAN behave differently with ethanol, and the mechanism is different from ABNS.
 
@@ -166,11 +173,15 @@ The fill liquid scenario is different. Filling the liquid trap of a GPPS airlock
 
 For **SAN**, ethanol resistance is significantly better. The acrylonitrile co-monomer disrupts the regular chain packing that allows ethanol to penetrate GPPS, and SAN's higher polarity reduces swelling by organic solvents. SAN rates **A** for DES at the spray-and-drain contact pattern used in homebrewing.
 
-**DES fill liquid.** Neither GPPS nor SAN should be used with ethanol as the sustained fill liquid — GPPS for the swelling reason above, and as a general preference regardless of material: water entering the fermenter on suck-back has fewer consequences than any chemical fill. Use water as the airlock fill liquid.
+For **Styrolux SBC**, the butadiene rubber phase may behave differently from the polystyrene matrix under ethanol contact. Butadiene-based elastomers generally have moderate-to-poor ethanol resistance at high concentrations — the rating is pending and GPPS guidance should not be assumed to apply.
 
-## Compatibility — cleaning: GPPS A, SAN A
+**DES fill liquid.** Regardless of material, use water as the airlock fill liquid — water entering the fermenter on suck-back has fewer consequences than any chemical fill. Do not use ethanol as a sustained fill liquid for any styrene-based airlock.
+
+## Compatibility — cleaning: GPPS A, SAN A, Styrolux SBC A (provisional)
 
 For both GPPS and SAN, the primary cleaning contact scenario is the routine post-brew clean — a brief soak in alkaline percarbonate cleaner, rinse, inspect. Both rate **A** for all standard homebrew cleaning categories at working concentrations and ambient temperature. The constraint is mechanical, not chemical: airlocks must never be cleaned with brushes or abrasive pads. Scratches trap biofilm and create stress concentration points where ESC initiates in GPPS.
+
+For **Styrolux SBC**, no specific cleaning compatibility concern has been identified at working concentrations and ambient temperature. The alkaline percarbonate, phosphate-based, and oxidising cleaners used in homebrewing are aqueous systems operating at pH 11–12 — conditions under which styrene-based materials generally rate well. The provisional rating of **A** reflects this, but should be confirmed once direct compatibility data is available.
 
 :::note KegLand StellarClean and Five Star PBW
 Both are commonly called "PBW." KegLand markets StellarClean as *Powerful Brewery Wash*; Five Star makes a separate product, *Powdered Brewery Wash*. Different products, different formulations — but both rate **A** for PS and SAN at working concentrations and ambient temperature. The guidance below applies equally to either product.
@@ -184,17 +195,17 @@ Both are commonly called "PBW." KegLand markets StellarClean as *Powerful Brewer
 
 **Caustic cleaners (NaOH-based):** Out of scope for this guide — see the [Cleaning](../03-cleaning.md) page. NaOH at high concentration and elevated temperature can attack PS, but this is not a homebrewing cleaning scenario.
 
-## Compatibility — beer/wort: GPPS A, SAN A
+## Compatibility — beer/wort: GPPS A, SAN A, Styrolux SBC A
 
-For all standard beer and wort contact scenarios in homebrewing, both GPPS and SAN rate **A**. Beer and wort are aqueous systems at moderate pH — they do not present the surfactant or organic solvent challenges that make GPPS vulnerable to ABNS or DES.
+For all standard beer and wort contact scenarios in homebrewing, GPPS and SAN rate **A**. Beer and wort are aqueous systems at moderate pH — they do not present the surfactant or organic solvent challenges that make GPPS vulnerable to ABNS or DES. Styrolux SBC also rates **A** for beer and wort contact: the aqueous, moderate-pH environment is not chemically aggressive toward any of these styrene-based materials, and the DoC for the Enolandia SBC airlocks explicitly confirms food contact compliance with wine, vinegar, and beer.
 
-**Standard wort (pH 5.0–5.4, ambient):** Weak organic acid environment. Both materials are resistant. For an airlock in normal use, wort does not contact the airlock body — the fill liquid separates wort from the airlock. Suck-back of fill liquid into the fermenter is addressed in the practical section.
+**Standard wort (pH 5.0–5.4, ambient):** Weak organic acid environment. All three materials are resistant. For an airlock in normal use, wort does not contact the airlock body — the fill liquid separates wort from the airlock. Suck-back of fill liquid into the fermenter is addressed in the practical section.
 
-**Standard beer (4–8% ABV, pH 4.0–4.4):** Not materially different from wort contact for PS or SAN. No concern.
+**Standard beer (4–8% ABV, pH 4.0–4.4):** Not materially different from wort contact. No concern.
 
-**High-ABV beer (above 8%):** Ethanol at 8% is far below the concentrations that concern PS or SAN. No concern.
+**High-ABV beer (above 8%):** Ethanol at 8% is far below the concentrations that concern PS or SAN. No concern for GPPS or SAN. For SBC, the butadiene phase may behave differently at elevated ethanol contact — but 8% ethanol as a beer is a very different scenario from 70–80% DES sanitiser. No concern in the normal beer contact scenario.
 
-**Sour beer (pH 3.2–3.5, lactic and acetic acid dominant):** Both materials are resistant to dilute organic acids at homebrewing concentrations. No concern.
+**Sour beer (pH 3.2–3.5, lactic and acetic acid dominant):** All three materials are resistant to dilute organic acids at homebrewing concentrations. No concern.
 
 **Hot wort:** Airlocks are not present during hot wort handling. Not relevant.
 
@@ -202,7 +213,7 @@ For all standard beer and wort contact scenarios in homebrewing, both GPPS and S
 
 PS and SAN appear in homebrewing in the articles identified so far primarily as airlocks. The two confirmed GPPS articles in this register are the [Enolandia compact airlock](https://www.enolandia.it/en/prodotto/air-lock-compact-medium-for-container-up-to-60lt-2/) (cod. 14037/14038) and the [Enolandia cylindrical fermenter with float](https://www.enolandia.it/en/prodotto/cylindrical-fermenter-with-float/) (cod. 11965). The compact airlock is the most widely encountered in the Swedish market — sold standalone at [Mr-Malt](https://mr-malt.se/en/equipment/fermenting/accessories/airlocks/compact-2-piece-airlock-mini) and included in beginner kits such as the [Mr-Malt 5 L complete fermenting pail](https://mr-malt.se/en/equipment/fermenting/plastic-fermenters/fermenting-pail/complete-fermenting-pail-5-l) and Georges Beer kits. Its compact form factor suits fermenters where headspace is limited — the 5 L Mr-Malt pail, for example — and its two-piece design is quieter than bubble-trap airlocks. These are genuine advantages. The material is confirmed; the process question is how to use it well.
 
-The practical question has been answered for the Enolandia compact airlock: it is confirmed **GPPS** by DoC. The fill liquid and sanitisation protocol both require attention accordingly. For the Enolandia [6-bubble airlock](https://www.enolandia.it/en/prodotto/air-lock-6-bubbles-with-cap/) and [spiral airlock](https://www.enolandia.it/en/prodotto/spiral-air-lock-with-gasket/), the material is **Styrolux SBC** — a different compatibility profile, analysis pending. For any other unattributed airlock, the material remains unknown.
+The practical question has been answered for the Enolandia compact airlock: it is confirmed **GPPS** by DoC. The fill liquid and sanitisation protocol both require attention accordingly. For the Enolandia [6-bubble airlock](https://www.enolandia.it/en/prodotto/air-lock-6-bubbles-with-cap/) and [spiral airlock](https://www.enolandia.it/en/prodotto/spiral-air-lock-with-gasket/), the material is confirmed **Styrolux SBC** — ABNS and DES ratings are pending; do not apply GPPS guidance to these articles until the SBC analysis is complete. For any other unattributed airlock, the material remains unknown.
 
 **The compact airlock is confirmed GPPS. Apply the guidance below.**
 
@@ -235,6 +246,8 @@ For an undamaged GPPS airlock at ambient fermentation temperatures, styrene migr
 
 For SAN, the same logic applies to acrylonitrile (SML: not detectable) — undamaged surfaces at ambient temperature are not expected to present a concern; damaged surfaces are untested.
 
+For Styrolux SBC, the relevant monomer is butadiene (SML: not detectable). The DoC confirms EU 10/2011 compliance for undamaged articles. As with GPPS and SAN, the compliance basis applies only to undamaged surfaces at normal contact conditions.
+
 The airlock is not in direct contact with the beer under normal conditions. Suck-back during cold crash is the exception — for quantified risk and operational guidance see the [Airlock equipment page](../Equipment/08-airlocks.md) and the zone ratings in the ABNS section above. The short version: styrene exposure from a suck-back event is negligible due to the volume ratio; ABNS fill liquid suck-back is a taste concern, not a toxicology concern. Use water fill liquid.
 
 ### Cost and service life
@@ -245,17 +258,17 @@ Compact PS airlocks are inexpensive. Treat them as consumables. Inspect before e
 
 PS airlocks are the most chemically sensitive small component in a typical homebrew setup. The damage signals to watch for:
 
-**Crazing or surface whitening.** The primary visual signal for DDBSA-driven ESC or solvent-induced surface fatigue. Crazing appears as a fine network of cracks — visible under a torch held at a low angle. Whitening or haziness where the material was previously water-clear indicates the same process. Crazing is irreversible. A crazed PS airlock should be retired immediately — not because the risk is known to be severe, but because the compliance basis no longer applies to a crazed surface, and because the surface texture of a crazed article cannot be reliably sanitised.
+**Crazing or surface whitening.** The primary visual signal for DDBSA-driven ESC or solvent-induced surface fatigue. Crazing appears as a fine network of cracks — visible under a torch held at a low angle. Whitening or haziness where the material was previously water-clear indicates the same process. Crazing is irreversible. A crazed airlock should be retired immediately — not because the risk is known to be severe, but because the compliance basis no longer applies to a crazed surface, and because the surface texture of a crazed article cannot be reliably sanitised.
 
-**Loss of transparency.** A clear PS airlock that has become hazy or opaque without visible crazing suggests solvent-induced surface swelling (if DES was used as fill liquid) or thermal damage. Retire it.
+**Loss of transparency.** A clear airlock that has become hazy or opaque without visible crazing suggests solvent-induced surface swelling (if DES was used as fill liquid) or thermal damage. Retire it.
 
 **Discolouration.** Yellowing or browning of previously clear material indicates chemical degradation, UV exposure, or thermal exposure. Retire it.
 
-**Mechanical scratches.** Clean PS airlocks with a soft cloth or brief soak only — never a brush or abrasive pad. Scratches create stress concentration points and trap biofilm that sanitiser cannot reliably reach.
+**Mechanical scratches.** Clean airlocks with a soft cloth or brief soak only — never a brush or abrasive pad. Scratches create stress concentration points and trap biofilm that sanitiser cannot reliably reach.
 
 **Persistent staining or odour.** If a thorough alkaline percarbonate soak and rinse does not restore the article to a clean, odour-free state, the surface is too damaged for reliable sanitation.
 
-The principle is the same as for every other article in this register: compliance testing is conducted on undamaged, GMP-manufactured equipment. Once visible damage is present, the compliance data does not apply — not because the risk is known to be elevated, but because it is unknown. The retire-at-first-sign-of-damage rule is especially important for PS airlocks because the styrene SML has no headroom to accommodate a damaged-surface migration increase.
+The principle is the same as for every other article in this register: compliance testing is conducted on undamaged, GMP-manufactured equipment. Once visible damage is present, the compliance data does not apply — not because the risk is known to be elevated, but because it is unknown. The retire-at-first-sign-of-damage rule is especially important for these airlocks because the monomer SMLs for styrene, acrylonitrile, and butadiene have no headroom to accommodate a damaged-surface migration increase.
 
 > The compliance data no longer applies to a damaged surface — not because the risk is known to be elevated, but because it is unknown.
 
@@ -267,8 +280,8 @@ The table below covers the styrene-based articles currently in the register. The
 |---|---|---|---|---|---|
 | **[Enolandia compact airlock](https://www.enolandia.it/en/prodotto/air-lock-compact-medium-for-container-up-to-60lt-2/) — GPPS confirmed** (cod. 14037/14038, with and without grommet 14041/14042) | DoC confirmed: EU 1935/2004, GMP 2023/2006, EU 10/2011. Signed 19/02/2024.[^1] | No hot liquid contact. Not dishwasher safe. Ambient fermentation use only. | Zone A (outer body): D (normal installation outcome). Zone B (trap, ABNS fill): B. Zone B/C (stem): D. Use water fill liquid. | Do not use ethanol as fill liquid. Brief spray contact tolerated per manufacturer claim and IPA observation.[^1] | A — soft cloth or brief soak only. No brushes or abrasive pads. |
 | **[Enolandia cylindrical fermenter with float](https://www.enolandia.it/en/prodotto/cylindrical-fermenter-with-float/) — GPPS confirmed** (cod. 11965) | DoC confirmed: EU 1935/2004, GMP 2023/2006, EU 10/2011. Signed 07/01/2020.[^1] | No hot liquid contact. Not dishwasher safe. Ambient fermentation use only. | Apply GPPS zone ratings as for compact airlock above. | Do not use ethanol as fill liquid. | A — soft cloth or brief soak only. No brushes or abrasive pads. |
-| **[Enolandia 6-bubble airlock](https://www.enolandia.it/en/prodotto/air-lock-6-bubbles-with-cap/) — Styrolux SBC confirmed** (cod. 13526) **and [spiral airlock](https://www.enolandia.it/en/prodotto/spiral-air-lock-with-gasket/) — Styrolux SBC confirmed** (cod. 09000) | DoC confirmed: EU 1935/2004, GMP 2023/2006, EU 10/2011. Material: Styrolux SBC (styrene-butadiene copolymer).[^1] | Unknown pending SBC analysis. | **Pending** — SBC compatibility analysis required. Do not assume GPPS ratings apply. | **Pending.** | A (no specific cleaning concern identified, but verify once SBC analysis complete). |
-| **Generic unlabelled airlocks (bubbler / S-type / 3-piece)** | Unknown — material and manufacturer unconfirmed. May be Enolandia (SBC for bubbler/S-type) or Hambleton Bard / Better Brew (material unknown) or other. Do not assume GPPS without confirmation. | Unknown. | Unknown. If confirmed GPPS, apply GPPS ratings. If confirmed SBC, await SBC analysis. | Unknown. | A if PS or SBC confirmed. |
+| **[Enolandia 6-bubble airlock](https://www.enolandia.it/en/prodotto/air-lock-6-bubbles-with-cap/) — Styrolux SBC confirmed** (cod. 13526) **and [spiral airlock](https://www.enolandia.it/en/prodotto/spiral-air-lock-with-gasket/) — Styrolux SBC confirmed** (cod. 09000) | DoC confirmed: EU 1935/2004, GMP 2023/2006, EU 10/2011. Material: Styrolux SBC (styrene-butadiene copolymer).[^1] | Not yet characterised. Treat as at least as temperature-sensitive as GPPS. No hot liquid contact, no dishwasher use. | **Pending** — DDBSA interaction with the butadiene rubber phase is not yet characterised. Do not assume GPPS ratings apply. Use water fill liquid. | **Pending** — butadiene phase ethanol compatibility not yet characterised. Use water fill liquid. | A provisional — no specific concern identified at working concentrations and ambient temperature. Soft cloth or brief soak only. |
+| **Generic unlabelled airlocks (bubbler / S-type / 3-piece)** | Unknown — material and manufacturer unconfirmed. May be Enolandia (SBC for bubbler/S-type) or Hambleton Bard / Better Brew (material unknown) or other. Do not assume GPPS without confirmation. | Unknown. | Unknown. If confirmed GPPS, apply GPPS ratings. If confirmed SBC, pending. | Unknown. | A if PS or SBC confirmed. |
 
 ---
 
