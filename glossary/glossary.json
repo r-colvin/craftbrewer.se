@@ -108,7 +108,17 @@
     {
       "term": "PS",
       "abbreviation": "Polystyrene",
-      "definition": "A transparent, brittle plastic used in many homebrewing airlocks and some accessories. Comes in two grades: GPPS (General-Purpose Polystyrene, susceptible to DDBSA) and SAN (Styrene-Acrylonitrile, more resistant). Grade is often unspecified by manufacturers — treat as GPPS if unknown."
+      "definition": "A family of transparent, rigid styrene-based plastics used in homebrewing airlocks and accessories. Three grades appear in this register: GPPS (General-Purpose Polystyrene), SAN (Styrene-Acrylonitrile copolymer), and Styrolux SBC (styrene-butadiene block copolymer). All three are visually indistinguishable. Grade is often unspecified by manufacturers — treat as GPPS if unknown, which is the most conservative assumption for ABNS and DES compatibility."
+    },
+    {
+      "term": "GPPS",
+      "abbreviation": "General-Purpose Polystyrene",
+      "definition": "The standard grade of polystyrene — amorphous, rigid, transparent, and inexpensive. Carries RIC code 6. Susceptible to DDBSA-driven environmental stress cracking (ESC) under WDC conditions — rated B at working dilution, D under accumulated WDC. Confirmed in Enolandia compact airlock (cod. 14037/14038) and cylindrical fermenter with float (cod. 11965) by Declaration of Conformity."
+    },
+    {
+      "term": "SBC",
+      "abbreviation": "Styrene-Butadiene block Copolymer",
+      "definition": "A transparent, impact-resistant styrene-based thermoplastic used in the Enolandia 6-bubble airlock (cod. 13526) and spiral airlock (cod. 09000). The polybutadiene mid-block provides better impact resistance than GPPS through crack arrest, but introduces different chemical vulnerability. ABNS and DES ratings match GPPS (B single WDC / D accumulated WDC) — crack-arrest benefit erodes with accumulated WDC cycles as butadiene domains absorb concentrated DDBSA residue. Food contact compliance confirmed by Declaration of Conformity."
     },
     {
       "term": "SAN",
