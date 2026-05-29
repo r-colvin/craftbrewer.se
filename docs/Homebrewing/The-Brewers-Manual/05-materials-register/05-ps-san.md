@@ -187,7 +187,7 @@ For **Styrolux SBC**, the polystyrene matrix is vulnerable to ethanol exactly as
 
 Because ethanol leaves no residue, the fill/evaporate/refill airlock scenario does not accumulate DES exposure across cycles the way ABNS does — but sustained immersion during a long fill period remains the concern for both materials.
 
-**DES fill liquid for all materials:** Use water. Not ethanol. Water entering the fermenter on suck-back has fewer consequences than any chemical fill. This applies regardless of material.
+**DES fill liquid for all materials:** Use water. Not ethanol. Water entering the fermenter on suck-back has fewer consequences than any chemical fill — the primary suck-back risk is biological (airlock contaminants, insects) rather than chemical, and that risk is managed by keeping the airlock clean and covered, not by the fill liquid choice. For a full discussion of suck-back risk and cold crash, see the [Airlock equipment page](../Equipment/08-airlocks.md).
 
 ## Compatibility — cleaning: GPPS A, SAN A, Styrolux SBC A
 
