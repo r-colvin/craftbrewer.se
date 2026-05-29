@@ -169,12 +169,7 @@ For SAN, all zones rate **A**. For GPPS and Styrolux SBC, zone ratings are ident
 
 **D ratings here are structural.** DDBSA-driven ESC causes crazing, embrittlement, and eventual loss of seal integrity — visible on inspection. The airlock is not in direct contact with the beer under normal conditions, so structural degradation of the airlock body does not directly create a product-contact migration event. The exception is suck-back.
 
-**Suck-back during cold crash** is a realistic scenario: fermenter pressure drops, fill liquid is drawn into the fermenter. For a compact airlock the trough holds approximately 3–5 mL; a realistic suck-back event draws roughly 2–3 mL into a 5 L batch. The risk is quantifiable:
-
-- **If ABNS fill liquid:** approximately 0.15 mg/kg DDBSA delivered to the batch. A taste concern at sufficient concentration, not a toxicology concern. If it has happened: taste before serving; rebrew if the beer is soapy. Use water fill liquid going forward.
-- **Styrene migration:** even assuming fill liquid at the full styrene SML of 0.045 mg/kg, a 2.5 mL suck-back into 5 L delivers approximately 0.00002 mg/kg styrene to the beer — 0.05% of the SML. The volume geometry makes this negligible regardless of surface condition. The Enolandia compact airlock is rated for fermenters up to 30 L; at that batch size the same suck-back delivers approximately six times less concentration — around 0.008% of the SML.
-
-**If cold crash is routine or suck-back is a recurring issue:** use water fill liquid, and consider a confirmed-safe alternative — a KegLand PP airlock is confirmed PP and carries no ABNS concern.
+**Suck-back during cold crash** transfers fill liquid into the fermenter. If the fill liquid is water, the material concern is negligible — styrene migration into a small volume of water at ambient temperature is well within the SML, and the suck-back volume diluted into the batch makes it immaterial. If the fill liquid is ABNS, the concern is taste (DDBSA at approximately 0.15 mg/kg in a 5 L batch), not toxicology. This is the primary reason water is the correct fill liquid choice — consequences of suck-back are minor. For operational detail on cold crash and suck-back volumes by airlock type, see the [Airlock equipment page](../Equipment/08-airlocks.md).
 
 :::note WDC accumulation charts
 Per-material accumulation charts — mapping WDC exposure against damage thresholds by zone — are planned for this register. The airlock evaporation/top-up scenario will be modelled as accumulated WDC cycles.
