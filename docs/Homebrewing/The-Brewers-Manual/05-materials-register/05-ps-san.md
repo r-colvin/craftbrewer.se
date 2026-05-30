@@ -246,7 +246,7 @@ The practical process guidance is the same for GPPS and SBC, because the ratings
 
 Spray or dip the airlock with ABNS or DES for the manufacturer's recommended contact time, then drain thoroughly — shake gently to clear the liquid trap as fully as possible. Brief ethanol contact (DES spray, allow to evaporate) is also effective and leaves no residue. Either approach is consistent with Enolandia's compatibility claim and with the mechanism analysis above.
 
-**Fill liquid: cooled boiled water or bottled water.** Once sanitised and drained, fill the liquid trap with water — not ABNS, not ethanol. Using boiled-and-cooled or bottled water eliminates the small biological risk from tap water introduced via suck-back. The fill liquid choice is sometimes debated in homebrew communities; the case for water over ABNS is covered in detail on the [Airlock equipment page](../Equipment/08-airlocks.md).
+**Fill liquid: cooled boiled water or bottled water.** Once sanitised and drained, fill the liquid trap with water. Some brewers prefer dilute ABNS or ethanol as fill liquid on the basis that it maintains a sanitising barrier against airborne contaminants during fermentation — this is a reasonable position, though how long dilute ABNS remains effective when exposed to air is debated. For styrene-based airlocks specifically, the compatibility argument favours water: ABNS fill liquid means sustained surfactant contact with the trap walls, and ethanol fill means sustained solvent contact — neither is appropriate for extended periods with GPPS, SAN, or SBC. The fill liquid discussion, including the sanitising-barrier debate, is covered in full on the [Airlock equipment page](../Equipment/08-airlocks.md).
 
 ### Migration
 
