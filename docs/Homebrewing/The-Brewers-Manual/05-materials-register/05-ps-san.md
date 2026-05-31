@@ -276,6 +276,22 @@ The principle is the same as for every other article in this register: complianc
 
 > The compliance data no longer applies to a damaged surface — not because the risk is known to be elevated, but because it is unknown.
 
+## Summary by article type — scenarios
+
+| Scenario | GPPS | SAN | Styrolux SBC | Conditions |
+|---|---|---|---|---|
+| Beer / wort contact (fermentation, 0–22 °C) | **A** | **A** | **A** | No restriction |
+| ABNS — single spray-and-drain WDC | **B** | **A** | **B** | Ambient temperature; drain thoroughly |
+| ABNS — accumulated WDC (outer body, stem, evaporation/top-up) | **D** | **A** | **D** | Normal installation outcome; use water fill liquid |
+| ABNS — liquid trap, water fill liquid | **A** | **A** | **A** | No restriction |
+| ABNS — liquid trap, ABNS fill liquid (Zone B) | **B** | **A** | **B** | Sustained surfactant contact; water preferred |
+| DES — single spray-and-evaporate | **B** | **A** | **B** | Fully volatile; no residue accumulation |
+| DES — sustained fill liquid | Not appropriate | **A** | Not appropriate | Ethanol swelling; use water |
+| Cleaning — all standard homebrew cleaners | **A** | **A** | **A** | Ambient temperature; soft cloth or brief soak only; no abrasives |
+| Hot liquid contact / dishwasher | Not appropriate | Not appropriate | Not appropriate | All three materials; thermal stress and HDT concern |
+
+*Rating key: A = unrestricted within stated conditions · B = suitable with precautions; monitor over service life · D = severe effect; avoid · Not appropriate = outside safe use conditions*
+
 ## Summary by article type
 
 | Article | Food grade | Temp limits | ABNS | DES | Cleaning |
