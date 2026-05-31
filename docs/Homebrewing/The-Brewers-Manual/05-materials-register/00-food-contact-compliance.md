@@ -138,6 +138,16 @@ A reasonable approach for undocumented food contact equipment:
 
 The limits that matter most depend on the material. For chemically inert polyolefins (PP, HDPE) in normal brewing use — filling with cool wort, fermenting at ambient temperature, cleaning with alkaline cleaners at ambient temperature, sanitising with ABNS or DES — migration risk is the least of the constraints; structural and temperature limits are more likely to be the relevant boundary. For PET, the chemical constraint from alkaline cleaners is a real operational limit that must be observed regardless of food grade status. For elastomers, the picture depends on the specific material and chemistry in contact. The correct place to look is the relevant material page, not a generalisation about "most food grade polymers."
 
+## California Proposition 65 — a note for US-sourced equipment
+
+Brewers buying equipment from US retailers may encounter Proposition 65 warnings — product-level notices required by California law for articles containing substances on the state's list of chemicals known to cause cancer or reproductive harm. A typical warning reads: *"WARNING: This product can expose you to chemicals including Styrene, which is known to the State of California to cause cancer."*
+
+These warnings reflect that a listed substance is present in a component material — they say nothing about whether migration into food occurs at a meaningful level under actual use conditions. A Proposition 65 warning on a polystyrene airlock does not mean the airlock is unsafe; the same styrene SML reasoning that applies under EU 10/2011 applies here. Equally, the absence of a warning means nothing — a vendor may not have assessed all products in a large catalogue, or may have made a judgement that migration falls below California's safe harbour levels.
+
+The one case where a Proposition 65 warning carries useful information is when it names a specific substance: it means the vendor has identified the material upstream, which can serve as incidental material confirmation. A warning citing "Styrolux" on an S-shaped airlock, for example, is effectively a material disclosure.
+
+MoreBeer publish a [Proposition 65 reference chart](https://morebeer.com/pages/what-is-california-proposition-65) explaining their approach and listing which materials trigger which warnings — a useful reference for US-sourced equipment.
+
 ---
 
 [^1]: Witre/Plast-Box DoC — the Declaration of Conformity for the Witre food grade PP bucket (Plast-Box S.A., Słupsk, Poland) is publicly linked from the [Witre product page](https://www.witre.se/sv/wsw/livsmedelsgodkand-plasthink-med-lock-1794m415). It covers overall migration testing against all five EU simulants by an accredited laboratory. Results ranged from less than 0.5 mg/dm² (distilled water, 10% ethanol) to 8.3 mg/dm² (isooctane) — all within the 10 mg/dm² OML. The DoC covers the article as a general-purpose food storage and transport container; it does not address repeated fermentation use, cleaning chemistry, or brewing-specific conditions.
