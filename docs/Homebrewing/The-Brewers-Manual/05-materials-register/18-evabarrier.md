@@ -1,6 +1,7 @@
 ---
 sidebar_position: 14
 title: EVABarrier
+draft: true
 ---
 
 # EVABarrier (EVA/EVOH multilayer tubing)

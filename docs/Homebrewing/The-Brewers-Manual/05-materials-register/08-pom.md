@@ -1,6 +1,7 @@
 ---
 sidebar_position: 7
 title: Polyoxymethylene (POM / Acetal)
+draft: true
 ---
 
 # Polyoxymethylene (POM / Acetal)

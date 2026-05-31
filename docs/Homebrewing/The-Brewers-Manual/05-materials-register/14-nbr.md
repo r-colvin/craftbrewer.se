@@ -1,6 +1,7 @@
 ---
 sidebar_position: 12
 title: Nitrile rubber (NBR)
+draft: true
 ---
 
 # Nitrile rubber (NBR)

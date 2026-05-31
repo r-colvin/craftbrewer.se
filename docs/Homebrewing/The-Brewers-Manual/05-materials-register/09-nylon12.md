@@ -1,6 +1,7 @@
 ---
 sidebar_position: 9
 title: Nylon 12 (Polyamide 12)
+draft: true
 ---
 
 # Nylon 12 (Polyamide 12)

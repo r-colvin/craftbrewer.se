@@ -1,6 +1,7 @@
 ---
 sidebar_position: 5
 title: EPDM rubber
+draft: true
 ---
 
 # EPDM (Ethylene Propylene Diene Monomer rubber)

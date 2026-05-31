@@ -1,6 +1,7 @@
 ---
 sidebar_position: 8
 title: Polyketone (POK)
+draft: true
 ---
 
 # Polyketone (POK)

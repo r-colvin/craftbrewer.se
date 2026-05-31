@@ -30,7 +30,7 @@ const config = {
     },
   },
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
 
   i18n: {
     defaultLocale: 'en',

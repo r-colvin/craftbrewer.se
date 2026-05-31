@@ -2,6 +2,7 @@
 sidebar_position: 0
 title: Recipes
 slug: /homebrewing/recipes
+draft: true
 ---
 
 # Recipes

@@ -2,6 +2,7 @@
 sidebar_position: 0
 title: BrewClub
 slug: /homebrewing/brewclub
+draft: true
 ---
 
 # BrewClub

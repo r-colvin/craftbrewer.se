@@ -1,6 +1,7 @@
 ---
 title: Cleaning process
 sidebar_position: 2
+draft: true
 ---
 
 # Cleaning process

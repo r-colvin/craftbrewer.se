@@ -1,6 +1,7 @@
 ---
 sidebar_position: 6
 title: Silicone (platinum-cured)
+draft: true
 ---
 
 # Silicone (platinum-cured)

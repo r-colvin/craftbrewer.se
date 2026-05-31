@@ -1,6 +1,7 @@
 ---
 sidebar_position: 18
 title: Aluminium
+draft: true
 ---
 
 # Aluminium

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 22
 title: PTFE
+draft: true
 ---
 
 # PTFE (Polytetrafluoroethylene)
