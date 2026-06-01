@@ -115,7 +115,7 @@ The [Witre food grade PP bucket](https://www.witre.se/sv/wsw/livsmedelsgodkand-p
 
 The [Mr-Malt 5L PP bucket](https://www.mr-malt.se/) DoC (available on request from the retailer) covers the same simulant framework but is explicit about one limitation most DoCs leave implicit: it states directly that the article does not comply with the repeated-use provisions of EU 10/2011 Annex V.[^2] This is not a condemnation of the bucket — it reflects the same practical gap present across the homebrewing market. The DoC was never written to certify dozens of fermentation cycles, and it is more transparent than most for saying so.
 
-These two examples are the only DoCs for homebrewing articles that we have been able to obtain and verify. For all other equipment in the register, material information has been obtained from product pages, manufacturer responses, or inference from RIC codes — not from formal DoCs. This is the honest state of documentation for homebrewing equipment.
+The DoCs documented in this register represent the confirmed food contact documentation we have been able to obtain and verify for homebrewing articles to date. For all other equipment in the register, material information has been obtained from product pages, manufacturer responses, or inference from RIC codes — not from formal DoCs. This is the honest state of documentation for homebrewing equipment.
 
 ## Repeated use
 
