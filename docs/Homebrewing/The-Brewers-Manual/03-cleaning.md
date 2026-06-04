@@ -251,6 +251,8 @@ The more useful distinctions are by soil type:
 
 Note that high-metasilicate products (StellarClean, ChemClean, ChemiPro Wash) carry documented contact time and temperature constraints for certain materials. The [materials register](./05-materials-register/index.md) is the place to check compatibility before use on equipment you are uncertain about.
 
+**The metasilicate test — a practical rule for PET equipment:** If a cleaner's ingredients list includes sodium metasilicate or sodium silicate in any quantity above a trace, it carries documented or likely contact time and temperature constraints for PET vessels (fermenters, mini kegs, keg liners). This applies regardless of the product name, branding, or what the product page says — the constraint is a property of the chemistry, not the manufacturer's claim. Check the SDS or ingredient declaration, not the marketing copy. The only cleaners in this guide with no metasilicate constraint for PET are **ChemiPro OXI** (no metasilicate at all) and **PBW** (1–3% metasilicate, classified low-risk in practice at cold temperatures and short contact times). For PET equipment, ChemiPro OXI is the safest single-cleaner choice confirmed in the Swedish/EU market.
+
 **Summary table:**
 
 | Product | Type | Best for | Temperature | Material notes |
