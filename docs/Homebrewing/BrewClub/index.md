@@ -54,33 +54,35 @@ Here is an honest summary of what BrewClub requires — and what you get out of 
 
 On rare occasions a batch doesn't turn out right — almost always because a sanitising step was skipped or rushed. If that happens, the beer may not taste good, but it won't make you sick. Take your time, follow the steps, and you will almost certainly have beer. If something does go wrong, it's a learning opportunity. Try again.
 
-There's a saying in home brewing: *there will be beer*. BrewClub subscribes to that philosophy wholeheartedly.
+There's a saying in home brewing: *whatever happens, there will be beer*. BrewClub subscribes to that philosophy wholeheartedly.
 
 ---
 
 ## The brew sequence
 
-BrewClub is built around four brews. Each one adds something new, and each stop along the way is complete in itself — stop whenever you like.
+Brewing has its own language. You'll encounter some of it below — words like [wort](/glossary#wort), [mashing](/glossary#mashing), and [pitching](/glossary#pitch) that mean something specific in a brewing context. Don't worry about them yet. We'll explain each one properly as we go. For now, just let them wash over you.
 
-**Brew 1 — Fresh wort kit or extract pouch kit**
+**Brew 1 — Beer or cider from a kit**
 
-No boiling, no [mashing](/glossary#mashing). You take a professionally made [wort](/glossary#wort), pitch your yeast, ferment, and package. The focus is entirely on the cold side: sanitising, fermentation, packaging. The highest chance of success, the lowest barrier to entry.
+The goal of Brew 1 is simple: make something drinkable, understand the process, and enjoy the result. Everything else follows from that.
 
-Choose beer or cider for your first brew — both work equally well at this stage. If you choose cider, keep it simple: ferment it out, carbonate, and taste it clean before adding anything else. Dry hopping is fine. Back-sweetening, tinctures, and other adjuncts are worth exploring later, but get to know the base cider first.
+To keep the focus on the fundamentals, Brew 1 uses a ready-made kit — either a fresh [wort](/glossary#wort) kit or an extract pouch. This means no [mashing](/glossary#mashing), no boiling, and no making decisions about ingredients yet. The kit handles the complex part; your job is everything that happens afterwards — sanitising, fermentation, and packaging. This is called the [cold side](/glossary#cold-side) of brewing, and it's where most of the variables that affect your finished beer live. It's also the best place to start.
 
-*In a club:* one fresh wort kit splits across four or five people. Everyone pitches a different yeast, or ferments at a different temperature, or chooses a different dry hop. The tasting session is the point — comparing what each variable did to the same starting wort.
+Choose beer or cider — both work equally well at this stage and the process is almost identical. If you choose cider, keep it simple for your first batch: resist the temptation to add anything extra. There will be plenty of opportunity for [dry hopping](/glossary#dry-hop), [back-sweetening](/glossary#back-sweetening), [tinctures](/glossary#tincture), and other [adjuncts](/glossary#adjuncts) later. For now, brew it clean and taste what the base has to offer. This also keeps the beer and cider tracks aligned — so if you're brewing in a club, everyone is working through roughly the same process at the same time.
+
+*In a club:* one fresh wort kit splits across four or five people. Everyone [pitches](/glossary#pitch) a different yeast, or ferments at a different temperature, or chooses a different dry hop. The tasting session is the point — comparing what each variable did to the same starting wort.
 
 *Solo:* an extract pouch kit splits into two smaller batches. Brew one now and store the other half for your next brew. It's a chance to make one small change — a different yeast, a different dry hop, a different fermentation temperature — and taste the difference directly. Save some from the first batch to compare.
 
 **Brew 2 — The other track**
 
-If you brewed beer for Brew 1, Brew 2 is the moment to try cider. If you started with cider, now try beer. The two tracks are interchangeable — there is no wrong order.
+Brew 2 is the moment to try the other track: if you brewed beer for Brew 1, now try cider — and vice versa. The two are interchangeable and there is no wrong order.
 
 From Brew 2 onwards, club members each brew their own full batch rather than splitting a single wort. The dynamic shifts: instead of comparing different treatments of the same starting point, you're comparing what each person did independently. A different kit, a different yeast, a different approach. The tasting sessions get more interesting.
 
 **Brew 3 — Stove-top extract with partial mash**
 
-First time making your own wort. Steeping grain, dissolving malt extract, a short boil with hop additions. A pot, a grain bag, and a thermometer are the only new equipment. This is where you start to understand what malt and hops actually contribute.
+The first time you make your own wort. Steeping grain, dissolving malt extract, a short boil with hop additions. A pot, a grain bag, and a thermometer are the only new equipment. This is where you start to understand what malt and hops actually contribute — and where the range of choices opens up considerably.
 
 **Brew 4 — Stove-top all-grain**
 
