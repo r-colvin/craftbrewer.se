@@ -54,23 +54,25 @@ Here is an honest summary of what BrewClub requires — and what you get out of 
 
 On rare occasions a batch doesn't turn out right — almost always because a sanitising step was skipped or rushed. If that happens, the beer may not taste good, but it won't make you sick. Take your time, follow the steps, and you will almost certainly have beer. If something does go wrong, it's a learning opportunity. Try again.
 
-There's a saying in home brewing: *whatever happens, there will be beer*. BrewClub subscribes to that philosophy wholeheartedly.
+Charlie Papazian, the man who did more than most to make home brewing a mainstream hobby, had a phrase for this: *don't worry, have a homebrew*. The spirit of it is right — don't overthink it, enjoy the process. But the reassurance only works when you understand why you don't need to worry. That's what BrewClub is here for. Whatever happens, there will be beer.
 
 ---
 
 ## The brew sequence
 
-Brewing has its own language. You'll encounter some of it below — words like [wort](/glossary#wort), [mashing](/glossary#mashing), and [pitching](/glossary#pitch) that mean something specific in a brewing context. Don't worry about them yet. We'll explain each one properly as we go. For now, just let them wash over you.
+:::tip Brewing has its own language
+You'll encounter some unfamiliar terms below — words like wort, mashing, and pitching that mean something specific in a brewing context. Don't worry about them for now. We'll explain each one properly as we go, at the point where it matters.
+:::
 
 **Brew 1 — Beer or cider from a kit**
 
 The goal of Brew 1 is simple: make something drinkable, understand the process, and enjoy the result. Everything else follows from that.
 
-To keep the focus on the fundamentals, Brew 1 uses a ready-made kit — either a fresh [wort](/glossary#wort) kit or an extract pouch. This means no [mashing](/glossary#mashing), no boiling, and no making decisions about ingredients yet. The kit handles the complex part; your job is everything that happens afterwards — sanitising, fermentation, and packaging. This is called the [cold side](/glossary#cold-side) of brewing, and it's where most of the variables that affect your finished beer live. It's also the best place to start.
+To keep the focus on the fundamentals, Brew 1 uses a ready-made kit — either a fresh wort kit or an extract pouch. This means no mashing, no boiling, and no decisions about ingredients yet. The kit handles the complex part; your job is everything that happens afterwards — sanitising, fermentation, and packaging. This is called the cold side of brewing, and it's where most of the variables that affect your finished beer live. It's also the best place to start.
 
-Choose beer or cider — both work equally well at this stage and the process is almost identical. If you choose cider, keep it simple for your first batch: resist the temptation to add anything extra. There will be plenty of opportunity for [dry hopping](/glossary#dry-hop), [back-sweetening](/glossary#back-sweetening), [tinctures](/glossary#tincture), and other [adjuncts](/glossary#adjuncts) later. For now, brew it clean and taste what the base has to offer. This also keeps the beer and cider tracks aligned — so if you're brewing in a club, everyone is working through roughly the same process at the same time.
+Choose beer or cider — both work equally well at this stage and the process is almost identical. If you choose cider, keep it simple for your first batch: resist the temptation to add anything extra. There will be plenty of opportunity for dry hopping, back-sweetening, tinctures, and other adjuncts later. For now, brew it clean and let the base speak for itself. This also keeps the beer and cider tracks aligned — so if you're brewing in a club, everyone is working through roughly the same process at the same time.
 
-*In a club:* one fresh wort kit splits across four or five people. Everyone [pitches](/glossary#pitch) a different yeast, or ferments at a different temperature, or chooses a different dry hop. The tasting session is the point — comparing what each variable did to the same starting wort.
+*In a club:* one fresh wort kit splits across four or five people. Everyone pitches a different yeast, or ferments at a different temperature, or chooses a different dry hop. The tasting session is the point — comparing what each variable did to the same starting wort.
 
 *Solo:* an extract pouch kit splits into two smaller batches. Brew one now and store the other half for your next brew. It's a chance to make one small change — a different yeast, a different dry hop, a different fermentation temperature — and taste the difference directly. Save some from the first batch to compare.
 
