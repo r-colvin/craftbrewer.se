@@ -6,7 +6,7 @@ slug: /homebrewing/brewclub
 
 # BrewClub
 
-Most people who brew started the same way: they tasted something and wanted to know how it was made. If that's you, you're in the right place.
+Most people who brew started the same way: they tasted something and wanted to know how it came to be the way it was. If that's you, you're in the right place.
 
 Brewing gives you a new lens on something you may already love. It is a bit like learning an instrument — you don't have to play to enjoy music, but once you do, you hear it differently. You can watch a sport and enjoy it as a spectator, but you won't understand it the way a participant does. Beer is the same. You can enjoy it without ever making it — but once you do, you see it differently. Why one beer is hazy and another is clear. What dry hops are actually doing. Why the same recipe brewed by two people can taste completely different.
 
@@ -18,7 +18,7 @@ Brewing is hands-on, unhurried, and away from a screen. It is history, chemistry
 
 BrewClub is a guided path into home brewing — structured, low-cost, and designed to fit around your life. It started as a way to get a group of friends brewing together: sharing a batch of wort, each choosing a different yeast or dry hop or fermentation temperature, then getting together to taste and compare. You learn more from one session like that than from months of reading alone.
 
-Think of BrewClub as a train journey. Each stop is a brew — a new skill, a new technique, something new to taste and understand. You can ride as far as you like and get off whenever you want. There is no final destination; there is always something new to learn about brewing. But there is a clear route, and BrewClub keeps you on it for as long as you want to follow it.
+Think of BrewClub as a train journey. Each stop is a brew — a new skill, a new technique, something new to taste and understand. You can ride as far as you like and stop whenever you want. There is no final destination; there is always something new to learn about brewing. But there is a clear route, and BrewClub keeps you on it for as long as you want to follow it.
 
 You don't need a group to get started. Everything in BrewClub works just as well for a solo first brew. And if you find others along the way — someone curious at a tasting, a colleague who asks what you've been up to — you'll have everything you need to bring them in.
 
@@ -60,21 +60,21 @@ There's a saying in home brewing: *there will be beer*. BrewClub subscribes to t
 
 ## The brew sequence
 
-BrewClub is built around four brews. Each one adds something new, and each stop along the way is complete in itself — you can get off the train whenever you like.
+BrewClub is built around four brews. Each one adds something new, and each stop along the way is complete in itself — stop whenever you like.
 
 **Brew 1 — Fresh wort kit or extract pouch kit**
 
-No boiling, no mashing. You take a professionally made wort, pitch your yeast, ferment, and package. The focus is entirely on the cold side: sanitising, fermentation, packaging. The highest chance of success, the lowest barrier to entry.
+No boiling, no [mashing](/glossary#mashing). You take a professionally made [wort](/glossary#wort), pitch your yeast, ferment, and package. The focus is entirely on the cold side: sanitising, fermentation, packaging. The highest chance of success, the lowest barrier to entry.
+
+Choose beer or cider for your first brew — both work equally well at this stage. If you choose cider, keep it simple: ferment it out, carbonate, and taste it clean before adding anything else. Dry hopping is fine. Back-sweetening, tinctures, and other adjuncts are worth exploring later, but get to know the base cider first.
 
 *In a club:* one fresh wort kit splits across four or five people. Everyone pitches a different yeast, or ferments at a different temperature, or chooses a different dry hop. The tasting session is the point — comparing what each variable did to the same starting wort.
 
-*Solo:* an extract pouch kit splits into two smaller batches. Brew one now, store the other half for your next brew.
+*Solo:* an extract pouch kit splits into two smaller batches. Brew one now and store the other half for your next brew. It's a chance to make one small change — a different yeast, a different dry hop, a different fermentation temperature — and taste the difference directly. Save some from the first batch to compare.
 
-**Brew 2 — Cider or beer**
+**Brew 2 — The other track**
 
-Brew 2 introduces a second track: if you brewed beer for Brew 1, this is the moment to try cider — and vice versa. The two are interchangeable. There is no wrong order.
-
-If you're starting with cider, keep it simple for your first batch. Ferment it out, carbonate, and taste it clean before adding anything else. Dry hopping is fine. Back-sweetening, tinctures, and other adjuncts are worth exploring, but get to know the base cider first.
+If you brewed beer for Brew 1, Brew 2 is the moment to try cider. If you started with cider, now try beer. The two tracks are interchangeable — there is no wrong order.
 
 From Brew 2 onwards, club members each brew their own full batch rather than splitting a single wort. The dynamic shifts: instead of comparing different treatments of the same starting point, you're comparing what each person did independently. A different kit, a different yeast, a different approach. The tasting sessions get more interesting.
 
