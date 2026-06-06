@@ -66,7 +66,7 @@ You'll encounter some unfamiliar terms below — words like wort, mashing, and p
 
 **Brew 1 — Beer or cider from a kit**
 
-The goal of Brew 1 is simple: make something drinkable, understand the process, and enjoy the result. Everything else follows from that.
+Brew 1 is where you learn the fundamentals — sanitising, fermentation, and packaging — without the complexity or investment of time and money that comes with making your own wort. The goal is to build the foundation that all brewing relies on. At the end you should have a delicious beer (or cider!) you made yourself, and the confidence to tackle your next brew and build on what you have learned.
 
 To keep the focus on the fundamentals, Brew 1 uses a ready-made kit — either a fresh wort kit or an extract pouch. This means no mashing, no boiling, and no decisions about ingredients yet. The kit handles the complex part; your job is everything that happens afterwards — sanitising, fermentation, and packaging. This is called the cold side of brewing, and it's where most of the variables that affect your finished beer live. It's also the best place to start.
 

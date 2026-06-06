@@ -6,6 +6,15 @@
       "definition": "Relating to the sensory properties of a food or drink — taste, smell, appearance, and texture. EU food contact regulations require that materials do not cause unacceptable organoleptic changes to food."
     },
     {
+      "term": "Pitch",
+      "aliases": [
+        "pitching",
+        "pitched",
+        "pitches"
+      ],
+      "definition": "To add yeast to wort to begin fermentation. Pitching rate — the quantity of yeast added relative to the volume and strength of the wort — affects fermentation speed, yeast health, and flavour. For BrewClub brews, a single packet of dried yeast is the correct pitch rate for a standard kit batch."
+    },
+    {
       "term": "Wort",
       "definition": "Liquid extracted from malted grain during mashing and boiling, before fermentation. The starting point for beer."
     },
