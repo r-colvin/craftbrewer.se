@@ -100,23 +100,21 @@ The first time you make your own wort. Steeping grain, dissolving malt extract, 
 
 Full control over the recipe from grain to glass. Mashing, sparging, boiling, hopping — everything. No new equipment beyond Brew 3. This is where the hobby opens up completely and the skills you've built start to connect.
 
-After Brew 1, you are a homebrewer. After Brew 4, you have the foundation to go wherever the hobby takes you — to read the books, join the forums, and take on more ambitious projects with the confidence that comes from having done it yourself. But BrewClub doesn't stop at Brew 4. Keep brewing, keep sharing, keep learning. The train doesn't have a final stop.
+After Brew 1, you are a homebrewer. After Brew 4, you have the foundation to go wherever the hobby takes you — to read the books, join the forums, and take on more ambitious projects with the confidence that comes from having done it yourself. But BrewClub doesn't stop at Brew 4. Keep brewing, keep sharing, keep learning. The train doesn't have a final destination.
 
 ---
 
 ## Pick your track
 
-At each stage, BrewClub offers options. There is rarely one right answer — the best choice depends on your equipment, your setup, and your goals.
+At each stage, BrewClub offers options. There is rarely one right answer — the best choice depends on your equipment, your setup, and your goals. A few decisions are worth being aware of early:
 
-A few decisions are worth being aware of early, even if you don't need to make them yet:
+**Packaging** — bottles or a keg. Bottles are simple and shareable; kegging gives you beer on tap and removes the bottling step. Small-scale, low-cost kegging is achievable for BrewClub brews, though it requires a little more equipment. Both are covered throughout.
 
-**Packaging** — bottles (carbonation drops into PET or glass) or a mini keg (Oxebar 4L with a picnic tap). Bottles are portable and easy to share; a keg gives you beer on tap without the bottling step. Both are covered throughout BrewClub.
+**Carbonation** — natural (conditioned over time) or forced (CO₂ gas). Each has its trade-offs. The detail is in [Getting started](./01-getting-started/index.md).
 
-**Carbonation** — natural (drops or priming sugar, conditioned at room temperature) or force carbonation (CO₂ gas, faster and more precise). Natural carbonation needs no gas equipment; force carbonation gives more control and consistency.
+**Fermentation temperature** — knowing the temperature of your fermentation space matters. It affects which yeast you choose and how you manage fermentation. [Getting started](./01-getting-started/index.md) walks you through the decision.
 
-**Fermentation temperature** — standard ale yeast works best between 18–22°C. Kveik strains ferment reliably anywhere from 20–40°C, which matters if your space runs warm.
-
-These are just the first few decision points. As you move through the sequence, more choices open up. BrewClub introduces each one at the point where it becomes relevant.
+These are just the first few decision points. BrewClub introduces each one at the point where it becomes relevant.
 
 ---
 
