@@ -30,6 +30,41 @@
       "definition": "A hazy, hop-forward IPA style characterised by high dry hop additions, soft bitterness, and haze from hop oils and proteins. Among the most oxidation-sensitive styles in common homebrewing — oxygen exposure causes rapid flavour degradation. PET bottle conditioning imposes a meaningful shelf-life limitation for NEIPA; Oxebar barrier PET or stainless kegging is strongly preferred for extended storage."
     },
     {
+      "term": "Steeping",
+      "aliases": [
+        "steep",
+        "steeped",
+        "steeps"
+      ],
+      "definition": "Soaking crushed grain in hot water to extract colour, flavour, and unfermentable sugars without converting starches. Used in extract brewing with specialty malts. Unlike mashing, steeping does not require precise temperature control or enzymatic conversion — it is the simpler of the two grain processes."
+    },
+    {
+      "term": "Sparging",
+      "aliases": [
+        "sparge",
+        "sparged",
+        "sparges"
+      ],
+      "definition": "Rinsing the grain bed with hot water after mashing to wash out remaining fermentable sugars. In all-grain brewing, sparging recovers sugars that would otherwise be left behind in the grain. Common methods include batch sparging (adding water in discrete additions) and fly sparging (continuous slow rinsing). Not required for extract or partial mash brewing."
+    },
+    {
+      "term": "Boiling",
+      "aliases": [
+        "boil",
+        "boiled",
+        "boils"
+      ],
+      "definition": "Heating wort to a rolling boil (typically 60–90 minutes) to sterilise it, drive off unwanted compounds (including DMS precursors), concentrate sugars, and isomerise hop alpha acids into bitterness. Boiling is a hot-side process — it does not occur in Brew 1, which uses a pre-boiled kit."
+    },
+    {
+      "term": "Hopping",
+      "aliases": [
+        "hop addition",
+        "hop additions"
+      ],
+      "definition": "Adding hops to wort or beer at various stages of the brewing process. Hot-side hop additions during the boil contribute bitterness and some flavour. Cold-side additions (dry hopping) after fermentation contribute aroma and flavour without bitterness. The timing, quantity, and variety of hop additions are among the most influential variables in beer flavour."
+    },
+    {
       "term": "Mashing",
       "aliases": [
         "mash",

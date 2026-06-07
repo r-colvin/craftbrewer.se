@@ -100,6 +100,8 @@ The first time you make your own wort. Steeping grain, dissolving malt extract, 
 
 Full control over the recipe from grain to glass. Mashing, sparging, boiling, hopping — everything. No new equipment beyond Brew 3. This is where the hobby opens up completely and the skills you've built start to connect.
 
+After Brew 1, you are a homebrewer. After Brew 4, you have the foundation to go wherever the hobby takes you — to read the books, join the forums, and take on more ambitious projects with the confidence that comes from having done it yourself. But BrewClub doesn't stop at Brew 4. Keep brewing, keep sharing, keep learning. The train doesn't have a final stop.
+
 ---
 
 ## Pick your track
