@@ -49,7 +49,7 @@ The base unit in BrewClub is **4 litres of finished, packaged beer**. If you're 
 Everything scales from this. A typical BrewClub batch is one or two of these units: 4 litres (one keg or 8 bottles) or 8 litres (two kegs or 16 bottles). Larger batches are possible with a bigger fermenter — but for a first brew, one unit is plenty.
 
 :::tip Why "packaged volume"?
-In the homebrewing community, "batch size" conventionally means the volume going into the fermenter — not what ends up in the keg or bottle. Recipes, software like Brewfather, and most online resources use it this way. BrewClub uses packaged volume instead, because that's the number most people actually care about: how much beer you end up with. Working backwards from there — estimating trub losses to arrive at your fermenter volume, and from there your pre-boil volume — is a more practical way to plan a small-batch brew when your packaging space is fixed. Just be aware of the convention difference when reading recipes from other sources.
+In the homebrewing community, "batch size" conventionally means the volume going into the fermenter — not what ends up in the keg or bottle. Recipe software like Brewfather and most online resources use it this way. BrewClub uses packaged volume instead, because that's the number most people actually care about: how much beer you end up with. Working backwards from there — estimating trub losses to arrive at your fermenter volume, and from there your pre-boil volume — is a more practical way to plan a small-batch brew when your packaging space is fixed. Just be aware of the convention difference when reading recipes from other sources.
 :::
 
 ---
@@ -58,17 +58,17 @@ In the homebrewing community, "batch size" conventionally means the volume going
 
 For BrewClub, the practical options are:
 
-| Batch size | Packaged into | Fermenter needed |
+| Batch size | Packaged into | Minimum fermenter size |
 |---|---|---|
 | 4 L | 1× 4 L keg, or ~8 bottles | 5.5 L |
 | 8 L | 2× 4 L kegs, or ~16 bottles | 15 L |
 | 10 L | 2× 4 L kegs + bottles for the rest | 15 L |
 
-**4 litres** is the minimum viable batch — one keg, one person, fully manageable. Good for a first solo brew.
+**4 litres** is the minimum viable batch — one keg, or eight bottles. Good for a first brew.
 
-**8–10 litres** gives you two kegs: keep one, share one. This is the sweet spot for a solo brewer or a pair brewing together. With 10 litres you'll also have a little extra to bottle separately — useful for comparing packaging methods or sharing with people who don't have a tap.
+**8–10 litres** gives you two kegs: keep one, share one (or keep both!). This is the sweet spot for a solo brewer or a pair brewing together. With 10 litres you'll also have a little extra to bottle separately — useful for comparing packaging methods or sharing with people who don't have a tap.
 
-Beyond 10 litres, you're in 15-litre fermenter territory regardless, so going to 12 or 15 litres is no extra equipment cost — just more beer.
+Beyond 10 litres, a 15-litre fermenter is the right vessel — anything up to around 12 litres fits comfortably with the right headspace. Going from 10 to 12 litres costs nothing in extra equipment, just produces more beer.
 
 ---
 
@@ -80,7 +80,7 @@ The key constraint: **FWK bags should not be stored once opened**. The whole kit
 
 Recommended splits:
 
-| Club size | Litres per person (from 15 L) | Litres per person (from 20 L) | Fermenter needed |
+| Club size | Litres per person (from 15 L) | Litres per person (from 20 L) | Minimum fermenter size |
 |---|---|---|---|
 | 4 people | ~3.75 L | 5 L | 5.5 L |
 | 3 people | 5 L | ~6.7 L | 5.5 L or 15 L |
