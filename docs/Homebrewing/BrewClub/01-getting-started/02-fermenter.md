@@ -6,8 +6,76 @@ slug: /homebrewing/brewclub/getting-started/fermenter
 
 # Fermenter
 
-:::note Status
-**Stub** — content to be written.
+Your fermenter is where beer happens. Everything from the moment the wort goes in to the moment it's ready to package takes place here — so it's worth understanding what to look for before you buy one.
+
+---
+
+## Why a PP bucket?
+
+Many fermenter types exist: glass carboys, stainless conicals, PET vessels, and various DIY options. BrewClub uses a **polypropylene (PP) bucket fermenter** because it's the right tool for the job at this scale.
+
+PP is food-safe, chemically resistant to everything you'll use for cleaning and sanitising, easy to clean, and inexpensive. PP buckets are widely available from homebrew suppliers in Sweden and most other countries. They're opaque — you can't see the fermentation activity inside — but that's a minor inconvenience, not a problem. An airlock tells you what you need to know.
+
+The detail that matters for the Brewer's Manual is covered on the [bucket fermenter equipment page](/the-brewers-manual/equipment/bucket-fermenter). For BrewClub, the short version is: buy a PP bucket from a homebrew supplier, and you'll be fine.
+
+---
+
+## Choosing your size
+
+Available PP bucket sizes in Sweden are 5.5 L, 15 L, and 30 L. Choose based on your batch size from the [Batch size](./01-batch-size.md) page.
+
+| Fermenter size | Usable fermentation volume | Suits batch size |
+|---|---|---|
+| 5.5 L | ~4–4.5 L | 4 L packaged |
+| 15 L | ~10–12 L | 5–10 L packaged |
+| 30 L | ~20–23 L | 15–20 L packaged |
+
+**Headspace matters.** Fermentation produces a foam layer called krausen that rises above the liquid surface. You need enough room for it — typically 20% of your batch volume as a minimum. Too little headspace and the krausen can push out through the airlock. The usable volumes above account for this.
+
+For most BrewClub batches, the **15-litre fermenter** is the most versatile choice. It covers everything from a 4-person FWK split (5 L each) up to a solo 10-litre batch. If you're starting with a single 4-litre batch and don't expect to scale up, the 5.5-litre fermenter is the right fit and costs less.
+
+---
+
+## What comes with the fermenter
+
+A complete fermenter setup requires:
+
+**The bucket and lid** — bought together. Make sure the lid fits the bucket securely and seals all the way around. Press the entire rim to check — a lid that appears closed but isn't sealed is one of the most common beginner mistakes.
+
+**A tap** — for transferring beer to packaging without a siphon. Most buckets come with a tap included or available as an add-on. The tap body is typically PP, which is fine. The seal inside the tap matters more — silicone is the right material and is standard on most homebrew taps. Confirm your tap includes a silicone seal when buying.
+
+**An airlock** — allows CO₂ produced during fermentation to escape while preventing air and contamination from getting in. A 3-piece or S-type airlock both work. Fill the U-section with cooled boiled water or diluted sanitiser before fitting.
+
+**A grommet** — the rubber seal that holds the airlock in the lid. This is the one component worth paying specific attention to.
+
+---
+
+## The grommet — get this right
+
+The grommet is small and easy to overlook, but it matters. It sits in a hole in the lid, seals the airlock in place, and is the only rubber component in regular contact with your beer environment.
+
+**Colour is your guide:** buy a fermenter with a **black grommet**. Black grommets are assumed to be EPDM rubber, which is chemically compatible with everything used in BrewClub — cleaning agents, sanitisers, and the beer itself. Brown or orange grommets are likely natural rubber (NR), which carries a chemical risk that makes it unsuitable for food contact use. If your fermenter comes with a brown or orange grommet, replace it with a black one before your first brew.
+
+:::note Why the colour rule?
+The material of a grommet is rarely declared by manufacturers, which makes direct verification difficult. Black colour with a matte finish is a reliable indicator of EPDM in the homebrew context — confirmed by supplier correspondence and consistent across the market. It is an assumption, not a guarantee, but it's the best practical guide available. The Brewer's Manual covers the full analysis on the [materials register](/the-brewers-manual/materials-register).
 :::
 
-Which fermenter size to choose, and what to look for when buying one.
+---
+
+## Cleaning and inspection
+
+Before your first brew and between batches, your fermenter needs to be cleaned — not just sanitised. Cleaning removes residue; sanitising kills anything that could spoil the beer. Both steps matter and they are done in sequence: clean first, then sanitise on brew day.
+
+The cleaning process is covered in detail on the [Brew Day](../02-brew-day/index.md) page. For now, the things to know:
+
+- **Inspect your fermenter before each brew.** Look for scratches, cracks, or cloudiness — especially on the interior. Scratches harbour bacteria that cleaning and sanitising can't reliably reach. A heavily scratched fermenter should be replaced.
+- **Never use abrasive cloths or scourers** on the inside of a PP fermenter. They scratch the surface.
+- **Disassemble the tap** and clean it separately after every batch. The tap interior — particularly the thread roots — is the highest-risk residue point in the whole setup.
+
+---
+
+## Upgrading later
+
+The PP bucket fermenter will carry you through all four BrewClub brews and well beyond. When you're ready to upgrade — for pressure fermentation, closed transfer, or larger batch sizes — the options are covered in the [Upgrades](../06-upgrades/index.md) section.
+
+For now, a PP bucket is everything you need.
