@@ -128,4 +128,8 @@ If something in BrewClub is wrong, unclear, or missing — or if you want to add
 
 ---
 
+:::tip How much should you read before brew day?
+At minimum, work through the [Getting started](./01-getting-started/index.md) section before anything else. If you have time, reading all the way through to the end of [Brew 1](./02-brew-day/index.md) is worth it — knowing where you're headed helps you make better decisions along the way. You don't need to memorise any of it. Just read it once so brew day has no surprises.
+:::
+
 Ready to get started? Head to [Getting started](./01-getting-started/index.md) — everything you need to know and do before brew day.
