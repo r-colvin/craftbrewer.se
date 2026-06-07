@@ -68,7 +68,7 @@ For BrewClub, the practical options are:
 
 **8–10 litres** gives you two kegs: keep one, share one (or keep both!). This is the sweet spot for a solo brewer or a pair brewing together. With 10 litres you'll also have a little extra to bottle separately — useful for comparing packaging methods or sharing with people who don't have a tap.
 
-Beyond 10 litres, a 15-litre fermenter is the right vessel — anything up to around 12 litres fits comfortably with the right headspace. Going from 10 to 12 litres costs nothing in extra equipment, just produces more beer.
+Beyond 10 litres, a 15-litre fermenter remains the right vessel up to around 12 litres with correct headspace — but note that FWK splits don't map neatly to that volume. If you want to brew a full 20-litre FWK solo, you'll need a 30-litre fermenter. That's a significant jump in equipment and volume, and not what BrewClub is designed around.
 
 ---
 
