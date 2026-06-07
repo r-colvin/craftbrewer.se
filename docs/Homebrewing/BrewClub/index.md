@@ -112,7 +112,7 @@ At each stage, BrewClub offers options. There is rarely one right answer — the
 
 **Carbonation** — natural (conditioned over time) or forced (CO₂ gas). Each has its trade-offs.
 
-**Fermentation temperature** — arguably the most important thing to know before you start. Find a space where a fermenter can sit undisturbed for one to two weeks — roughly 31cm in diameter and 40cm tall — and get a rough sense of what temperature that space runs at. Below 15°C is too cold for most ale yeasts. Between 15–20°C is cool ale territory and works well for many styles. Between 20–25°C is the sweet spot for most ale yeasts. Above 25°C needs managing. You don't need a precise reading yet — just a general feel for which band your space falls into.
+**Fermentation temperature** — arguably the most important thing to know before you start. Find a space where a fermenter can sit undisturbed for one to two weeks — roughly 31cm in diameter and 40cm tall — and get a rough sense of what temperature range it sits in: below 15°C, 15–20°C, 20–25°C, or above 25°C. You don't need a thermometer or a precise reading — just a general feel. It matters more than you might expect.
 
 These are just the first few decision points — all covered in [Getting started](./01-getting-started/index.md). BrewClub introduces the rest at the point where they become relevant.
 
