@@ -112,7 +112,7 @@ At each stage, BrewClub offers options. There is rarely one right answer — the
 
 **Carbonation** — natural (conditioned over time) or forced (CO₂ gas). Each has its trade-offs.
 
-**Fermentation temperature** — knowing the temperature of your fermentation space matters. It affects which yeast you choose, how you manage fermentation, and ultimately the character of your beer. Too cold and some yeasts simply won't perform.
+**Fermentation temperature** — arguably the most important thing to know before you start. Find a space where a fermenter can sit undisturbed for one to two weeks — roughly 31cm diameter and 40cm high — and get a sense of what temperature that space runs at across the day and night. It affects which yeast you choose, how you manage fermentation, and ultimately the character of your beer. Too cold and some yeasts simply won't perform.
 
 These are just the first few decision points — all covered in [Getting started](./01-getting-started/index.md). BrewClub introduces the rest at the point where they become relevant.
 
