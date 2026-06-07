@@ -74,9 +74,9 @@ Beyond 10 litres, a 15-litre fermenter remains the right vessel up to around 12 
 
 ## Splitting a FWK in a club
 
-A fresh wort kit (FWK) is typically concentrated to 15 litres, with the option to dilute up to 20 litres. That's a fixed total volume to divide between club members.
+A fresh wort kit (FWK) is typically packaged as 15 litres of concentrated wort. You can dilute it up to 20 litres with cold water before fermenting — the more you dilute, the lower the ABV. That's a fixed total volume to divide between club members.
 
-The key constraint: **FWK bags should not be stored once opened**. The whole kit needs to be used on the day it's opened. Everyone needs to be ready to brew when the FWK is split.
+Once the bag is opened, the wort is exposed to oxygen and any bacteria or wild yeast in the environment. Unlike finished beer, unfermented wort has no alcohol to protect it — it will start to deteriorate within hours at room temperature. Everyone in the club should be ready to brew on the same day the FWK is opened. With good sanitation practice and the wort kept refrigerated, you might extend that window to 24 hours as a contingency — but don't plan around it. Same day is the right expectation to set.
 
 Recommended splits:
 
