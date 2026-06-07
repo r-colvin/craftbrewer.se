@@ -76,17 +76,9 @@ Beyond 10 litres, a 15-litre fermenter remains the right vessel up to around 12 
 
 A fresh wort kit (FWK) is typically packaged as 15 litres of concentrated wort, designed to be diluted to 20 litres before fermenting. Diluting to the target volume gives you the result the recipe was designed for — style, balance, and strength. There are exceptions to this, but for simplicity and reliability BrewClub sticks to the standard: dilute to 20 litres and split from there. That's a fixed total volume to divide between club members.
 
-Unlike a rigid vessel, a collapsible FWK bag doesn't draw in air as the wort is dispensed — the bag collapses around the remaining liquid, so there's no growing headspace and no ongoing oxygen ingress through the walls. The risk is more nuanced than the standard "use immediately" advice suggests.
+FWK bags vary in design. The most common format is a bag-in-box (BiB) with a self-sealing tap — the tap closes between pours and the bag collapses around the remaining wort, limiting air exposure to the brief moment the tap is open. Some kits use an open cap or wide-mouth bladder format instead, where the exposure surface on each pour is significantly larger.
 
-The concern is not the wort that goes into the fermenter — that gets yeast pitched immediately and is quickly protected. The risk is to the wort remaining in the bag between pours. Each time the bag is opened to dispense, the exposed surface is vulnerable to bacteria or wild yeast settling from the air and causing spoilage. The larger the bag opening, the greater that exposure. Unfermented wort has nothing to protect it from spoilage organisms the way finished beer does, so it can deteriorate quickly — especially at room temperature.
-
-How much of a risk this is depends on the packaging format, which varies by kit and supplier:
-
-**Bag-in-box (BiB) with a self-sealing tap** — the most common format for Swedish FWKs. The tap seals between pours and the bag collapses around the remaining wort. Exposure during each pour is brief and limited to the tap opening. With the tap sanitised before and after each pour and the bag kept refrigerated, splitting across a session and storing up to 24 hours is a reasonable contingency.
-
-**Open bladder or cap-sealed bag** — some kits, including certain Creative Series and hot-fill bladder formats, use a wide open cap or no self-sealing mechanism. A 31 mm opening is a significant exposure surface. Once opened, this format is not well suited to splitting and storing — treat it as use-on-the-day. A screw-on tap accessory can be added to some bladder formats before opening, which improves the situation, but it remains a grey area.
-
-Check your specific kit's packaging format before planning your session. If you're not sure, contact your supplier. Same-day brewing for all members is the right expectation to set regardless of format — it removes the variable entirely. We'll cover sanitation in detail on the [Sanitiser](./05-sanitiser.md) page, but the short version is: sanitise the bag tap thoroughly before and after each pour, and minimise how long and how wide the bag is open.
+Regardless of format, the risk is the same in principle: the wort remaining in the bag is vulnerable each time it is opened. Unfermented wort has nothing to protect it from spoilage organisms the way finished beer does, and it can deteriorate quickly at room temperature. Same-day brewing for all members is the right expectation to set — it removes the variable entirely. Check what format your specific kit uses before the session; if in doubt, your club leader can advise.
 
 Recommended splits:
 
