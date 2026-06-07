@@ -16,11 +16,23 @@ BrewClub is built around small batches, and deliberately so.
 
 **Less risk.** If something goes wrong on your first brew — which is unlikely, but possible — you've lost a small amount of beer, not a large one. Small batches are a low-stakes way to learn.
 
-**Less investment upfront.** Smaller fermenter, fewer bottles, less wort. If you decide brewing isn't for you after one or two batches, you haven't spent a lot to find out.
+**Less sunk cost.** Smaller batches need smaller, less expensive equipment — and less of it. If you decide brewing isn't for you after one or two batches, you haven't spent a lot to find out, and nothing you bought is single-use.
 
 **More variety.** A standard homebrew batch is 20 litres — a lot of the same beer to get through before you can try something different. Small batches mean you can rotate more often, brew different styles, and always have something fresh.
 
-**Drink it fresh.** Hoppy beers in particular — pale ales, IPAs, anything dry-hopped — are best drunk young. A 5-litre batch gets drunk at its best. A 20-litre batch of the same beer may deteriorate before it's finished.
+**Drink it fresh.** Hoppy beers in particular — pale ales, IPAs, anything dry-hopped, which happen to be some of the most popular styles people want to brew — are best drunk young. A 5-litre batch gets drunk at its best. A 20-litre batch of the same beer may deteriorate before it's finished.
+
+---
+
+## Why is 20 litres the standard?
+
+If you spend any time in homebrew shops or forums, you'll notice almost everything is geared around 20-litre batches. There's a good reason for it.
+
+For all-grain brewing, the biggest cost is time — mashing, boiling, cooling, fermenting, and packaging takes roughly the same number of hours whether you're making 5 litres or 20. Brewing 20 litres spreads that fixed time cost over four times as much beer, which makes it an efficient use of an afternoon. It also lines up neatly with the standard 19-litre Cornelius keg used widely in homebrewing.
+
+BrewClub doesn't work that way. FWKs and extract kits remove most of the time overhead — brew day is 30 minutes, not an afternoon. The trade-off that makes 20 litres worthwhile for all-grain doesn't apply here, so there's no reason to brew that much unless you want to.
+
+Anywhere between 5 and 20 litres is fine for BrewClub. We wouldn't recommend less than 5 litres — it's hard to get a good result at very small volumes and there's not much beer at the end. 10 litres is a good middle ground: roughly two kegs or 16–18 bottles, manageable equipment, and enough to share without committing to a large fermentation vessel. 20 litres is viable but means a significantly larger fermenter, more packaging vessels, more space, and more of the same beer to get through — especially if you're brewing solo.
 
 Everything in BrewClub is scalable if you want more volume. But starting small is the right call.
 
