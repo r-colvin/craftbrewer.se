@@ -76,11 +76,13 @@ Choose beer or cider — both work equally well at this stage and the process is
 
 *Solo:* an extract pouch kit gives you enough wort for two batches. Brew one now and store the other half for your next brew. It's a chance to make one small change — a different yeast, a different dry hop, a different fermentation temperature — and taste the difference directly. Save some from the first batch to compare.
 
-**Brew 2 — Swap tracks**
+**Brew 2 — Cider and cold-side additions**
 
-Brew 2 is the moment to try the other track: if you brewed beer for Brew 1, now try cider — and vice versa. The two are interchangeable and there is no wrong order.
+Brew 2 is cider — and the moment to go beyond the basics. Where Brew 1 cider is deliberately simple (juice, yeast, and optionally a dry hop), Brew 2 introduces the additions that make cider a genuinely creative brew: yeast nutrient, adjuncts, tinctures, oak, and other cold-side additions such as finings. Some additions — fruit purées, lactose — are more involved and will keep for later, but the groundwork for understanding what you can add and why gets laid here.
 
-The splitting logic follows the track rather than the brew number. *Beer track:* a fresh wort kit splits between 2 and 4 people, the same as Brew 1. *Cider track:* each person sources their own juice and yeast and brews independently — no splitting needed, and no two batches need to be the same. The tasting sessions get more interesting as a result.
+If you started with cider for Brew 1, Brew 2 is where you go deeper into it. If you brewed beer for Brew 1, cider is new territory — and these topics arrive at exactly the right moment.
+
+The splitting logic follows the track. *Beer track (if revisiting):* a fresh wort kit splits between 2 and 4 people, the same as Brew 1. *Cider track:* each person sources their own juice and yeast and brews independently — no splitting needed, and no two batches need to be the same.
 
 **Brew 3 — Stove-top extract with partial mash**
 
