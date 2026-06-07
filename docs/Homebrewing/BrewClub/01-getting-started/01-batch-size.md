@@ -103,7 +103,7 @@ It's worth noting that brewing from the undiluted 15-litre concentrate is not re
 
 ## Larger clubs
 
-For clubs of 5 or more, two kits is the cleaner solution — it gives everyone a proper batch size without yields becoming tight. One kit split five ways from 20 litres gives 4 litres each, but fermentation losses will leave you with noticeably less than a full keg. Two kits opens up more comfortable splits:
+For clubs of 5 or more, two kits is the cleaner solution — it gives everyone a proper batch size without yields becoming tight. One kit split five ways from 20 litres gives 4 litres each, which is possible if needed, but fermentation losses will leave you with noticeably less than a full keg. Two kits opens up more comfortable splits:
 
 | Club size | Two kits (diluted to 40 L total) | Per person | Fermenter needed |
 |---|---|---|---|
