@@ -6,8 +6,96 @@ slug: /homebrewing/brewclub/getting-started/batch-size
 
 # Batch size
 
-:::note Status
-**Stub** — content to be written.
+Batch size is the first decision to make, because everything else follows from it — fermenter size, how to split a kit in a club, and how many kegs or bottles you need at the end.
+
+---
+
+## Why small batch?
+
+BrewClub is built around small batches, and deliberately so.
+
+**Less risk.** If something goes wrong on your first brew — which is unlikely, but possible — you've lost a small amount of beer, not a large one. Small batches are a low-stakes way to learn.
+
+**Less investment upfront.** Smaller fermenter, fewer bottles, less wort. If you decide brewing isn't for you after one or two batches, you haven't spent a lot to find out.
+
+**More variety.** A standard homebrew batch is 20 litres — a lot of the same beer to get through before you can try something different. Small batches mean you can rotate more often, brew different styles, and always have something fresh.
+
+**Drink it fresh.** Hoppy beers in particular — pale ales, IPAs, anything dry-hopped — are best drunk young. A 5-litre batch gets drunk at its best. A 20-litre batch of the same beer may deteriorate before it's finished.
+
+Everything in BrewClub is scalable if you want more volume. But starting small is the right call.
+
+---
+
+## The BrewClub base unit — 4 litres into the keg
+
+The base unit in BrewClub is **4 litres into the keg** — that is, 4 litres of finished, packaged beer. This is the volume that fits a standard 4-litre mini keg with the correct headspace for carbonation.
+
+Everything scales from this. A typical BrewClub batch is one or two of these units: 4 litres (one keg) or 8 litres (two kegs). Larger batches are possible with a bigger fermenter — but for a first brew, one keg is plenty.
+
+:::tip Why "into the keg"?
+Batch size in brewing is often quoted at different points in the process — before the boil, after the boil, into the fermenter. We use **into the keg** (or into bottles) because that's the number that actually matters: how much beer you end up with. You'll lose a small amount to yeast sediment and trub during transfer, so your fermenter volume will always be slightly larger than your packaged volume. The numbers in this guide account for that.
 :::
 
-How much you're brewing — and how to split a kit in a club.
+---
+
+## Choosing your batch size
+
+For Brew 1, the practical options are:
+
+| Batch size | Packaged into | Fermenter needed |
+|---|---|---|
+| 4 L | 1× 4 L keg, or ~8 bottles | 5.5 L |
+| 8 L | 2× 4 L kegs, or ~16 bottles | 15 L |
+| 10 L | 2× 4 L kegs + bottles for the rest | 15 L |
+
+**4 litres** is the minimum viable batch — one keg, one person, fully manageable. Good for a first solo brew.
+
+**8–10 litres** gives you two kegs: keep one, share one. This is the sweet spot for a solo brewer or a pair brewing together. With 10 litres you'll also have a little extra to bottle separately — useful for comparing packaging methods or sharing with people who don't have a tap.
+
+Beyond 10 litres, you're in 15-litre fermenter territory regardless, so going to 12 or 15 litres is no extra equipment cost — just more beer.
+
+---
+
+## Splitting a FWK in a club
+
+A fresh wort kit (FWK) is typically concentrated to 15 litres, with the option to dilute up to 20 litres. That's a fixed total volume to divide between club members.
+
+The key constraint: **FWK bags should not be stored once opened**. The whole kit needs to be used on the day it's opened. Everyone needs to be ready to brew when the FWK is split.
+
+Recommended splits:
+
+| Club size | Litres per person (from 15 L) | Litres per person (from 20 L) | Fermenter needed |
+|---|---|---|---|
+| 4 people | ~3.75 L | 5 L | 5.5 L |
+| 3 people | 5 L | ~6.7 L | 5.5 L or 15 L |
+| 2 people | 7.5 L | 10 L | 15 L |
+| Solo | Not recommended — see below | — | — |
+
+**4 people** is the ideal club size for a FWK split. Each person gets around 4–5 litres — one keg each — and the whole kit is used with no waste.
+
+**3 people** works well too. With a 15-litre kit, 5 litres each fits neatly into a 5.5-litre fermenter. With a 20-litre kit, ~6.7 litres each needs a 15-litre fermenter.
+
+**2 people** means larger batches per person — 7.5 to 10 litres each. This requires a 15-litre fermenter and produces two kegs each. Perfectly viable if both brewers want more volume.
+
+**Solo** — a FWK isn't really a solo option. The minimum batch from a FWK is around 15 litres total, which is a lot for one person on a first brew. If you're brewing solo for Brew 1, an extract pouch kit is a better fit — it gives you enough wort for two 4–5 litre batches, one now and one stored for later.
+
+:::note Dilution and ABV
+FWKs are concentrated — the more you dilute, the lower the original gravity (OG) and therefore the lower the final ABV. A 15-litre kit diluted to 20 litres will produce a noticeably lighter beer than the same kit used undiluted. For Brew 1 this isn't a problem either way — just worth knowing. Your club leader can advise on the target volume for the specific kit you're using.
+:::
+
+---
+
+## What about a 5th person?
+
+Five people from a 15-litre FWK gives 3 litres each — workable, but tight for packaging into a 4-litre keg. A 5-person split works better from a 20-litre kit (4 litres each). If your club has five members, dilute to 20 litres and everyone gets a clean keg-sized batch.
+
+---
+
+## Batch size and the next decisions
+
+Once you have your batch size, the next two decisions follow directly:
+
+- **Fermenter size** — covered on the [Fermenter](./02-fermenter.md) page
+- **Packaging** — how many kegs or bottles you need is determined by your batch size; covered on the [Packaging](./03-packaging.md) page
+
+Confirm your batch size before moving on.
