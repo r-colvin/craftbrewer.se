@@ -112,7 +112,7 @@ At each stage, BrewClub offers options. There is rarely one right answer — the
 
 **Carbonation** — natural (conditioned over time) or forced (CO₂ gas). Each has its trade-offs.
 
-**Fermentation temperature** — arguably the most important thing to know before you start. Find a space where a fermenter can sit undisturbed for one to two weeks — roughly 31cm diameter and 40cm high — and get a sense of what temperature that space runs at across the day and night. It affects which yeast you choose, how you manage fermentation, and ultimately the character of your beer. Too cold and some yeasts simply won't perform.
+**Fermentation temperature** — arguably the most important thing to know before you start. Find a space where a fermenter can sit undisturbed for one to two weeks — roughly 31cm in diameter and 40cm tall — and get a rough sense of what temperature that space runs at. Below 15°C is too cold for most ale yeasts. Between 15–20°C is cool ale territory and works well for many styles. Between 20–25°C is the sweet spot for most ale yeasts. Above 25°C needs managing. You don't need a precise reading yet — just a general feel for which band your space falls into.
 
 These are just the first few decision points — all covered in [Getting started](./01-getting-started/index.md). BrewClub introduces the rest at the point where they become relevant.
 
@@ -120,12 +120,12 @@ These are just the first few decision points — all covered in [Getting started
 
 ## What this guide is — and isn't
 
-BrewClub is not a replacement for the established brewing literature. If you want a textbook, John Palmer's *How to Brew* is the one to start with — there is a free version at [howtobrew.com](https://www.howtobrew.com) if you want to read before committing to a paper copy. The online forums, YouTube channels, and brewing communities are full of excellent knowledge. BrewClub doesn't replace any of them.
+BrewClub is not a replacement for the established brewing literature — the books, the forums, the YouTube channels, and the communities are all excellent and none of them are competition. BrewClub has its own references and resources page for further reading when you're ready.
 
-What BrewClub gives you is a starting point that doesn't require you to read a textbook first, feel lost in a forum, or know what questions to ask in a homebrew shop. A clear, low-risk path that gets you brewing quickly, explains the why behind every step, and gives you the foundation to engage with all those other resources on your own terms when you're ready.
+What BrewClub gives you is a starting point — a clear path, the reasoning behind every step, and a community of like-minded people to brew alongside. It doesn't require you to read a textbook first, feel lost in a forum, or know what questions to ask in a homebrew shop. When you're ready to go further, everything you need to engage with those other resources on your own terms will be there.
 
 If something in BrewClub is wrong, unclear, or missing — or if you want to add your own club's equipment recommendations and local sourcing — [open an issue or submit a pull request on GitHub](https://github.com/r-colvin/craftbrewer.se).
 
 ---
 
-Ready? Head to [Getting started](./01-getting-started/index.md) — what you need before brew day.
+Ready to get started? Head to [Getting started](./01-getting-started/index.md) — everything you need to know and do before brew day.
