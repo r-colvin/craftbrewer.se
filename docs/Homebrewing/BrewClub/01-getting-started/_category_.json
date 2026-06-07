@@ -4,8 +4,7 @@
   "collapsible": true,
   "collapsed": true,
   "link": {
-    "type": "generated-index",
-    "title": "Getting started",
-    "description": "What BrewClub is, what you need, and how to choose your sanitiser."
+    "type": "doc",
+    "id": "Homebrewing/BrewClub/01-getting-started/index"
   }
 }
