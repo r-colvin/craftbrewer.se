@@ -76,7 +76,11 @@ Beyond 10 litres, a 15-litre fermenter remains the right vessel up to around 12 
 
 A fresh wort kit (FWK) is typically packaged as 15 litres of concentrated wort, designed to be diluted to 20 litres before fermenting. Diluting to the target volume gives you the result the recipe was designed for — style, balance, and strength. There are exceptions to this, but for simplicity and reliability BrewClub sticks to the standard: dilute to 20 litres and split from there. That's a fixed total volume to divide between club members.
 
-FWK bags vary in design. One common format is a bag-in-box (BiB) with a self-sealing tap — the tap closes between pours and the bag collapses around the remaining wort, limiting air exposure to the brief moment the tap is open. In this case, with good sanitation and kept cold, a split FWK may keep for up to 24 hours — useful if members need to take their portion one day and brew the next. We cover sanitation in more detail on the [Sanitiser](./05-sanitiser.md) page. This is not within the standard BrewClub scope, but it's worth knowing it's possible. Some kits use an open cap or wide-mouth bladder format instead, where the exposure surface on each pour is significantly larger.
+FWK bags vary in design. One common format is a bag-in-box (BiB) with a self-sealing tap — the tap closes between pours and the bag collapses around the remaining wort, limiting air exposure to the brief moment the tap is open. In this case, with good sanitation and kept cold, a split FWK may keep for up to 24 hours — useful if members need to take their portion one day and brew the next. We cover sanitation in more detail on the [Sanitiser](./05-sanitiser.md) page. This is not within the standard BrewClub scope, but it's worth knowing it's possible.
+
+Retailers and kit suppliers generally advise against splitting and storing — and there are good reasons for that beyond liability. An open bag is a contamination risk that most home brewers aren't equipped to manage reliably, and a spoiled batch is a frustrating first experience. The 24-hour window described above is a contingency for experienced hands, not a recommendation for beginners.
+
+Some kits use an open cap or wide-mouth bladder format instead, where the exposure surface on each pour is significantly larger.
 
 Regardless of format, the risk is the same in principle: the wort remaining in the bag is vulnerable each time it is opened. Unfermented wort has nothing to protect it from spoilage organisms the way finished beer does, and it can deteriorate quickly at room temperature. Same-day brewing for all members is the right expectation to set — it removes the variable entirely. Check what format your specific kit uses before the session; if in doubt, your club leader can advise.
 
@@ -93,17 +97,21 @@ Any club size from 2 to 4 people works well — there's no single ideal. The mai
 
 It's worth noting that brewing from the undiluted 15-litre concentrate is not recommended. FWK recipes are formulated for the diluted volume — brewing undiluted produces a stronger, more concentrated beer than the recipe intended, and the result may be unbalanced. Stick to the target volume.
 
-**Solo** — a FWK is not a solo option. The total volume is 20 litres, which requires either a club to split with or a 30-litre fermenter for the full batch. If you're brewing solo, an extract pouch kit is a better fit. Extract pouches are more concentrated than FWKs, which makes them easier to split and store — half the pouch goes into a hot, sanitised jar and keeps in the fridge for several weeks. The process is covered on the [Brew Day](../02-brew-day/index.md) page.
-
-:::note Dilution and strength
-FWK recipes are designed for a specific diluted volume. Brewing at that volume gives you the intended result. Your club leader can confirm the target volume for the specific kit you're using.
-:::
+**Solo** — a FWK is not a realistic solo option. The total volume is 20 litres, which requires either a club to split with or a 30-litre fermenter for the full batch. If you're brewing solo, an extract pouch kit is a better fit. Extract pouches are more concentrated than FWKs, which makes them easier to split and store — half the pouch goes into a hot, sanitised jar and keeps in the fridge for several weeks. The process is covered on the [Brew Day](../02-brew-day/index.md) page.
 
 ---
 
-## What about a 5th person?
+## Larger clubs
 
-Five people from a diluted 20-litre FWK gives 4 litres each — one keg each, clean and simple. Five people from an undiluted 15-litre kit gives 3 litres each, which is tight for a 4-litre keg. If your club has five members, dilute to 20 litres.
+For clubs of 5 or more, two kits is the cleaner solution — it gives everyone a proper batch size without yields becoming tight. One kit split five ways from 20 litres gives 4 litres each, but fermentation losses will leave you with noticeably less than a full keg. Two kits opens up more comfortable splits:
+
+| Club size | Two kits (diluted to 40 L total) | Per person |
+|---|---|---|
+| 6 people | 3 + 3 | ~6.7 L each |
+| 7 people | 4 + 3 | ~5.7 L each |
+| 8 people | 4 + 4 | 5 L each |
+
+Two kits also means two styles if the club wants variety — or the same kit twice if you want a larger comparison set.
 
 ---
 
