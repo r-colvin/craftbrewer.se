@@ -287,6 +287,18 @@
       "definition": "The chemical reaction in which a molecule is split by water, typically at a bond that connects two parts of the molecule. In food contact materials, hydrolysis is the primary mechanism by which acid or alkaline cleaning solutions attack susceptible polymers — particularly those with ester linkages (PET, Tritan, PC) or ether linkages (POM). Polymers with all-carbon backbones (PP, HDPE, PTFE) have no hydrolysable bonds and are inherently resistant to aqueous chemical attack."
     },
     {
+      "term": "Trub",
+      "definition": "The layer of sediment that collects at the bottom of the fermenter during and after fermentation. Composed of dead yeast cells, hop particles, and proteins precipitated during the boil (hot break) or cooling (cold break). Beers transferred off the trub are cleaner and clearer, but a small volume loss is inevitable — typically 0.5 to 1 litre per batch depending on fermenter geometry and dry hop additions."
+    },
+    {
+      "term": "Transfer",
+      "aliases": [
+        "transferring",
+        "transferred"
+      ],
+      "definition": "Moving beer from one vessel to another — most commonly from the fermenter to kegs or bottles for packaging. How the transfer is done affects oxygen pickup and contamination risk. Options range from simple gravity transfer via a tap, through hose-assisted filling, to fully closed CO\u2082-assisted transfer that minimises oxygen contact throughout."
+    },
+    {
       "term": "Fresh Wort Kit",
       "aliases": [
         "FWK",

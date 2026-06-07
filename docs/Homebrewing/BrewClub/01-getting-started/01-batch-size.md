@@ -49,14 +49,14 @@ The base unit in BrewClub is **4 litres of finished, packaged beer**. If you're 
 Everything scales from this. A typical BrewClub batch is one or two of these units: 4 litres (one keg or 8 bottles) or 8 litres (two kegs or 16 bottles). Larger batches are possible with a bigger fermenter — but for a first brew, one unit is plenty.
 
 :::tip Why "packaged volume"?
-Batch size in brewing is often quoted at different points in the process — before the boil, after the boil, into the fermenter. We use **packaged volume** because that's the number that actually matters: how much beer you end up with. You'll lose a small amount to yeast sediment and trub during transfer, so your fermenter volume will always be slightly larger than your packaged volume. The numbers in this guide account for that.
+In the homebrewing community, "batch size" conventionally means the volume going into the fermenter — not what ends up in the keg or bottle. Recipes, software like Brewfather, and most online resources use it this way. BrewClub uses packaged volume instead, because that's the number most people actually care about: how much beer you end up with. Working backwards from there — estimating trub losses to arrive at your fermenter volume, and from there your pre-boil volume — is a more practical way to plan a small-batch brew when your packaging space is fixed. Just be aware of the convention difference when reading recipes from other sources.
 :::
 
 ---
 
 ## Choosing your batch size
 
-For Brew 1, the practical options are:
+For BrewClub, the practical options are:
 
 | Batch size | Packaged into | Fermenter needed |
 |---|---|---|
