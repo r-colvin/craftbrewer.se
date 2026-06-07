@@ -120,7 +120,7 @@ These are just the first few decision points — all covered in [Getting started
 
 ## What this guide is — and isn't
 
-BrewClub is not a replacement for the established brewing literature — the books, the forums, the YouTube channels, and the communities are all excellent and none of them are competition. BrewClub has its own references and resources page for further reading when you're ready.
+BrewClub is not a replacement for the established brewing literature — the books, the forums, the YouTube channels, and the communities are all excellent and none of them are competition. The primary reference behind much of BrewClub's thinking is John Palmer's *How to Brew* — the textbook for home brewing, and conveniently available free at [howtobrew.com](https://www.howtobrew.com). If you find yourself using it regularly, the paper copy is worth having. A full [resources and further reading](./07-resources.md) page is available when you're ready to go deeper.
 
 What BrewClub gives you is a starting point — a clear path, the reasoning behind every step, and a community of like-minded people to brew alongside. It doesn't require you to read a textbook first, feel lost in a forum, or know what questions to ask in a homebrew shop. When you're ready to go further, everything you need to engage with those other resources on your own terms will be there.
 
