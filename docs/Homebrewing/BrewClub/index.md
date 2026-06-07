@@ -108,13 +108,13 @@ After Brew 1, you are a homebrewer. After Brew 4, you have the foundation to go 
 
 At each stage, BrewClub offers options. There is rarely one right answer — the best choice depends on your equipment, your setup, and your goals. A few decisions are worth being aware of early:
 
-**Packaging** — bottles or a keg. Bottles are simple and shareable; kegging gives you beer on tap and removes the bottling step. Small-scale, low-cost kegging is achievable for BrewClub brews, though it requires a little more equipment. Both are covered throughout.
+**Packaging** — bottles or a keg. Bottles are simple and shareable; kegging gives you beer on tap and removes the bottling step. Small-scale, low-cost kegging is achievable for BrewClub brews, though it requires a little more equipment.
 
-**Carbonation** — natural (conditioned over time) or forced (CO₂ gas). Each has its trade-offs. The detail is in [Getting started](./01-getting-started/index.md).
+**Carbonation** — natural (conditioned over time) or forced (CO₂ gas). Each has its trade-offs.
 
-**Fermentation temperature** — knowing the temperature of your fermentation space matters. It affects which yeast you choose and how you manage fermentation. [Getting started](./01-getting-started/index.md) walks you through the decision.
+**Fermentation temperature** — knowing the temperature of your fermentation space matters. It affects which yeast you choose, how you manage fermentation, and ultimately the character of your beer. Too cold and some yeasts simply won't perform.
 
-These are just the first few decision points. BrewClub introduces each one at the point where it becomes relevant.
+These are just the first few decision points — all covered in [Getting started](./01-getting-started/index.md). BrewClub introduces the rest at the point where they become relevant.
 
 ---
 
