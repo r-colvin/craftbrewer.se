@@ -287,6 +287,23 @@
       "definition": "The chemical reaction in which a molecule is split by water, typically at a bond that connects two parts of the molecule. In food contact materials, hydrolysis is the primary mechanism by which acid or alkaline cleaning solutions attack susceptible polymers — particularly those with ester linkages (PET, Tritan, PC) or ether linkages (POM). Polymers with all-carbon backbones (PP, HDPE, PTFE) have no hydrolysable bonds and are inherently resistant to aqueous chemical attack."
     },
     {
+      "term": "Fresh Wort Kit",
+      "aliases": [
+        "FWK",
+        "FWKs",
+        "fresh wort kits"
+      ],
+      "definition": "Ready-made wort produced by a professional brewery and packaged for home fermentation. Supplied concentrated — typically at 15 litres — with the option to dilute up to 20 litres. The brewer handles everything from fermentation onwards: sanitising, pitching yeast, dry hopping, and packaging. Removes the mashing and boiling steps entirely. Currently only available in 15–20 litre minimum volumes, making splitting between club members necessary for small-batch brewing."
+    },
+    {
+      "term": "All-grain brewing",
+      "aliases": [
+        "all-grain",
+        "all grain"
+      ],
+      "definition": "A brewing method in which the brewer converts raw malted grain into fermentable wort entirely from scratch — mashing the grain to convert starches to sugars, sparging to rinse the grain bed, and boiling the resulting wort with hops. Gives complete control over the recipe but requires the most equipment and time. The fourth and final stage in the BrewClub brew sequence."
+    },
+    {
       "term": "Molar",
       "definition": "A unit of concentration in chemistry, abbreviated M (or mol/L). One molar means one mole of substance per litre of solution — a mole being 6.02 × 10²³ molecules, a counting unit that makes reactive quantities practical to compare. For acids, molar concentration directly reflects how many acid molecules are present per litre, and therefore how reactive the solution is. It is less intuitive than percentage by mass (which is how most compatibility charts express concentration), but useful for cross-referencing chemical literature. As a scale reference: 85% phosphoric acid (the standard industrial/laboratory grade) is approximately 14.6 M; the dry residue left by StellarSan after a WDC is approximately 5.4 M; cola drinks contain phosphoric acid at roughly 0.05 M."
     }
