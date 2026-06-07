@@ -74,9 +74,13 @@ Beyond 10 litres, a 15-litre fermenter remains the right vessel up to around 12 
 
 ## Splitting a FWK in a club
 
-A fresh wort kit (FWK) is typically packaged as 15 litres of concentrated wort. You can dilute it up to 20 litres (the standard serving volume) with cold water before fermenting — the more you dilute, the lower the ABV. That's a fixed total volume to divide between club members.
+A fresh wort kit (FWK) is typically packaged as 15 litres of concentrated wort. You can dilute it up to 20 litres (the standard fermenting volume) with cold water before fermenting — the more you dilute, the lower the ABV. That's a fixed total volume to divide between club members.
 
-Once the bag is opened, the wort is exposed to oxygen and any bacteria or wild yeast in the environment. Unlike finished beer, unfermented wort has nothing to protect it from spoilage organisms — it will start to deteriorate within hours at room temperature. Everyone in the club should be ready to brew on the same day the FWK is opened. With good sanitation practice and the wort kept refrigerated, you might extend that window to 24 hours as a contingency — but don't plan around it. Same day is the right expectation to set.
+Unlike a rigid vessel, a collapsible FWK bag doesn't draw in air as the wort is dispensed — the bag collapses around the remaining liquid, so there's no growing headspace and no ongoing oxygen ingress through the walls. The risk is more specific than the standard "use immediately" advice suggests.
+
+The main exposure event is the split itself: opening the bag and pouring into individual fermenters exposes the wort surface to air and introduces contamination risk. Any damage to the bag — a pinhole, a weak seal, or a knock during transit — changes the picture entirely, since even a small ingress point allows spoilage organisms in. Warm wort spoils significantly faster than cold.
+
+Vendors typically recommend using FWKs immediately, and there's a reasonable liability argument for that position. The practical reality, if you're careful: reseal the bag after each pour, keep it refrigerated, and brew within 24 hours. That's a manageable risk, not a crisis. But same-day is still the right expectation to set for a club session — it simplifies coordination and removes the variable entirely.
 
 Recommended splits:
 
