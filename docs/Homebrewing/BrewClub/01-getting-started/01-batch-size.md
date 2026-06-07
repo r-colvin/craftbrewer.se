@@ -42,14 +42,14 @@ Everything in BrewClub is scalable if you want more volume. But starting small i
 
 ---
 
-## The BrewClub base unit — 4 litres into the keg
+## The BrewClub base unit — 4 litres packaged
 
-The base unit in BrewClub is **4 litres into the keg** — that is, 4 litres of finished, packaged beer. This is the volume that fits a standard 4-litre mini keg with the correct headspace for carbonation.
+The base unit in BrewClub is **4 litres of finished, packaged beer**. If you're kegging, that's one 4-litre mini keg filled with the correct headspace for carbonation. If you're bottling, 4 litres is roughly 8 standard 500 ml bottles — a case's worth.
 
-Everything scales from this. A typical BrewClub batch is one or two of these units: 4 litres (one keg) or 8 litres (two kegs). Larger batches are possible with a bigger fermenter — but for a first brew, one keg is plenty.
+Everything scales from this. A typical BrewClub batch is one or two of these units: 4 litres (one keg or 8 bottles) or 8 litres (two kegs or 16 bottles). Larger batches are possible with a bigger fermenter — but for a first brew, one unit is plenty.
 
-:::tip Why "into the keg"?
-Batch size in brewing is often quoted at different points in the process — before the boil, after the boil, into the fermenter. We use **into the keg** (or into bottles) because that's the number that actually matters: how much beer you end up with. You'll lose a small amount to yeast sediment and trub during transfer, so your fermenter volume will always be slightly larger than your packaged volume. The numbers in this guide account for that.
+:::tip Why "packaged volume"?
+Batch size in brewing is often quoted at different points in the process — before the boil, after the boil, into the fermenter. We use **packaged volume** because that's the number that actually matters: how much beer you end up with. You'll lose a small amount to yeast sediment and trub during transfer, so your fermenter volume will always be slightly larger than your packaged volume. The numbers in this guide account for that.
 :::
 
 ---
