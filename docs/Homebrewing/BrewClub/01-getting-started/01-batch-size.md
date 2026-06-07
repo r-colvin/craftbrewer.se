@@ -74,24 +74,24 @@ Beyond 10 litres, a 15-litre fermenter remains the right vessel up to around 12 
 
 ## Splitting a FWK in a club
 
-A fresh wort kit (FWK) is typically packaged as 15 litres of concentrated wort. You can dilute it up to 20 litres with cold water before fermenting — the more you dilute, the lower the ABV. That's a fixed total volume to divide between club members.
+A fresh wort kit (FWK) is typically packaged as 15 litres of concentrated wort. You can dilute it up to 20 litres (the standard serving volume) with cold water before fermenting — the more you dilute, the lower the ABV. That's a fixed total volume to divide between club members.
 
-Once the bag is opened, the wort is exposed to oxygen and any bacteria or wild yeast in the environment. Unlike finished beer, unfermented wort has no alcohol to protect it — it will start to deteriorate within hours at room temperature. Everyone in the club should be ready to brew on the same day the FWK is opened. With good sanitation practice and the wort kept refrigerated, you might extend that window to 24 hours as a contingency — but don't plan around it. Same day is the right expectation to set.
+Once the bag is opened, the wort is exposed to oxygen and any bacteria or wild yeast in the environment. Unlike finished beer, unfermented wort has nothing to protect it from spoilage organisms — it will start to deteriorate within hours at room temperature. Everyone in the club should be ready to brew on the same day the FWK is opened. With good sanitation practice and the wort kept refrigerated, you might extend that window to 24 hours as a contingency — but don't plan around it. Same day is the right expectation to set.
 
 Recommended splits:
 
-| Club size | Litres per person (from 15 L) | Litres per person (from 20 L) | Minimum fermenter size |
-|---|---|---|---|
-| 4 people | ~3.75 L | 5 L | 5.5 L |
-| 3 people | 5 L | ~6.7 L | 5.5 L or 15 L |
-| 2 people | 7.5 L | 10 L | 15 L |
-| Solo | Not recommended — see below | — | — |
+| Club size | From 15 L (undiluted) | From 20 L (diluted) |
+|---|---|---|
+| 4 people | ~3.75 L each | 5 L each |
+| 3 people | 5 L each | ~6.7 L each |
+| 2 people | 7.5 L each | 10 L each |
+| Solo | Not recommended | — |
 
-**4 people** is the ideal club size for a FWK split. Each person gets around 4–5 litres — one keg each — and the whole kit is used with no waste.
+**4 people** is the ideal club size for a FWK split. Each person gets around 4–5 litres — one keg each — and the whole kit is used with no waste. Check the batch size table above for the right fermenter size.
 
-**3 people** works well too. With a 15-litre kit, 5 litres each fits neatly into a 5.5-litre fermenter. With a 20-litre kit, ~6.7 litres each needs a 15-litre fermenter.
+**3 people** works well too. With a 15-litre kit, 5 litres each sits neatly in the 5.5-litre fermenter. With a 20-litre kit, ~6.7 litres each will need a 15-litre fermenter.
 
-**2 people** means larger batches per person — 7.5 to 10 litres each. This requires a 15-litre fermenter and produces two kegs each. Perfectly viable if both brewers want more volume.
+**2 people** means larger batches — 7.5 to 10 litres each. Two kegs each, and a 15-litre fermenter. Perfectly viable if both brewers want more volume.
 
 **Solo** — a FWK isn't really a solo option. The minimum batch from a FWK is around 15 litres total, which is a lot for one person on a first brew. If you're brewing solo for Brew 1, an extract pouch kit is a better fit — it gives you enough wort for two 4–5 litre batches, one now and one stored for later.
 
