@@ -61,7 +61,7 @@ Charlie Papazian, the man who did more than most to make home brewing a mainstre
 ## The brew sequence
 
 :::tip Brewing has its own language
-You'll encounter some unfamiliar terms below — words like wort, mashing, and pitching that mean something specific in a brewing context. Don't worry about them for now. We'll explain each one properly as we go, at the point where it matters.
+You may encounter some unfamiliar terms below — words like wort, mashing, and pitching that mean something specific in a brewing context. Don't worry about them for now. We'll explain each one properly as we go, at the point where it matters.
 :::
 
 **Brew 1 — Beer or cider from a kit**
@@ -72,15 +72,15 @@ To keep the focus on the fundamentals, Brew 1 uses a ready-made kit — either a
 
 Choose beer or cider — both work equally well at this stage and the process is almost identical. If you choose cider, keep it simple for your first batch: resist the temptation to add anything extra. There will be plenty of opportunity for dry hopping, back-sweetening, tinctures, and other adjuncts later. For now, brew it clean and let the base speak for itself. This also keeps the beer and cider tracks aligned — so if you're brewing in a club, everyone is working through roughly the same process at the same time.
 
-*In a club:* one fresh wort kit splits across four or five people. Everyone pitches a different yeast, or ferments at a different temperature, or chooses a different dry hop. The tasting session is the point — comparing what each variable did to the same starting wort.
+*In a club:* a fresh wort kit splits between 2 and 4 people. Each member gets to customise their own portion — choosing a different yeast, a different dry hop, or simply letting it ferment as-is and experiencing the kit at its most straightforward. There is no obligation to do something different, but the opportunity is there. Take a moment to smell the hops before they go in, and notice what they contribute to the finished beer — that sensory experience is part of the learning.
 
 *Solo:* an extract pouch kit splits into two smaller batches. Brew one now and store the other half for your next brew. It's a chance to make one small change — a different yeast, a different dry hop, a different fermentation temperature — and taste the difference directly. Save some from the first batch to compare.
 
-**Brew 2 — The other track**
+**Brew 2 — Swap tracks**
 
 Brew 2 is the moment to try the other track: if you brewed beer for Brew 1, now try cider — and vice versa. The two are interchangeable and there is no wrong order.
 
-From Brew 2 onwards, club members each brew their own full batch rather than splitting a single wort. The dynamic shifts: instead of comparing different treatments of the same starting point, you're comparing what each person did independently. A different kit, a different yeast, a different approach. The tasting sessions get more interesting.
+The splitting logic follows the track rather than the brew number. *Beer track:* a fresh wort kit splits between 2 and 4 people, the same as Brew 1. *Cider track:* each person sources their own juice and yeast and brews independently — no splitting needed, and no two batches need to be the same. The tasting sessions get more interesting as a result.
 
 **Brew 3 — Stove-top extract with partial mash**
 
