@@ -78,11 +78,19 @@ Choose beer or cider — both work equally well at this stage and the process is
 
 **Brew 2 — Cider and cold-side additions**
 
-Brew 2 is cider — and the moment to go beyond the basics. Where Brew 1 cider is deliberately simple (juice, yeast, and optionally a dry hop), Brew 2 introduces the additions that make cider a genuinely creative brew: yeast nutrient, adjuncts, tinctures, oak, and other cold-side additions such as finings. Some additions — fruit purées, lactose — are more involved and will keep for later, but the groundwork for understanding what you can add and why gets laid here.
+Brew 2 is cider — and the moment to go beyond the basics. Where Brew 1 cider is deliberately simple (juice, yeast, and optionally a dry hop), Brew 2 uses cider as a vehicle to introduce a wider set of topics that apply across all brewing.
 
-If you started with cider for Brew 1, Brew 2 is where you go deeper into it. If you brewed beer for Brew 1, cider is new territory — and these topics arrive at exactly the right moment.
+Yeast nutrient is the first: cider juice can be nutrient-poor compared to wort, which stresses the yeast and affects fermentation. Brew 2 is where we go into more detail on fermentation health — what healthy yeast activity looks like, when nutrient helps, and when it isn't needed. Whether you add it depends on your juice.
 
-The splitting logic follows the track. *Beer track (if revisiting):* a fresh wort kit splits between 2 and 4 people, the same as Brew 1. *Cider track:* each person sources their own juice and yeast and brews independently — no splitting needed, and no two batches need to be the same.
+From there, Brew 2 introduces the creative side of cold-side additions: tinctures (vanilla and cinnamon work particularly well in cider), oak (approachable here in a way that an oaked stout is not), and back-sweetening — how to add sweetness to a finished cider safely, without the risk of over-carbonation. Finings are also introduced — optional, but worth understanding. Whether to use them is a decision you can make for each batch.
+
+More advanced additions — fruit purées, lactose, and others — are mentioned briefly as a signpost to what's possible. They're not Brew 2 topics, but knowing they exist is useful.
+
+All of these are optional. The goal is to understand what each addition does and when it's worth using — not to use all of them.
+
+If you started with cider for Brew 1, Brew 2 is where you go deeper. If you brewed beer for Brew 1, cider is new territory — and these topics arrive at exactly the right moment.
+
+Each person sources their own juice and yeast and brews independently — no splitting needed, and no two batches need to be the same.
 
 **Brew 3 — Stove-top extract with partial mash**
 
