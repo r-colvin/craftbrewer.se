@@ -28,9 +28,9 @@ BrewClub is built around small batches, and deliberately so.
 
 If you spend any time in homebrew shops or forums, you'll notice almost everything is geared around 20-litre batches. There's a good reason for it.
 
-For all-grain brewing, the biggest cost is time — mashing, boiling, cooling, fermenting, and packaging takes roughly the same number of hours whether you're making 5 litres or 20. Brewing 20 litres spreads that fixed time cost over four times as much beer, which makes it an efficient use of an afternoon. It also lines up neatly with the standard 19-litre Cornelius keg used widely in homebrewing.
+For all-grain brewing, the biggest cost is time — mashing, boiling, cooling, fermenting, cleaning, and packaging takes roughly the same number of hours whether you're making 5 litres or 20. Brewing 20 litres spreads that fixed time cost over four times as much beer, which makes it an efficient use of an afternoon. It also lines up neatly with the standard 19-litre Cornelius keg used widely in homebrewing.
 
-BrewClub doesn't work that way. FWKs and extract kits remove most of the time overhead — brew day is 30 minutes, not an afternoon. The trade-off that makes 20 litres worthwhile for all-grain doesn't apply here, so there's no reason to brew that much unless you want to.
+BrewClub doesn't work that way. FWKs and extract kits remove most of the time overhead — brew day is 30 minutes, not an afternoon. Cleaning is also significantly easier at small scale: pots and equipment that fit in a dishwasher are a genuine advantage, and one that disappears the moment your kit gets large enough to require hand-washing everything. The trade-off that makes 20 litres worthwhile for all-grain doesn't apply here, so there's no reason to brew that much unless you want to.
 
 Anywhere between 5 and 20 litres is fine for BrewClub. We wouldn't recommend less than 5 litres — it's hard to get a good result at very small volumes and there's not much beer at the end. 10 litres is a good middle ground: roughly two kegs or 16–18 bottles, manageable equipment, and enough to share without committing to a large fermentation vessel. 20 litres is viable but means a significantly larger fermenter, more packaging vessels, more space, and more of the same beer to get through — especially if you're brewing solo.
 
