@@ -8,17 +8,13 @@ slug: /homebrewing/brewclub/getting-started/fermenter
 
 Your fermenter is where beer happens. Everything from the moment the wort goes in to the moment it's ready to package takes place here — so it's worth understanding what to look for before you buy one.
 
-:::tip Brewers make wort, yeast makes beer
-A saying worth keeping in mind: the brewer's job is to create the right conditions. Once the wort is in the fermenter and the yeast is pitched, the yeast takes over. We'll return to this when we talk about yeast on the Brew Day page.
-:::
-
 ---
 
 ## Why a PP bucket?
 
-Many fermenter types exist: glass carboys, stainless conicals, [PET](/the-brewers-manual/materials-register/pet) vessels, and various DIY options. BrewClub uses a **[polypropylene (PP)](/the-brewers-manual/materials-register/pp) bucket fermenter** for good reason.
+Many fermenter types exist: [glass](/the-brewers-manual/materials-register/glass) carboys, [stainless](/the-brewers-manual/materials-register/stainless) conicals, [PET](/the-brewers-manual/materials-register/pet) vessels, and various DIY options. BrewClub uses a **[polypropylene (PP)](/the-brewers-manual/materials-register/pp) bucket fermenter** for good reason.
 
-PP is food-safe, chemically resistant to everything you'll use for cleaning and sanitising, easy to clean, and inexpensive. PP buckets are widely available from homebrew suppliers in Sweden and most other countries. They're opaque — you can't see the fermentation activity inside — but that's a minor inconvenience, not a problem. An airlock tells you what you need to know.
+PP is food-safe, chemically resistant to everything you'll use for cleaning and sanitising, easy to clean, and inexpensive. PP buckets are widely available from homebrew suppliers in Sweden and most other countries. They're opaque — you can't see the fermentation activity inside — but that's a minor inconvenience, not a problem. An [airlock](/the-brewers-manual/equipment/airlocks) tells you what you need to know.
 
 For the full material analysis, see the [PP materials page](/the-brewers-manual/materials-register/pp). For everything about bucket fermenters as equipment — configurations, tap material, grommet selection, cleaning sequence — see the [Bucket fermenter guide](/the-brewers-manual/equipment/bucket-fermenter). The sections below give you what you need to buy and set up correctly before Brew 1.
 
@@ -26,7 +22,7 @@ For the full material analysis, see the [PP materials page](/the-brewers-manual/
 
 ## Choosing your size
 
-Available PP bucket sizes in Sweden are 5.5 L, 15 L, and 30 L. Choose based on your batch size from the [Batch size](./01-batch-size.md) page.
+Commonly available PP bucket sizes in Sweden are 5.5 L, 15 L, and 30 L. Choose based on your batch size from the [Batch size](./01-batch-size.md) page.
 
 | Fermenter size | Usable fermentation volume | Suits batch size |
 |---|---|---|
