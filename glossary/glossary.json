@@ -287,6 +287,13 @@
       "definition": "The chemical reaction in which a molecule is split by water, typically at a bond that connects two parts of the molecule. In food contact materials, hydrolysis is the primary mechanism by which acid or alkaline cleaning solutions attack susceptible polymers — particularly those with ester linkages (PET, Tritan, PC) or ether linkages (POM). Polymers with all-carbon backbones (PP, HDPE, PTFE) have no hydrolysable bonds and are inherently resistant to aqueous chemical attack."
     },
     {
+      "term": "Airlock",
+      "aliases": [
+        "airlocks"
+      ],
+      "definition": "A one-way valve fitted to the fermenter lid that allows CO\u2082 produced during fermentation to escape while preventing air and contamination from entering. Filled with sanitiser solution or cooled boiled water. The rate of bubbling gives a rough indication of fermentation activity, but the absence of bubbling does not confirm fermentation is complete — gravity measurement is the reliable indicator. 3-piece and S-type designs are both common and functionally equivalent for homebrew use."
+    },
+    {
       "term": "Original Gravity",
       "abbreviation": "OG",
       "aliases": [

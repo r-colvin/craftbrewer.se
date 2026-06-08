@@ -8,15 +8,19 @@ slug: /homebrewing/brewclub/getting-started/fermenter
 
 Your fermenter is where beer happens. Everything from the moment the wort goes in to the moment it's ready to package takes place here — so it's worth understanding what to look for before you buy one.
 
+:::tip Brewers make wort, yeast makes beer
+A saying worth keeping in mind: the brewer's job is to create the right conditions. Once the wort is in the fermenter and the yeast is pitched, the yeast takes over. We'll return to this when we talk about yeast on the Brew Day page.
+:::
+
 ---
 
 ## Why a PP bucket?
 
-Many fermenter types exist: glass carboys, stainless conicals, PET vessels, and various DIY options. BrewClub uses a **polypropylene (PP) bucket fermenter** because it's the right tool for the job at this scale.
+Many fermenter types exist: glass carboys, stainless conicals, [PET](/the-brewers-manual/materials-register/pet) vessels, and various DIY options. BrewClub uses a **[polypropylene (PP)](/the-brewers-manual/materials-register/pp) bucket fermenter** for good reason.
 
 PP is food-safe, chemically resistant to everything you'll use for cleaning and sanitising, easy to clean, and inexpensive. PP buckets are widely available from homebrew suppliers in Sweden and most other countries. They're opaque — you can't see the fermentation activity inside — but that's a minor inconvenience, not a problem. An airlock tells you what you need to know.
 
-The detail that matters for the Brewer's Manual is covered on the [bucket fermenter equipment page](/the-brewers-manual/equipment/bucket-fermenter). For BrewClub, the short version is: buy a PP bucket from a homebrew supplier, and you'll be fine.
+For the full material analysis, see the [PP materials page](/the-brewers-manual/materials-register/pp). For everything about bucket fermenters as equipment — configurations, tap material, grommet selection, cleaning sequence — see the [Bucket fermenter guide](/the-brewers-manual/equipment/bucket-fermenter). The sections below give you what you need to buy and set up correctly before Brew 1.
 
 ---
 
