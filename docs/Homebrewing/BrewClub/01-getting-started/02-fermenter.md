@@ -10,7 +10,7 @@ Your fermenter is where beer happens. Everything from the moment the wort goes i
 
 ---
 
-## Why a PP bucket?
+## The PP bucket fermenter
 
 Many fermenter types exist: [glass](/homebrewing/the-brewers-manual/materials-register/glass) carboys, [stainless](/homebrewing/the-brewers-manual/materials-register/stainless) conicals, [PET](/homebrewing/the-brewers-manual/materials-register/pet) vessels, and various DIY options. BrewClub uses a **[polypropylene (PP)](/homebrewing/the-brewers-manual/materials-register/pp) bucket fermenter** for good reason.
 
