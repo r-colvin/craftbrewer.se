@@ -40,19 +40,13 @@ For most BrewClub batches, the **15-litre fermenter** is the most versatile choi
 
 Two options are recommended for BrewClub, one for each common batch size. Both are from Mr-Malt and use a PP bucket with a CO-PP tap and silicone washers.
 
-### 5.5 L — Mr-Malt complete fermenting pail (art. 8073KIT)
+:::note Product details
+Product availability and specifications can change. Verify with the supplier before purchasing.
+:::
 
-A compact complete kit — bucket, tap with sediment separator, airlock, and grommet. The tap is rotatable, making it easy to fit in tight spaces or inside a fridge.
+### 5.5 L — [Mr-Malt complete fermenting pail](https://mr-malt.se/utrustning/jasning/jaskarl-i-plast/jashink/komplett-jashink-med-tappkran-5-l) (art. 8073KIT)
 
-**As supplied:**
-
-| Component | Material | Status |
-|---|---|---|
-| Bucket + lid | PP | ✅ Confirmed |
-| Tap body | CO-PP | ✅ Confirmed (Q&A) |
-| Tap washers | Silicone | ✅ Confirmed (Q&A) |
-| Grommet | EPDM | ⚠️ Assumed (black colour) |
-| Airlock | Enolandia compact GPPS | ✅ Confirmed (DoC) |
+A compact complete kit — bucket, tap with sediment separator, airlock, and grommet. The tap is rotatable, making it easy to fit in tight spaces or inside a fridge. Includes a PP bucket and lid, a CO-PP tap with silicone washers, an Enolandia GPPS compact airlock, and a grommet.
 
 **Before Brew 1 — recommended upgrades:**
 
@@ -64,20 +58,9 @@ If you keep the supplied compact GPPS airlock: fill with cooled boiled water onl
 
 ---
 
-### 15 L — Mr-Malt complete fermenting pail with tap (art. 803974KIT)
+### 15 L — [Mr-Malt complete fermenting pail with tap](https://mr-malt.se/en/equipment/fermenting/plastic-fermenters/fermenting-pail/complete-fermenting-pail-with-tap-15-l-1) (art. 803974KIT)
 
-A complete 15-litre kit with bucket, tap, airlock, and LCD thermometer. The LCD thermometer sticks to the outside of the bucket and gives a continuous temperature reading during fermentation — a useful included extra.
-
-**As supplied:**
-
-| Component | Material | Status |
-|---|---|---|
-| Bucket + lid | PP | ✅ Confirmed (Q&A) |
-| Tap body | CO-PP | ✅ Assumed (same product family as 5.5L) |
-| Tap washers | Silicone | ✅ Assumed (same product family as 5.5L) |
-| Grommet | NBR | ❌ Confirmed by product image (brown/orange) |
-| Airlock | Enolandia compact GPPS | ⚠️ Assumed (same product family as 5.5L) |
-| LCD thermometer | — | ✅ Included |
+A complete 15-litre kit with bucket, tap, airlock, and LCD thermometer. The LCD thermometer sticks to the outside of the bucket and gives a continuous temperature reading during fermentation — a useful included extra. Includes a PP bucket and lid, a CO-PP tap with silicone washers, an Enolandia GPPS compact airlock, an NBR grommet, and an LCD thermometer.
 
 **Before Brew 1 — required and recommended upgrades:**
 
@@ -98,7 +81,7 @@ The **airlock** is in contact with whatever you fill it with for the entire ferm
 Neither upgrade changes how you brew. Both are worth doing.
 
 :::note Why CO-PP and silicone washers?
-CO-PP (copolymer polypropylene) is a chemically robust food-safe plastic — the same material family as the bucket, with slightly better impact resistance. Silicone is the correct material for tap washers in brewing: food-safe, chemically inert, long-lasting, and compatible with all sanitisers and cleaning agents. The tap and washers in both kits have been confirmed by Mr-Malt customer service and require no upgrade for BrewClub use. For the full material analysis, see the [PP materials page](/homebrewing/the-brewers-manual/materials-register/pp) and the [Bucket fermenter guide](/homebrewing/the-brewers-manual/equipment/bucket-fermenter).
+CO-PP (copolymer polypropylene) is a chemically robust food-safe plastic — the same material family as the bucket, with slightly better impact resistance. Silicone is the correct material for tap washers in brewing: food-safe, chemically inert, long-lasting, and compatible with all sanitisers and cleaning agents. For the full material analysis, see the [PP materials page](/homebrewing/the-brewers-manual/materials-register/pp) and the [Bucket fermenter guide](/homebrewing/the-brewers-manual/equipment/bucket-fermenter).
 :::
 
 ---
