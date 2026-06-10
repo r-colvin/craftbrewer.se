@@ -44,13 +44,13 @@ Two options are recommended for BrewClub, one for each common batch size. Both a
 Product availability and specifications can change. Verify with the supplier before purchasing.
 :::
 
-### 5.5 L — [Mr-Malt complete fermenting pail](https://mr-malt.se/utrustning/jasning/jaskarl-i-plast/jashink/komplett-jashink-med-tappkran-5-l) (art. 8073KIT)
+### 5.5 L fermenter kit
 
-A compact complete kit — bucket, tap with sediment separator, airlock, and grommet. The tap is rotatable, making it easy to fit in tight spaces or inside a fridge. Includes a PP bucket and lid, a CO-PP tap with silicone washers, an Enolandia GPPS compact airlock, and a grommet.
+Mr-Malt [complete fermenting pail](https://mr-malt.se/utrustning/jasning/jaskarl-i-plast/jashink/komplett-jashink-med-tappkran-5-l) (art. 8073KIT) — a compact complete kit including a PP bucket and lid, a CO-PP tap with silicone washers, an Enolandia GPPS compact airlock, and a grommet. The tap is rotatable, making it easy to fit in tight spaces or inside a fridge.
 
 **Before Brew 1 — recommended upgrades:**
 
-1. **Replace the grommet with a confirmed EPDM grommet.** The grommet supplied is assumed EPDM based on its black colour, but the material is not formally declared. For Brew 1 this is acceptable — but replacing it with a confirmed EPDM grommet (KegLand art. 102791 at Ölbryggning, 7 SEK) removes the uncertainty. Check that the 5.5L lid hole is 15mm before ordering.
+1. **Replace the grommet — recommended.** The kit ships with a white grommet ([art. 804303](https://mr-malt.se/utrustning/jasning/tillbehor/vit-gummibussning-till-jasror)). White grommets are not a reliable indicator of any specific rubber material — the colour is consistent with silicone, NR, or SBR, none of which can be assumed from appearance alone. The material is not declared by Mr-Malt. Replace with a confirmed black EPDM grommet (KegLand art. 102791 at Ölbryggning, 7 SEK) before your first brew. EPDM is chemically compatible with all sanitisers and cleaning agents used in BrewClub. Check that the 5.5L lid hole is 15mm before ordering.
 
 2. **Upgrade the airlock to a PP 3-piece.** The supplied Enolandia compact airlock is GPPS — food-safe and adequate, but with one important constraint: **fill it with water only**, not ABNS sanitiser or DES. GPPS is vulnerable to repeated ABNS contact under the evaporation/top-up pattern that occurs during a long fermentation. A PP 3-piece airlock has no such restriction, is fully dishwasher safe, and is easier to clean. Note that Ölbryggning's KegLand-branded 3-piece airlock (art. 100074) cannot be confirmed as PP — their customer service confirmed the material is undeclared. To source a confirmed PP airlock, contact KegLand EU directly.
 
@@ -58,9 +58,9 @@ If you keep the supplied compact GPPS airlock: fill with cooled boiled water onl
 
 ---
 
-### 15 L — [Mr-Malt complete fermenting pail with tap](https://mr-malt.se/en/equipment/fermenting/plastic-fermenters/fermenting-pail/complete-fermenting-pail-with-tap-15-l-1) (art. 803974KIT)
+### 15 L fermenter kit
 
-A complete 15-litre kit with bucket, tap, airlock, and LCD thermometer. The LCD thermometer sticks to the outside of the bucket and gives a continuous temperature reading during fermentation — a useful included extra. Includes a PP bucket and lid, a CO-PP tap with silicone washers, an Enolandia GPPS compact airlock, an NBR grommet, and an LCD thermometer.
+Mr-Malt [complete fermenting pail with tap](https://mr-malt.se/en/equipment/fermenting/plastic-fermenters/fermenting-pail/complete-fermenting-pail-with-tap-15-l-1) (art. 803974KIT) — a complete 15-litre kit including a PP bucket and lid, a CO-PP tap with silicone washers, an Enolandia GPPS compact airlock, an NBR grommet, and an LCD thermometer. The thermometer sticks to the outside of the bucket and gives a continuous temperature reading during fermentation.
 
 **Before Brew 1 — required and recommended upgrades:**
 
