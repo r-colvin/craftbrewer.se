@@ -10,15 +10,15 @@ BrewClub is a starting point, not a finishing line. The resources below are the 
 
 ---
 
-## Start here — the two Palmer books
+## The two Palmer books
 
-Two books by John J. Palmer cover everything you need for BrewClub and everything you'll want when you're ready to go further.
+Two books by John J. Palmer cover the ground BrewClub covers and everything beyond it. Both are useful throughout — one is written for small-batch brewing and is the closer fit for BrewClub; the other is the full reference, and the first edition is free online if you want to go deeper at any point.
 
 ### How to Brew Beer in Your Kitchen
 
-The primary reading recommendation for BrewClub. Palmer covers kitchen-scale brewing at 10 litres — close enough to BrewClub's batch sizes to be directly applicable. Clear, practical, and written for people who want to understand what they're doing, not just follow steps.
+A small-batch brewing guide written for 10-litre batches — close to BrewClub's batch sizes and directly applicable throughout the programme. Clear, practical, and focused on understanding the why behind each step, not just following instructions. This is the book to read before and during your first few brews.
 
-Chapters directly relevant to BrewClub:
+The chapter references most relevant to BrewClub:
 
 | Topic | Chapter | Page |
 |---|---|---|
@@ -29,17 +29,15 @@ Chapters directly relevant to BrewClub:
 | Packaging | Ch. 12 | 111 |
 | Troubleshooting | Ch. 13 | 123 |
 
-Palmer's own note on where this book sits: *"This book is a distillation of my larger book, How To Brew, 4th Edition... If you enjoy the hobby and want to delve deeper into other methods and the science of brewing, then the big book is out there waiting for you."* — Introduction, p. 5.
-
-Available as a paperback. Sponsored by Grainfather.
+Available as a paperback. Sponsored by Grainfather. [Full details in the Reference Library →](/reference#how-to-brew-beer-in-your-kitchen)
 
 ---
 
 ### How to Brew — 4th Edition
 
-The graduate text. Palmer's full reference covers everything from extract brewing through to all-grain, water chemistry, yeast management, and troubleshooting. It is the most widely recommended homebrewing book in the hobby, and the primary reference behind much of the Brewer's Manual.
+Palmer's full reference — the graduate text. Covers everything from extract brewing through to all-grain, water chemistry, yeast management, and troubleshooting in 25 chapters. The most widely recommended homebrewing book in the hobby, and the primary reference behind much of the Brewer's Manual. Reach for this when you've completed BrewClub and want to go deeper.
 
-Chapters most relevant once you've completed BrewClub:
+The chapters most relevant as a next step after BrewClub:
 
 | Topic | Chapter | Page |
 |---|---|---|
@@ -49,7 +47,7 @@ Chapters most relevant once you've completed BrewClub:
 | Kegging | Ch. 10 | 153 |
 | Troubleshooting | Ch. 25 | 441 |
 
-The first edition is available free at [howtobrew.com](https://www.howtobrew.com). The fourth edition (Brewers Publications, 2017) is the definitive version and worth having in print.
+The first edition is available free at [howtobrew.com](https://www.howtobrew.com). The fourth edition (Brewers Publications, 2017) is the definitive version and worth having in print. [Full details in the Reference Library →](/reference#how-to-brew)
 
 ---
 
