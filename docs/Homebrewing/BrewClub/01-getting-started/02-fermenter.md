@@ -58,13 +58,18 @@ Mr-Malt [complete fermenting pail](https://mr-malt.se/utrustning/jasning/jaskarl
 
 ### 15 L fermenter kit
 
-Mr-Malt [complete fermenting pail with tap](https://mr-malt.se/en/equipment/fermenting/plastic-fermenters/fermenting-pail/complete-fermenting-pail-with-tap-15-l-1) (art. 803974KIT) — a complete 15-litre kit including a PP bucket and lid, a CO-PP tap with silicone washers, an Enolandia GPPS compact airlock, an NBR grommet, and an LCD thermometer. The thermometer sticks to the outside of the bucket and gives a continuous temperature reading during fermentation.
+Two components bought together from Mr-Malt:
 
-**Before Brew 1 — required and recommended upgrades:**
+- [Fermenting pail 15 L ported](https://mr-malt.se/en/equipment/fermenting/plastic-fermenters/fermenting-pail-15-l-ported-1) (art. 803974) — PP bucket and lid with pre-drilled 26mm tap hole. Brown/orange grommet included in lid. No tap or airlock included.
+- [Spigot for bucket, 9/12 mm](https://mr-malt.se/en/equipment/fermenting/accessories/spigots/spigot-for-bucket-912-mm) (art. 803253) — CO-PP tap with silicone washers. Fits the 26mm hole.
 
-1. **Replace the grommet — required.** The 15L kit ships with an orange/brown NBR (natural rubber) grommet, visible in the product image. NBR is not recommended for repeated ABNS contact. Replace with a black EPDM grommet (KegLand art. 102791 at Ölbryggning, 7 SEK) before your first brew. The KegLand grommet fits a 15mm hole and accepts a 10mm airlock stem — standard dimensions.
+You will also need an airlock and a replacement grommet — see upgrades below.
 
-2. **Upgrade the airlock to a PP 3-piece** — same recommendation as the 5.5L, same rationale. Ölbryggning's KegLand-branded airlock (art. 100074) cannot be confirmed as PP — source a confirmed PP airlock directly from KegLand EU. Fill the existing GPPS airlock with water only if keeping it.
+**Before Brew 1 — required upgrades:**
+
+1. **Upgrade the grommet to EPDM — required.** The included grommet is brown/orange, indicating natural rubber (NR). NR is not recommended for repeated ABNS contact. Replace with a black EPDM grommet (KegLand art. 102791 at Ölbryggning, 7 SEK) before your first brew.
+
+2. **Add an airlock.** The bucket does not include one. The Enolandia compact GPPS airlock is the recommended starting point — it is widely available, the material is confirmed by Declaration of Conformity, and it works well. One important constraint: **fill it with water only**, not ABNS sanitiser or DES. A PP 3-piece airlock is the better long-term option — no fill liquid constraint, fully dishwasher safe — but is not yet reliably available in Sweden. Source one when you can. See the [PS/SAN materials page](/homebrewing/the-brewers-manual/materials-register/ps-san) for the full analysis.
 
 ---
 
