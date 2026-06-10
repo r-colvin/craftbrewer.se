@@ -58,7 +58,7 @@ A compact complete kit — bucket, tap with sediment separator, airlock, and gro
 
 1. **Replace the grommet with a confirmed EPDM grommet.** The grommet supplied is assumed EPDM based on its black colour, but the material is not formally declared. For Brew 1 this is acceptable — but replacing it with a confirmed EPDM grommet (KegLand art. 102791 at Ölbryggning, 7 SEK) removes the uncertainty. Check that the 5.5L lid hole is 15mm before ordering.
 
-2. **Upgrade the airlock to a PP 3-piece.** The supplied Enolandia compact airlock is GPPS — food-safe and adequate, but with one important constraint: **fill it with water only**, not ABNS sanitiser or DES. GPPS is vulnerable to repeated ABNS contact under the evaporation/top-up pattern that occurs during a long fermentation. A PP 3-piece airlock (KegLand KL01595, available via Ölbryggning art. 100074 if confirmed PP) has no such restriction, is fully dishwasher safe, and is easier to clean. Note: a 3-piece airlock is taller than the compact — check fridge clearance if you plan to ferment in a fridge.
+2. **Upgrade the airlock to a PP 3-piece.** The supplied Enolandia compact airlock is GPPS — food-safe and adequate, but with one important constraint: **fill it with water only**, not ABNS sanitiser or DES. GPPS is vulnerable to repeated ABNS contact under the evaporation/top-up pattern that occurs during a long fermentation. A PP 3-piece airlock has no such restriction, is fully dishwasher safe, and is easier to clean. Note that Ölbryggning's KegLand-branded 3-piece airlock (art. 100074) cannot be confirmed as PP — their customer service confirmed the material is undeclared. To source a confirmed PP airlock, contact KegLand EU directly.
 
 If you keep the supplied compact GPPS airlock: fill with cooled boiled water only, and replace it at the first sign of crazing or haziness. See the [PS/SAN materials page](/homebrewing/the-brewers-manual/materials-register/ps-san) for the full analysis.
 
@@ -83,7 +83,7 @@ A complete 15-litre kit with bucket, tap, airlock, and LCD thermometer. The LCD 
 
 1. **Replace the grommet — required.** The 15L kit ships with an orange/brown NBR (natural rubber) grommet, visible in the product image. NBR is not recommended for repeated ABNS contact. Replace with a black EPDM grommet (KegLand art. 102791 at Ölbryggning, 7 SEK) before your first brew. The KegLand grommet fits a 15mm hole and accepts a 10mm airlock stem — standard dimensions.
 
-2. **Upgrade the airlock to PP 3-piece** — same recommendation as the 5.5L, same rationale. Fill the existing GPPS airlock with water only if keeping it.
+2. **Upgrade the airlock to a PP 3-piece** — same recommendation as the 5.5L, same rationale. Ölbryggning's KegLand-branded airlock (art. 100074) cannot be confirmed as PP — source a confirmed PP airlock directly from KegLand EU. Fill the existing GPPS airlock with water only if keeping it.
 
 ---
 
