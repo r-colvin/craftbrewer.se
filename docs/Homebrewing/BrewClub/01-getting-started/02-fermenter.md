@@ -12,11 +12,11 @@ Your fermenter is where beer happens. Everything from the moment the wort goes i
 
 ## Why a PP bucket?
 
-Many fermenter types exist: [glass](/the-brewers-manual/materials-register/glass) carboys, [stainless](/the-brewers-manual/materials-register/stainless) conicals, [PET](/the-brewers-manual/materials-register/pet) vessels, and various DIY options. BrewClub uses a **[polypropylene (PP)](/the-brewers-manual/materials-register/pp) bucket fermenter** for good reason.
+Many fermenter types exist: [glass](/homebrewing/the-brewers-manual/materials-register/glass) carboys, [stainless](/homebrewing/the-brewers-manual/materials-register/stainless) conicals, [PET](/homebrewing/the-brewers-manual/materials-register/pet) vessels, and various DIY options. BrewClub uses a **[polypropylene (PP)](/homebrewing/the-brewers-manual/materials-register/pp) bucket fermenter** for good reason.
 
-PP is food-safe, chemically resistant to everything you'll use for cleaning and sanitising, easy to clean, and inexpensive. PP buckets are widely available from homebrew suppliers in Sweden and most other countries. They're opaque — you can't see the fermentation activity inside — but that's a minor inconvenience, not a problem. An [airlock](/the-brewers-manual/equipment/airlocks) tells you what you need to know.
+PP is food-safe, chemically resistant to everything you'll use for cleaning and sanitising, easy to clean, and inexpensive. PP buckets are widely available from homebrew suppliers in Sweden and most other countries. They're opaque — you can't see the fermentation activity inside — but that's a minor inconvenience, not a problem. An [airlock](/homebrewing/the-brewers-manual/equipment/airlocks) tells you what you need to know.
 
-For the full material analysis, see the [PP materials page](/the-brewers-manual/materials-register/pp). For everything about bucket fermenters as equipment — configurations, tap material, grommet selection, cleaning sequence — see the [Bucket fermenter guide](/the-brewers-manual/equipment/bucket-fermenter). The sections below give you what you need to buy and set up correctly before Brew 1.
+For the full material analysis, see the [PP materials page](/homebrewing/the-brewers-manual/materials-register/pp). For everything about bucket fermenters as equipment — configurations, tap material, grommet selection, cleaning sequence — see the [Bucket fermenter guide](/homebrewing/the-brewers-manual/equipment/bucket-fermenter). The sections below give you what you need to buy and set up correctly before Brew 1.
 
 ---
 
@@ -36,30 +36,69 @@ For most BrewClub batches, the **15-litre fermenter** is the most versatile choi
 
 ---
 
-## What comes with the fermenter
+## The BrewClub recommended fermenters
 
-A complete fermenter setup has five components. The bucket and lid are the starting point; the rest need to be checked or upgraded before your first brew.
+Two options are recommended for BrewClub, one for each common batch size. Both are from Mr-Malt, both use a PP bucket with a CO-PP tap and silicone washers. The tap material and seal are confirmed via Mr-Malt customer service Q&A.
 
-**The bucket and lid** — bought together as a unit. Make sure the lid fits the bucket securely and seals all the way around. Press the entire rim after fitting — a lid that looks closed but isn't fully seated is one of the most common beginner mistakes.
+### 5.5 L — Mr-Malt complete fermenting pail (art. 8073KIT)
 
-**A tap** — for transferring beer to packaging without a siphon. Most PP buckets come with a tap included. The tap body is typically PP. The seal inside the tap is a flat washer — the material is often undeclared by the supplier but is likely LDPE, which is food-safe and brewing-compatible. It will work, but silicone is the better long-term seal. For BrewClub Brew 1, the included seal is acceptable.
+A compact complete kit — bucket, tap with sediment separator, airlock, and grommet. The tap is rotatable, making it easy to fit in tight spaces or inside a fridge.
 
-**A grommet** — the rubber seal that holds the airlock in the lid. Most buckets in the Swedish market come with an NBR grommet. **Upgrade this to EPDM before your first brew** — a black EPDM grommet is inexpensive and widely available. See the [grommet section](#the-grommet--get-this-right) below.
+**As supplied:**
 
-**An airlock** — most buckets include a bubbler (S-type) airlock. This works, but a **3-piece airlock is recommended** — it disassembles fully for cleaning, which the bubbler does not. If you're sourcing your own, a 3-piece PP airlock is the best option (dishwasher-safe, chemically robust); availability in Sweden is being confirmed — see the [airlock equipment page](/the-brewers-manual/equipment/airlocks) for the full picture. A 3-piece SAN airlock is the widely available alternative and is fully adequate.
+| Component | Material | Status |
+|---|---|---|
+| Bucket + lid | PP | ✅ Confirmed |
+| Tap body | CO-PP | ✅ Confirmed (Q&A) |
+| Tap washers | Silicone | ✅ Confirmed (Q&A) |
+| Grommet | EPDM | ⚠️ Assumed (black colour) |
+| Airlock | Enolandia compact GPPS | ✅ Confirmed (DoC) |
 
-**A stick-on LCD thermometer** — optional but useful. Fits to the outside of the fermenter and gives a continuous temperature reading without opening the vessel. Helpful for monitoring fermentation temperature, particularly in the first 48 hours. Not required for Brew 1 if you have a probe thermometer for pitching.
+**Before Brew 1 — recommended upgrades:**
+
+1. **Replace the grommet with a confirmed EPDM grommet.** The grommet supplied is assumed EPDM based on its black colour, but the material is not formally declared. For Brew 1 this is acceptable — but replacing it with a confirmed EPDM grommet (KegLand art. 102791 at Ölbryggning, 7 SEK) removes the uncertainty. Check that the 5.5L lid hole is 15mm before ordering.
+
+2. **Upgrade the airlock to a PP 3-piece.** The supplied Enolandia compact airlock is GPPS — food-safe and adequate, but with one important constraint: **fill it with water only**, not ABNS sanitiser or DES. GPPS is vulnerable to repeated ABNS contact under the evaporation/top-up pattern that occurs during a long fermentation. A PP 3-piece airlock (KegLand KL01595, available via Ölbryggning art. 100074 if confirmed PP) has no such restriction, is fully dishwasher safe, and is easier to clean. Note: a 3-piece airlock is taller than the compact — check fridge clearance if you plan to ferment in a fridge.
+
+If you keep the supplied compact GPPS airlock: fill with cooled boiled water only, and replace it at the first sign of crazing or haziness. See the [PS/SAN materials page](/homebrewing/the-brewers-manual/materials-register/ps-san) for the full analysis.
 
 ---
 
-## The grommet — get this right
+### 15 L — Mr-Malt complete fermenting pail with tap (art. 803974KIT)
 
-The grommet is small and easy to overlook, but it matters. It sits in a hole in the lid, seals the airlock in place, and is the only rubber component in regular contact with your beer environment.
+A complete 15-litre kit with bucket, tap, airlock, and LCD thermometer. The LCD thermometer sticks to the outside of the bucket and gives a continuous temperature reading during fermentation — a useful included extra.
 
-**Colour is your guide:** buy a fermenter with a **black grommet**. Black grommets are assumed to be EPDM rubber, which is chemically compatible with everything used in BrewClub — cleaning agents, sanitisers, and the beer itself. Brown or orange grommets are likely natural rubber (NR), which carries a chemical risk that makes it unsuitable for food contact use. If your fermenter comes with a brown or orange grommet, replace it with a black one before your first brew.
+**As supplied:**
 
-:::note Why the colour rule?
-The material of a grommet is rarely declared by manufacturers, which makes direct verification difficult. Black colour with a matte finish is a reliable indicator of EPDM in the homebrew context — confirmed by supplier correspondence and consistent across the market. It is an assumption, not a guarantee, but it's the best practical guide available. The Brewer's Manual covers the full analysis on the [materials register](/the-brewers-manual/materials-register).
+| Component | Material | Status |
+|---|---|---|
+| Bucket + lid | PP | ✅ Confirmed (Q&A) |
+| Tap body | CO-PP | ✅ Assumed (same product family as 5.5L) |
+| Tap washers | Silicone | ✅ Assumed (same product family as 5.5L) |
+| Grommet | NBR | ❌ Confirmed by product image (brown/orange) |
+| Airlock | Enolandia compact GPPS | ⚠️ Assumed (same product family as 5.5L) |
+| LCD thermometer | — | ✅ Included |
+
+**Before Brew 1 — required and recommended upgrades:**
+
+1. **Replace the grommet — required.** The 15L kit ships with an orange/brown NBR (natural rubber) grommet, visible in the product image. NBR is not recommended for repeated ABNS contact. Replace with a black EPDM grommet (KegLand art. 102791 at Ölbryggning, 7 SEK) before your first brew. The KegLand grommet fits a 15mm hole and accepts a 10mm airlock stem — standard dimensions.
+
+2. **Upgrade the airlock to PP 3-piece** — same recommendation as the 5.5L, same rationale. Fill the existing GPPS airlock with water only if keeping it.
+
+---
+
+## What the upgrades cost and why they matter
+
+Both fermenters are good starting points. The grommet and airlock upgrades are inexpensive and straightforward — and they matter because the grommet and airlock are the two components most likely to interact with your sanitiser over repeated brews.
+
+The **grommet** sits in the lid and holds the airlock in place. It may contact sanitiser briefly during setup. EPDM is chemically compatible with all cleaning and sanitising products used in BrewClub. NBR is not — it degrades with repeated ABNS contact. The EPDM upgrade costs 7 SEK and takes ten seconds to fit.
+
+The **airlock** is in contact with whatever you fill it with for the entire fermentation. If you use ABNS sanitiser as fill liquid and top it up as it evaporates, a GPPS airlock is progressively exposed to concentrated DDBSA residue — the mechanism that causes crazing and material failure. Using water eliminates this risk entirely and costs nothing. The PP upgrade removes the constraint if you prefer not to think about it.
+
+Neither upgrade changes how you brew. Both are worth doing.
+
+:::note Why CO-PP and silicone washers?
+CO-PP (copolymer polypropylene) is a chemically robust food-safe plastic — the same material family as the bucket, with slightly better impact resistance. Silicone is the correct material for tap washers in brewing: food-safe, chemically inert, long-lasting, and compatible with all sanitisers and cleaning agents. The tap and washers in both kits have been confirmed by Mr-Malt customer service and require no upgrade for BrewClub use. For the full material analysis, see the [PP materials page](/homebrewing/the-brewers-manual/materials-register/pp) and the [Bucket fermenter guide](/homebrewing/the-brewers-manual/equipment/bucket-fermenter).
 :::
 
 ---
@@ -72,7 +111,8 @@ The cleaning process is covered in detail on the [Brew Day](../02-brew-day/index
 
 - **Inspect your fermenter before each brew.** Look for scratches, cracks, or cloudiness — especially on the interior. Scratches harbour bacteria that cleaning and sanitising can't reliably reach. A heavily scratched fermenter should be replaced.
 - **Never use abrasive cloths or scourers** on the inside of a PP fermenter. They scratch the surface.
-- **Disassemble the tap** and clean it separately after every batch. The tap interior — particularly the thread roots — is the highest-risk residue point in the whole setup.
+- **Disassemble the tap** and clean it separately after every batch. The tap interior is the highest-risk residue point in the whole setup.
+- **Inspect the airlock** before each brew. A GPPS airlock showing crazing, haziness, or whitening must be replaced — not just cleaned.
 
 ---
 
