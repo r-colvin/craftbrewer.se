@@ -287,6 +287,10 @@
       "definition": "The chemical reaction in which a molecule is split by water, typically at a bond that connects two parts of the molecule. In food contact materials, hydrolysis is the primary mechanism by which acid or alkaline cleaning solutions attack susceptible polymers — particularly those with ester linkages (PET, Tritan, PC) or ether linkages (POM). Polymers with all-carbon backbones (PP, HDPE, PTFE) have no hydrolysable bonds and are inherently resistant to aqueous chemical attack."
     },
     {
+      "term": "Krausen",
+      "definition": "The thick, rocky foam layer that forms on top of fermenting wort during active fermentation. Produced by CO\u2082 rising through the liquid and carrying proteins, hop compounds, and yeast cells to the surface. Krausen typically peaks within the first 24\u201372 hours of fermentation and then falls back into the beer as activity slows. It is normal and harmless. The fermenter needs enough headspace to accommodate it \u2014 typically at least 20% of the batch volume \u2014 or it can push out through the airlock."
+    },
+    {
       "term": "Airlock",
       "aliases": [
         "airlocks"

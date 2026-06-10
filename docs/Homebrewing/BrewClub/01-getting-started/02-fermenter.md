@@ -14,7 +14,7 @@ Your fermenter is where beer happens. Everything from the moment the wort goes i
 
 Many fermenter types exist: [glass](/homebrewing/the-brewers-manual/materials-register/glass) carboys, [stainless](/homebrewing/the-brewers-manual/materials-register/stainless) conicals, [PET](/homebrewing/the-brewers-manual/materials-register/pet) vessels, and various DIY options. BrewClub uses a **[polypropylene (PP)](/homebrewing/the-brewers-manual/materials-register/pp) bucket fermenter** for good reason.
 
-PP is food-safe, chemically resistant to everything you'll use for cleaning and sanitising, easy to clean, and inexpensive. PP buckets are widely available from homebrew suppliers in Sweden and most other countries. They're opaque — you can't see the fermentation activity inside — but that's a minor inconvenience, not a problem. An [airlock](/homebrewing/the-brewers-manual/equipment/airlocks) tells you what you need to know.
+PP is food-safe, chemically resistant to everything you'll use for cleaning and sanitising, easy to clean, and inexpensive. PP buckets are widely available from homebrew supply shops. They're opaque — you can't see the fermentation activity inside — but that's a minor inconvenience, not a problem. An [airlock](/homebrewing/the-brewers-manual/equipment/airlocks) tells you what you need to know.
 
 For the full material analysis, see the [PP materials page](/homebrewing/the-brewers-manual/materials-register/pp). For everything about bucket fermenters as equipment — configurations, tap material, grommet selection, cleaning sequence — see the [Bucket fermenter guide](/homebrewing/the-brewers-manual/equipment/bucket-fermenter). The sections below give you what you need to buy and set up correctly before Brew 1.
 
@@ -38,7 +38,7 @@ For most BrewClub batches, the **15-litre fermenter** is the most versatile choi
 
 ## The BrewClub recommended fermenters
 
-Two options are recommended for BrewClub, one for each common batch size. Both are from Mr-Malt, both use a PP bucket with a CO-PP tap and silicone washers. The tap material and seal are confirmed via Mr-Malt customer service Q&A.
+Two options are recommended for BrewClub, one for each common batch size. Both are from Mr-Malt and use a PP bucket with a CO-PP tap and silicone washers.
 
 ### 5.5 L — Mr-Malt complete fermenting pail (art. 8073KIT)
 
