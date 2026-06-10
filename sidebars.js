@@ -59,6 +59,11 @@ const sidebars = {
       label: 'Glossary',
       href: '/glossary',
     },
+    {
+      type: 'doc',
+      id: 'reference',
+      label: 'Reference Library',
+    },
   ],
 };
 
