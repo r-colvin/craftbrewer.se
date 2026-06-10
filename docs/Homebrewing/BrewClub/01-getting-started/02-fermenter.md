@@ -38,15 +38,17 @@ For most BrewClub batches, the **15-litre fermenter** is the most versatile choi
 
 ## What comes with the fermenter
 
-A complete fermenter setup requires:
+A complete fermenter setup has five components. The bucket and lid are the starting point; the rest need to be checked or upgraded before your first brew.
 
-**The bucket and lid** — bought together. Make sure the lid fits the bucket securely and seals all the way around. Press the entire rim to check — a lid that appears closed but isn't sealed is one of the most common beginner mistakes.
+**The bucket and lid** — bought together as a unit. Make sure the lid fits the bucket securely and seals all the way around. Press the entire rim after fitting — a lid that looks closed but isn't fully seated is one of the most common beginner mistakes.
 
-**A tap** — for transferring beer to packaging without a siphon. Most buckets come with a tap included or available as an add-on. The tap body is typically PP, which is fine. The seal inside the tap matters more — silicone is the right material and is standard on most homebrew taps. Confirm your tap includes a silicone seal when buying.
+**A tap** — for transferring beer to packaging without a siphon. Most PP buckets come with a tap included. The tap body is typically PP. The seal inside the tap is a flat washer — the material is often undeclared by the supplier but is likely LDPE, which is food-safe and brewing-compatible. It will work, but silicone is the better long-term seal. For BrewClub Brew 1, the included seal is acceptable.
 
-**An airlock** — allows CO₂ produced during fermentation to escape while preventing air and contamination from getting in. A 3-piece or S-type airlock both work. Fill the U-section with cooled boiled water or diluted sanitiser before fitting.
+**A grommet** — the rubber seal that holds the airlock in the lid. Most buckets in the Swedish market come with an NBR grommet. **Upgrade this to EPDM before your first brew** — a black EPDM grommet is inexpensive and widely available. See the [grommet section](#the-grommet--get-this-right) below.
 
-**A grommet** — the rubber seal that holds the airlock in the lid. This is the one component worth paying specific attention to.
+**An airlock** — most buckets include a bubbler (S-type) airlock. This works, but a **3-piece airlock is recommended** — it disassembles fully for cleaning, which the bubbler does not. If you're sourcing your own, a 3-piece PP airlock is the best option (dishwasher-safe, chemically robust); availability in Sweden is being confirmed — see the [airlock equipment page](/the-brewers-manual/equipment/airlocks) for the full picture. A 3-piece SAN airlock is the widely available alternative and is fully adequate.
+
+**A stick-on LCD thermometer** — optional but useful. Fits to the outside of the fermenter and gives a continuous temperature reading without opening the vessel. Helpful for monitoring fermentation temperature, particularly in the first 48 hours. Not required for Brew 1 if you have a probe thermometer for pitching.
 
 ---
 
