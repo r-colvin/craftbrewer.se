@@ -1,7 +1,6 @@
 ---
 sidebar_position: 16
 title: Stainless steel 304 and 316L
-draft: true
 ---
 
 # Stainless steel 304 and 316L
