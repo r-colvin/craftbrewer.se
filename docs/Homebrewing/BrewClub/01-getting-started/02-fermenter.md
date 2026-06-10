@@ -50,11 +50,9 @@ Mr-Malt [complete fermenting pail](https://mr-malt.se/utrustning/jasning/jaskarl
 
 **Before Brew 1 — recommended upgrades:**
 
-1. **Replace the grommet — recommended.** The kit ships with a white grommet ([art. 804303](https://mr-malt.se/utrustning/jasning/tillbehor/vit-gummibussning-till-jasror)). White grommets are not a reliable indicator of any specific rubber material — the colour is consistent with silicone, NR, or SBR, none of which can be assumed from appearance alone. The material is not declared by Mr-Malt. Replace with a confirmed black EPDM grommet (KegLand art. 102791 at Ölbryggning, 7 SEK) before your first brew. EPDM is chemically compatible with all sanitisers and cleaning agents used in BrewClub. Check that the 5.5L lid hole is 15mm before ordering.
+1. **Upgrade the grommet to EPDM.** The included grommet is of undeclared material. Replacing it with a black EPDM grommet (KegLand art. 102791 at Ölbryggning, 7 SEK) is a straightforward step up in material quality and chemical compatibility. Check that the 5.5L lid hole is 15mm before ordering.
 
-2. **Upgrade the airlock to a PP 3-piece.** The supplied Enolandia compact airlock is GPPS — food-safe and adequate, but with one important constraint: **fill it with water only**, not ABNS sanitiser or DES. GPPS is vulnerable to repeated ABNS contact under the evaporation/top-up pattern that occurs during a long fermentation. A PP 3-piece airlock has no such restriction, is fully dishwasher safe, and is easier to clean. Note that Ölbryggning's KegLand-branded 3-piece airlock (art. 100074) cannot be confirmed as PP — their customer service confirmed the material is undeclared. To source a confirmed PP airlock, contact KegLand EU directly.
-
-If you keep the supplied compact GPPS airlock: fill with cooled boiled water only, and replace it at the first sign of crazing or haziness. See the [PS/SAN materials page](/homebrewing/the-brewers-manual/materials-register/ps-san) for the full analysis.
+2. **Upgrade the airlock to a PP 3-piece.** The supplied Enolandia compact airlock is GPPS — food-safe and adequate, but with one important constraint: **fill it with water only**, not ABNS sanitiser or DES. GPPS is vulnerable to repeated ABNS contact under the evaporation/top-up pattern that could occur during a long fermentation. A PP 3-piece airlock has no such restriction, is fully dishwasher safe, and is easier to clean. See the [PS/SAN materials page](/homebrewing/the-brewers-manual/materials-register/ps-san) for the full analysis.
 
 ---
 
