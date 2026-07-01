@@ -6,6 +6,15 @@
       "definition": "Relating to the sensory properties of a food or drink — taste, smell, appearance, and texture. EU food contact regulations require that materials do not cause unacceptable organoleptic changes to food."
     },
     {
+      "term": "Pitch",
+      "aliases": [
+        "pitching",
+        "pitched",
+        "pitches"
+      ],
+      "definition": "To add yeast to wort to begin fermentation. Pitching rate — the quantity of yeast added relative to the volume and strength of the wort — affects fermentation speed, yeast health, and flavour. For BrewClub brews, a single packet of dried yeast is the correct pitch rate for a standard kit batch."
+    },
+    {
       "term": "Wort",
       "definition": "Liquid extracted from malted grain during mashing and boiling, before fermentation. The starting point for beer."
     },
@@ -19,6 +28,41 @@
       "term": "NEIPA",
       "abbreviation": "New England India Pale Ale",
       "definition": "A hazy, hop-forward IPA style characterised by high dry hop additions, soft bitterness, and haze from hop oils and proteins. Among the most oxidation-sensitive styles in common homebrewing — oxygen exposure causes rapid flavour degradation. PET bottle conditioning imposes a meaningful shelf-life limitation for NEIPA; Oxebar barrier PET or stainless kegging is strongly preferred for extended storage."
+    },
+    {
+      "term": "Steeping",
+      "aliases": [
+        "steep",
+        "steeped",
+        "steeps"
+      ],
+      "definition": "Soaking crushed grain in hot water to extract colour, flavour, and unfermentable sugars without converting starches. Used in extract brewing with specialty malts. Unlike mashing, steeping does not require precise temperature control or enzymatic conversion — it is the simpler of the two grain processes."
+    },
+    {
+      "term": "Sparging",
+      "aliases": [
+        "sparge",
+        "sparged",
+        "sparges"
+      ],
+      "definition": "Rinsing the grain bed with hot water after mashing to wash out remaining fermentable sugars. In all-grain brewing, sparging recovers sugars that would otherwise be left behind in the grain. Common methods include batch sparging (adding water in discrete additions) and fly sparging (continuous slow rinsing). Not required for extract or partial mash brewing."
+    },
+    {
+      "term": "Boiling",
+      "aliases": [
+        "boil",
+        "boiled",
+        "boils"
+      ],
+      "definition": "Heating wort to a rolling boil (typically 60–90 minutes) to sterilise it, drive off unwanted compounds (including DMS precursors), concentrate sugars, and isomerise hop alpha acids into bitterness. Boiling is a hot-side process — it does not occur in Brew 1, which uses a pre-boiled kit."
+    },
+    {
+      "term": "Hopping",
+      "aliases": [
+        "hop addition",
+        "hop additions"
+      ],
+      "definition": "Adding hops to wort or beer at various stages of the brewing process. Hot-side hop additions during the boil contribute bitterness and some flavour. Cold-side additions (dry hopping) after fermentation contribute aroma and flavour without bitterness. The timing, quantity, and variety of hop additions are among the most influential variables in beer flavour."
     },
     {
       "term": "Mashing",
@@ -241,6 +285,59 @@
         "hydrolytic"
       ],
       "definition": "The chemical reaction in which a molecule is split by water, typically at a bond that connects two parts of the molecule. In food contact materials, hydrolysis is the primary mechanism by which acid or alkaline cleaning solutions attack susceptible polymers — particularly those with ester linkages (PET, Tritan, PC) or ether linkages (POM). Polymers with all-carbon backbones (PP, HDPE, PTFE) have no hydrolysable bonds and are inherently resistant to aqueous chemical attack."
+    },
+    {
+      "term": "Krausen",
+      "definition": "The thick, rocky foam layer that forms on top of fermenting wort during active fermentation. Produced by CO\u2082 rising through the liquid and carrying proteins, hop compounds, and yeast cells to the surface. Krausen typically peaks within the first 24\u201372 hours of fermentation and then falls back into the beer as activity slows. It is normal and harmless. The fermenter needs enough headspace to accommodate it \u2014 typically at least 20% of the batch volume \u2014 or it can push out through the airlock."
+    },
+    {
+      "term": "Airlock",
+      "aliases": [
+        "airlocks"
+      ],
+      "definition": "A one-way valve fitted to the fermenter lid that allows CO\u2082 produced during fermentation to escape while preventing air and contamination from entering. Filled with sanitiser solution or cooled boiled water. The rate of bubbling gives a rough indication of fermentation activity, but the absence of bubbling does not confirm fermentation is complete — gravity measurement is the reliable indicator. 3-piece and S-type designs are both common and functionally equivalent for homebrew use."
+    },
+    {
+      "term": "Original Gravity",
+      "abbreviation": "OG",
+      "aliases": [
+        "OG"
+      ],
+      "definition": "A measure of the sugar content of wort before fermentation begins. Yeast converts these sugars to alcohol and CO\u2082 during fermentation, so original gravity is the starting point for calculating the final alcohol content of the beer. Measured with a hydrometer or refractometer. Higher OG means more fermentable sugar available and therefore higher potential ABV."
+    },
+    {
+      "term": "ABV",
+      "abbreviation": "Alcohol By Volume",
+      "definition": "The percentage of alcohol in a finished beer, expressed as a volume fraction. Calculated from the difference between original gravity (OG) and final gravity (FG) after fermentation is complete: ABV = (OG \u2212 FG) \u00d7 131.25. A typical homebrew ale runs 4\u20136% ABV; strong beers can exceed 10%."
+    },
+    {
+      "term": "Trub",
+      "definition": "The layer of sediment that collects at the bottom of the fermenter during and after fermentation. Composed of dead yeast cells, hop particles, and proteins precipitated during the boil (hot break) or cooling (cold break). Beers transferred off the trub are cleaner and clearer, but a small volume loss is inevitable — typically 0.5 to 1 litre per batch depending on fermenter geometry and dry hop additions."
+    },
+    {
+      "term": "Transfer",
+      "aliases": [
+        "transferring",
+        "transferred"
+      ],
+      "definition": "Moving beer from one vessel to another — most commonly from the fermenter to kegs or bottles for packaging. How the transfer is done affects oxygen pickup and contamination risk. Options range from simple gravity transfer via a tap, through hose-assisted filling, to fully closed CO\u2082-assisted transfer that minimises oxygen contact throughout."
+    },
+    {
+      "term": "Fresh Wort Kit",
+      "aliases": [
+        "FWK",
+        "FWKs",
+        "fresh wort kits"
+      ],
+      "definition": "Ready-made wort produced by a professional brewery and packaged for home fermentation. Supplied concentrated — typically at 15 litres — with the option to dilute up to 20 litres. The brewer handles everything from fermentation onwards: sanitising, pitching yeast, dry hopping, and packaging. Removes the mashing and boiling steps entirely. Currently only available in 15–20 litre minimum volumes, making small-batch brewing a challenge without splitting."
+    },
+    {
+      "term": "All-grain brewing",
+      "aliases": [
+        "all-grain",
+        "all grain"
+      ],
+      "definition": "A brewing method in which the brewer converts raw malted grain into fermentable wort entirely from scratch — mashing the grain to convert starches to sugars, sparging to rinse the grain bed, and boiling the resulting wort with hops. Gives complete control over the recipe but requires the most equipment and time. The fourth and final stage in the BrewClub brew sequence."
     },
     {
       "term": "Molar",
